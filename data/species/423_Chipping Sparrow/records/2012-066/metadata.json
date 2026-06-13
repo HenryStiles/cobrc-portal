@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-066",
+  "year": "2011",
+  "location": "Private Residence, Loveland",
+  "county": "Larimer",
+  "observers": "Sean Walters",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Faulkner, Doug. April 2013. The 66th Report of the Colorado Bird Records Committee: Colorado Birds 47(2):86-93",
+  "documentations": [
+    {
+      "doc_id": "2013",
+      "reporter": "Sean Walters",
+      "date": "12/1/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2013"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:19.748311"
+}

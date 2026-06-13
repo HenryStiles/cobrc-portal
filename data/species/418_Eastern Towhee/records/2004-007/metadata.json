@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-007",
+  "year": "2004",
+  "location": "Estes Park",
+  "county": "Larimer",
+  "observers": "Judith Wright, Barb Anderson, Scott Rashid",
+  "comments": "",
+  "citations": "Semo, L.  The 44th Report of the CBRC. Colorado Birds 41(4), 241-258.",
+  "documentations": [
+    {
+      "doc_id": "14327",
+      "reporter": "Judith Wright, Barb Anderson, Scott Rashid",
+      "date": "1/24/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14327"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:52.590594"
+}

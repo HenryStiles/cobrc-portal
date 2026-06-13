@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-156",
+  "year": "1999",
+  "location": "Canon City Riverwalk",
+  "county": "Fremont",
+  "observers": "Peter Gaede",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "14323",
+      "reporter": "Peter Gaede",
+      "date": "12/19/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14323"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:48.830140"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-74-177",
+  "year": "1965",
+  "location": "Golden",
+  "county": "Jefferson",
+  "observers": "George Shier",
+  "comments": "",
+  "citations": "Reddall, J. 1975. Reports from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "13262",
+      "reporter": "George Shier",
+      "date": "5/16/1965",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13262"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:24.224580"
+}

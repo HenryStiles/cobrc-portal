@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-013",
+  "year": "2010",
+  "location": "Castlewood Canyon State Park",
+  "county": "Douglas",
+  "observers": "Hugh Kingery",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "5209",
+      "reporter": "Hugh Kingery",
+      "date": "12/3/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5209"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:17.237141"
+}

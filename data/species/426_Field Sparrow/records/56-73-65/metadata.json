@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-73-65",
+  "year": "1969",
+  "location": "Huerfano Reservoir area",
+  "county": "Pueblo",
+  "observers": "Van Truan",
+  "comments": "",
+  "citations": "Reddall, J.  1974a Report of the CBRC. CFO Journal 19:11-41.",
+  "documentations": [
+    {
+      "doc_id": "13393",
+      "reporter": "Van Truan",
+      "date": "3/15/1969",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13393"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:18.418244"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-81-15",
+  "year": "1981",
+  "location": "High Line Canal (Douglas County portion)",
+  "county": "Douglas",
+  "observers": "Daniel Butler",
+  "comments": "",
+  "citations": "Chase, C.  1980-1981 Report of the CBRC. CFO Journal 16(3), 46-52.",
+  "documentations": [
+    {
+      "doc_id": "13396",
+      "reporter": "Daniel Butler",
+      "date": "2/28/1981",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13396"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:23.319392"
+}

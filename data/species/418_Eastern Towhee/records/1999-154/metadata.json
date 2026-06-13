@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-154",
+  "year": "1999",
+  "location": "Castlewood Canyon State Park",
+  "county": "Douglas",
+  "observers": "Urling & Hugh Kingery",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "14321",
+      "reporter": "Urling & Hugh Kingery",
+      "date": "10/16/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14321"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:46.556370"
+}

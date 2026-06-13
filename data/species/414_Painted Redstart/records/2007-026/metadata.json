@@ -1,0 +1,68 @@
+{
+  "acc_no": "2007-026",
+  "year": "2007",
+  "location": "Canon City Riverwalk",
+  "county": "Fremont",
+  "observers": "Andrew Spencer, Bill Maynard, Brandon Percival, Doug Faulkner, Nathan Pieplow, Peter Gent, Rachel Hopper, Tony Leukering",
+  "comments": "Age: adult;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "704",
+      "reporter": "Nathan Pieplow",
+      "date": "4/25/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=704"
+    },
+    {
+      "doc_id": "705",
+      "reporter": "Doug Faulkner",
+      "date": "4/25/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=705"
+    },
+    {
+      "doc_id": "706",
+      "reporter": "Brandon K Percival",
+      "date": "4/25/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=706"
+    },
+    {
+      "doc_id": "709",
+      "reporter": "Bill Maynard",
+      "date": "4/25/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=709"
+    },
+    {
+      "doc_id": "711",
+      "reporter": "Peter Gent",
+      "date": "4/25/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=711"
+    },
+    {
+      "doc_id": "712",
+      "reporter": "Andrew Spencer",
+      "date": "4/25/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=712"
+    },
+    {
+      "doc_id": "721",
+      "reporter": "Rachel Hopper",
+      "date": "4/25/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=721"
+    },
+    {
+      "doc_id": "903",
+      "reporter": "Tony Leukering",
+      "date": "4/25/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=903"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:31.533262"
+}

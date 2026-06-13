@@ -1,0 +1,26 @@
+{
+  "acc_no": "2019-008",
+  "year": "2019",
+  "location": "Eads",
+  "county": "Kiowa",
+  "observers": "Brandon K. Percival, Tony Leukering",
+  "comments": "",
+  "citations": "Colorado Birds 56(3), 213-222, 2022",
+  "documentations": [
+    {
+      "doc_id": "11802",
+      "reporter": "Brandon K. Percival",
+      "date": "5/2/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11802"
+    },
+    {
+      "doc_id": "11799",
+      "reporter": "Tony Leukering",
+      "date": "5/2/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11799"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:50.533588"
+}

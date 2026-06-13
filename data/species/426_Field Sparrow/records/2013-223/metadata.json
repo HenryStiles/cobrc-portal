@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-223",
+  "year": "2013",
+  "location": "Chico Basin Ranch, Headquarters and Rose Pond",
+  "county": "Pueblo",
+  "observers": "Brandon Percival",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2590",
+      "reporter": "Brandon Percival",
+      "date": "9/28/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2590"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:42.362218"
+}

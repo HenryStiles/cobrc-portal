@@ -1,0 +1,33 @@
+{
+  "acc_no": "2005-145",
+  "year": "2005",
+  "location": "South Republican SWA",
+  "county": "Yuma",
+  "observers": "Cole Wild, Andrew Spencer, Bill Schmoker",
+  "comments": "",
+  "citations": "Semo, L.  The 44th Report of the CBRC. Colorado Birds 41(4), 241-258.",
+  "documentations": [
+    {
+      "doc_id": "357",
+      "reporter": "C W",
+      "date": "12/22/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=357"
+    },
+    {
+      "doc_id": "256",
+      "reporter": "Andrew Spencer",
+      "date": "12/23/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=256"
+    },
+    {
+      "doc_id": "264",
+      "reporter": "Bill Schmoker",
+      "date": "12/23/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=264"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:53.672296"
+}

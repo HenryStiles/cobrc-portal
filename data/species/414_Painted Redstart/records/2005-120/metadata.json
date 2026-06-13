@@ -1,0 +1,33 @@
+{
+  "acc_no": "2005-120",
+  "year": "2005",
+  "location": "Rifle Mountain Park",
+  "county": "Garfield",
+  "observers": "Fred Fisher, Andrew Spencer, Glenn Walbek",
+  "comments": "Age: adult;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "220",
+      "reporter": "Fred Fisher",
+      "date": "11/16/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=220"
+    },
+    {
+      "doc_id": "226",
+      "reporter": "Glenn Walbek",
+      "date": "11/18/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=226"
+    },
+    {
+      "doc_id": "227",
+      "reporter": "Andrew Spencer",
+      "date": "11/18/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=227"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:27.249251"
+}

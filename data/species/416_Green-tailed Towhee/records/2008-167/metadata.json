@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-167",
+  "year": "2008",
+  "location": "My back yard on West Warren Ave in Harvey Park, SW Denver, roughly the vicinity of Sheridan and Evans.",
+  "county": "Denver",
+  "observers": "Dave Cameron",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1227",
+      "reporter": "Dave Cameron",
+      "date": "12/7/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1227"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:57.940446"
+}

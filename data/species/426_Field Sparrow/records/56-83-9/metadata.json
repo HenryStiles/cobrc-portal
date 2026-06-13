@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-83-9",
+  "year": "1982",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Mark Holmgren",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "13398",
+      "reporter": "Mark Holmgren",
+      "date": "12/19/1982",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13398"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:24.537745"
+}

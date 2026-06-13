@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-044",
+  "year": "1936",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Kenny Maehler",
+  "comments": "Age: adult; Sex: m;",
+  "citations": "Semo, L. and Faulkner, D. The 57th Report of the CBRC. Colorado Birds 45(1), 30-41.",
+  "documentations": [
+    {
+      "doc_id": "1154",
+      "reporter": "Andrew Spencer",
+      "date": "5/14/1936",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1154"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:42.021796"
+}

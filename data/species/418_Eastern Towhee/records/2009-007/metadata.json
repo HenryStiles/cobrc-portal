@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-007",
+  "year": "2009",
+  "location": "Fort Lyon Area",
+  "county": "Bent",
+  "observers": "Cole Wild",
+  "comments": "Age: adult; Plumage: basic; Sex: f;",
+  "citations": "Semo, L. and Faulkner, D.  The 53rd Report of the CBRC. Colorado Birds 44(1), 31-42.",
+  "documentations": [
+    {
+      "doc_id": "1199",
+      "reporter": "C W",
+      "date": "2/6/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1199"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:11.956938"
+}

@@ -1,0 +1,54 @@
+{
+  "acc_no": "2006-002",
+  "year": "2006",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Tony Leukering. Brandon Percival, Doug Faulkner, Andrew Spencer, Cole Wild, Nick Komar",
+  "comments": "Age: imm.; Plumage: basic; Sex: m;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "283",
+      "reporter": "Tony Leukering",
+      "date": "1/6/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=283"
+    },
+    {
+      "doc_id": "274",
+      "reporter": "Brandon K Percival",
+      "date": "1/14/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=274"
+    },
+    {
+      "doc_id": "351",
+      "reporter": "Doug Faulkner",
+      "date": "1/28/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=351"
+    },
+    {
+      "doc_id": "349",
+      "reporter": "Andrew Spencer",
+      "date": "1/29/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=349"
+    },
+    {
+      "doc_id": "353",
+      "reporter": "Nicholas Komar",
+      "date": "2/3/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=353"
+    },
+    {
+      "doc_id": "360",
+      "reporter": "C W",
+      "date": "2/3/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=360"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:58.133083"
+}

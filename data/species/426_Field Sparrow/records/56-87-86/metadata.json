@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-87-86",
+  "year": "1986",
+  "location": "Glenwood Springs",
+  "county": "Garfield",
+  "observers": "Vic Zerbi, Mark Janos",
+  "comments": "",
+  "citations": "Bunn, R.  1987 Report of the CBRC, Part 2. CFO Journal 23(4), 114-120.",
+  "documentations": [
+    {
+      "doc_id": "13399",
+      "reporter": "Vic Zerbi, Mark Janos",
+      "date": "12/27/1986",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13399"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:25.840761"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-73-15",
+  "year": "1972",
+  "location": "Campo",
+  "county": "Baca",
+  "observers": "Hugh Kingery",
+  "comments": "",
+  "citations": "Reddall, J.  1974a Report of the CBRC. CFO Journal 19:11-41.",
+  "documentations": [
+    {
+      "doc_id": "13391",
+      "reporter": "Hugh Kingery",
+      "date": "5/7/1972",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13391"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:19.426918"
+}

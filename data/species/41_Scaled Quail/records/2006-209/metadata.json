@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-209",
+  "year": "2006",
+  "location": "2177 County Road 260, Westcliffe, CO County Road 260 2.177 miles from Highway 96 38.1764 N, 105.3567 W",
+  "county": "Custer",
+  "observers": "Steve Linderer",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "586",
+      "reporter": "Steve Linderer",
+      "date": "11/1/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=586"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:41.543077"
+}

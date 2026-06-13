@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-78-49",
+  "year": "1977",
+  "location": "Conifer area",
+  "county": "Jefferson",
+  "observers": "Margaret Kunkle, Betsy Webb",
+  "comments": "",
+  "citations": "Chase, C.  1977-1980 Pt.2 Report of the CBRC. CFO Journal 15(2), 54-59.",
+  "documentations": [
+    {
+      "doc_id": "14328",
+      "reporter": "Margaret Kunkle, Betsy Webb",
+      "date": "12/19/1977",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14328"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:43.812596"
+}

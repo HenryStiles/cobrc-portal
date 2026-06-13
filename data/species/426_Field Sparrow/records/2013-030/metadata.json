@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-030",
+  "year": "2012",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "John Drummond",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2281",
+      "reporter": "John Drummond",
+      "date": "10/5/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2281"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:41.842986"
+}

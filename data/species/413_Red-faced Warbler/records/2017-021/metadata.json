@@ -1,0 +1,19 @@
+{
+  "acc_no": "2017-021",
+  "year": "2017",
+  "location": "Dolores area",
+  "county": "Montezuma",
+  "observers": "chris vest",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "8562",
+      "reporter": "chris vest",
+      "date": "5/4/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8562"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:15.611148"
+}

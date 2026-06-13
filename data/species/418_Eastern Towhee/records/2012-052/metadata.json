@@ -1,0 +1,26 @@
+{
+  "acc_no": "2012-052",
+  "year": "2012",
+  "location": "Chico Basin Ranch",
+  "county": "Pueblo",
+  "observers": "Brandon Percival, Bill Maynard",
+  "comments": "Age: adult; Sex: m;",
+  "citations": "Faulkner, Doug. April 2013. The 66th Report of the Colorado Bird Records Committee: Colorado Birds 47(2):86-93",
+  "documentations": [
+    {
+      "doc_id": "1986",
+      "reporter": "Brandon K Percival",
+      "date": "5/3/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1986"
+    },
+    {
+      "doc_id": "1988",
+      "reporter": "Bill Maynard",
+      "date": "5/3/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1988"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:26.536627"
+}

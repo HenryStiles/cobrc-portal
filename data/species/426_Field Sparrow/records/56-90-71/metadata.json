@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-90-71",
+  "year": "1989",
+  "location": "Grand Lake Area",
+  "county": "Grand",
+  "observers": "David Jasper",
+  "comments": "",
+  "citations": "Nelson, D.  1990 Report of the CBRC. CFO Journal 26(3), 91-97.",
+  "documentations": [
+    {
+      "doc_id": "13403",
+      "reporter": "David Jasper",
+      "date": "11/7/1989",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13403"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:30.305345"
+}

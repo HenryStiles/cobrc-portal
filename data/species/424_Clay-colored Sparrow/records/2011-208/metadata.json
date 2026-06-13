@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-208",
+  "year": "2011",
+  "location": "Lake Estes",
+  "county": "Larimer",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1780",
+      "reporter": "Steven Mlodinow",
+      "date": "5/9/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1780"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:07.141129"
+}

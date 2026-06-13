@@ -1,0 +1,19 @@
+{
+  "acc_no": "2023-006",
+  "year": "2023",
+  "location": "Private residence",
+  "county": "Chaffee",
+  "observers": "Sally Waterhouse",
+  "comments": "",
+  "citations": "Gent, P.  85th Report of the CBRC. Colorado Birds 58(1), 7-14.",
+  "documentations": [
+    {
+      "doc_id": "13288",
+      "reporter": "Sally Waterhouse",
+      "date": "4/4/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13288"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:09.816194"
+}

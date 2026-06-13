@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-95-96",
+  "year": "1995",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Bill Miller",
+  "comments": "",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "14319",
+      "reporter": "Bill Miller",
+      "date": "10/31/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14319"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:44.640653"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-068",
+  "year": "2014",
+  "location": "Julesburg",
+  "county": "Sedgwick",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "4015",
+      "reporter": "Steven Mlodinow",
+      "date": "5/24/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4015"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:46.371014"
+}

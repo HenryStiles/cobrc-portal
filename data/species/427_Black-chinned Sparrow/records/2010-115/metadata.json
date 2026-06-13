@@ -1,0 +1,26 @@
+{
+  "acc_no": "2010-115",
+  "year": "2010",
+  "location": "private property",
+  "county": "La Plata",
+  "observers": "Susan Allerton, James Beatty",
+  "comments": "",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1511",
+      "reporter": "Susan Allerton",
+      "date": "6/28/2010",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1511"
+    },
+    {
+      "doc_id": "1544",
+      "reporter": "James Beatty",
+      "date": "6/28/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1544"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:41.142930"
+}

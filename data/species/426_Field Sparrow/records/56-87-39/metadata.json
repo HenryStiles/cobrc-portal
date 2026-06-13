@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-87-39",
+  "year": "1987",
+  "location": "Sweitzer Lake State Park",
+  "county": "Delta",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Bunn, R.  1987 Report of the CBRC pt.1. CFO Journal 23(1), 13-18.",
+  "documentations": [
+    {
+      "doc_id": "13400",
+      "reporter": "Mark Janos",
+      "date": "11/13/1987",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13400"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:27.763144"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-041",
+  "year": "2015",
+  "location": "Black Canyon of the Gunnison National Park",
+  "county": "Montrose",
+  "observers": "Matthew DeSaix",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6247",
+      "reporter": "Matthew DeSaix",
+      "date": "4/15/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6247"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:49.645804"
+}

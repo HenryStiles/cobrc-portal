@@ -1,0 +1,68 @@
+{
+  "acc_no": "2011-027",
+  "year": "2011",
+  "location": "Colorado National Monument",
+  "county": "Mesa",
+  "observers": "John Drummond, Peter Gent, Bill Kaempfer, Bill Maynard, Ric Olson, Brandon Percival, Nathan Pieplow, Bill Schmoker",
+  "comments": "Age: adult;",
+  "citations": "Faulkner, D. The 63rd Report of the CBRC. Colorado Birds 46(3), 188-197.",
+  "documentations": [
+    {
+      "doc_id": "1628",
+      "reporter": "Bill Maynard",
+      "date": "4/13/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1628"
+    },
+    {
+      "doc_id": "1631",
+      "reporter": "John Drummond",
+      "date": "4/13/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1631"
+    },
+    {
+      "doc_id": "1633",
+      "reporter": "Peter Gent",
+      "date": "4/15/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1633"
+    },
+    {
+      "doc_id": "1644",
+      "reporter": "Ric Olson",
+      "date": "4/16/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1644"
+    },
+    {
+      "doc_id": "1632",
+      "reporter": "Nathan Pieplow",
+      "date": "4/17/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1632"
+    },
+    {
+      "doc_id": "1826",
+      "reporter": "Brandon K Percival",
+      "date": "4/22/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1826"
+    },
+    {
+      "doc_id": "1940",
+      "reporter": "Bill Schmoker",
+      "date": "5/20/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1940"
+    },
+    {
+      "doc_id": "1680",
+      "reporter": "Bill Kaempfer",
+      "date": "5/22/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1680"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:44.774672"
+}

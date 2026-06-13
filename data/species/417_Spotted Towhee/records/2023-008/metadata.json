@@ -1,0 +1,19 @@
+{
+  "acc_no": "2023-008",
+  "year": "2023",
+  "location": "Lakewood",
+  "county": "Jefferson",
+  "observers": "Wayne Wagner",
+  "comments": "",
+  "citations": "Gent, P.  85th Report of the CBRC. Colorado Birds 58(1), 7-14.",
+  "documentations": [
+    {
+      "doc_id": "13331",
+      "reporter": "Wayne Wagner",
+      "date": "6/2/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13331"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:58.192052"
+}

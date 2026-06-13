@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-090",
+  "year": "2005",
+  "location": "Doudy Draw and the Mesa Trail",
+  "county": "Boulder",
+  "observers": "Maggie Boswell",
+  "comments": "",
+  "citations": "Semo, L.  The 44th Report of the CBRC. Colorado Birds 41(4), 241-258.",
+  "documentations": [
+    {
+      "doc_id": "175",
+      "reporter": "Maggie Boswell",
+      "date": "9/13/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=175"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:34.905214"
+}

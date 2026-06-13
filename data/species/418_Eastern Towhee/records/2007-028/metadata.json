@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-028",
+  "year": "2007",
+  "location": "Chico Basin Ranch",
+  "county": "Pueblo",
+  "observers": "Bill Maynard",
+  "comments": "Age: adult; Plumage: alternate; Sex: f;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "708",
+      "reporter": "Bill Maynard",
+      "date": "4/27/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=708"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:10.763973"
+}

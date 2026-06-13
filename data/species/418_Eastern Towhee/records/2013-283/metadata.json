@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-283",
+  "year": "2013",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Rob Raker",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2789",
+      "reporter": "Rob Raker",
+      "date": "1/4/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2789"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:40.498384"
+}

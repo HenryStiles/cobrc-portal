@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-044",
+  "year": "2008",
+  "location": "Estes Park",
+  "county": "Larimer",
+  "observers": "Rachel Hopper",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "Semo, L. and Faulkner, D.  The 52nd Report of the CBRC. Colorado Birds 43(4), 268-281.",
+  "documentations": [
+    {
+      "doc_id": "983",
+      "reporter": "Rachel Hopper",
+      "date": "5/2/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=983"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:28.977829"
+}

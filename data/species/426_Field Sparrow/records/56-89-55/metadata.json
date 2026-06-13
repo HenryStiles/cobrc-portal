@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-89-55",
+  "year": "1988",
+  "location": "South Platte Greenway Gravel Pits (south section)",
+  "county": "Adams",
+  "observers": "Duane Nelson, David Martin",
+  "comments": "",
+  "citations": "Nelson, D.  1989 Report of the CBRC. CFO Journal 25(4), 119-125.",
+  "documentations": [
+    {
+      "doc_id": "13402",
+      "reporter": "Duane Nelson, David Martin",
+      "date": "1/2/1988",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13402"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:28.957046"
+}

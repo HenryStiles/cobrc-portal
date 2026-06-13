@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-025",
+  "year": "2015",
+  "location": "Not Specified",
+  "county": "Mesa",
+  "observers": "Ron Lambeth",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "5223",
+      "reporter": "Ron Lambeth",
+      "date": "1/1/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5223"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:21.366218"
+}

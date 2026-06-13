@@ -1,0 +1,26 @@
+{
+  "acc_no": "2023-018",
+  "year": "2023",
+  "location": "Burchfield State Wildlife Area",
+  "county": "Baca",
+  "observers": "Glenn Walbek, David Leatherman",
+  "comments": "Third state record.",
+  "citations": "Gent, P.  85th Report of the CBRC. Colorado Birds 58(1), 7-14.",
+  "documentations": [
+    {
+      "doc_id": "13294",
+      "reporter": "Glenn Walbek",
+      "date": "5/2/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13294"
+    },
+    {
+      "doc_id": "13303",
+      "reporter": "David Leatherman",
+      "date": "5/2/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13303"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:17.134861"
+}

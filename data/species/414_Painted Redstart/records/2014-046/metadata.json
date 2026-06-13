@@ -1,0 +1,61 @@
+{
+  "acc_no": "2014-046",
+  "year": "2014",
+  "location": "Crow Valley Campground",
+  "county": "Weld",
+  "observers": "Cathy Sheeter, Kris Petersen, Scott Manwaring, Sue Riffe, Mark Minner-Lee, Steven Mlodinow, Rudi Nuissl",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "3966",
+      "reporter": "Cathy Sheeter",
+      "date": "5/1/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3966"
+    },
+    {
+      "doc_id": "5103",
+      "reporter": "Kris Petersen",
+      "date": "5/1/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5103"
+    },
+    {
+      "doc_id": "3946",
+      "reporter": "Scott Manwaring",
+      "date": "5/1/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3946"
+    },
+    {
+      "doc_id": "3948",
+      "reporter": "Sue Riffe",
+      "date": "5/2/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3948"
+    },
+    {
+      "doc_id": "3947",
+      "reporter": "Mark Minner-Lee",
+      "date": "5/2/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3947"
+    },
+    {
+      "doc_id": "4026",
+      "reporter": "Steven Mlodinow",
+      "date": "5/3/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4026"
+    },
+    {
+      "doc_id": "4038",
+      "reporter": "Rudi Nuissl",
+      "date": "5/3/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4038"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:40.456508"
+}

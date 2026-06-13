@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-062",
+  "year": "2015",
+  "location": "Fox Ranch",
+  "county": "Yuma",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6272",
+      "reporter": "Steven Mlodinow",
+      "date": "5/21/2015",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6272"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:53.403577"
+}

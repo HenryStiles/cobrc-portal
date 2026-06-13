@@ -1,0 +1,19 @@
+{
+  "acc_no": "2021-034",
+  "year": "2021",
+  "location": "Box Canyon Falls Park",
+  "county": "Ouray",
+  "observers": "Cliff Utech",
+  "comments": "",
+  "citations": "The 83rd Report of the Colorado Bird Records Committee,  Peter R. Gent, Colorado Birds, 57(2), 61-70, 2023.",
+  "documentations": [
+    {
+      "doc_id": "11962",
+      "reporter": "Cliff Utech",
+      "date": "4/29/2021",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11962"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:53.565308"
+}

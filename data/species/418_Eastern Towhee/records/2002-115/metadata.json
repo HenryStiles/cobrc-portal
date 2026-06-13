@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-115",
+  "year": "2002",
+  "location": "John Martin Reservoir State Park",
+  "county": "Bent",
+  "observers": "Glenn Walbek, Doug Faulkner",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  The 37th Report of the CBRC. Colorado Birds 38(2), 73-88.",
+  "documentations": [
+    {
+      "doc_id": "14326",
+      "reporter": "Glenn Walbek, Doug Faulkner",
+      "date": "1/3/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14326"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:51.453230"
+}
