@@ -1,0 +1,33 @@
+{
+  "acc_no": "2023-061",
+  "year": "2023",
+  "location": "Colorado Springs",
+  "county": "El Paso",
+  "observers": "David Resch, Robert Raker, Aaron Driscoll",
+  "comments": "Bird last seen by David Resch on 2 April 2024.",
+  "citations": "Gent, P.  The 86th Report of the CBRC.  Colorado Birds 58(3), 125-132.",
+  "documentations": [
+    {
+      "doc_id": "13658",
+      "reporter": "David Resch",
+      "date": "12/27/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13658"
+    },
+    {
+      "doc_id": "13659",
+      "reporter": "Robert Raker",
+      "date": "1/5/2024",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13659"
+    },
+    {
+      "doc_id": "13660",
+      "reporter": "Aaron Driscoll",
+      "date": "1/9/2024",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13660"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:41.552054"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-91-83",
+  "year": "1991",
+  "location": "Colorado City and Rye",
+  "county": "Pueblo",
+  "observers": "David Silverman",
+  "comments": "Old Acc. No. 56-91-83 1 adult male.",
+  "citations": "Nelson, D.  1991 Report of the CBRC. CFO Journal 27(2), 49-56.",
+  "documentations": [
+    {
+      "doc_id": "3995",
+      "reporter": "",
+      "date": "3/3/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3995"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:49.722931"
+}

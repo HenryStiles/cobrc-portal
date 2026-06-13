@@ -1,0 +1,19 @@
+{
+  "acc_no": "2017-015",
+  "year": "2017",
+  "location": "Lamar",
+  "county": "Prowers",
+  "observers": "Jill Smith",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "8557",
+      "reporter": "Jill Smith",
+      "date": "4/6/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8557"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:24.014702"
+}

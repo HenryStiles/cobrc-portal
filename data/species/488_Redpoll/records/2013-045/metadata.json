@@ -1,0 +1,26 @@
+{
+  "acc_no": "2013-045",
+  "year": "2013",
+  "location": "Feeders in Kremmling",
+  "county": "Grand",
+  "observers": "Steven Mlodinow, Tony Leukering",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2305",
+      "reporter": "Steven Mlodinow",
+      "date": "1/27/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2305"
+    },
+    {
+      "doc_id": "2313",
+      "reporter": "Tony Leukering",
+      "date": "1/27/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2313"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:36.752652"
+}

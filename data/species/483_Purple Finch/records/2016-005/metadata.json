@@ -1,0 +1,33 @@
+{
+  "acc_no": "2016-005",
+  "year": "2016",
+  "location": "Fountain Creek Regional Park",
+  "county": "El Paso",
+  "observers": "Ted Floyd, Robb Hinds, Bill Maynard",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6441",
+      "reporter": "Ted Floyd",
+      "date": "12/14/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6441"
+    },
+    {
+      "doc_id": "6388",
+      "reporter": "Robb Hinds",
+      "date": "1/10/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6388"
+    },
+    {
+      "doc_id": "6389",
+      "reporter": "Bill Maynard",
+      "date": "1/16/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6389"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:05.943121"
+}

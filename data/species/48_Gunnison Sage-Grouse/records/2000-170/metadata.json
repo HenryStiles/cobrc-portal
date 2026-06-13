@@ -1,0 +1,19 @@
+{
+  "acc_no": "2000-170",
+  "year": "2000",
+  "location": "Gunnison Sage-Grouse lek",
+  "county": "Gunnison",
+  "observers": "Peter  Gent",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "14129",
+      "reporter": "Peter  Gent",
+      "date": "4/16/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14129"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:03.374818"
+}

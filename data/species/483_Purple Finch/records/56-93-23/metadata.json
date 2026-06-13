@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-93-23",
+  "year": "1993",
+  "location": "Red Rocks Park",
+  "county": "Jefferson",
+  "observers": "Bill & Paula Lisowsky",
+  "comments": "Old Acc. No. 56-93-23 1 female-plumaged.",
+  "citations": "Prather, B.  1993 Report of the CBRC. CFO Journal 30(1), 20-30.",
+  "documentations": [
+    {
+      "doc_id": "3996",
+      "reporter": "Bill and Paula Lisowsky",
+      "date": "1/2/1993",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3996"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:50.996673"
+}

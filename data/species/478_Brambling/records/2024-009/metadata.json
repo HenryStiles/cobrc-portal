@@ -1,0 +1,19 @@
+{
+  "acc_no": "2024-009",
+  "year": "2024",
+  "location": "Loveland",
+  "county": "Larimer",
+  "observers": "Laura Stump",
+  "comments": "",
+  "citations": "Gent, P., 2025. 87th Report of the CBRC.  Colorado Birds, 59(1), 7-15.",
+  "documentations": [
+    {
+      "doc_id": "13900",
+      "reporter": "Laura Stump",
+      "date": "4/17/2024",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13900"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:43.950933"
+}

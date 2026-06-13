@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-185",
+  "year": "2002",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Rachel Hopper, David Leatherman",
+  "comments": "video",
+  "citations": "Leukering, T. and Semo, L.  The 38th Report of the CBRC. Colorado Birds 38(4), 168-183.",
+  "documentations": [
+    {
+      "doc_id": "13709",
+      "reporter": "Rachel Hopper, Dave Leatherman",
+      "date": "1/4/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13709"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:08.017108"
+}

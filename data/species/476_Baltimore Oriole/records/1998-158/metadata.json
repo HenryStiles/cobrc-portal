@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-158",
+  "year": "1998",
+  "location": "Pueblo City Park",
+  "county": "Pueblo",
+  "observers": "David Silverman",
+  "comments": "",
+  "citations": "Lisowsky, B.  1998 Report of the CBRC. J. Colorado Field Ornithologists, 34, 168-184.",
+  "documentations": [
+    {
+      "doc_id": "14394",
+      "reporter": "David Silverman",
+      "date": "11/1/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14394"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:32.241671"
+}

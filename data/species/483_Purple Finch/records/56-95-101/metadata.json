@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-95-101",
+  "year": "1995",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Richard Holmes",
+  "comments": "Old Acc. No. 56-95-101 1 adult male.",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "3999",
+      "reporter": "Richard Holmes",
+      "date": "11/6/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3999"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:54.581353"
+}

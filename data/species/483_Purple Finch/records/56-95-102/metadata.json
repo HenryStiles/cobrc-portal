@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-95-102",
+  "year": "1995",
+  "location": "Fort Lyon Area",
+  "county": "Bent",
+  "observers": "Mark Janos",
+  "comments": "Old Acc. No. 56-95-102 1 female-plumaged.",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "4000",
+      "reporter": "Mark Janos",
+      "date": "11/19/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4000"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:55.868254"
+}

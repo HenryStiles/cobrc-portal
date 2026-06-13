@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-108",
+  "year": "2010",
+  "location": "La Veta",
+  "county": "Huerfano",
+  "observers": "Polly Neldner",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Faulkner, D. and Semo, L. The 59th Report of the CBRC. Colorado Birds 45(3), 174-180.",
+  "documentations": [
+    {
+      "doc_id": "1526",
+      "reporter": "Polly Neldner",
+      "date": "5/21/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1526"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:40.733815"
+}

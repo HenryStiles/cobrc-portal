@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-107",
+  "year": "2007",
+  "location": "Sterling",
+  "county": "Logan",
+  "observers": "Bill Kaempfer",
+  "comments": "2 adult males, 5 female-plumaged.",
+  "citations": "Semo, L.  The 50th Report of the CBRC. Colorado Birds 43(2), 123-135.",
+  "documentations": [
+    {
+      "doc_id": "873",
+      "reporter": "Bill Kaempfer",
+      "date": "12/21/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=873"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:11.573562"
+}

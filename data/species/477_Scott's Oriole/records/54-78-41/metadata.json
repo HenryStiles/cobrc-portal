@@ -1,0 +1,19 @@
+{
+  "acc_no": "54-78-41",
+  "year": "1977",
+  "location": "Just W of Rangely",
+  "county": "Rio Blanco",
+  "observers": "Peter Sorensen",
+  "comments": "",
+  "citations": "Chase, C.  1977-80 Pt2 Report of the CBRC. CFO Journal 15, 54-59.",
+  "documentations": [
+    {
+      "doc_id": "13577",
+      "reporter": "Peter Sorensen",
+      "date": "5/18/1977",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13577"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:28.415229"
+}

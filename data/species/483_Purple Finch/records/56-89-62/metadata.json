@@ -1,0 +1,26 @@
+{
+  "acc_no": "56-89-62",
+  "year": "1989",
+  "location": "Chatfield State Park (Douglas Portion)",
+  "county": "Douglas",
+  "observers": "Duane Nelson, Dick Schottler",
+  "comments": "1 female-plumaged. Observed on Denver CBC.",
+  "citations": "Nelson, D.  1989 Report of the CBRC. CFO Journal 25(4), 119-125.",
+  "documentations": [
+    {
+      "doc_id": "3993",
+      "reporter": "Duane Nelson, Dick Schottler",
+      "date": "12/16/1989",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3993"
+    },
+    {
+      "doc_id": "16404",
+      "reporter": "Duane Nelson",
+      "date": "12/17/1989",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16404"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:46.271871"
+}

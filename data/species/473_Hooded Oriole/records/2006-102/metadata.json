@@ -1,0 +1,68 @@
+{
+  "acc_no": "2006-102",
+  "year": "2006",
+  "location": "Cortez Airport and adjoining farmland",
+  "county": "Montezuma",
+  "observers": "Joe Roller, Norm Erthal, Brandon K. Percival, Joey Kellner, Bill Maynard, Nathan Pieplow, Rachel Hopper, Andrew Spencer, Cole Wild",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Semo, L.  The 45th Report of the CBRC. Colorado Birds 42(1), 38-45.",
+  "documentations": [
+    {
+      "doc_id": "1333",
+      "reporter": "Joe Roller",
+      "date": "6/18/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1333"
+    },
+    {
+      "doc_id": "446",
+      "reporter": "Brandon K Percival",
+      "date": "6/19/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=446"
+    },
+    {
+      "doc_id": "469",
+      "reporter": "Joey Kellner",
+      "date": "6/19/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=469"
+    },
+    {
+      "doc_id": "476",
+      "reporter": "Bill Maynard",
+      "date": "6/23/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=476"
+    },
+    {
+      "doc_id": "513",
+      "reporter": "Nathan Pieplow",
+      "date": "6/24/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=513"
+    },
+    {
+      "doc_id": "449",
+      "reporter": "Rachel Hopper",
+      "date": "6/26/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=449"
+    },
+    {
+      "doc_id": "497",
+      "reporter": "Andrew Spencer",
+      "date": "7/4/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=497"
+    },
+    {
+      "doc_id": "502",
+      "reporter": "C W",
+      "date": "7/14/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=502"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:21.913121"
+}

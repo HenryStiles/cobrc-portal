@@ -1,0 +1,26 @@
+{
+  "acc_no": "2011-175",
+  "year": "2011",
+  "location": "Colorado Springs",
+  "county": "El Paso",
+  "observers": "David Perl, Bill Maynard",
+  "comments": "Age: adult; Sex: f;",
+  "citations": "Faulkner, D. The 64th Report of the CBRC. Colorado Birds 46(4), 255-267.",
+  "documentations": [
+    {
+      "doc_id": "1877",
+      "reporter": "David Perl",
+      "date": "12/3/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1877"
+    },
+    {
+      "doc_id": "1890",
+      "reporter": "Bill Maynard",
+      "date": "12/6/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1890"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:10.360965"
+}

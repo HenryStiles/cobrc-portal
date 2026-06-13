@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-057",
+  "year": "2012",
+  "location": "Cordova Pass Road",
+  "county": "Huerfano",
+  "observers": "John Drummond",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Faulkner, Doug. April 2013. The 66th Report of the Colorado Bird Records Committee: Colorado Birds 47(2):86-93",
+  "documentations": [
+    {
+      "doc_id": "1997",
+      "reporter": "John Drummond",
+      "date": "5/21/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1997"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:52.732628"
+}

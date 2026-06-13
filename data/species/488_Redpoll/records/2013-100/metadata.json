@@ -1,0 +1,26 @@
+{
+  "acc_no": "2013-100",
+  "year": "2013",
+  "location": "3381 Larkspur Dr., Longmont",
+  "county": "Boulder",
+  "observers": "Bill Schmoker",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2406",
+      "reporter": "Bill Schmoker",
+      "date": "12/29/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2406"
+    },
+    {
+      "doc_id": "2405",
+      "reporter": "Bill Schmoker",
+      "date": "3/15/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2405"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:48.009421"
+}

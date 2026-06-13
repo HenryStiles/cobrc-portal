@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-003",
+  "year": "2009",
+  "location": "Colorado Springs",
+  "county": "El Paso",
+  "observers": "David Elwonger",
+  "comments": "",
+  "citations": "Semo, L. and Faulkner, D.  The 53rd Report of the CBRC. Colorado Birds 44(1), 31-42.",
+  "documentations": [
+    {
+      "doc_id": "1173",
+      "reporter": "David Elwonger",
+      "date": "1/13/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1173"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:17.629897"
+}

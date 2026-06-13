@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-76-101",
+  "year": "1976",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Van Remsen",
+  "comments": "Old Acc. No. 56-76-101 2 female-plumaged.",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "3981",
+      "reporter": "Van Remsen",
+      "date": "10/18/1976",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3981"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:35.550165"
+}

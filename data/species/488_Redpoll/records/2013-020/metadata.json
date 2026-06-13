@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-020",
+  "year": "2012",
+  "location": "4641 CR 8, Fraser",
+  "county": "Grand",
+  "observers": "Donna Feldman",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2259",
+      "reporter": "Donna Feldman",
+      "date": "12/25/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2259"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:50.297908"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "54-80-46",
+  "year": "1979",
+  "location": "12 miles W of Rangely",
+  "county": "Rio Blanco",
+  "observers": "Billy Green",
+  "comments": "",
+  "citations": "Chase, C.  1977-80 Pt 2 Report of the CBRC, CFO Journal 15, 54-59.",
+  "documentations": [
+    {
+      "doc_id": "13582",
+      "reporter": "Billy Green",
+      "date": "8/6/1979",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13582"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:37.339194"
+}

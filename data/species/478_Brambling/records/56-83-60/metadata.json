@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-83-60",
+  "year": "1983",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Marge Foland, Bob Jickling",
+  "comments": "Old Acc. No. 56-83-60 photos by L. Halsey",
+  "citations": "Gent, P.  1983 Report of the CBRC. CFO Journal 19(1-2), 28-33.",
+  "documentations": [
+    {
+      "doc_id": "13127",
+      "reporter": "Marge Foland, Bob Jickling",
+      "date": "12/19/1983",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13127"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:21.563084"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-057",
+  "year": "2012",
+  "location": "540 Ouray Ave Broomfield, CO 80020",
+  "county": "Broomfield",
+  "observers": "Eric Zorawowicz",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2325",
+      "reporter": "Eric Zorawowicz",
+      "date": "12/15/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2325"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:40.834805"
+}

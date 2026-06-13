@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-166",
+  "year": "2013",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Sean Walters",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "5169",
+      "reporter": "Sean Walters",
+      "date": "3/11/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5169"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:57.556909"
+}

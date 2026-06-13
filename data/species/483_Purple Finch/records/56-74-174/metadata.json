@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-74-174",
+  "year": "1974",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Allen Crockett",
+  "comments": "Old Acc. No. 56-74-174 One female-plumaged.  Documentation states \"from Nov 15 on\" suggesting that the bird was present on subsequent dates; however, the CBRC has no further information on the actual date span.",
+  "citations": "Reddall, J. 1975. Reports from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "3973",
+      "reporter": "Allen Crockett",
+      "date": "11/15/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3973"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:28.451850"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-154",
+  "year": "2015",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Jamie Simo",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "6360",
+      "reporter": "Jamie Simo",
+      "date": "11/1/2015",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6360"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:50.173082"
+}

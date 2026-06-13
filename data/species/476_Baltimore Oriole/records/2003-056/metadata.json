@@ -1,0 +1,19 @@
+{
+  "acc_no": "2003-056",
+  "year": "2003",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Doug Faulkner, Gregg Goodrich",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  The 39th Report of the CBRC. Colorado Birds 39(3), 131-141.",
+  "documentations": [
+    {
+      "doc_id": "14398",
+      "reporter": "Doug Faulkner, Gregg Goodrich",
+      "date": "7/7/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14398"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:35.347513"
+}

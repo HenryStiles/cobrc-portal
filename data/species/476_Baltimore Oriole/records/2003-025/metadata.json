@@ -1,0 +1,19 @@
+{
+  "acc_no": "2003-025",
+  "year": "2003",
+  "location": "Masonville",
+  "county": "Larimer",
+  "observers": "Jason Beason",
+  "comments": "",
+  "citations": "Semo, L.  The 42nd Report of the CBRC. Colorado Birds 40(3), 133-156.",
+  "documentations": [
+    {
+      "doc_id": "14397",
+      "reporter": "Jason Beason",
+      "date": "6/9/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14397"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:36.574370"
+}

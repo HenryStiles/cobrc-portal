@@ -1,0 +1,19 @@
+{
+  "acc_no": "N-54-53",
+  "year": "1975",
+  "location": "Red Rocks Park",
+  "county": "Jefferson",
+  "observers": "John Cooper, Van Remsen",
+  "comments": "",
+  "citations": "Reddall, J.  1975b Report of the CBRC. CFO Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "13570",
+      "reporter": "John Cooper, Van Remsen",
+      "date": "5/1/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13570"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:22.579703"
+}

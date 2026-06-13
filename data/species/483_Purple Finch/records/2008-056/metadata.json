@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-056",
+  "year": "2008",
+  "location": "Colorado Springs",
+  "county": "El Paso",
+  "observers": "Allan Burns",
+  "comments": "1 female-plumaged.",
+  "citations": "Semo, L. and Faulkner, D.  The 54th Report of the CBRC. Colorado Birds 44(2), 89-105.",
+  "documentations": [
+    {
+      "doc_id": "976",
+      "reporter": "Allan Burns",
+      "date": "5/11/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=976"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:47.594973"
+}

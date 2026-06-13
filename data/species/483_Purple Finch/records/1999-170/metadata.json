@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-170",
+  "year": "1999",
+  "location": "Franktown",
+  "county": "Douglas",
+  "observers": "Urling & Hugh Kingery",
+  "comments": "1 adult male.",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "4003",
+      "reporter": "Hugh Kingery, Urling Kingery",
+      "date": "10/28/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4003"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:58.786292"
+}

@@ -1,0 +1,40 @@
+{
+  "acc_no": "2013-024",
+  "year": "2012",
+  "location": "38.381757 latitude; -105.79349 longitude",
+  "county": "Fremont",
+  "observers": "Tina Mitchell",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2270",
+      "reporter": "Tina Mitchell",
+      "date": "12/8/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2270"
+    },
+    {
+      "doc_id": "2273",
+      "reporter": "Tina Mitchell",
+      "date": "12/15/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2273"
+    },
+    {
+      "doc_id": "2274",
+      "reporter": "Tina Mitchell",
+      "date": "1/6/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2274"
+    },
+    {
+      "doc_id": "2275",
+      "reporter": "Tina Mitchell",
+      "date": "1/13/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2275"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:30.391959"
+}

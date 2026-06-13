@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-75-70",
+  "year": "1975",
+  "location": "Mount Evans State Wildlife Area",
+  "county": "Clear Creek",
+  "observers": "William Lybarger",
+  "comments": "",
+  "citations": "Reddall, J.  1975 Report of the CBRC. CFO Journal 37:5-19.",
+  "documentations": [
+    {
+      "doc_id": "13369",
+      "reporter": "William Lybarger",
+      "date": "6/8/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13369"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:04.147450"
+}

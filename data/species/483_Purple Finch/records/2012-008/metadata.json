@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-008",
+  "year": "2012",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Maggie Boswell",
+  "comments": "1 female-plumaged.",
+  "citations": "Faulkner, D. The 65th Report of the CBRC. Colorado Birds 47(1), 28-37.",
+  "documentations": [
+    {
+      "doc_id": "1926",
+      "reporter": "Maggie Boswell",
+      "date": "2/3/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1926"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:54.544572"
+}

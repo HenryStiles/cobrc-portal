@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-83-58",
+  "year": "1983",
+  "location": "Colorado Springs",
+  "county": "El Paso",
+  "observers": "John Maynard",
+  "comments": "Old Acc. No. 56-83-58 1 adult male, 1 female-plumaged.  First observed on March 19, 1983 and \"3-4 other dates when it snowed.\"",
+  "citations": "Gent, P.  1983 Report of the CBRC. CFO Journal 19(1-2), 28-33.",
+  "documentations": [
+    {
+      "doc_id": "3991",
+      "reporter": "John Maynard",
+      "date": "3/19/1983",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3991"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:44.075821"
+}

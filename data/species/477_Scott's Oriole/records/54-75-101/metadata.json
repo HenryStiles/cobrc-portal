@@ -1,0 +1,19 @@
+{
+  "acc_no": "54-75-101",
+  "year": "1975",
+  "location": "Eagle",
+  "county": "Eagle",
+  "observers": "Margaret Ewing",
+  "comments": "",
+  "citations": "Reddall, J.  1975b Report of the CBRC. CFO Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "13574",
+      "reporter": "Margaret Ewing",
+      "date": "6/15/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13574"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:26.810256"
+}

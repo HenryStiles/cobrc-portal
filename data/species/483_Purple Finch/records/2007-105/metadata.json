@@ -1,0 +1,26 @@
+{
+  "acc_no": "2007-105",
+  "year": "2007",
+  "location": "Canon City",
+  "county": "Fremont",
+  "observers": "Brandon Percival, Chris Wood",
+  "comments": "1 female-plumaged.",
+  "citations": "Semo, L.  The 50th Report of the CBRC. Colorado Birds 43(2), 123-135.",
+  "documentations": [
+    {
+      "doc_id": "855",
+      "reporter": "Chris Wood",
+      "date": "12/16/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=855"
+    },
+    {
+      "doc_id": "890",
+      "reporter": "Brandon K Percival",
+      "date": "12/16/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=890"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:09.107575"
+}

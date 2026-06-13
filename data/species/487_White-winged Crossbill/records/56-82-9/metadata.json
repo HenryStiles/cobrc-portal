@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-82-9",
+  "year": "1982",
+  "location": "Rollins Pass (Boulder County section)",
+  "county": "Boulder",
+  "observers": "Dave Hallock",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "13371",
+      "reporter": "Dave Hallock",
+      "date": "4/17/1982",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13371"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:06.019510"
+}

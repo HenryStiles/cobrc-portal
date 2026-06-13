@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-046",
+  "year": "2008",
+  "location": "Slumgullion Pass",
+  "county": "Hinsdale",
+  "observers": "Andrew Spencer",
+  "comments": "",
+  "citations": "Semo, L.  The 50th Report of the CBRC. Colorado Birds 43(2), 123-135.",
+  "documentations": [
+    {
+      "doc_id": "785",
+      "reporter": "Andrew Spencer",
+      "date": "7/4/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=785"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:57.498643"
+}

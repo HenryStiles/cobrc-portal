@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-006",
+  "year": "2015",
+  "location": "Las Animas",
+  "county": "Bent",
+  "observers": "Kathy Mihm Dunning",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6387",
+      "reporter": "Kathy Mihm Dunning",
+      "date": "12/15/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6387"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:50.852993"
+}

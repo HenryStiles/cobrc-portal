@@ -1,0 +1,26 @@
+{
+  "acc_no": "2013-021",
+  "year": "2013",
+  "location": "2-4 miles (we were in the flock continuously over this distance) - west from the V road intersection with highway 330",
+  "county": "Mesa",
+  "observers": "Nic Korte",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2255",
+      "reporter": "Nic Korte",
+      "date": "1/1/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2255"
+    },
+    {
+      "doc_id": "2358",
+      "reporter": "Nic Korte",
+      "date": "1/1/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2358"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:03.920446"
+}

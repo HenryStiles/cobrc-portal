@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-74-20",
+  "year": "1974",
+  "location": "Pueblo",
+  "county": "Pueblo",
+  "observers": "Van Truan",
+  "comments": "Old Acc. No. 56-74-20 1 female-plumaged. Banded.",
+  "citations": "Reddall, J. 1975. Reports from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "3972",
+      "reporter": "Van Truan",
+      "date": "1/9/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3972"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:26.912005"
+}

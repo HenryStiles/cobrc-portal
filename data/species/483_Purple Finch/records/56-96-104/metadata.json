@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-96-104",
+  "year": "1996",
+  "location": "Rocky Ford",
+  "county": "Otero",
+  "observers": "Mark Janos",
+  "comments": "Old Acc. No. 56-96-104: 1 female-plumaged.",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16408",
+      "reporter": "Mark Janos",
+      "date": "12/15/1996",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16408"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:56.874088"
+}

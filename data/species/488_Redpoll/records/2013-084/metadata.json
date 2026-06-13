@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-084",
+  "year": "2013",
+  "location": "2845 Arnold Ave.",
+  "county": "El Paso",
+  "observers": "Kristen Squazzo",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2372",
+      "reporter": "Kristen Squazzo",
+      "date": "2/8/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2372"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:42.476177"
+}

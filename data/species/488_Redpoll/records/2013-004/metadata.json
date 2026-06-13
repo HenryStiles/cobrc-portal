@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-004",
+  "year": "2012",
+  "location": "A feeder located on a private home",
+  "county": "Eagle",
+  "observers": "Mario Davalos",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2236",
+      "reporter": "Mario Davalos",
+      "date": "12/30/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2236"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:57.578354"
+}

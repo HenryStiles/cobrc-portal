@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-023",
+  "year": "2012",
+  "location": "500 Steamboat Blvd. (private residence)",
+  "county": "Routt",
+  "observers": "Thomas Litteral",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2266",
+      "reporter": "Thomas Litteral",
+      "date": "12/28/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2266"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:53.031325"
+}

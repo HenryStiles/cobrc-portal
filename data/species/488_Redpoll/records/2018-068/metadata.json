@@ -1,0 +1,26 @@
+{
+  "acc_no": "2018-068",
+  "year": "2018",
+  "location": "North 5th and Loma, Pagosa Springs, Archuleta, Co.",
+  "county": "Archuleta",
+  "observers": "Byron Greco",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176.",
+  "documentations": [
+    {
+      "doc_id": "11794",
+      "reporter": "Byron Greco",
+      "date": "3/6/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11794"
+    },
+    {
+      "doc_id": "10657",
+      "reporter": "Byron Greco",
+      "date": "3/6/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=10657"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:51.739456"
+}

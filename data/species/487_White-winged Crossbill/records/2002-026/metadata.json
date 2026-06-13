@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-026",
+  "year": "2002",
+  "location": "Las Animas",
+  "county": "Bent",
+  "observers": "Ric Olson",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  The 37th Report of the CBRC. Colorado Birds 38(2), 73-88.",
+  "documentations": [
+    {
+      "doc_id": "13769",
+      "reporter": "Ric Olson",
+      "date": "1/4/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13769"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:06.950437"
+}

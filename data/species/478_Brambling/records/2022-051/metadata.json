@@ -1,0 +1,19 @@
+{
+  "acc_no": "2022-051",
+  "year": "2022",
+  "location": "Lamar",
+  "county": "Prowers",
+  "observers": "Jill Smith",
+  "comments": "4th state record.",
+  "citations": "Gent, P.  The 84th Report of the CBRC. Colorado Birds 54(4), 194-203.",
+  "documentations": [
+    {
+      "doc_id": "13077",
+      "reporter": "Jill Smith",
+      "date": "10/31/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13077"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:38.484468"
+}

@@ -1,0 +1,38 @@
+{
+  "doc_id": "4003",
+  "scraped_at": "2026-06-13T14:47:58.949051",
+  "species": "Purple Finch",
+  "acc_no": "1999-170",
+  "reporter_name": "Hugh Kingery, Urling Kingery",
+  "address": "",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "reporter_email": "",
+  "other_observers": "",
+  "species_name": "Purple Finch",
+  "first_date": "10/28/1999",
+  "last_date": "",
+  "duration": "",
+  "county": "Douglas",
+  "specific_location": "Franktown",
+  "number_of_birds": "1",
+  "age": "Unknown",
+  "sex": "Unknown",
+  "plumage": "Other/Unknown",
+  "description": "",
+  "photographer": "Photographer: ,",
+  "photos_text": "",
+  "uploads_text": "Doc4003_PUFI_1999-170.pdf\nDoc4003_PUFI_1999-170_photo.pdf",
+  "date_submitted": "6/8/2014 3:30:00 PM",
+  "attachments": [
+    {
+      "filename": "Doc4003_PUFI_1999-170.pdf",
+      "url": "/RecordUploads/4003/Doc4003_PUFI_1999-170.pdf"
+    },
+    {
+      "filename": "Doc4003_PUFI_1999-170_photo.pdf",
+      "url": "/RecordUploads/4003/Doc4003_PUFI_1999-170_photo.pdf"
+    }
+  ]
+}

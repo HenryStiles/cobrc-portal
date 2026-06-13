@@ -1,0 +1,33 @@
+{
+  "acc_no": "2013-028",
+  "year": "2012",
+  "location": "Aspen Village Subdivision  just west a couple houses from intersection of Buckskin and Ridge Trail Streets",
+  "county": "Pitkin",
+  "observers": "Ernest Bradley, Jacob Shorty",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2280",
+      "reporter": "Ernest Bradley",
+      "date": "12/30/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2280"
+    },
+    {
+      "doc_id": "2386",
+      "reporter": "Jacob Shorty",
+      "date": "1/20/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2386"
+    },
+    {
+      "doc_id": "2385",
+      "reporter": "Jacob Shorty",
+      "date": "2/22/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2385"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:59.115124"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-137",
+  "year": "2013",
+  "location": "Upper Bear Creek Road",
+  "county": "Clear Creek",
+  "observers": "Joann Hackos",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2333",
+      "reporter": "Joann Hackos",
+      "date": "2/3/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2333"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:39.396525"
+}

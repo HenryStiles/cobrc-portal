@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-091",
+  "year": "2013",
+  "location": "650 Elk Trail",
+  "county": "Grand",
+  "observers": "Becky Marvil",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2388",
+      "reporter": "Becky Marvil",
+      "date": "3/3/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2388"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:43.614457"
+}

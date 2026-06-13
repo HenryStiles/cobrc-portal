@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-038",
+  "year": "2013",
+  "location": "49236 KE RD, Mesa, Colorado, 81643",
+  "county": "Mesa",
+  "observers": "Jackson Trappett",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2294",
+      "reporter": "Jackson Trappett",
+      "date": "1/1/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2294"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:06.945275"
+}

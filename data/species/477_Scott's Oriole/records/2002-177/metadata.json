@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-177",
+  "year": "2002",
+  "location": "Genessee Mountain Park",
+  "county": "Jefferson",
+  "observers": "Andrew Spencer",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "496",
+      "reporter": "Andrew Spencer",
+      "date": "5/13/2002",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=496"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:44.895383"
+}

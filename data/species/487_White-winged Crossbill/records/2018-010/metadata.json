@@ -1,0 +1,19 @@
+{
+  "acc_no": "2018-010",
+  "year": "2018",
+  "location": "Mountain View Cemetery",
+  "county": "Pueblo",
+  "observers": "Sue Riffe",
+  "comments": "",
+  "citations": "Accepted by the Chairman and not published.",
+  "documentations": [
+    {
+      "doc_id": "10638",
+      "reporter": "Sue Riffe",
+      "date": "1/6/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=10638"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:11.998423"
+}

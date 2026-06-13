@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-164",
+  "year": "2014",
+  "location": "Longmont",
+  "county": "Boulder",
+  "observers": "Bryan Guarente",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "5167",
+      "reporter": "Bryan Guarente",
+      "date": "11/12/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5167"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:00.168794"
+}

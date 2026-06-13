@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-76-111",
+  "year": "1976",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Bob Andrews",
+  "comments": "Old Acc. No. 56-76-111 2 female-plumaged.",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "3982",
+      "reporter": "Robert Andrews",
+      "date": "10/30/1976",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3982"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:37.357672"
+}

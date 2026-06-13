@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-106",
+  "year": "1997",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Suzi & Myron Plooster",
+  "comments": "",
+  "citations": "Janos, M.  1997 Report of the CBRC. J. Colorado Field Ornithologists, 33, 241-252.",
+  "documentations": [
+    {
+      "doc_id": "14393",
+      "reporter": "Suzi & Myron Plooster",
+      "date": "8/28/1997",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14393"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:26.653108"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "54-81-57",
+  "year": "1981",
+  "location": "Mormon Gap",
+  "county": "Rio Blanco",
+  "observers": "Ed Hollowed",
+  "comments": "",
+  "citations": "Chase, C.  1981 Report of the CBRC. CFO Journal 17, 75-82.",
+  "documentations": [
+    {
+      "doc_id": "13579",
+      "reporter": "Ed Hollowed",
+      "date": "6/5/1981",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13579"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:42.892968"
+}

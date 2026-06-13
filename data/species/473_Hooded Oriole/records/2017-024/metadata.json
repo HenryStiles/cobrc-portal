@@ -1,0 +1,19 @@
+{
+  "acc_no": "2017-024",
+  "year": "2017",
+  "location": "Cortez",
+  "county": "Montezuma",
+  "observers": "Charles Haspels",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "8566",
+      "reporter": "Charles Haspels",
+      "date": "5/13/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8566"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:04.874262"
+}

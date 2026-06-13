@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-77-10",
+  "year": "1977",
+  "location": "South Republican SWA",
+  "county": "Yuma",
+  "observers": "Judd Sundine, Mike Moulton, Peter Moulton",
+  "comments": "Old Acc. No. 56-77-10 1-3 female-plumaged finches documented on different dates.",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "3983",
+      "reporter": "Judd Sundine, Mike Moulton, Peter Moulton",
+      "date": "1/22/1977",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3983"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:39.339522"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-052",
+  "year": "2012",
+  "location": "Glenwood Springs",
+  "county": "Garfield",
+  "observers": "Thomas Mcconnell",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2318",
+      "reporter": "Thomas Mcconnell",
+      "date": "12/10/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2318"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:34.626486"
+}

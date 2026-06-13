@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-060",
+  "year": "2013",
+  "location": "621 Fourth Street",
+  "county": "Ouray",
+  "observers": "Kent Nelson",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2330",
+      "reporter": "Kent Nelson",
+      "date": "1/2/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2330"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:08.433561"
+}

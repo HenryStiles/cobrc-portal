@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-076",
+  "year": "2012",
+  "location": "4503 Spruce Way",
+  "county": "Eagle",
+  "observers": "Anne Esson",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2360",
+      "reporter": "Anne Esson",
+      "date": "12/29/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2360"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:56.439822"
+}

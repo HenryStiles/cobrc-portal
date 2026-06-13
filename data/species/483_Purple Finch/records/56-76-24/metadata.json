@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-76-24",
+  "year": "1975",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Ron Ryder",
+  "comments": "Old Acc. No. 56-76-24: 1 female-plumaged on December 20, 1975.  3 female-plumaged from 11 Dec 1976 to 7 March 1977, included three immature females collected for specimens DMNH 37694-37696: Andrews and Righter, Colorado Birds, pg 407, 1992.",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "3977",
+      "reporter": "Ron Ryder",
+      "date": "12/20/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3977"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:33.324782"
+}

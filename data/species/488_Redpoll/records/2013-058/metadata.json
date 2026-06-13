@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-058",
+  "year": "2012",
+  "location": "4610 Fox Road , CO 80809",
+  "county": "El Paso",
+  "observers": "John Drummond",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2327",
+      "reporter": "John Drummond",
+      "date": "12/22/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2327"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:44.981773"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-025",
+  "year": "2012",
+  "location": "213 West Topaz Ave. Granby, Co. 80446",
+  "county": "Grand",
+  "observers": "Brad Clements",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2267",
+      "reporter": "Brad Clements",
+      "date": "12/15/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2267"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:40.234898"
+}

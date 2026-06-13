@@ -1,0 +1,19 @@
+{
+  "acc_no": "54-80-45",
+  "year": "1979",
+  "location": "NW of Rangely",
+  "county": "Rio Blanco",
+  "observers": "Austin Johnson",
+  "comments": "",
+  "citations": "Chase, C.  1977-80 Pt2 Report of the CBRC. CFO Journal 15, 54-59.",
+  "documentations": [
+    {
+      "doc_id": "13581",
+      "reporter": "Austin Johnson",
+      "date": "8/8/1979",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13581"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:40.107903"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "54-81-17",
+  "year": "1981",
+  "location": "Pleasant View",
+  "county": "Montezuma",
+  "observers": "Clair Button",
+  "comments": "",
+  "citations": "Chase, C.  1980-81 Report of the CBRC. CFO Journal 16, 46-52.",
+  "documentations": [
+    {
+      "doc_id": "13578",
+      "reporter": "Clair Button",
+      "date": "4/28/1981",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13578"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:41.869430"
+}

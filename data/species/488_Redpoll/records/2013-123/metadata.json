@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-123",
+  "year": "2013",
+  "location": "Prewitt Reservoir, parking lot near dam, Washington County Side",
+  "county": "Washington",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2441",
+      "reporter": "Steven Mlodinow",
+      "date": "3/3/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2441"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:46.093946"
+}

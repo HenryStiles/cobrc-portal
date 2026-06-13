@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-188",
+  "year": "2012",
+  "location": "Holyoke",
+  "county": "Phillips",
+  "observers": "Steven Mlodinow",
+  "comments": "1 female-plumaged.",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2186",
+      "reporter": "Steven Mlodinow",
+      "date": "9/30/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2186"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:55.147345"
+}

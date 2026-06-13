@@ -1,0 +1,26 @@
+{
+  "acc_no": "56-90-77",
+  "year": "1990",
+  "location": "Chatfield State Park",
+  "county": "Jefferson",
+  "observers": "Warren Finch, Mark Janos, Duane Nelson",
+  "comments": "Old Acc. No. 56-90-77 1 female-plumaged.",
+  "citations": "Nelson, D.  1990 Report of the CBRC. CFO Journal 26(3), 91-97.",
+  "documentations": [
+    {
+      "doc_id": "3994",
+      "reporter": "Warren Finch, Mark Janos",
+      "date": "1/15/1990",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3994"
+    },
+    {
+      "doc_id": "16405",
+      "reporter": "Duane Nelson",
+      "date": "1/18/1990",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16405"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:47.784574"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-80-85",
+  "year": "1980",
+  "location": "Poudre River Trail (Ft. Collins section)",
+  "county": "Larimer",
+  "observers": "Daniel Butler",
+  "comments": "Old Acc. No. 56-80-85 1 female-plumaged.",
+  "citations": "Chase, C.  1980-1981 Report of the CBRC. CFO Journal 16(3), 46-52.",
+  "documentations": [
+    {
+      "doc_id": "3988",
+      "reporter": "Daniel Butler",
+      "date": "12/27/1980",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3988"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:40.463414"
+}

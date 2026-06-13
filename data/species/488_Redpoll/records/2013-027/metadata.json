@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-027",
+  "year": "2012",
+  "location": "322 Hilltop Parkway",
+  "county": "Routt",
+  "observers": "Tresa Moulton",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2285",
+      "reporter": "Tresa Moulton",
+      "date": "12/9/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2285"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:33.031661"
+}

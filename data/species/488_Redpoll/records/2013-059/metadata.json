@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-059",
+  "year": "2012",
+  "location": "16650 Southwood Drive , Black Forest , CO 80908",
+  "county": "El Paso",
+  "observers": "John Drummond",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2328",
+      "reporter": "John Drummond",
+      "date": "12/22/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2328"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:47.439852"
+}

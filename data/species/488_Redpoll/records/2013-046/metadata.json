@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-046",
+  "year": "2013",
+  "location": "1348 Snowden Street",
+  "county": "San Juan",
+  "observers": "James Beatty",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2303",
+      "reporter": "James Beatty",
+      "date": "2/5/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2303"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:40.470099"
+}

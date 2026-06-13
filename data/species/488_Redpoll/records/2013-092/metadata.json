@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-092",
+  "year": "2013",
+  "location": "Backyard, 12659 E Villanova Dr (zip 80014-1911)",
+  "county": "Arapahoe",
+  "observers": "Cheryl Teuton",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2391",
+      "reporter": "Cheryl Teuton",
+      "date": "3/11/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2391"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:46.637550"
+}

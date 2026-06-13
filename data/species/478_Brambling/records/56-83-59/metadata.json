@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-83-59",
+  "year": "1983",
+  "location": "Colorado Springs",
+  "county": "El Paso",
+  "observers": "Bill Maynard, Ed Curry, Barry Knapp, Laurens Halsey",
+  "comments": "",
+  "citations": "Gent, P.  1983 Report of the CBRC. CFO Journal 19(1-2), 28-33.",
+  "documentations": [
+    {
+      "doc_id": "13126",
+      "reporter": "Bill Maynard, Ed Curry, Barry Knapp, Laurens Halsey",
+      "date": "10/30/1983",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13126"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:20.231411"
+}

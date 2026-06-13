@@ -1,0 +1,19 @@
+{
+  "acc_no": "54-90-76",
+  "year": "1990",
+  "location": "Lakewood",
+  "county": "Jefferson",
+  "observers": "Peter Gent, Mark Janos",
+  "comments": "",
+  "citations": "Nelson, D.  1990 Report of the CBRC. CFO Journal 26(3), 91-97.",
+  "documentations": [
+    {
+      "doc_id": "13095",
+      "reporter": "Peter Gent, Mark Janos",
+      "date": "5/18/1990",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13095"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:22.885417"
+}

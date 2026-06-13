@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-103",
+  "year": "2013",
+  "location": "Delta",
+  "county": "Delta",
+  "observers": "Beason, Jason",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "4076",
+      "reporter": "Beason, Jason",
+      "date": "1/7/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4076"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:15.522814"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-024",
+  "year": "2007",
+  "location": "Lamar",
+  "county": "Prowers",
+  "observers": "Brian Gibbons",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "745",
+      "reporter": "Brian Gibbons",
+      "date": "4/17/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=745"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:50.117827"
+}

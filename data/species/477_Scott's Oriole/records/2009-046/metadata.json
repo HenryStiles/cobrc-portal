@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-046",
+  "year": "2009",
+  "location": "Antonito area",
+  "county": "Conejos",
+  "observers": "Nathan Pieplow",
+  "comments": "Age: immature; Plumage: alternate; Sex: m;",
+  "citations": "Semo, L. and Faulkner, D.  The 54th Report of the CBRC. Colorado Birds 44(2), 89-105.",
+  "documentations": [
+    {
+      "doc_id": "1276",
+      "reporter": "Nathan Pieplow",
+      "date": "5/23/2009",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1276"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:51.030429"
+}

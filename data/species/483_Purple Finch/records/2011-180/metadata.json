@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-180",
+  "year": "2011",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Rolando Garcia",
+  "comments": "1 female-plumaged.",
+  "citations": "Faulkner, D. The 64th Report of the CBRC. Colorado Birds 46(4), 255-267.",
+  "documentations": [
+    {
+      "doc_id": "1899",
+      "reporter": "Rolando Garcia",
+      "date": "12/24/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1899"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:52.498936"
+}

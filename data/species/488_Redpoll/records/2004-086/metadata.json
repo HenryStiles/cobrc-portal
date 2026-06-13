@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-086",
+  "year": "2004",
+  "location": "Montrose",
+  "county": "Montrose",
+  "observers": "Connie Kogler",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "15",
+      "reporter": "Connie Kogler",
+      "date": "11/29/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:08.331397"
+}

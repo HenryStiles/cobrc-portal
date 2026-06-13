@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-232",
+  "year": "2013",
+  "location": "Flagler Reservoir State Wildlife Area",
+  "county": "Kit Carson",
+  "observers": "Mark Peterson",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2601",
+      "reporter": "Mark Peterson",
+      "date": "10/13/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2601"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:58.188227"
+}

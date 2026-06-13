@@ -1,0 +1,40 @@
+{
+  "acc_no": "2005-038",
+  "year": "2005",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Maggie Boswell, Bill Schmoker, Nathan Pieplow, Tony Leukering",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "105",
+      "reporter": "Maggie Boswell",
+      "date": "5/3/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=105"
+    },
+    {
+      "doc_id": "273",
+      "reporter": "Bill Schmoker",
+      "date": "5/4/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=273"
+    },
+    {
+      "doc_id": "290",
+      "reporter": "Tony Leukering",
+      "date": "5/4/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=290"
+    },
+    {
+      "doc_id": "104",
+      "reporter": "Nathan Pieplow",
+      "date": "5/4/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=104"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:46.213952"
+}

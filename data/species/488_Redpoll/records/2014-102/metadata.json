@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-102",
+  "year": "2013",
+  "location": "Pomderosa Subdivision",
+  "county": "Rio Grande",
+  "observers": "Randi Young",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "4075",
+      "reporter": "Randi Young",
+      "date": "1/2/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4075"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:09.163099"
+}

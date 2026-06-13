@@ -1,0 +1,19 @@
+{
+  "acc_no": "54-75-90",
+  "year": "1975",
+  "location": "Waterton Canyon",
+  "county": "Jefferson",
+  "observers": "Hugh Kingery, Ralph Sargent, Thompson Marsh",
+  "comments": "",
+  "citations": "Reddall, J.  1975b Report of the CBRC. CFO Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "13571",
+      "reporter": "Hugh Kingery, Ralph Sargent, Thompson Marsh",
+      "date": "5/3/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13571"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:23.895374"
+}

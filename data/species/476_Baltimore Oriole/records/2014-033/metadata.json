@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-033",
+  "year": "2013",
+  "location": "Glenwood Springs",
+  "county": "Garfield",
+  "observers": "Tom McConnell",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2840",
+      "reporter": "Tom McConnell",
+      "date": "5/15/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2840"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:43.905810"
+}

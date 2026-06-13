@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-088",
+  "year": "2012",
+  "location": "Fawn Brook Inn",
+  "county": "Boulder",
+  "observers": "Charles Hundertmark",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2380",
+      "reporter": "Charles Hundertmark",
+      "date": "11/17/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2380"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:21.842573"
+}

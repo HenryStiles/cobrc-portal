@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-85-9",
+  "year": "1985",
+  "location": "Lakewood",
+  "county": "Jefferson",
+  "observers": "John Cooper",
+  "comments": "Old Acc. No. 56-85-9 1 female-plumaged.",
+  "citations": "Gent, P.  1985 Report of the CBRC. CFO Journal 20(3-4), 44-50.",
+  "documentations": [
+    {
+      "doc_id": "3992",
+      "reporter": "John Cooper",
+      "date": "1/11/1985",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3992"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:45.111597"
+}

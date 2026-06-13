@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-014",
+  "year": "2011",
+  "location": "Merrill residence, Hayden",
+  "county": "Routt",
+  "observers": "Thomas Litteral",
+  "comments": "Age: immature; Plumage: 1st summer; Sex: m;",
+  "citations": "Faulkner, D. The 64th Report of the CBRC. Colorado Birds 46(4), 255-267.",
+  "documentations": [
+    {
+      "doc_id": "1928",
+      "reporter": "Thomas Litteral",
+      "date": "5/31/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1928"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:26.043208"
+}

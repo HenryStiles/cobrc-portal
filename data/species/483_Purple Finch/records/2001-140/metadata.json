@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-140",
+  "year": "2001",
+  "location": "Vancorum",
+  "county": "Montrose",
+  "observers": "Coen Dexter",
+  "comments": "1 female-plumaged.",
+  "citations": "Leukering, T. and Semo, L.  2001 pt.1 Report of the CBRC. Colorado Birds 37(3), 138-155.",
+  "documentations": [
+    {
+      "doc_id": "3860",
+      "reporter": "Coen Dexter",
+      "date": "11/15/2001",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3860"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:00.056233"
+}

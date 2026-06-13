@@ -1,0 +1,68 @@
+{
+  "acc_no": "2007-103",
+  "year": "2007",
+  "location": "Loveland",
+  "county": "Larimer",
+  "observers": "Connie Kogler, Andrew Spencer, Gregg Goodrich, Nathan Pieplow, Peter Gent, Tony Leukering",
+  "comments": "Age: adult?; Plumage: basic; Sex: f?;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "845",
+      "reporter": "Andrew Spencer",
+      "date": "12/8/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=845"
+    },
+    {
+      "doc_id": "849",
+      "reporter": "Connie Kogler",
+      "date": "12/8/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=849"
+    },
+    {
+      "doc_id": "862",
+      "reporter": "Connie Kogler",
+      "date": "12/8/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=862"
+    },
+    {
+      "doc_id": "868",
+      "reporter": "Gregg Goodrich",
+      "date": "12/9/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=868"
+    },
+    {
+      "doc_id": "893",
+      "reporter": "Brandon K Percival",
+      "date": "12/9/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=893"
+    },
+    {
+      "doc_id": "854",
+      "reporter": "Peter Gent",
+      "date": "12/9/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=854"
+    },
+    {
+      "doc_id": "846",
+      "reporter": "Nathan Pieplow",
+      "date": "12/9/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=846"
+    },
+    {
+      "doc_id": "847",
+      "reporter": "Tony Leukering",
+      "date": "12/10/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=847"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:20.865821"
+}

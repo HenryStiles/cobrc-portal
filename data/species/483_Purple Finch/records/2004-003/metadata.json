@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-003",
+  "year": "2002",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "Semo, L.  The 41st Report of the CBRC. Colorado Birds 40(1), 26-44.",
+  "documentations": [
+    {
+      "doc_id": "16411",
+      "reporter": "Tony Leukering",
+      "date": "5/5/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16411"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:04.746624"
+}

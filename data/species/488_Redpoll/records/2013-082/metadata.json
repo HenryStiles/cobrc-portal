@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-082",
+  "year": "2012",
+  "location": "751 Willow Lake Drive",
+  "county": "Douglas",
+  "observers": "Hugh Kingery",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2371",
+      "reporter": "Hugh Kingery",
+      "date": "12/11/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2371"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:35.972271"
+}

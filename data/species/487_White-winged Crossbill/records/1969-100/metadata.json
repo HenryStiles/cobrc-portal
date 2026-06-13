@@ -1,0 +1,19 @@
+{
+  "acc_no": "1969-100",
+  "year": "1969",
+  "location": "South Turkey Creek Canyon",
+  "county": "Jefferson",
+  "observers": "Hugh Kingery, Paul Julian",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "13367",
+      "reporter": "Hugh Kingery, Paul Julian",
+      "date": "12/20/1969",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13367"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:02.139785"
+}

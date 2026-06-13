@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-77-12",
+  "year": "1977",
+  "location": "Colorado Springs",
+  "county": "El Paso",
+  "observers": "Dave Griffiths",
+  "comments": "Old Acc. No. 56-77-12 1 female-plumaged.  Observed on Colorado Springs CBC.  No location provided.",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "3987",
+      "reporter": "Dave Griffiths",
+      "date": "1/2/1977",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3987"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:38.308676"
+}

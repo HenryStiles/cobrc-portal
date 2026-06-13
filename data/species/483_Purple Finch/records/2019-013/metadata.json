@@ -1,0 +1,19 @@
+{
+  "acc_no": "2019-013",
+  "year": "2019",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Kevin Keirn",
+  "comments": "",
+  "citations": "Colorado Birds 56(3), 213-222, 2022",
+  "documentations": [
+    {
+      "doc_id": "11783",
+      "reporter": "Kevin Keirn",
+      "date": "2/17/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11783"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:09.193315"
+}

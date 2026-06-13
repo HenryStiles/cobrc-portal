@@ -1,0 +1,19 @@
+{
+  "acc_no": "54-75-91",
+  "year": "1975",
+  "location": "Wheat Ridge Greenbelt",
+  "county": "Jefferson",
+  "observers": "George Shier",
+  "comments": "",
+  "citations": "Reddall, J.  1975b Report of the CBRC. CFO Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "13573",
+      "reporter": "George Shier",
+      "date": "5/5/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13573"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:25.627198"
+}

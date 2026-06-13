@@ -1,0 +1,40 @@
+{
+  "acc_no": "2016-028",
+  "year": "2016",
+  "location": "Roxborough State Park",
+  "county": "Douglas",
+  "observers": "Mark Obmascik, Peter R. Gent, Cheryl Teuton, Norm Lewis",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6417",
+      "reporter": "Mark Obmascik",
+      "date": "4/27/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6417"
+    },
+    {
+      "doc_id": "6419",
+      "reporter": "Peter R. Gent",
+      "date": "4/27/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6419"
+    },
+    {
+      "doc_id": "6418",
+      "reporter": "Cheryl Teuton",
+      "date": "4/28/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6418"
+    },
+    {
+      "doc_id": "6422",
+      "reporter": "Norm Lewis",
+      "date": "5/3/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6422"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:00.675066"
+}

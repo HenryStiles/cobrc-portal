@@ -1,0 +1,33 @@
+{
+  "acc_no": "2012-213",
+  "year": "2012",
+  "location": "Maynards residence, 1320 Indian Oaks Place, Manitou Springs.",
+  "county": "El Paso",
+  "observers": "Bill Maynard, Brandon K Percival, Nick Moore",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2226",
+      "reporter": "Bill Maynard",
+      "date": "11/28/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2226"
+    },
+    {
+      "doc_id": "2324",
+      "reporter": "Brandon K Percival",
+      "date": "11/29/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2324"
+    },
+    {
+      "doc_id": "2387",
+      "reporter": "Nick Moore",
+      "date": "12/28/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2387"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:24.448132"
+}

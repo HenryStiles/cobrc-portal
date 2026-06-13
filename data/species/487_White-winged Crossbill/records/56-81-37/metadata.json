@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-81-37",
+  "year": "1981",
+  "location": "Woodland Park",
+  "county": "Teller",
+  "observers": "Richard Bunn",
+  "comments": "",
+  "citations": "Chase, C.  1981 Report of the CBRC. CFO Journal 17(4), 75-82.",
+  "documentations": [
+    {
+      "doc_id": "13370",
+      "reporter": "Richard Bunn",
+      "date": "6/23/1981",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13370"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:05.108918"
+}

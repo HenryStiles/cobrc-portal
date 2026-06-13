@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-007",
+  "year": "2012",
+  "location": "S. Platte River Rd feeders",
+  "county": "Jefferson",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2242",
+      "reporter": "Steven Mlodinow",
+      "date": "12/18/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2242"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:41.384199"
+}

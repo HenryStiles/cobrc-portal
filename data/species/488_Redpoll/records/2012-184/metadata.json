@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-184",
+  "year": "2012",
+  "location": "40515 County Road 69A",
+  "county": "Routt",
+  "observers": "Merrill Nancy",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2175",
+      "reporter": "Merrill Nancy",
+      "date": "11/15/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2175"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:16.507965"
+}

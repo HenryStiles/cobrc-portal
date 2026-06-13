@@ -1,0 +1,26 @@
+{
+  "acc_no": "2013-087",
+  "year": "2012",
+  "location": "farmyard 5 miles south of Lamar and about a quarter mile to the west",
+  "county": "Prowers",
+  "observers": "Jane Stulp",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2381",
+      "reporter": "Jane Stulp",
+      "date": "11/15/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2381"
+    },
+    {
+      "doc_id": "2382",
+      "reporter": "Jane Stulp",
+      "date": "11/19/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2382"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:17.704222"
+}

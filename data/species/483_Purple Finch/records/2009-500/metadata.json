@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-500",
+  "year": "2009",
+  "location": "Fruita",
+  "county": "Mesa",
+  "observers": "Coen Dexter",
+  "comments": "",
+  "citations": "Colorado Birds 56(3), 213-222, 2022",
+  "documentations": [
+    {
+      "doc_id": "11861",
+      "reporter": "Coen Dexter",
+      "date": "1/10/2009",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11861"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:49.990272"
+}

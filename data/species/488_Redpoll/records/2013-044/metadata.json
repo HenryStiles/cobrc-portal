@@ -1,0 +1,33 @@
+{
+  "acc_no": "2013-044",
+  "year": "2013",
+  "location": "Wildernest neighborhood",
+  "county": "Summit",
+  "observers": "Cheryl Teuton, Steven Mlodinow, Tony Leukering",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2392",
+      "reporter": "Cheryl Teuton",
+      "date": "1/17/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2392"
+    },
+    {
+      "doc_id": "2306",
+      "reporter": "Steven Mlodinow",
+      "date": "1/27/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2306"
+    },
+    {
+      "doc_id": "2315",
+      "reporter": "Tony Leukering",
+      "date": "1/27/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2315"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:34.441808"
+}
