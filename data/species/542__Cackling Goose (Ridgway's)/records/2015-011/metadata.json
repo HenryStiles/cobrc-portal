@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-011",
+  "year": "2015",
+  "location": "Green Valley Ranch",
+  "county": "Arapahoe",
+  "observers": "Cathy Sheeter",
+  "comments": "",
+  "citations": "Accepted by the Chairman and not published.",
+  "documentations": [
+    {
+      "doc_id": "5205",
+      "reporter": "Cathy Sheeter",
+      "date": "1/23/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5205"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:20.522525"
+}

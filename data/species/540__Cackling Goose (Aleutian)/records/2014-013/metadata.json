@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-013",
+  "year": "2013",
+  "location": "Jumbo Reservoir State Wildlife Area",
+  "county": "Logan",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "2804",
+      "reporter": "Steven Mlodinow",
+      "date": "12/29/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2804"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:04.933456"
+}

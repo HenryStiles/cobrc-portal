@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-90-9",
+  "year": "1990",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Mark Janos",
+  "comments": "Four birds.",
+  "citations": "Nelson, D.  1990 Report of the CBRC. CFO Journal 26(3), 91-97.",
+  "documentations": [
+    {
+      "doc_id": "13587",
+      "reporter": "Mark Janos",
+      "date": "11/10/1990",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13587"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:50.475222"
+}

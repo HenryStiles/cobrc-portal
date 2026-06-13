@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-036",
+  "year": "2006",
+  "location": "Walden Reservoir",
+  "county": "Jackson",
+  "observers": "Brian Gibbons",
+  "comments": "",
+  "citations": "Semo, L. and Faulkner, D.  The 54th Report of the CBRC. Colorado Birds 44(2), 89-105.",
+  "documentations": [
+    {
+      "doc_id": "462",
+      "reporter": "Brian Gibbons",
+      "date": "4/20/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=462"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:55.713209"
+}

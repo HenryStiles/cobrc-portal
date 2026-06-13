@@ -1,0 +1,19 @@
+{
+  "acc_no": "2024-002",
+  "year": "2022",
+  "location": "City Park",
+  "county": "Denver",
+  "observers": "Archer Silverman",
+  "comments": "",
+  "citations": "Gent, P., 2025. 87th Report of the CBRC.  Colorado Birds, 59(1), 7-15.",
+  "documentations": [
+    {
+      "doc_id": "13346",
+      "reporter": "Archer Silverman",
+      "date": "12/16/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13346"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:44.992549"
+}

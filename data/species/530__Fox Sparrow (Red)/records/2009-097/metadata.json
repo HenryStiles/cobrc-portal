@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-097",
+  "year": "2009",
+  "location": "Fountain Creek Regional Park",
+  "county": "El Paso",
+  "observers": "Ted Floyd",
+  "comments": "",
+  "citations": "Faulkner, D. and Semo, L. The 58th Report of the CBRC. Colorado Birds 45(2), 92-101.",
+  "documentations": [
+    {
+      "doc_id": "1356",
+      "reporter": "Ted Floyd",
+      "date": "12/14/2009",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1356"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:26.382881"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-021",
+  "year": "2011",
+  "location": "Not Specified",
+  "county": "Arapahoe",
+  "observers": "Steve Stachowiak",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "5218",
+      "reporter": "Steve Stachowiak",
+      "date": "6/25/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5218"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:04.588506"
+}

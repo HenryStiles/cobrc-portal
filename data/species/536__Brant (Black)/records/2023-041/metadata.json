@@ -1,0 +1,19 @@
+{
+  "acc_no": "2023-041",
+  "year": "2023",
+  "location": "Alamosa River",
+  "county": "Rio Grande",
+  "observers": "Kathy Mihm Dunning",
+  "comments": "",
+  "citations": "Gent, P.  The 86th Report of the CBRC.  Colorado Birds 58(3), 125-132.",
+  "documentations": [
+    {
+      "doc_id": "13618",
+      "reporter": "Kathy Mihm Dunning",
+      "date": "3/19/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13618"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:06.286086"
+}

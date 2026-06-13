@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-131",
+  "year": "2008",
+  "location": "Colorado Springs",
+  "county": "El Paso",
+  "observers": "Bill Maynard",
+  "comments": "",
+  "citations": "Semo, L.  The 51st Report of the CBRC. Colorado Birds 43(3), 193-204.",
+  "documentations": [
+    {
+      "doc_id": "1125",
+      "reporter": "Bill Maynard",
+      "date": "11/3/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1125"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:22.538675"
+}

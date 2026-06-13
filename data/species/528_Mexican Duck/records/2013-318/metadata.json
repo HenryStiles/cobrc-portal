@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-318",
+  "year": "2013",
+  "location": "Loloff Reservoir",
+  "county": "Weld",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Gent, P.  The 84th Report of the CBRC. Colorado Birds 54(4), 194-203.",
+  "documentations": [
+    {
+      "doc_id": "2537",
+      "reporter": "Steven Mlodinow",
+      "date": "7/13/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2537"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:15.671844"
+}

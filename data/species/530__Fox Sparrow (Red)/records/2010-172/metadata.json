@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-172",
+  "year": "2010",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Bill Maynard",
+  "comments": "",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1594",
+      "reporter": "Bill Maynard",
+      "date": "10/12/2010",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1594"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:30.756645"
+}

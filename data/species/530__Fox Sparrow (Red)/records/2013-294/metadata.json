@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-294",
+  "year": "2013",
+  "location": "Mancos area",
+  "county": "Montezuma",
+  "observers": "George San Miguel",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2792",
+      "reporter": "George San Miguel",
+      "date": "12/7/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2792"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:10.330757"
+}

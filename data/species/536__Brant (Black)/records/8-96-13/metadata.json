@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-96-13",
+  "year": "1996",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Jack Reddall",
+  "comments": "",
+  "citations": "Janos, M.  1996 Report of the CBRC. CFO Journal 32, 173-187.",
+  "documentations": [
+    {
+      "doc_id": "13592",
+      "reporter": "Jack Reddall",
+      "date": "10/28/1996",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13592"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:17.171882"
+}

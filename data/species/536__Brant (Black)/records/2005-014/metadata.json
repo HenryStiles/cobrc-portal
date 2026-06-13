@@ -1,0 +1,40 @@
+{
+  "acc_no": "2005-014",
+  "year": "2005",
+  "location": "Littleton",
+  "county": "Arapahoe",
+  "observers": "Tony Leukering, Brandon K Percival, Steve Decker, Doug Faulkner",
+  "comments": "Reported to be in area through 5/11/2005.",
+  "citations": "Semo, L.  The 44th Report of the CBRC. Colorado Birds 41(4), 241-258.",
+  "documentations": [
+    {
+      "doc_id": "282",
+      "reporter": "Tony Leukering",
+      "date": "2/25/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=282"
+    },
+    {
+      "doc_id": "340",
+      "reporter": "Brandon K Percival",
+      "date": "3/4/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=340"
+    },
+    {
+      "doc_id": "96",
+      "reporter": "Steve Decker",
+      "date": "3/17/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=96"
+    },
+    {
+      "doc_id": "115",
+      "reporter": "Doug Faulkner",
+      "date": "4/3/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=115"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:32.906747"
+}

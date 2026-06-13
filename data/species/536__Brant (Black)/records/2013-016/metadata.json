@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-016",
+  "year": "2011",
+  "location": "Lake Cheraw",
+  "county": "Otero",
+  "observers": "Nick Moore",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2251",
+      "reporter": "Nick Moore",
+      "date": "12/15/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2251"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:49.007223"
+}

@@ -1,0 +1,26 @@
+{
+  "acc_no": "2013-105",
+  "year": "2013",
+  "location": "Pueblo City Park",
+  "county": "Pueblo",
+  "observers": "Brandon Percival",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "2410",
+      "reporter": "Brandon K Percival",
+      "date": "4/7/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2410"
+    },
+    {
+      "doc_id": "2419",
+      "reporter": "Brandon K Percival",
+      "date": "4/10/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2419"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:08.748371"
+}

@@ -1,0 +1,54 @@
+{
+  "acc_no": "2003-096",
+  "year": "2003",
+  "location": "Bittersweet Park, Greeley, and Brunner Lake, Broomfield",
+  "county": "Broomfield & Weld",
+  "observers": "Al Guarente, Roger Linfield, Bill Schmoker, Rachel Hopper, Doug Faulkner",
+  "comments": "",
+  "citations": "Faulkner, D. The 65th Report of the CBRC. Colorado Birds 47(1), 28-37.",
+  "documentations": [
+    {
+      "doc_id": "1923",
+      "reporter": "Al Guarente",
+      "date": "12/13/2003",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1923"
+    },
+    {
+      "doc_id": "5",
+      "reporter": "Bill Schmoker",
+      "date": "12/26/2003",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5"
+    },
+    {
+      "doc_id": "55",
+      "reporter": "Roger Linfield",
+      "date": "12/26/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=55"
+    },
+    {
+      "doc_id": "2048",
+      "reporter": "Rachel Hopper",
+      "date": "1/2/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2048"
+    },
+    {
+      "doc_id": "2041",
+      "reporter": "Bill Schmoker",
+      "date": "1/24/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2041"
+    },
+    {
+      "doc_id": "66",
+      "reporter": "Doug Faulkner",
+      "date": "2/24/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=66"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:22.788589"
+}

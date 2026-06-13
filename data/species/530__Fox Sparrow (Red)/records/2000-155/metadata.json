@@ -1,0 +1,19 @@
+{
+  "acc_no": "2000-155",
+  "year": "2000",
+  "location": "Ouray",
+  "county": "Ouray",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "14373",
+      "reporter": "Tony Leukering",
+      "date": "11/6/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14373"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:09.617229"
+}

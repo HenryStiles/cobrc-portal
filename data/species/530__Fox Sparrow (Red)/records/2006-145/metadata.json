@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-145",
+  "year": "2006",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Starr Nicely",
+  "comments": "",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "655",
+      "reporter": "Starr Nicely",
+      "date": "10/13/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=655"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:16.743812"
+}

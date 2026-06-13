@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-012",
+  "year": "2013",
+  "location": "S Platte River",
+  "county": "Denver",
+  "observers": "Cathy Sheeter",
+  "comments": "",
+  "citations": "Accepted by the Chairman and not published.",
+  "documentations": [
+    {
+      "doc_id": "3968",
+      "reporter": "Cathy Sheeter",
+      "date": "12/25/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3968"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:18.253061"
+}

@@ -1,0 +1,26 @@
+{
+  "acc_no": "2012-003",
+  "year": "2012",
+  "location": "Pueblo City Park",
+  "county": "Pueblo",
+  "observers": "Steven Mlodinow, Tony Leukering",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1910",
+      "reporter": "Steven Mlodinow",
+      "date": "1/1/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1910"
+    },
+    {
+      "doc_id": "1989",
+      "reporter": "Tony Leukering",
+      "date": "1/25/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1989"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:02.548591"
+}

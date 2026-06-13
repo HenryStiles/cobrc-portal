@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-002",
+  "year": "2001",
+  "location": "Greeley",
+  "county": "Weld",
+  "observers": "David Bolton, Doug Faulkner, Peter Gent",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "13723",
+      "reporter": "David Bolton, Doug Faulkner, Peter Gent",
+      "date": "1/15/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13723"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:19.595471"
+}

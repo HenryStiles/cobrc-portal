@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-006",
+  "year": "2012",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2240",
+      "reporter": "Steven Mlodinow",
+      "date": "12/16/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2240"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:08.235108"
+}

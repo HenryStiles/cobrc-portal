@@ -1,0 +1,47 @@
+{
+  "acc_no": "2012-207",
+  "year": "2012",
+  "location": "Loveland",
+  "county": "Larimer",
+  "observers": "Jim Thompson, Jim Thompson, Eric Lutomski, Steven Mlodinow, David Dowell",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2256",
+      "reporter": "Jim Thompson",
+      "date": "12/3/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2256"
+    },
+    {
+      "doc_id": "2302",
+      "reporter": "Jim Thompson",
+      "date": "12/3/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2302"
+    },
+    {
+      "doc_id": "2257",
+      "reporter": "Eric Lutomski",
+      "date": "12/12/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2257"
+    },
+    {
+      "doc_id": "2218",
+      "reporter": "Steven Mlodinow",
+      "date": "12/15/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2218"
+    },
+    {
+      "doc_id": "2309",
+      "reporter": "David Dowell",
+      "date": "12/18/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2309"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:49.841316"
+}

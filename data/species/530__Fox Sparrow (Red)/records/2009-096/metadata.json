@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-096",
+  "year": "2009",
+  "location": "Paonia",
+  "county": "Delta",
+  "observers": "Dennis Garrison",
+  "comments": "",
+  "citations": "Faulkner, D. and Semo, L. The 58th Report of the CBRC. Colorado Birds 45(2), 92-101.",
+  "documentations": [
+    {
+      "doc_id": "1351",
+      "reporter": "Dennis Garrison",
+      "date": "12/9/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1351"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:24.424696"
+}

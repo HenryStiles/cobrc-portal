@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-128",
+  "year": "2010",
+  "location": "Idalia",
+  "county": "Yuma",
+  "observers": "Bill Schmoker",
+  "comments": "",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1582",
+      "reporter": "Bill Schmoker",
+      "date": "10/9/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1582"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:29.587230"
+}

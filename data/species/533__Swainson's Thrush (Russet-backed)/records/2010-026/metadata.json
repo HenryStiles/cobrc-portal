@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-026",
+  "year": "2010",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Brian Gibbons",
+  "comments": "banded",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1435",
+      "reporter": "Brian Gibbons",
+      "date": "5/13/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1435"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:19.019849"
+}

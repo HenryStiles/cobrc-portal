@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-81-58",
+  "year": "1981",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Floyd Pendell, Hugh & Urling Kingery",
+  "comments": "",
+  "citations": "Chase, C.  1981 Report of the CBRC. CFO Journal 17(4), 75-82.",
+  "documentations": [
+    {
+      "doc_id": "13586",
+      "reporter": "Floyd Pendell, Hugh & Urling Kingery",
+      "date": "10/24/1981",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13586"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:49.471894"
+}

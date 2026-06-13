@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-013",
+  "year": "2014",
+  "location": "Red Rocks Park",
+  "county": "Jefferson",
+  "observers": "Tom Behnfield",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6331",
+      "reporter": "Tom Behnfield",
+      "date": "11/16/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6331"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:13.150924"
+}

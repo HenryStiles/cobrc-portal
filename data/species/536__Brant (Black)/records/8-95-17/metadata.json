@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-95-17",
+  "year": "1995",
+  "location": "Severance area",
+  "county": "Weld",
+  "observers": "John Barber",
+  "comments": "Also reported from 2/7/1995.",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "13591",
+      "reporter": "John Barber",
+      "date": "2/8/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13591"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:16.167467"
+}

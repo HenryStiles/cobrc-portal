@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-071",
+  "year": "2006",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Brian Gibbons",
+  "comments": "banded",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "463",
+      "reporter": "Brian Gibbons",
+      "date": "5/19/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=463"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:15.832049"
+}

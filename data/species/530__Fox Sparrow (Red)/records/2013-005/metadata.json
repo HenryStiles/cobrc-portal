@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-005",
+  "year": "2012",
+  "location": "Pueblo Nature Center",
+  "county": "Pueblo",
+  "observers": "Brandon K Percival",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2191",
+      "reporter": "Brandon K Percival",
+      "date": "11/24/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2191"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:06.119926"
+}

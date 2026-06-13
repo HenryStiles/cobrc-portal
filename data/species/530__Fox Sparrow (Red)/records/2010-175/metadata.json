@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-175",
+  "year": "2010",
+  "location": "Lamar Community College",
+  "county": "Prowers",
+  "observers": "Dave Leatherman",
+  "comments": "",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1610",
+      "reporter": "David Leatherman",
+      "date": "11/9/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1610"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:47.532760"
+}

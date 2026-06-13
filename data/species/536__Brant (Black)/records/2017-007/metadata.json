@@ -1,0 +1,26 @@
+{
+  "acc_no": "2017-007",
+  "year": "2017",
+  "location": "Indian Tree Golf Course",
+  "county": "Jefferson",
+  "observers": "Doug Faulkner",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "8536",
+      "reporter": "Doug Faulkner",
+      "date": "1/26/2017",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8536"
+    },
+    {
+      "doc_id": "8539",
+      "reporter": "Doug Faulkner",
+      "date": "1/31/2017",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8539"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:03.815974"
+}

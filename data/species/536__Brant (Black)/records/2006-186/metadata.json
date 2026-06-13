@@ -1,0 +1,26 @@
+{
+  "acc_no": "2006-186",
+  "year": "2006",
+  "location": "Aurora",
+  "county": "Arapahoe",
+  "observers": "Mary Jane Black, Ellie Jones",
+  "comments": "Age: ?;",
+  "citations": "Semo, L. and Faulkner, D.  The 53rd Report of the CBRC. Colorado Birds 44(1), 31-42.",
+  "documentations": [
+    {
+      "doc_id": "1112",
+      "reporter": "Ellie Jones",
+      "date": "1/1/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1112"
+    },
+    {
+      "doc_id": "1113",
+      "reporter": "Mary Jane Black",
+      "date": "1/1/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1113"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:43.518686"
+}

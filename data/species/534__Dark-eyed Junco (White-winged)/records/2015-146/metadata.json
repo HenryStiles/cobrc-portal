@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-146",
+  "year": "2015",
+  "location": "Mesa Antero",
+  "county": "Chaffee",
+  "observers": "Sally Waterhouse",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "5222",
+      "reporter": "Sally Waterhouse",
+      "date": "3/1/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5222"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:00.186507"
+}

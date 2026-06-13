@@ -1,0 +1,19 @@
+{
+  "acc_no": "2019-012",
+  "year": "2019",
+  "location": "Frederick Reservoir and Recreation Area",
+  "county": "Weld",
+  "observers": "Rachel Hopper",
+  "comments": "",
+  "citations": "Colorado Birds 56(3), 213-222, 2022.",
+  "documentations": [
+    {
+      "doc_id": "11778",
+      "reporter": "Rachel Hopper",
+      "date": "1/31/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11778"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:05.368333"
+}

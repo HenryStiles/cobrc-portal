@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-188",
+  "year": "2014",
+  "location": "Colorado Springs",
+  "county": "El Paso",
+  "observers": "Tyler Stuart",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "4053",
+      "reporter": "Tyler Stuart",
+      "date": "4/6/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4053"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:11.653234"
+}

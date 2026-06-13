@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-054",
+  "year": "2010",
+  "location": "NW of Lyons",
+  "county": "Larimer",
+  "observers": "Joel Such",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1355",
+      "reporter": "Joel Such",
+      "date": "1/1/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1355"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:26.937201"
+}

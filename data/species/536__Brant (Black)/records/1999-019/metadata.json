@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-019",
+  "year": "1993",
+  "location": "Union Reservoir",
+  "county": "Weld",
+  "observers": "Virginia Dionigi",
+  "comments": "Shot by hunter at Ish Reservoir, Weld, in early November.  Submitted as \"Atlantic Brant\" and revised to \"Black Brant\" based on photo of mounted specimen.",
+  "citations": "Lisowsky, B.  1999 Report of the CBRC. Colorado Birds 35(1):23-39.",
+  "documentations": [
+    {
+      "doc_id": "13593",
+      "reporter": "Virginia Dionigi",
+      "date": "10/31/1993",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13593"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:15.148603"
+}

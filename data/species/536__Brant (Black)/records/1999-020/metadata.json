@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-020",
+  "year": "1999",
+  "location": "Utah Park",
+  "county": "Arapahoe",
+  "observers": "Larry Semo, Rachel Kolokoff, Peter Gent",
+  "comments": "",
+  "citations": "Lisowsky, B.  1999 Report of the CBRC. Colorado Birds 35(1):23-39.",
+  "documentations": [
+    {
+      "doc_id": "13594",
+      "reporter": "Larry Semo, Rachel Kolokoff, Peter Gent",
+      "date": "11/17/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13594"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:18.262984"
+}

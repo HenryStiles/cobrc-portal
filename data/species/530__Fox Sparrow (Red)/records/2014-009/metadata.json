@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-009",
+  "year": "2013",
+  "location": "Denver",
+  "county": "Denver",
+  "observers": "Bill Wuerthele",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "2803",
+      "reporter": "Bill Wuerthele",
+      "date": "11/21/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2803"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:09.060244"
+}

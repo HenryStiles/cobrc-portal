@@ -1,0 +1,26 @@
+{
+  "acc_no": "2010-157",
+  "year": "2010",
+  "location": "La Veta",
+  "county": "Huerfano",
+  "observers": "Polly Neldner",
+  "comments": "",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1529",
+      "reporter": "Polly Neldner",
+      "date": "11/30/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1529"
+    },
+    {
+      "doc_id": "1535",
+      "reporter": "Polly Neldner",
+      "date": "11/30/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1535"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:52.036245"
+}

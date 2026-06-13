@@ -1,0 +1,26 @@
+{
+  "acc_no": "2011-047",
+  "year": "2011",
+  "location": "Boulder Reservoir",
+  "county": "Boulder",
+  "observers": "Ted Floyd, Steven Mlodinow",
+  "comments": "",
+  "citations": "Faulkner, D. The 63rd Report of the CBRC. Colorado Birds 46(3), 188-197.",
+  "documentations": [
+    {
+      "doc_id": "1645",
+      "reporter": "Ted Floyd",
+      "date": "5/12/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1645"
+    },
+    {
+      "doc_id": "1690",
+      "reporter": "Steven Mlodinow",
+      "date": "5/12/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1690"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:00.498032"
+}

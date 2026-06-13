@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-202",
+  "year": "2012",
+  "location": "Walden Ponds/Sawhill Ponds Complex",
+  "county": "Boulder",
+  "observers": "David Dowell",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2211",
+      "reporter": "David Dowell",
+      "date": "11/27/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2211"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:07.232554"
+}

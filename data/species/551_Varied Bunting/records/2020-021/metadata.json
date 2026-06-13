@@ -1,0 +1,19 @@
+{
+  "acc_no": "2020-021",
+  "year": "2020",
+  "location": "Ridgway",
+  "county": "Ouray",
+  "observers": "Don Marsh",
+  "comments": "",
+  "citations": "Colorado Birds 54(4):158-159",
+  "documentations": [
+    {
+      "doc_id": "11900",
+      "reporter": "Don Marsh",
+      "date": "6/22/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11900"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:02.136499"
+}

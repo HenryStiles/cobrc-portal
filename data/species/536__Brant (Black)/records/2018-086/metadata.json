@@ -1,0 +1,19 @@
+{
+  "acc_no": "2018-086",
+  "year": "2018",
+  "location": "Timnath Reservoir",
+  "county": "Larimer",
+  "observers": "Andrew Bankert",
+  "comments": "",
+  "citations": "Colorado Birds 56(3), 213-222, 2022",
+  "documentations": [
+    {
+      "doc_id": "11827",
+      "reporter": "Andrew Bankert",
+      "date": "11/14/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11827"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:04.571077"
+}

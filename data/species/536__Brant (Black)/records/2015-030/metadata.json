@@ -1,0 +1,33 @@
+{
+  "acc_no": "2015-030",
+  "year": "2015",
+  "location": "Monte Vista National Wildlife Refuge",
+  "county": "Rio Grande",
+  "observers": "Ted Floyd, Polly Neldner, Brandon K. Percival",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6234",
+      "reporter": "Ted Floyd",
+      "date": "3/21/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6234"
+    },
+    {
+      "doc_id": "6231",
+      "reporter": "Polly Neldner",
+      "date": "4/5/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6231"
+    },
+    {
+      "doc_id": "6240",
+      "reporter": "Brandon K. Percival",
+      "date": "4/9/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6240"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:55.826449"
+}

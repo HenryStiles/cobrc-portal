@@ -1,0 +1,26 @@
+{
+  "acc_no": "2006-011",
+  "year": "2006",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Doug Faulkner, Larry Semo",
+  "comments": "Age: juvenile;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "912",
+      "reporter": "Larry Semo",
+      "date": "12/18/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=912"
+    },
+    {
+      "doc_id": "311",
+      "reporter": "Doug Faulkner",
+      "date": "1/21/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=311"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:41.895913"
+}

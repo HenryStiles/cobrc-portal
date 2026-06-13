@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-014",
+  "year": "2015",
+  "location": "City Park",
+  "county": "Denver",
+  "observers": "Cathy Sheeter",
+  "comments": "",
+  "citations": "Accepted by the Chairman and not published.",
+  "documentations": [
+    {
+      "doc_id": "5207",
+      "reporter": "Cathy Sheeter",
+      "date": "1/27/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5207"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:22.452727"
+}

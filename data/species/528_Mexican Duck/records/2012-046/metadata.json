@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-046",
+  "year": "2012",
+  "location": "Firestone gravel pits and St Vrain SP",
+  "county": "Weld",
+  "observers": "Steve Mlodinow",
+  "comments": "",
+  "citations": "Faulker, D. The 66th Report of the CBRC. Colorado Birds 47(2), 86-93.",
+  "documentations": [
+    {
+      "doc_id": "1975",
+      "reporter": "Steven Mlodinow",
+      "date": "3/22/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1975"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:07.748338"
+}

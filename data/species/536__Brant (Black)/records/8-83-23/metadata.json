@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-83-23",
+  "year": "1980",
+  "location": "Pawnee Buttes and Pawnee N. Grassland (E. section)",
+  "county": "Weld",
+  "observers": "Bill Prather",
+  "comments": "",
+  "citations": "Gent, P.  1983 Report of the CBRC. CFO Journal 19(1-2), 28-33.",
+  "documentations": [
+    {
+      "doc_id": "13589",
+      "reporter": "Bill Prather",
+      "date": "5/17/1980",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13589"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:56.837428"
+}

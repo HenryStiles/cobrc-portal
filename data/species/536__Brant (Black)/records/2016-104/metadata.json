@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-104",
+  "year": "2016",
+  "location": "Hidden Lake",
+  "county": "Adams",
+  "observers": "Chris Rurik",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "8523",
+      "reporter": "Chris Rurik",
+      "date": "12/13/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8523"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:00.785508"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-144",
+  "year": "2014",
+  "location": "Peaceful Valley",
+  "county": "Boulder",
+  "observers": "Steve Bouricius",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "5136",
+      "reporter": "Steve Bouricius",
+      "date": "1/6/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5136"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:10.883454"
+}

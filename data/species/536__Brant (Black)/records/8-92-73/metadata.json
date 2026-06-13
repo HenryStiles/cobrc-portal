@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-92-73",
+  "year": "1992",
+  "location": "Monte Vista National Wildlife Refuge",
+  "county": "Rio Grande",
+  "observers": "John Rawinski",
+  "comments": "",
+  "citations": "Prather, B.  1992 Report of the CBRC. CFO Jornal 28(4), 157-168.",
+  "documentations": [
+    {
+      "doc_id": "13590",
+      "reporter": "John Rawinski",
+      "date": "1/4/1992",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13590"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:57.843162"
+}

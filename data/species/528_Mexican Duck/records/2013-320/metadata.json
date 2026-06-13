@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-320",
+  "year": "2013",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Doug Faulkner",
+  "comments": "",
+  "citations": "The 89th Report of the CBRC, Peter R. Gent, Colorado Birds 60(1), 323-332, 2026.",
+  "documentations": [
+    {
+      "doc_id": "13819",
+      "reporter": "Doug Faulkner",
+      "date": "12/14/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13819"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:18.067879"
+}

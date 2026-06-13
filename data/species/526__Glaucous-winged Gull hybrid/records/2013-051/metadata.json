@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-051",
+  "year": "2013",
+  "location": "Teller Lake No. 5 40.039 deg N, 105.137 deg W",
+  "county": "Boulder",
+  "observers": "David Dowell",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2317",
+      "reporter": "David Dowell",
+      "date": "1/24/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2317"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:47.753598"
+}

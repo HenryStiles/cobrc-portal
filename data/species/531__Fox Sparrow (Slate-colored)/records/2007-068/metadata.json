@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-068",
+  "year": "2007",
+  "location": "Standley Lake",
+  "county": "Jefferson",
+  "observers": "Larry Semo",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "795",
+      "reporter": "Larry Semo",
+      "date": "10/6/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=795"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:14.070099"
+}

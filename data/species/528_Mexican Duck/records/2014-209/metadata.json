@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-209",
+  "year": "2014",
+  "location": "McPhee Reservoir",
+  "county": "Montezuma",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Gent, P.  The 84th Report of the CBRC. Colorado Birds 54(4), 194-203.",
+  "documentations": [
+    {
+      "doc_id": "4007",
+      "reporter": "Steven Mlodinow",
+      "date": "4/15/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4007"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:22.013549"
+}

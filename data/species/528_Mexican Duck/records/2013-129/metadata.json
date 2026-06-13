@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-129",
+  "year": "2013",
+  "location": "Loloff Reservoir",
+  "county": "Weld",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "2447",
+      "reporter": "Steven Mlodinow",
+      "date": "4/14/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2447"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:13.055234"
+}
