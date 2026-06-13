@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-134",
+  "year": "2008",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Rick Clawges",
+  "comments": "Age: 1st cycle; Plumage: juvenal;",
+  "citations": "Semo, L.  The 50th Report of the CBRC. Colorado Birds 43(2), 123-135.",
+  "documentations": [
+    {
+      "doc_id": "1175",
+      "reporter": "Rick Clawges",
+      "date": "11/16/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1175"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:40.241467"
+}

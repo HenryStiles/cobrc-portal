@@ -1,0 +1,40 @@
+{
+  "acc_no": "2012-089",
+  "year": "2012",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Steve Mlodinow, Bill Schmoker, Peter Gent, Bill Maynard",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "Faulkner, Doug. April 2013. The 66th Report of the Colorado Bird Records Committee: Colorado Birds 47(2):86-93",
+  "documentations": [
+    {
+      "doc_id": "2042",
+      "reporter": "Bill Schmoker",
+      "date": "7/29/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2042"
+    },
+    {
+      "doc_id": "2044",
+      "reporter": "Peter Gent",
+      "date": "7/29/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2044"
+    },
+    {
+      "doc_id": "2055",
+      "reporter": "Steven Mlodinow",
+      "date": "7/29/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2055"
+    },
+    {
+      "doc_id": "2045",
+      "reporter": "Bill Maynard",
+      "date": "7/30/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2045"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:58.010949"
+}

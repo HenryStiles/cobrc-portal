@@ -1,0 +1,33 @@
+{
+  "acc_no": "2000-073",
+  "year": "2000",
+  "location": "Canon City Riverwalk",
+  "county": "Fremont",
+  "observers": "Tony Leukering, Alan Versaw, Alan Versaw",
+  "comments": "",
+  "citations": "Leukering, T. and Wood, C.  The 2000 Report of the CBRC. Colorado Birds 36(2), 82-113.",
+  "documentations": [
+    {
+      "doc_id": "3872",
+      "reporter": "Tony Leukering",
+      "date": "12/17/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3872"
+    },
+    {
+      "doc_id": "3873",
+      "reporter": "Alan Versaw",
+      "date": "12/17/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3873"
+    },
+    {
+      "doc_id": "3874",
+      "reporter": "Alan Versaw",
+      "date": "12/17/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3874"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:05.800137"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2000-072",
+  "year": "2000",
+  "location": "Monte Vista",
+  "county": "Rio Grande",
+  "observers": "John Rawinski",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2781",
+      "reporter": "John Rawinski",
+      "date": "8/11/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2781"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:27.034085"
+}

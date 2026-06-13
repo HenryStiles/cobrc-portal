@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-063",
+  "year": "2007",
+  "location": "Claymore Lake",
+  "county": "Larimer",
+  "observers": "Ken Ecton",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1192",
+      "reporter": "Ken Ecton",
+      "date": "8/28/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1192"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:20.537252"
+}

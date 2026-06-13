@@ -1,0 +1,19 @@
+{
+  "acc_no": "22-73-115",
+  "year": "1973",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Harold Holt",
+  "comments": "Originally submitted and accepted as Pomarine Jaeger.",
+  "citations": "Leukering, T.  Jaegers in Colorado: A Special Report of the CBRC. Colorado Birds 37(2), 73-87.",
+  "documentations": [
+    {
+      "doc_id": "13408",
+      "reporter": "Harold Holt",
+      "date": "9/20/1973",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13408"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:06.464781"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-079",
+  "year": "2015",
+  "location": "Animas River",
+  "county": "La Plata",
+  "observers": "Dugald Owen",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6289",
+      "reporter": "Dugald Owen",
+      "date": "6/20/2015",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6289"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:11.952068"
+}

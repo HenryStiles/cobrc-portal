@@ -1,0 +1,26 @@
+{
+  "acc_no": "2015-122",
+  "year": "2015",
+  "location": "Colorado Springs",
+  "county": "El Paso",
+  "observers": "Sharon Milito, Bill Maynard",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "6362",
+      "reporter": "Sharon Milito",
+      "date": "11/15/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6362"
+    },
+    {
+      "doc_id": "6364",
+      "reporter": "Bill Maynard",
+      "date": "11/16/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6364"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:15.518243"
+}

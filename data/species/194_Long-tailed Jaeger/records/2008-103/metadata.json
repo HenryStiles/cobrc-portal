@@ -1,0 +1,40 @@
+{
+  "acc_no": "2008-103",
+  "year": "2008",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Andrew Spencer, Nick Komar, Glenn Walbek, Loch Kilpatrick",
+  "comments": "Age: juvenile; Plumage: intermediate;",
+  "citations": "Faulkner, D. and Semo, L. The 59th Report of the CBRC. Colorado Birds 45(3), 174-180.",
+  "documentations": [
+    {
+      "doc_id": "1090",
+      "reporter": "Andrew Spencer",
+      "date": "9/7/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1090"
+    },
+    {
+      "doc_id": "1120",
+      "reporter": "Nicholas Komar",
+      "date": "9/7/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1120"
+    },
+    {
+      "doc_id": "1083",
+      "reporter": "Glenn Walbek",
+      "date": "9/11/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1083"
+    },
+    {
+      "doc_id": "4063",
+      "reporter": "Loch Kilpatrick",
+      "date": "9/24/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4063"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:23.419615"
+}

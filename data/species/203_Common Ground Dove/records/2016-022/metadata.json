@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-022",
+  "year": "2015",
+  "location": "Rain Crow Farm",
+  "county": "Delta",
+  "observers": "Jason Beason",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6409",
+      "reporter": "Jason Beason",
+      "date": "5/13/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6409"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:55.299262"
+}

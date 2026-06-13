@@ -1,0 +1,26 @@
+{
+  "acc_no": "2016-097",
+  "year": "2016",
+  "location": "Chatfield State Park (Douglas Portion)",
+  "county": "Douglas",
+  "observers": "Scott Somershoe",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "7491",
+      "reporter": "Adam Vesely",
+      "date": "10/13/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=7491"
+    },
+    {
+      "doc_id": "7492",
+      "reporter": "Scott Somershoe",
+      "date": "10/13/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=7492"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:20.920535"
+}

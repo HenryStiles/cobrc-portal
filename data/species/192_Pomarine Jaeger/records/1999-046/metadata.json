@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-046",
+  "year": "1999",
+  "location": "Stagecoach Reservoir State Park",
+  "county": "Routt",
+  "observers": "Doug Faulkner",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "13448",
+      "reporter": "Doug Faulkner",
+      "date": "6/17/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13448"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:41.730017"
+}

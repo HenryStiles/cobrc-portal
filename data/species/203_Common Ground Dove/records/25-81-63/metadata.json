@@ -1,0 +1,19 @@
+{
+  "acc_no": "25-81-63",
+  "year": "1981",
+  "location": "Tamarack Ranch State Wildlife Area",
+  "county": "Logan",
+  "observers": "Galen Burrell",
+  "comments": "Second state record: Single observer, but accepted later.",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "13239",
+      "reporter": "Galen Burrell",
+      "date": "12/17/1981",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13239"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:44.719096"
+}

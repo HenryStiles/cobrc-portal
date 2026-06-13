@@ -1,0 +1,19 @@
+{
+  "acc_no": "22-95-35",
+  "year": "1995",
+  "location": "Barr Lake State Park",
+  "county": "Adams & Weld",
+  "observers": "Tony Leukering, Bob Righter, Ric Olson",
+  "comments": "At Milton Res 9/4-6/1995 then refound at Barr Lake SP 9/10-14/1995.",
+  "citations": "Leukering. T.  Jaegers in Colorado: A Special Report of the CBRC. Colorado Birds 37(2), 73-87.",
+  "documentations": [
+    {
+      "doc_id": "13412",
+      "reporter": "Tony Leukering, Bob Righter, Ric Olson",
+      "date": "9/10/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13412"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:12.051672"
+}

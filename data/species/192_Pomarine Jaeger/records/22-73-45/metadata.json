@@ -1,0 +1,19 @@
+{
+  "acc_no": "22-73-45",
+  "year": "1973",
+  "location": "De Weese Reservoir",
+  "county": "Custer",
+  "observers": "Steve Larson, Van Truan",
+  "comments": "Light morph.",
+  "citations": "Reddall, J. 1974. Reports from the CFO Official Records Committee. Colorado Field Ornithologist 19:11-41.",
+  "documentations": [
+    {
+      "doc_id": "13421",
+      "reporter": "Steve Larson, Van Truan",
+      "date": "5/12/1973",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13421"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:19.770313"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2000-042",
+  "year": "1999",
+  "location": "Standley Lake",
+  "county": "Jefferson",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "Leukering, T.  The 40th Report of the CBRC. Colorado Birds 39(4), 168-176.",
+  "documentations": [
+    {
+      "doc_id": "13702",
+      "reporter": "Tony Leukering",
+      "date": "10/31/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13702"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:42.752442"
+}

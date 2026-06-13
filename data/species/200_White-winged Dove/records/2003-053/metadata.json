@@ -1,0 +1,19 @@
+{
+  "acc_no": "2003-053",
+  "year": "2003",
+  "location": "Brown's Park National Wildlife Refuge",
+  "county": "Moffat",
+  "observers": "Suzanne Halvorson",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "14608",
+      "reporter": "Suzanne Halvorson",
+      "date": "5/17/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14608"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:36.968422"
+}

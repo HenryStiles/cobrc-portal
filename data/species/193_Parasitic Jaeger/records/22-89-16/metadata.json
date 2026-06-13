@@ -1,0 +1,19 @@
+{
+  "acc_no": "22-89-16",
+  "year": "1989",
+  "location": "Lake Holbrook",
+  "county": "Otero",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Leukering. T.  Jaegers in Colorado: A Special Report of the CBRC. Colorado Birds 37(2), 73-87.",
+  "documentations": [
+    {
+      "doc_id": "13417",
+      "reporter": "Mark Janos",
+      "date": "9/14/1989",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13417"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:47.874834"
+}

@@ -1,0 +1,33 @@
+{
+  "acc_no": "2023-009",
+  "year": "2023",
+  "location": "Pella Crossing Park",
+  "county": "Boulder",
+  "observers": "Todd Deininger, Steve Stachowiak, Pamela StClair",
+  "comments": "Fourth state record.",
+  "citations": "Gent, P.  85th Report of the CBRC. Colorado Birds 58(1), 7-14.",
+  "documentations": [
+    {
+      "doc_id": "13359",
+      "reporter": "Pamela StClair",
+      "date": "6/20/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13359"
+    },
+    {
+      "doc_id": "13332",
+      "reporter": "Todd Deininger",
+      "date": "6/20/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13332"
+    },
+    {
+      "doc_id": "13333",
+      "reporter": "Steve Stachowiak",
+      "date": "6/20/2023",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13333"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:15.376306"
+}

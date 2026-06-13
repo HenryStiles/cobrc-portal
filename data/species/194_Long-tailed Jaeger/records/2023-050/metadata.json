@@ -1,0 +1,19 @@
+{
+  "acc_no": "2023-050",
+  "year": "2023",
+  "location": "Boyd Lake State Park",
+  "county": "Larimer",
+  "observers": "Nicholas Komar",
+  "comments": "",
+  "citations": "Gent, P.  The 86th Report of the CBRC.  Colorado Birds 58(3), 125-132.",
+  "documentations": [
+    {
+      "doc_id": "13405",
+      "reporter": "Nicholas Komar",
+      "date": "8/29/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13405"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:26.285408"
+}

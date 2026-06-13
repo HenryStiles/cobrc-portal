@@ -1,0 +1,19 @@
+{
+  "acc_no": "25-94-41",
+  "year": "1994",
+  "location": "Reservoirs North and East of Greeley",
+  "county": "Weld",
+  "observers": "Joe Himmel",
+  "comments": "Third state record: Single observer, but accepted later.",
+  "citations": "Prather, B.  1994 Report of the CBRC. CFO Journal 31(1), 23-31.",
+  "documentations": [
+    {
+      "doc_id": "13240",
+      "reporter": "Joe Himmel",
+      "date": "12/22/1994",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13240"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:46.203173"
+}

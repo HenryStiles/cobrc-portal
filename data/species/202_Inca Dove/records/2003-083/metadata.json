@@ -1,0 +1,19 @@
+{
+  "acc_no": "2003-083",
+  "year": "2003",
+  "location": "Pueblo",
+  "county": "Pueblo",
+  "observers": "Dick Roth",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  The 39th Report of the CBRC. Colorado Birds 39(3), 131-141.",
+  "documentations": [
+    {
+      "doc_id": "11931",
+      "reporter": "Richard (Dick) Roth",
+      "date": "11/23/2003",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11931"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:07.131963"
+}

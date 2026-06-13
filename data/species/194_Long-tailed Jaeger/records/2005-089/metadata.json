@@ -1,0 +1,33 @@
+{
+  "acc_no": "2005-089",
+  "year": "2005",
+  "location": "Prewitt Reservoir State Wildlife Area",
+  "county": "Washington",
+  "observers": "Roger Linfield, Tony Leukering, Larry Griffin",
+  "comments": "Age: juv; Plumage: dark;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "231",
+      "reporter": "Roger Linfield",
+      "date": "9/5/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=231"
+    },
+    {
+      "doc_id": "774",
+      "reporter": "Tony Leukering",
+      "date": "9/5/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=774"
+    },
+    {
+      "doc_id": "168",
+      "reporter": "Larry Griffin",
+      "date": "9/15/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=168"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:17.111518"
+}

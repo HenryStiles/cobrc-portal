@@ -1,0 +1,26 @@
+{
+  "acc_no": "2018-022",
+  "year": "2018",
+  "location": "Lagerman Reservoir and the Swede Lakes",
+  "county": "Boulder",
+  "observers": "Steven Mlodinow, Peter Burke",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "11731",
+      "reporter": "Steven Mlodinow",
+      "date": "10/6/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11731"
+    },
+    {
+      "doc_id": "11732",
+      "reporter": "Peter Burke",
+      "date": "10/6/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11732"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:23.822964"
+}

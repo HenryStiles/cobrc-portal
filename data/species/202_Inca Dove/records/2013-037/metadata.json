@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-037",
+  "year": "2012",
+  "location": "Cottonwood Canyon",
+  "county": "Baca",
+  "observers": "Chuck Aid",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2292",
+      "reporter": "Chuck Aid",
+      "date": "5/17/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2292"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:14.974771"
+}

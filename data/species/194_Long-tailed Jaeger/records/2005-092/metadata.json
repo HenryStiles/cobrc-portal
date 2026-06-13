@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-092",
+  "year": "2005",
+  "location": "Colorado City and Rye",
+  "county": "Pueblo",
+  "observers": "David Silverman",
+  "comments": "Age: juv; Plumage: light morph;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "167",
+      "reporter": "David Silverman",
+      "date": "9/13/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=167"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:19.351061"
+}

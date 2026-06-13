@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-025",
+  "year": "2005",
+  "location": "Two Buttes State Wildlife Area",
+  "county": "Baca",
+  "observers": "Nicholas Komar",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "121",
+      "reporter": "Nicholas Komar",
+      "date": "4/20/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=121"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:38.068695"
+}

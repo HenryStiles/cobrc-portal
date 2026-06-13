@@ -1,0 +1,19 @@
+{
+  "acc_no": "1957-001",
+  "year": "1957",
+  "location": "US 287 S of Lafayette",
+  "county": "Boulder",
+  "observers": "John and Margaret Douglass",
+  "comments": "Found dead: Specimen CU #6282",
+  "citations": "Douglass, J. and M. Douglass, First Ancient Murrelet Collected in Colorado. Auk, 75, 216, 1958.",
+  "documentations": [
+    {
+      "doc_id": "13227",
+      "reporter": "John and Margaret Douglass",
+      "date": "11/28/1957",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13227"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:30.326544"
+}

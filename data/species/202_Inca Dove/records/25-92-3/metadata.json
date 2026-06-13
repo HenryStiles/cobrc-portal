@@ -1,0 +1,19 @@
+{
+  "acc_no": "25-92-3",
+  "year": "1992",
+  "location": "Lafayette Storage Ponds",
+  "county": "Boulder",
+  "observers": "Duane Nelson, Mark Janos",
+  "comments": "",
+  "citations": "Prather, B.  1992 Report of the CBRC. CFO Jornal 28(4), 157-168.",
+  "documentations": [
+    {
+      "doc_id": "13251",
+      "reporter": "Duane Nelson, Mark Janos",
+      "date": "11/5/1992",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13251"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:47.741406"
+}

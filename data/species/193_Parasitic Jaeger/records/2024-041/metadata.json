@@ -1,0 +1,19 @@
+{
+  "acc_no": "2024-041",
+  "year": "2024",
+  "location": "Blanca Wetlands",
+  "county": "Alamosa",
+  "observers": "John Rawinski",
+  "comments": "",
+  "citations": "Gent, P., The 88th Report of the CBRC. Colorado Birds 59(3), 192-197.",
+  "documentations": [
+    {
+      "doc_id": "14219",
+      "reporter": "John Rawinski",
+      "date": "8/28/2024",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14219"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:35.874862"
+}

@@ -1,0 +1,33 @@
+{
+  "acc_no": "2013-169",
+  "year": "2013",
+  "location": "Antero Reservoir",
+  "county": "Park",
+  "observers": "Eric DeFonso, John Drummond, Bill Maynard",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2598",
+      "reporter": "Eric DeFonso",
+      "date": "6/11/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2598"
+    },
+    {
+      "doc_id": "2496",
+      "reporter": "John Drummond",
+      "date": "6/17/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2496"
+    },
+    {
+      "doc_id": "2509",
+      "reporter": "Bill Maynard",
+      "date": "6/17/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2509"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:11.669049"
+}

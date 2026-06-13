@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-140",
+  "year": "2004",
+  "location": "Durango",
+  "county": "La Plata",
+  "observers": "Jim Beatty",
+  "comments": "",
+  "citations": "Faulkner, D. and Semo, L. The 58th Report of the CBRC. Colorado Birds 45(2), 92-101.",
+  "documentations": [
+    {
+      "doc_id": "95",
+      "reporter": "James Beatty",
+      "date": "12/28/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=95"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:15.068960"
+}

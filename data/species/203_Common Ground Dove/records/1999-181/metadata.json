@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-181",
+  "year": "1999",
+  "location": "Jackson Reservoir",
+  "county": "Morgan",
+  "observers": "Dave Quesenberry, Gail Evans",
+  "comments": "First two person sight record.",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "13241",
+      "reporter": "Dave Quesenberry, Gail Evans",
+      "date": "11/20/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13241"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:47.428042"
+}

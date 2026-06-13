@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-123",
+  "year": "2008",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Andrew Spencer",
+  "comments": "Age: juv.; Plumage: light;",
+  "citations": "Semo, L. and Faulkner, D.  The 52nd Report of the CBRC. Colorado Birds 43(4), 268-281.",
+  "documentations": [
+    {
+      "doc_id": "1108",
+      "reporter": "Andrew Spencer",
+      "date": "10/18/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1108"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:07.346411"
+}

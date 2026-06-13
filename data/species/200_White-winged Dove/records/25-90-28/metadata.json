@@ -1,0 +1,19 @@
+{
+  "acc_no": "25-90-28",
+  "year": "1990",
+  "location": "Denver",
+  "county": "Denver",
+  "observers": "Addie & Irv Cohen",
+  "comments": "",
+  "citations": "Nelson, D.  1990 Report of the CBRC. CFO Journal 26(3), 91-97.",
+  "documentations": [
+    {
+      "doc_id": "14580",
+      "reporter": "Addie & Irv Cohen",
+      "date": "6/4/1990",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14580"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:39.493402"
+}

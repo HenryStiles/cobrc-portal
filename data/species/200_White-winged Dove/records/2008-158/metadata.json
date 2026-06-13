@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-158",
+  "year": "2008",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Nicholas Komar",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "931",
+      "reporter": "Nicholas Komar",
+      "date": "3/18/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=931"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:43.116882"
+}

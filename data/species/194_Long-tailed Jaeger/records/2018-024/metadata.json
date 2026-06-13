@@ -1,0 +1,19 @@
+{
+  "acc_no": "2018-024",
+  "year": "2018",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Brandon K. Percival",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "11726",
+      "reporter": "Brandon K. Percival",
+      "date": "9/20/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11726"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:02.090274"
+}

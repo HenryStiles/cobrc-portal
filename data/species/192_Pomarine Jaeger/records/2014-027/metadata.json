@@ -1,0 +1,26 @@
+{
+  "acc_no": "2014-027",
+  "year": "2013",
+  "location": "Chatfield State Park",
+  "county": "Douglas",
+  "observers": "Glenn Walbek, Kris Petersen",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2831",
+      "reporter": "Glenn Walbek",
+      "date": "10/16/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2831"
+    },
+    {
+      "doc_id": "2707",
+      "reporter": "Kris Petersen",
+      "date": "10/26/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2707"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:19.223106"
+}

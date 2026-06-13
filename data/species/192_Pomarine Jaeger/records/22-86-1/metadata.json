@@ -1,0 +1,19 @@
+{
+  "acc_no": "22-86-1",
+  "year": "1985",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Laurens Halsey",
+  "comments": "",
+  "citations": "Leukering. T.  Jaegers in Colorado: A Special Report of the CBRC. Colorado Birds 37(2), 73-87.",
+  "documentations": [
+    {
+      "doc_id": "13425",
+      "reporter": "Laurens Halsey",
+      "date": "11/23/1985",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13425"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:27.649307"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2017-053",
+  "year": "2017",
+  "location": "Antero Reservoir",
+  "county": "Park",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "8599",
+      "reporter": "Steven Mlodinow",
+      "date": "8/26/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8599"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:54.097483"
+}

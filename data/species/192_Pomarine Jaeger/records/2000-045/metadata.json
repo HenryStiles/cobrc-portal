@@ -1,0 +1,26 @@
+{
+  "acc_no": "2000-045",
+  "year": "2000",
+  "location": "Chatfield State Park",
+  "county": "Douglas & Jefferson",
+  "observers": "Ric Olson, Larry Semo",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  2001 pt.2 of the CBRC. Colorado Birds 38(1), 14-21.",
+  "documentations": [
+    {
+      "doc_id": "13679",
+      "reporter": "Ric Olson",
+      "date": "10/8/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13679"
+    },
+    {
+      "doc_id": "2641",
+      "reporter": "Larry Semo",
+      "date": "10/12/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2641"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:52.494977"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "1982-003",
+  "year": "1982",
+  "location": "Aspen",
+  "county": "Pitkin",
+  "observers": "Aspen Times",
+  "comments": "Bird died overnight: Specimen DMNH #37691",
+  "citations": "Webb, B. and Reddall, J., CFO Journal 23, 121-123, 1989.",
+  "documentations": [
+    {
+      "doc_id": "13232",
+      "reporter": "Aspen Times",
+      "date": "8/23/1982",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13232"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:08.205720"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-038",
+  "year": "2002",
+  "location": "Zink's Pond",
+  "county": "La Plata",
+  "observers": "James Beatty",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  The 38th Report of the CBRC. Colorado Birds 38(4), 168-183.",
+  "documentations": [
+    {
+      "doc_id": "14605",
+      "reporter": "James Beatty",
+      "date": "4/17/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14605"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:33.374136"
+}

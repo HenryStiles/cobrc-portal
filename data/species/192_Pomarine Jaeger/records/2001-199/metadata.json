@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-199",
+  "year": "2001",
+  "location": "Windsor Reservoir",
+  "county": "Weld",
+  "observers": "Joe Fontaine, Tony Leukering",
+  "comments": "Originally published as 2001-171",
+  "citations": "Leukering, T. and Semo, L.  2001 pt.2 of the CBRC. Colorado Birds 38(1), 14-21.",
+  "documentations": [
+    {
+      "doc_id": "13450",
+      "reporter": "Joe Fontaine, Tony Leukering",
+      "date": "11/1/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13450"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:55.911397"
+}

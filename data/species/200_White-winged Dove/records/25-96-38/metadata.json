@@ -1,0 +1,19 @@
+{
+  "acc_no": "25-96-38",
+  "year": "1996",
+  "location": "Chatfield State Park",
+  "county": "Jefferson",
+  "observers": "Joey Kellner",
+  "comments": "",
+  "citations": "Janos, M.  1996 Report of the CBRC.  J. of the CFO 32(3), 173-187.",
+  "documentations": [
+    {
+      "doc_id": "14590",
+      "reporter": "Joey Kellner",
+      "date": "10/23/1996",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14590"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:19.147825"
+}

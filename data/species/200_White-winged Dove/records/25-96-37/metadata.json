@@ -1,0 +1,19 @@
+{
+  "acc_no": "25-96-37",
+  "year": "1996",
+  "location": "Monte Vista",
+  "county": "Rio Grande",
+  "observers": "Leslie Cahill",
+  "comments": "",
+  "citations": "Janos, M.  1996 Report of the CBRC.  J. of the CFO 32(3), 173-187.",
+  "documentations": [
+    {
+      "doc_id": "14589",
+      "reporter": "Leslie Cahill",
+      "date": "5/26/1996",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14589"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:17.931683"
+}

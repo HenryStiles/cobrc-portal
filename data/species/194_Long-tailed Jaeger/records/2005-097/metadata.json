@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-097",
+  "year": "2005",
+  "location": "Prewitt Reservoir State Wildlife Area",
+  "county": "Washington & Logan",
+  "observers": "Andrew Spencer",
+  "comments": "Age: juv; Plumage: light morph;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "171",
+      "reporter": "Andrew Spencer",
+      "date": "9/19/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=171"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:19.939084"
+}

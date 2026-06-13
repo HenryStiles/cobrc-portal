@@ -1,0 +1,40 @@
+{
+  "acc_no": "2006-132",
+  "year": "2006",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe & Douglas",
+  "observers": "Glenn Walbek, Bill Maynard, Brandon Percival",
+  "comments": "Age: imm.; Plumage: dark;",
+  "citations": "Semo, L.  The 48th Report of the CBRC. Colorado Birds 42(4), 270-278.",
+  "documentations": [
+    {
+      "doc_id": "675",
+      "reporter": "Glenn Walbek",
+      "date": "9/24/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=675"
+    },
+    {
+      "doc_id": "567",
+      "reporter": "Bill Maynard",
+      "date": "9/29/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=567"
+    },
+    {
+      "doc_id": "572",
+      "reporter": "Brandon K Percival",
+      "date": "10/1/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=572"
+    },
+    {
+      "doc_id": "676",
+      "reporter": "Glenn Walbek",
+      "date": "10/5/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=676"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:02.366940"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2023-070",
+  "year": "2023",
+  "location": "Pueblo Reservoir",
+  "county": "Pueblo",
+  "observers": "Brandon Percival",
+  "comments": "",
+  "citations": "Gent, P., The 88th Report of the CBRC. Colorado Birds 59(3), 192-197.",
+  "documentations": [
+    {
+      "doc_id": "14257",
+      "reporter": "Brandon Percival",
+      "date": "12/15/2023",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14257"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:56.748757"
+}

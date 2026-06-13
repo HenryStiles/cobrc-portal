@@ -1,0 +1,19 @@
+{
+  "acc_no": "25-75-130",
+  "year": "1974",
+  "location": "22 mls E of Eaton",
+  "county": "Weld",
+  "observers": "Thomas Ray, Ron Ryder",
+  "comments": "One male collected; specimen location unknown",
+  "citations": "Reddall, J. 1976. CFO Official Records Committee 1975 Report. C.F.O. Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "14575",
+      "reporter": "Thomas Ray, Ron Ryder",
+      "date": "9/2/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14575"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:32.516507"
+}

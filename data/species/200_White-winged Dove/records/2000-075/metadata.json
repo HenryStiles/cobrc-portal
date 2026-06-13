@@ -1,0 +1,19 @@
+{
+  "acc_no": "2000-075",
+  "year": "2000",
+  "location": "Campo",
+  "county": "Baca",
+  "observers": "Darrin O'Brien",
+  "comments": "",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "3876",
+      "reporter": "Darrin O'Brien",
+      "date": "5/10/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3876"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:29.412103"
+}

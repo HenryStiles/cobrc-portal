@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-073",
+  "year": "2016",
+  "location": "Chatfield State Park (Douglas Portion)",
+  "county": "Douglas",
+  "observers": "Brian Johnson",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "7474",
+      "reporter": "Brian Johnson",
+      "date": "9/9/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=7474"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:11.937610"
+}

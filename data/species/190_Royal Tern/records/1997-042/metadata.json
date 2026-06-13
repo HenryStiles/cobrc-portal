@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-042",
+  "year": "1997",
+  "location": "Neenoshe Reservoir",
+  "county": "Kiowa",
+  "observers": "Duane Nelson, Mark Janos, Dick Schottler",
+  "comments": "First state record.",
+  "citations": "Janos, M.  1997 Report of the CBRC.  J. of the CFO 33(4), 241-252.",
+  "documentations": [
+    {
+      "doc_id": "13230",
+      "reporter": "Duane Nelson, Mark Janos, Dick Schottler",
+      "date": "7/15/1997",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13230"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:38.550153"
+}

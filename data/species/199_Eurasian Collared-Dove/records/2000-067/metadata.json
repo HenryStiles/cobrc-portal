@@ -1,0 +1,19 @@
+{
+  "acc_no": "2000-067",
+  "year": "2000",
+  "location": "New Raymer",
+  "county": "Weld",
+  "observers": "Duane Weber",
+  "comments": "",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "2732",
+      "reporter": "Duane Weber",
+      "date": "3/19/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2732"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:29.465704"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2017-054",
+  "year": "2017",
+  "location": "Antero Reservoir",
+  "county": "Park",
+  "observers": "Kathy Mihm Dunning",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "8597",
+      "reporter": "Kathy Mihm Dunning",
+      "date": "8/31/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8597"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:55.659172"
+}

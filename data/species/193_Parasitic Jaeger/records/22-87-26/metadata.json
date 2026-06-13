@@ -1,0 +1,19 @@
+{
+  "acc_no": "22-87-26",
+  "year": "1985",
+  "location": "Jumbo Reservoir State Wildlife Area",
+  "county": "Logan",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Leukering. T.  Jaegers in Colorado: A Special Report of the CBRC. Colorado Birds 37(2), 73-87.",
+  "documentations": [
+    {
+      "doc_id": "13416",
+      "reporter": "Mark Janos",
+      "date": "9/6/1985",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13416"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:46.234080"
+}

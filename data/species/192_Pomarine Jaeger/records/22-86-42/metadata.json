@@ -1,0 +1,19 @@
+{
+  "acc_no": "22-86-42",
+  "year": "1985",
+  "location": "Jackson Reservoir",
+  "county": "Morgan",
+  "observers": "Laurens Halsey",
+  "comments": "",
+  "citations": "Leukering. T.  Jaegers in Colorado: A Special Report of the CBRC. Colorado Birds 37(2), 73-87.",
+  "documentations": [
+    {
+      "doc_id": "13424",
+      "reporter": "Laurens Halsey",
+      "date": "10/5/1985",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13424"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:25.983046"
+}

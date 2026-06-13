@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-156",
+  "year": "2000",
+  "location": "Standley Lake",
+  "county": "Jefferson",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "13760",
+      "reporter": "Tony Leukering",
+      "date": "11/1/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13760"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:52.642814"
+}

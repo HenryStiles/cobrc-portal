@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-154",
+  "year": "2004",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Nick Komar",
+  "comments": "Age: ?; Plumage: ?;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "217",
+      "reporter": "Nicholas Komar",
+      "date": "11/13/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=217"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:39.414702"
+}

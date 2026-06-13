@@ -1,0 +1,26 @@
+{
+  "acc_no": "2004-126",
+  "year": "2004",
+  "location": "Big Johnson Reservoir",
+  "county": "El Paso",
+  "observers": "Larry Semo, Rachel Hopper",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "146",
+      "reporter": "Rachel Hopper",
+      "date": "6/17/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=146"
+    },
+    {
+      "doc_id": "916",
+      "reporter": "Larry Semo",
+      "date": "6/17/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=916"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:39.643474"
+}

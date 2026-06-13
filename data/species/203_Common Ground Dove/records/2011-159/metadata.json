@@ -1,0 +1,47 @@
+{
+  "acc_no": "2011-159",
+  "year": "2011",
+  "location": "Julesburg",
+  "county": "Sedgwick",
+  "observers": "Steve Mlodinow, Brandon Percival, Maggie Boswell, Bill Maynard, Peter Gent",
+  "comments": "",
+  "citations": "Faulkner, D. The 64th Report of the CBRC. Colorado Birds 46(4), 255-267.",
+  "documentations": [
+    {
+      "doc_id": "1853",
+      "reporter": "Peter Gent",
+      "date": "11/12/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1853"
+    },
+    {
+      "doc_id": "1873",
+      "reporter": "Steven Mlodinow",
+      "date": "11/12/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1873"
+    },
+    {
+      "doc_id": "1849",
+      "reporter": "Bill Maynard",
+      "date": "11/13/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1849"
+    },
+    {
+      "doc_id": "1878",
+      "reporter": "Brandon K Percival",
+      "date": "11/18/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1878"
+    },
+    {
+      "doc_id": "1879",
+      "reporter": "Maggie Boswell",
+      "date": "11/30/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1879"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:48.578961"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-094",
+  "year": "2004",
+  "location": "Kit Carson",
+  "county": "Cheyenne",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "Semo, L.  The 42nd Report of the CBRC. Colorado Birds 40(3), 133-156.",
+  "documentations": [
+    {
+      "doc_id": "288",
+      "reporter": "Tony Leukering",
+      "date": "11/21/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=288"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:08.460903"
+}

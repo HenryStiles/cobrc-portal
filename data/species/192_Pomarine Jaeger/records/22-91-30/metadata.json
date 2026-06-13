@@ -1,0 +1,19 @@
+{
+  "acc_no": "22-91-30",
+  "year": "1991",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Lynda Hedl, Bill Fink",
+  "comments": "",
+  "citations": "Leukering. T.  Jaegers in Colorado: A Special Report of the CBRC. Colorado Birds 37(2), 73-87.",
+  "documentations": [
+    {
+      "doc_id": "13444",
+      "reporter": "Lynda Hedl, Bill Fink",
+      "date": "6/29/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13444"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:31.964280"
+}

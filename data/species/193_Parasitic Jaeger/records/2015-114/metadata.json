@@ -1,0 +1,33 @@
+{
+  "acc_no": "2015-114",
+  "year": "2015",
+  "location": "Jackson Reservoir",
+  "county": "Morgan",
+  "observers": "Kathy Mihm Dunning, Doug Faulkner",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "6345",
+      "reporter": "Kathy Mihm Dunning",
+      "date": "10/4/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6345"
+    },
+    {
+      "doc_id": "6340",
+      "reporter": "Norman Erthal",
+      "date": "10/4/2015",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6340"
+    },
+    {
+      "doc_id": "6353",
+      "reporter": "Doug Faulkner",
+      "date": "10/11/2015",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6353"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:09.145868"
+}

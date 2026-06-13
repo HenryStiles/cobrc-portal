@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-122",
+  "year": "2011",
+  "location": "Antero Reservoir",
+  "county": "Park",
+  "observers": "Bill Maynard",
+  "comments": "Age: juvenile;",
+  "citations": "Faulkner, D. The 63rd Report of the CBRC. Colorado Birds 46(3), 188-197.",
+  "documentations": [
+    {
+      "doc_id": "1789",
+      "reporter": "Bill Maynard",
+      "date": "9/20/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1789"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:41.273020"
+}

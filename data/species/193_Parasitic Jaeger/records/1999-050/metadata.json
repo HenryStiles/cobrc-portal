@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-050",
+  "year": "1999",
+  "location": "Windsor Reservoir",
+  "county": "Weld",
+  "observers": "Steve Dinsmore",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "13420",
+      "reporter": "Steve Dinsmore",
+      "date": "10/18/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13420"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:50.002972"
+}

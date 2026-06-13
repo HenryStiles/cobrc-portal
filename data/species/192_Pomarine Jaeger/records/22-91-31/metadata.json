@@ -1,0 +1,19 @@
+{
+  "acc_no": "22-91-31",
+  "year": "1991",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Robert Dickson, Mark Janos, Peter Gent",
+  "comments": "",
+  "citations": "Leukering. T.  Jaegers in Colorado: A Special Report of the CBRC. Colorado Birds 37(2), 73-87.",
+  "documentations": [
+    {
+      "doc_id": "13445",
+      "reporter": "Robert Dickson, Mark Janos, Peter Gent",
+      "date": "10/30/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13445"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:35.611979"
+}

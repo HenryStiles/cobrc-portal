@@ -1,0 +1,26 @@
+{
+  "acc_no": "2011-168",
+  "year": "2011",
+  "location": "Chatfield State Park",
+  "county": "Jefferson & Douglas",
+  "observers": "Bill Maynard, Paul Hurtado",
+  "comments": "Age: juv.; Plumage: intermediate;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1856",
+      "reporter": "Bill Maynard",
+      "date": "11/19/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1856"
+    },
+    {
+      "doc_id": "1867",
+      "reporter": "Paul Hurtado",
+      "date": "11/28/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1867"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:07.917571"
+}

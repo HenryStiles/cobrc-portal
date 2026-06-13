@@ -1,0 +1,19 @@
+{
+  "acc_no": "25-95-50",
+  "year": "1995",
+  "location": "Pawnee National Grasslands (western section)",
+  "county": "Weld",
+  "observers": "Gene Knight",
+  "comments": "",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "14584",
+      "reporter": "Gene Knight",
+      "date": "6/17/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14584"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:15.095010"
+}

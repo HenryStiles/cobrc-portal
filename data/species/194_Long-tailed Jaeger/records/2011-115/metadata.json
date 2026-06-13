@@ -1,0 +1,26 @@
+{
+  "acc_no": "2011-115",
+  "year": "2011",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "John Drummond, Bill Maynard",
+  "comments": "Age: adult;",
+  "citations": "Faulkner, D. The 63rd Report of the CBRC. Colorado Birds 46(3), 188-197.",
+  "documentations": [
+    {
+      "doc_id": "1763",
+      "reporter": "Bill Maynard",
+      "date": "9/10/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1763"
+    },
+    {
+      "doc_id": "1785",
+      "reporter": "John Drummond",
+      "date": "9/11/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1785"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:36.957230"
+}

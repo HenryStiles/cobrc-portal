@@ -1,0 +1,19 @@
+{
+  "acc_no": "22-77-59",
+  "year": "1977",
+  "location": "Union Reservoir",
+  "county": "Weld",
+  "observers": "Peter Moulton, Mike Moulton",
+  "comments": "",
+  "citations": "Leukering. T.  Jaegers in Colorado: A Special Report of the CBRC. Colorado Birds 37(2), 73-87.",
+  "documentations": [
+    {
+      "doc_id": "13415",
+      "reporter": "Peter Moulton, Mike Moulton",
+      "date": "8/13/1977",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13415"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:44.533238"
+}

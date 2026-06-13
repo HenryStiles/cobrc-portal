@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-140",
+  "year": "2005",
+  "location": "Walden",
+  "county": "Jackson",
+  "observers": "Cole Wild",
+  "comments": "",
+  "citations": "Semo, L.  The 44th Report of the CBRC. Colorado Birds 41(4), 241-258.",
+  "documentations": [
+    {
+      "doc_id": "415",
+      "reporter": "C W",
+      "date": "12/16/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=415"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:16.232204"
+}

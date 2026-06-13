@@ -1,0 +1,19 @@
+{
+  "acc_no": "25-81-64",
+  "year": "1981",
+  "location": "N of Deckers",
+  "county": "Douglas",
+  "observers": "Dennis Morales",
+  "comments": "First State Record: Single observer, but accepted later.",
+  "citations": "Gent, P.  1985 Report of the CBRC. CFO Journal 20(3-4), 44-50.",
+  "documentations": [
+    {
+      "doc_id": "13238",
+      "reporter": "Dennis Morales",
+      "date": "11/8/1981",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13238"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:43.782117"
+}

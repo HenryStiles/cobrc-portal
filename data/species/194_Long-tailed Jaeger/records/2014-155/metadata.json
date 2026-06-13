@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-155",
+  "year": "2014",
+  "location": "Boyd Lake State Park",
+  "county": "Larimer",
+  "observers": "Nicholas Komar",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "5153",
+      "reporter": "Nicholas Komar",
+      "date": "9/15/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5153"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:51.431130"
+}

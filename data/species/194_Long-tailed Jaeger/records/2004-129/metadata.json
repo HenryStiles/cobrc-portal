@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-129",
+  "year": "2004",
+  "location": "Fossil Creek Reservoir",
+  "county": "Larimer",
+  "observers": "Rachel Hopper",
+  "comments": "Age: imm;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "10",
+      "reporter": "Rachel Hopper",
+      "date": "9/19/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=10"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:16.353445"
+}

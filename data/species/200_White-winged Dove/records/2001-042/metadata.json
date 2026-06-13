@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-042",
+  "year": "2001",
+  "location": "Colorado Springs",
+  "county": "El Paso",
+  "observers": "Terence Berger",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  2001 pt.1 Report of the CBRC. Colorado Birds 37(3), 138-155.",
+  "documentations": [
+    {
+      "doc_id": "14602",
+      "reporter": "Terence Berger",
+      "date": "5/6/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14602"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:30.306640"
+}

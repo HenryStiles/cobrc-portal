@@ -1,0 +1,47 @@
+{
+  "acc_no": "2004-067",
+  "year": "2004",
+  "location": "Bear Creek Lake Park",
+  "county": "Jefferson",
+  "observers": "Faulkner, Hopper, Schmoker, Henwood, Gent, Leukering",
+  "comments": "",
+  "citations": "Semo, L.  The 41st Report of the CBRC. Colorado Birds 40(1), 26-44.",
+  "documentations": [
+    {
+      "doc_id": "17",
+      "reporter": "Peter Gent",
+      "date": "11/8/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=17"
+    },
+    {
+      "doc_id": "19",
+      "reporter": "Bill Schmoker",
+      "date": "11/8/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=19"
+    },
+    {
+      "doc_id": "21",
+      "reporter": "Tony Leukering",
+      "date": "11/8/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=21"
+    },
+    {
+      "doc_id": "72",
+      "reporter": "Doug Faulkner",
+      "date": "11/8/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=72"
+    },
+    {
+      "doc_id": "143",
+      "reporter": "Rachel Hopper",
+      "date": "11/8/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=143"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:34.833278"
+}

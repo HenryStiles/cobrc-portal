@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-216",
+  "year": "2002",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Steve Klein",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "14607",
+      "reporter": "Steve Klein",
+      "date": "6/17/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14607"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:35.467212"
+}

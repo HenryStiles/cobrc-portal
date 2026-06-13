@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-120",
+  "year": "2015",
+  "location": "Jackson Reservoir",
+  "county": "Morgan",
+  "observers": "Chris Wood",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "6361",
+      "reporter": "Chris Wood",
+      "date": "10/3/2015",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6361"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:08.424289"
+}

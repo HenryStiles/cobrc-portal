@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-094",
+  "year": "2010",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Nick Komar, Glenn Walbek",
+  "comments": "Age: juvenile; Plumage: light morph;",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1489",
+      "reporter": "Nicholas Komar",
+      "date": "9/6/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1489"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:33.206408"
+}

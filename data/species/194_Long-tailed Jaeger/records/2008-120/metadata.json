@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-120",
+  "year": "2008",
+  "location": "Chatfield State Park",
+  "county": "Douglas & Jefferson",
+  "observers": "Andrew Spencer",
+  "comments": "Age: juvenile; Plumage: dark;",
+  "citations": "Faulkner, D. and Semo, L. The 59th Report of the CBRC. Colorado Birds 45(3), 174-180.",
+  "documentations": [
+    {
+      "doc_id": "1106",
+      "reporter": "Andrew Spencer",
+      "date": "10/11/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1106"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:30.190035"
+}

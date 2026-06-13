@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-134",
+  "year": "2010",
+  "location": "Nucla",
+  "county": "Montrose",
+  "observers": "Coen Dexter & Brenda Wright",
+  "comments": "",
+  "citations": "Faulkner, D. and Semo, L. The 59th Report of the CBRC. Colorado Birds 45(3), 174-180.",
+  "documentations": [
+    {
+      "doc_id": "1547",
+      "reporter": "Coen Dexter",
+      "date": "10/28/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1547"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:13.519096"
+}

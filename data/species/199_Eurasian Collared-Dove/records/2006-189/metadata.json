@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-189",
+  "year": "2004",
+  "location": "Walden",
+  "county": "Jackson",
+  "observers": "Andrew Spencer",
+  "comments": "",
+  "citations": "Faulkner, D. and Semo, L. The 58th Report of the CBRC. Colorado Birds 45(2), 92-101.",
+  "documentations": [
+    {
+      "doc_id": "522",
+      "reporter": "Andrew Spencer",
+      "date": "4/10/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=522"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:12.903958"
+}

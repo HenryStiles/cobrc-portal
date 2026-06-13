@@ -1,0 +1,19 @@
+{
+  "acc_no": "25-80-12",
+  "year": "1979",
+  "location": "Timpas",
+  "county": "Otero",
+  "observers": "Gordon East",
+  "comments": "",
+  "citations": "Chase, C.  1977-1980 Pt.2 Report of the CBRC. CFO Journal 15(2), 54-59.",
+  "documentations": [
+    {
+      "doc_id": "14577",
+      "reporter": "Gordon East",
+      "date": "9/17/1979",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14577"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:35.980775"
+}

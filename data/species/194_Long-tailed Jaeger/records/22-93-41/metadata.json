@@ -1,0 +1,19 @@
+{
+  "acc_no": "22-93-41",
+  "year": "1993",
+  "location": "Blue Lake (Adobe Creek Reservoir)",
+  "county": "Bent & Kiowa",
+  "observers": "Pearle Sandstrom-Smith",
+  "comments": "",
+  "citations": "Leukering. T.  Jaegers in Colorado: A Special Report of the CBRC. Colorado Birds 37(2), 73-87.",
+  "documentations": [
+    {
+      "doc_id": "14619",
+      "reporter": "Pearle Sandstrom-Smith",
+      "date": "9/12/1993",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14619"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:09.054489"
+}

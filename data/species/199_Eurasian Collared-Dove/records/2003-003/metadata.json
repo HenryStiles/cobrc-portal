@@ -1,0 +1,19 @@
+{
+  "acc_no": "2003-003",
+  "year": "2003",
+  "location": "cemetery on the east end of the town of Norwood",
+  "county": "San Miguel",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "Semo, L.  The 42nd Report of the CBRC. Colorado Birds 40(3), 133-156.",
+  "documentations": [
+    {
+      "doc_id": "289",
+      "reporter": "Tony Leukering",
+      "date": "9/7/2003",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=289"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:11.335990"
+}

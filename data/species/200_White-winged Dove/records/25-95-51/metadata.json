@@ -1,0 +1,19 @@
+{
+  "acc_no": "25-95-51",
+  "year": "1994",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Alexander Brown",
+  "comments": "",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "14585",
+      "reporter": "Alexander Brown",
+      "date": "6/19/1994",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14585"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:13.048020"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "1996-500",
+  "year": "1996",
+  "location": "Douglas Reservoir",
+  "county": "Larimer",
+  "observers": "David Leatherman",
+  "comments": "",
+  "citations": "Colorado Birds 54(3): 110-118",
+  "documentations": [
+    {
+      "doc_id": "7470",
+      "reporter": "David Leatherman",
+      "date": "11/25/1996",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=7470"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:39.758125"
+}

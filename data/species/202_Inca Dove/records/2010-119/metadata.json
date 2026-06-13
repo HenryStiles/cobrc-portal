@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-119",
+  "year": "2010",
+  "location": "Haxtun area",
+  "county": "Phillips",
+  "observers": "Cole Wild",
+  "comments": "",
+  "citations": "Faulkner, D. and Semo, L. The 59th Report of the CBRC. Colorado Birds 45(3), 174-180.",
+  "documentations": [
+    {
+      "doc_id": "1575",
+      "reporter": "C W",
+      "date": "7/31/2010",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1575"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:12.999527"
+}

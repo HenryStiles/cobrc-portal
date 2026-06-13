@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-069",
+  "year": "1995",
+  "location": "Louisville",
+  "county": "Boulder",
+  "observers": "Joe Harrison",
+  "comments": "newspaper article",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "13234",
+      "reporter": "Joe Harrison",
+      "date": "11/4/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13234"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:31.595944"
+}

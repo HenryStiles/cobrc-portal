@@ -1,0 +1,19 @@
+{
+  "acc_no": "22-92-18",
+  "year": "1992",
+  "location": "Chatfield State Park",
+  "county": "Douglas",
+  "observers": "Mark Nikas, Dick Schottler, Joey Kellner, Steve Stachowiak, Mark Janos",
+  "comments": "",
+  "citations": "Leukering. T.  Jaegers in Colorado: A Special Report of the CBRC. Colorado Birds 37(2), 73-87.",
+  "documentations": [
+    {
+      "doc_id": "13409",
+      "reporter": "Mark Nikas, Dick Schottler, Joey Kellner, Steve Stachowiak, Mark Janos",
+      "date": "5/28/1992",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13409"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:07.518694"
+}

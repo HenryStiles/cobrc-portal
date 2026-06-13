@@ -1,0 +1,40 @@
+{
+  "acc_no": "2009-101",
+  "year": "2009",
+  "location": "Chatfield State Park",
+  "county": "Douglas & Jefferson",
+  "observers": "Nathan Pieplow, Bill Maynard, Bill Schmoker",
+  "comments": "Age: juvenile; Plumage: juv inter;",
+  "citations": "Faulkner, D. and Semo, L. The 59th Report of the CBRC. Colorado Birds 45(3), 174-180.",
+  "documentations": [
+    {
+      "doc_id": "1329",
+      "reporter": "Bill Maynard",
+      "date": "11/7/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1329"
+    },
+    {
+      "doc_id": "1332",
+      "reporter": "Bill Schmoker",
+      "date": "11/8/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1332"
+    },
+    {
+      "doc_id": "1328",
+      "reporter": "Nathan Pieplow",
+      "date": "11/8/2009",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1328"
+    },
+    {
+      "doc_id": "1345",
+      "reporter": "Bill Maynard",
+      "date": "11/14/2009",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1345"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:56.683552"
+}

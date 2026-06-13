@@ -1,0 +1,33 @@
+{
+  "acc_no": "2004-045",
+  "year": "2004",
+  "location": "Union Reservoir",
+  "county": "Weld",
+  "observers": "Bill Schmoker, Doug Faulkner, Nathan Pieplow, Tony Leukering",
+  "comments": "Age: subad; Plumage: 3rd-cycle;",
+  "citations": "Semo, L.  The 41st Report of the CBRC. Colorado Birds 40(1), 26-44.",
+  "documentations": [
+    {
+      "doc_id": "67",
+      "reporter": "Doug Faulkner",
+      "date": "9/5/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=67"
+    },
+    {
+      "doc_id": "913",
+      "reporter": "Tony Leukering",
+      "date": "9/5/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=913"
+    },
+    {
+      "doc_id": "923",
+      "reporter": "Bill Schmoker",
+      "date": "9/5/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=923"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:53.668468"
+}

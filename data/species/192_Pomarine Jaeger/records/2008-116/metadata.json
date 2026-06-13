@@ -1,0 +1,26 @@
+{
+  "acc_no": "2008-116",
+  "year": "2008",
+  "location": "Jackson Reservoir",
+  "county": "Morgan",
+  "observers": "Bill Kaempfer, Christian Nunes, Andrew Spencer",
+  "comments": "Age: juv.; Plumage: intermediate;",
+  "citations": "Semo, L. and Faulkner, D.  The 52nd Report of the CBRC. Colorado Birds 43(4), 268-281.",
+  "documentations": [
+    {
+      "doc_id": "1284",
+      "reporter": "Bill Kaempfer",
+      "date": "10/4/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1284"
+    },
+    {
+      "doc_id": "1103",
+      "reporter": "Andrew Spencer",
+      "date": "10/5/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1103"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:06.551227"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-029",
+  "year": "2007",
+  "location": "Loveland",
+  "county": "Larimer",
+  "observers": "Rachel Hopper",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "713",
+      "reporter": "Rachel Hopper",
+      "date": "5/3/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=713"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:41.444442"
+}

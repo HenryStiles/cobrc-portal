@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-084",
+  "year": "2014",
+  "location": "Navajo State Park",
+  "county": "Archuleta",
+  "observers": "Eric DeFonso",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "4039",
+      "reporter": "Eric DeFonso",
+      "date": "6/19/2014",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4039"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:54.645141"
+}

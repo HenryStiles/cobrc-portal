@@ -1,0 +1,19 @@
+{
+  "acc_no": "22-95-34",
+  "year": "1995",
+  "location": "Lake Henry",
+  "county": "Crowley",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Leukering. T.  Jaegers in Colorado: A Special Report of the CBRC. Colorado Birds 37(2), 73-87.",
+  "documentations": [
+    {
+      "doc_id": "13419",
+      "reporter": "Mark Janos",
+      "date": "9/9/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13419"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:49.036701"
+}

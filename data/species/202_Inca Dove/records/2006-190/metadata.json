@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-190",
+  "year": "2005",
+  "location": "Rocky Ford",
+  "county": "Otero",
+  "observers": "Brandon K Percival",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "345",
+      "reporter": "Brandon K Percival",
+      "date": "4/16/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=345"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:09.387089"
+}

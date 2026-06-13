@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-118",
+  "year": "2008",
+  "location": "Jackson Reservoir",
+  "county": "Morgan",
+  "observers": "Bill Kaempfer",
+  "comments": "Age: adult;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1285",
+      "reporter": "Bill Kaempfer",
+      "date": "10/4/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1285"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:29.592070"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2000-074",
+  "year": "2000",
+  "location": "Colorado Springs",
+  "county": "El Paso",
+  "observers": "Alan Versaw",
+  "comments": "",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "3875",
+      "reporter": "Alan Versaw",
+      "date": "5/6/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3875"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:28.356354"
+}
