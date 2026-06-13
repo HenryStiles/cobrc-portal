@@ -1,0 +1,19 @@
+{
+  "acc_no": "2003-004",
+  "year": "2003",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Nancy Bell",
+  "comments": "",
+  "citations": "Leukering, T.  The 40th Report of the CBRC. Colorado Birds 39(4), 168-176.",
+  "documentations": [
+    {
+      "doc_id": "16251",
+      "reporter": "Nancy Bell",
+      "date": "1/1/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16251"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:45.534588"
+}

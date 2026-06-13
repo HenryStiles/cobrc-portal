@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-164",
+  "year": "1996",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "Semo, L.  The 42nd Report of the CBRC. Colorado Birds 40(3), 133-156.",
+  "documentations": [
+    {
+      "doc_id": "325",
+      "reporter": "Tony Leukering",
+      "date": "10/15/1996",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=325"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:26.904711"
+}

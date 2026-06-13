@@ -1,0 +1,26 @@
+{
+  "acc_no": "2008-111",
+  "year": "2008",
+  "location": "Crow Valley Campground",
+  "county": "Weld",
+  "observers": "Mike Freiberg, Cole Wild",
+  "comments": "Age: adult; Plumage: basic; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1092",
+      "reporter": "Mike Freiberg",
+      "date": "10/1/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1092"
+    },
+    {
+      "doc_id": "1101",
+      "reporter": "C W",
+      "date": "10/2/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1101"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:08.145859"
+}

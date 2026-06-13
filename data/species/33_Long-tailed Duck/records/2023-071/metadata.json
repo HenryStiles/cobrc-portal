@@ -1,0 +1,19 @@
+{
+  "acc_no": "2023-071",
+  "year": "2023",
+  "location": "Glenwood Springs",
+  "county": "Garfield",
+  "observers": "Heather McGregor",
+  "comments": "",
+  "citations": "The 89th Report of the CBRC, Peter R. Gent, Colorado Birds 60(1), 323-332, 2026.",
+  "documentations": [
+    {
+      "doc_id": "15951",
+      "reporter": "Heather McGregor",
+      "date": "12/9/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15951"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:18.708313"
+}

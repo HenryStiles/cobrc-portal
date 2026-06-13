@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-049",
+  "year": "2004",
+  "location": "Fort Morgan",
+  "county": "Morgan",
+  "observers": "Norm Lewis",
+  "comments": "",
+  "citations": "Semo, L. and Faulkner, D. The 57th Report of the CBRC. Colorado Birds 45(1), 30-41.",
+  "documentations": [
+    {
+      "doc_id": "25",
+      "reporter": "Norm Lewis",
+      "date": "12/2/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=25"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:16.022149"
+}

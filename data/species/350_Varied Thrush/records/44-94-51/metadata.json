@@ -1,0 +1,19 @@
+{
+  "acc_no": "44-94-51",
+  "year": "1994",
+  "location": "Colorado Springs",
+  "county": "El Paso",
+  "observers": "Peg & Frank Cassel, Brandon Percival",
+  "comments": "",
+  "citations": "Prather, B.  1994 Report of the CBRC. CFO Journal 31(1), 23-31.",
+  "documentations": [
+    {
+      "doc_id": "16237",
+      "reporter": "Peg & Frank Cassel, Brandon Percival",
+      "date": "11/21/1994",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16237"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:30.988227"
+}

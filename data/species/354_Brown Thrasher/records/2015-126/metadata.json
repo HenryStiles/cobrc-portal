@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-126",
+  "year": "2015",
+  "location": "Dolores area",
+  "county": "Montezuma",
+  "observers": "chris vest",
+  "comments": "",
+  "citations": "Accepted by the Chairman and not published.",
+  "documentations": [
+    {
+      "doc_id": "6366",
+      "reporter": "chris vest",
+      "date": "11/21/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6366"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:46.866834"
+}

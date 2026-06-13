@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-056",
+  "year": "2005",
+  "location": "Pierce area",
+  "county": "Weld",
+  "observers": "Doug Faulkner",
+  "comments": "Age: adult; Plumage: transitional; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "116",
+      "reporter": "Doug Faulkner",
+      "date": "5/21/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=116"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:10.779517"
+}

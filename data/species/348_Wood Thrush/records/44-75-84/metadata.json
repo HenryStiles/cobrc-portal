@@ -1,0 +1,19 @@
+{
+  "acc_no": "44-75-84",
+  "year": "1975",
+  "location": "Tamarack Ranch State Wildlife Area",
+  "county": "Logan",
+  "observers": "Narca DeWoskin",
+  "comments": "",
+  "citations": "Reddall, J. 1976. CFO Official Records Committee 1975 Report. C.F.O. Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "14449",
+      "reporter": "Narca DeWoskin",
+      "date": "6/8/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14449"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:19.088927"
+}

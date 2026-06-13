@@ -1,0 +1,19 @@
+{
+  "acc_no": "44-80-70",
+  "year": "1980",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Helen Stiles-Wainwright",
+  "comments": "",
+  "citations": "Chase, C.  1980-1981 Report of the CBRC. CFO Journal 16(3), 46-52.",
+  "documentations": [
+    {
+      "doc_id": "14450",
+      "reporter": "Helen Stiles-Wainwright",
+      "date": "10/3/1980",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14450"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:20.158856"
+}

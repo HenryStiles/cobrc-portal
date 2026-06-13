@@ -1,0 +1,19 @@
+{
+  "acc_no": "2020-053",
+  "year": "2020",
+  "location": "11765 Ranch Elsie Rd.  off Hwy. 72 Coal Creek Canyon",
+  "county": "Jefferson",
+  "observers": "Jan Justice-Waddington",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176.",
+  "documentations": [
+    {
+      "doc_id": "11945",
+      "reporter": "Jan Justice-Waddington",
+      "date": "12/6/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11945"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:51.979583"
+}

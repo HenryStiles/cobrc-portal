@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-037",
+  "year": "2010",
+  "location": "Sondermann Park",
+  "county": "El Paso",
+  "observers": "Bill Maynard",
+  "comments": "",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1424",
+      "reporter": "Bill Maynard",
+      "date": "5/21/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1424"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:59.393358"
+}

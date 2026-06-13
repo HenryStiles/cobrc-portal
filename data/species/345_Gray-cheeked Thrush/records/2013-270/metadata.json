@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-270",
+  "year": "2002",
+  "location": "",
+  "county": "Adams",
+  "observers": "Norm Lewis",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2741",
+      "reporter": "Norm Lewis",
+      "date": "5/12/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2741"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:33.267826"
+}

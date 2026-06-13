@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-184",
+  "year": "2002",
+  "location": "Bear Creek Canyon area",
+  "county": "Jefferson",
+  "observers": "Karleen Schofield",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  The 38th Report of the CBRC. Colorado Birds 38(4), 168-183.",
+  "documentations": [
+    {
+      "doc_id": "14463",
+      "reporter": "Karleen Schofield",
+      "date": "5/9/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14463"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:36.947286"
+}

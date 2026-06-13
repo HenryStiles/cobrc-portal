@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-164",
+  "year": "2008",
+  "location": "The parking lot of the Chatfield Wetlands on South Wadsworth.",
+  "county": "Jefferson",
+  "observers": "Mike Henwood",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1158",
+      "reporter": "Mike Henwood",
+      "date": "11/6/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1158"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:39.989395"
+}

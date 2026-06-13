@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-220",
+  "year": "2012",
+  "location": "Bear Creek Greenbelt (Denver section)",
+  "county": "Denver",
+  "observers": "Art Hudak",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "5173",
+      "reporter": "Art Hudak",
+      "date": "4/25/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5173"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:57.099881"
+}

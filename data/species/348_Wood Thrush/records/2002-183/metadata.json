@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-183",
+  "year": "2002",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Nancy Gobris",
+  "comments": "Age: immature; Plumage: basic;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "371",
+      "reporter": "Nancy Gobris",
+      "date": "10/4/2002",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=371"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:55.246725"
+}

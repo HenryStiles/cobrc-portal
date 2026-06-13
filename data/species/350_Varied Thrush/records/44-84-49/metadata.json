@@ -1,0 +1,19 @@
+{
+  "acc_no": "44-84-49",
+  "year": "1984",
+  "location": "Clifton",
+  "county": "Mesa",
+  "observers": "Ron Lambeth, Mark Janos",
+  "comments": "",
+  "citations": "Gent, P.  1984 Report of the CBRC. CFO Journal 19(4), 82-87.",
+  "documentations": [
+    {
+      "doc_id": "16234",
+      "reporter": "Ron Lambeth, Mark Janos",
+      "date": "12/16/1984",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16234"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:26.686292"
+}

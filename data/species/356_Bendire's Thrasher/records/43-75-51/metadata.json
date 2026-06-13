@@ -1,0 +1,19 @@
+{
+  "acc_no": "43-75-51",
+  "year": "1974",
+  "location": "Bayfield",
+  "county": "La Plata",
+  "observers": "Berneice & Paul Merry",
+  "comments": "Singing; audio-recorded",
+  "citations": "Reddall, J. 1976. CFO Official Records Committee 1975 Report. C.F.O. Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "13752",
+      "reporter": "Berneice & Paul Merry",
+      "date": "8/2/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13752"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:49.173099"
+}

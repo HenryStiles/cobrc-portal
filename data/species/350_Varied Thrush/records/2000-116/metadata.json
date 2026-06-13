@@ -1,0 +1,19 @@
+{
+  "acc_no": "2000-116",
+  "year": "2000",
+  "location": "Jackson Reservoir",
+  "county": "Morgan",
+  "observers": "David Quesenberry, Ric Olson",
+  "comments": "",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "16244",
+      "reporter": "David Quesenberry, Ric Olson",
+      "date": "1/9/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16244"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:35.876429"
+}

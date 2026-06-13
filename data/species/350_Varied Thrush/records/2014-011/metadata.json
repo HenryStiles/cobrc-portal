@@ -1,0 +1,26 @@
+{
+  "acc_no": "2014-011",
+  "year": "2014",
+  "location": "La Veta",
+  "county": "Huerfano",
+  "observers": "Polly Wren Neldner, Brandon Percival",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2808",
+      "reporter": "Polly Wren Neldner",
+      "date": "1/12/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2808"
+    },
+    {
+      "doc_id": "2811",
+      "reporter": "Brandon Percival",
+      "date": "1/30/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2811"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:00.073823"
+}

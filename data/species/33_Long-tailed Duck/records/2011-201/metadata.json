@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-201",
+  "year": "2011",
+  "location": "Platte R. just north of Florida Ave.",
+  "county": "Denver",
+  "observers": "Richard Reading",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1603",
+      "reporter": "Richard Reading",
+      "date": "1/17/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1603"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:13.515815"
+}

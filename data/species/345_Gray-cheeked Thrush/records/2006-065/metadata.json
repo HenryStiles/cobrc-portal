@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-065",
+  "year": "2006",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Brian Gibbons",
+  "comments": "All four birds banded.",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "438",
+      "reporter": "Brian Gibbons",
+      "date": "5/16/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=438"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:46.429243"
+}

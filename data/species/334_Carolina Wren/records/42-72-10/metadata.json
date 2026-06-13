@@ -1,0 +1,19 @@
+{
+  "acc_no": "42-72-10",
+  "year": "1972",
+  "location": "Lakewood",
+  "county": "Jefferson",
+  "observers": "John Cooper, Jim Lane",
+  "comments": "",
+  "citations": "Reddall, J. 1973b. Reports from the CFO Official Records Committee. Colorado Field Ornithologist 16:19-26.",
+  "documentations": [
+    {
+      "doc_id": "13982",
+      "reporter": "John Cooper, Jim Lane",
+      "date": "12/11/1972",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13982"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:49.845466"
+}

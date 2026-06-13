@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-147",
+  "year": "2007",
+  "location": "Canon City Riverwalk",
+  "county": "Fremont",
+  "observers": "Brandon Percival",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "891",
+      "reporter": "Brandon K Percival",
+      "date": "12/16/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=891"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:23.123307"
+}

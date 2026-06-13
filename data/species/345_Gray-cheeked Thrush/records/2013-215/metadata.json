@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-215",
+  "year": "2013",
+  "location": "Colorado City and Rye",
+  "county": "Pueblo",
+  "observers": "David  Silverman",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2582",
+      "reporter": "David  Silverman",
+      "date": "9/24/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2582"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:45.534087"
+}

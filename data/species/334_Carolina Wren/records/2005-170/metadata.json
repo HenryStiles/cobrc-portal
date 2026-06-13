@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-170",
+  "year": "2005",
+  "location": "Lakewood",
+  "county": "Jefferson",
+  "observers": "Norm Lewis",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "162",
+      "reporter": "Norm Lewis",
+      "date": "8/15/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=162"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:20.985143"
+}

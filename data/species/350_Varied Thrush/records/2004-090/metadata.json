@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-090",
+  "year": "2004",
+  "location": "Broomfield",
+  "county": "Broomfield",
+  "observers": "Eric Zorawowicz",
+  "comments": "",
+  "citations": "Semo, L.  The 42nd Report of the CBRC. Colorado Birds 40(3), 133-156.",
+  "documentations": [
+    {
+      "doc_id": "16253",
+      "reporter": "Eric Zorawowicz",
+      "date": "12/3/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16253"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:52.000908"
+}

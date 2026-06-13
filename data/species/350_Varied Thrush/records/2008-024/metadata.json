@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-024",
+  "year": "2008",
+  "location": "Longmont",
+  "county": "Weld",
+  "observers": "Nick Komar",
+  "comments": "Age: adult; Plumage: basic; Sex: f;",
+  "citations": "Semo, L.  The 50th Report of the CBRC. Colorado Birds 43(2), 123-135.",
+  "documentations": [
+    {
+      "doc_id": "932",
+      "reporter": "Nicholas Komar",
+      "date": "3/19/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=932"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:06.047533"
+}

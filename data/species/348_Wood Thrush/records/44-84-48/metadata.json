@@ -1,0 +1,19 @@
+{
+  "acc_no": "44-84-48",
+  "year": "1984",
+  "location": "Audubon Nature Center",
+  "county": "Jefferson",
+  "observers": "Ann Bonnell",
+  "comments": "",
+  "citations": "Gent, P.  1984 Report of the CBRC. CFO Journal 19(4), 82-87.",
+  "documentations": [
+    {
+      "doc_id": "14454",
+      "reporter": "Ann Bonnell",
+      "date": "12/15/1984",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14454"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:22.377124"
+}

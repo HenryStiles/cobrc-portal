@@ -1,0 +1,26 @@
+{
+  "acc_no": "2011-124",
+  "year": "2011",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Bill Maynard, Steven Brown",
+  "comments": "Age: juvenile;",
+  "citations": "Faulkner, D. The 63rd Report of the CBRC. Colorado Birds 46(3), 188-197.",
+  "documentations": [
+    {
+      "doc_id": "1788",
+      "reporter": "Bill Maynard",
+      "date": "9/21/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1788"
+    },
+    {
+      "doc_id": "1791",
+      "reporter": "Steven Brown",
+      "date": "9/21/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1791"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:02.346867"
+}

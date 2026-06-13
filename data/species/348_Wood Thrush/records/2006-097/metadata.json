@@ -1,0 +1,26 @@
+{
+  "acc_no": "2006-097",
+  "year": "2006",
+  "location": "Crow Valley Campground",
+  "county": "Weld",
+  "observers": "Cole Wild, Rachel Hopper",
+  "comments": "Age: adult;",
+  "citations": "Semo, L.  The 48th Report of the CBRC. Colorado Birds 42(4), 270-278.",
+  "documentations": [
+    {
+      "doc_id": "482",
+      "reporter": "C W",
+      "date": "6/3/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=482"
+    },
+    {
+      "doc_id": "730",
+      "reporter": "Rachel Hopper",
+      "date": "6/3/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=730"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:46.852414"
+}

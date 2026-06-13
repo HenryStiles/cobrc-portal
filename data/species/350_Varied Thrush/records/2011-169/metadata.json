@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-169",
+  "year": "2011",
+  "location": "Aurora",
+  "county": "Arapahoe",
+  "observers": "Steve Stachowiak",
+  "comments": "Age: adult; Sex: m;",
+  "citations": "Faulkner, D. The 63rd Report of the CBRC. Colorado Birds 46(3), 188-197.",
+  "documentations": [
+    {
+      "doc_id": "1922",
+      "reporter": "Steve Stachowiak",
+      "date": "11/21/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1922"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:55.933160"
+}

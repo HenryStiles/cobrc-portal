@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-168",
+  "year": "2014",
+  "location": "Manitou Springs",
+  "county": "El Paso",
+  "observers": "David Rudin",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "5171",
+      "reporter": "David Rudin",
+      "date": "12/2/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5171"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:03.233487"
+}

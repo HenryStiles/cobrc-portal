@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-101",
+  "year": "2004",
+  "location": "Last Chance",
+  "county": "Washington",
+  "observers": "Tony Leukering",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "Semo, L.  The 42nd Report of the CBRC. Colorado Birds 40(3), 133-156.",
+  "documentations": [
+    {
+      "doc_id": "61",
+      "reporter": "Tony Leukering",
+      "date": "5/20/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=61"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:57.920412"
+}

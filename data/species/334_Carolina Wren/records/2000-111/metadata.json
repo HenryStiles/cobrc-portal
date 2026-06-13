@@ -1,0 +1,19 @@
+{
+  "acc_no": "2000-111",
+  "year": "2000",
+  "location": "Ovid Woods",
+  "county": "Sedgwick",
+  "observers": "Larry Semo",
+  "comments": "",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "3916",
+      "reporter": "Larry Semo",
+      "date": "4/1/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3916"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:14.809666"
+}

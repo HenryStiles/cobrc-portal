@@ -1,0 +1,33 @@
+{
+  "acc_no": "2006-018",
+  "year": "2006",
+  "location": "Denver",
+  "county": "Denver",
+  "observers": "Andrew Spencer, Cole Wild, Larry Semo",
+  "comments": "",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "372",
+      "reporter": "Andrew Spencer",
+      "date": "2/21/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=372"
+    },
+    {
+      "doc_id": "384",
+      "reporter": "C W",
+      "date": "2/25/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=384"
+    },
+    {
+      "doc_id": "800",
+      "reporter": "Larry Semo",
+      "date": "2/25/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=800"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:48.768051"
+}

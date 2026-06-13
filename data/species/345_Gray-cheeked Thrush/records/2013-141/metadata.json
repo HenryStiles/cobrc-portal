@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-141",
+  "year": "2013",
+  "location": "Two Buttes State Wildlife Area",
+  "county": "Baca",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2463",
+      "reporter": "Steven Mlodinow",
+      "date": "5/11/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2463"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:41.528485"
+}

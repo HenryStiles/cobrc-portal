@@ -1,0 +1,19 @@
+{
+  "acc_no": "2023-034",
+  "year": "2023",
+  "location": "Elizabeth",
+  "county": "Elbert",
+  "observers": "Laurie Duke",
+  "comments": "",
+  "citations": "Gent, P.  The 86th Report of the CBRC.  Colorado Birds 58(3), 125-132.",
+  "documentations": [
+    {
+      "doc_id": "13452",
+      "reporter": "Laurie Duke",
+      "date": "9/23/2023",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13452"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:42.172184"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-230",
+  "year": "2012",
+  "location": "Prewitt Reservoir State Wildlife Area",
+  "county": "Washington",
+  "observers": "Gary Witt",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2199",
+      "reporter": "Gary Witt",
+      "date": "10/20/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2199"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:57.988825"
+}

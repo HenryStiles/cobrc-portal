@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-067",
+  "year": "1995",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "David Ely",
+  "comments": "",
+  "citations": "Janos, M.  1997 Report of the CBRC.  J. of the CFO 33(4), 241-252.",
+  "documentations": [
+    {
+      "doc_id": "16241",
+      "reporter": "David Ely",
+      "date": "12/16/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16241"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:32.038395"
+}

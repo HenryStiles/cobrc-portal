@@ -1,0 +1,19 @@
+{
+  "acc_no": "44-96-107",
+  "year": "1996",
+  "location": "Pueblo",
+  "county": "Pueblo",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Janos, M.  1996 Report of the CBRC.  J. of the CFO 32(3), 173-187.",
+  "documentations": [
+    {
+      "doc_id": "16238",
+      "reporter": "Mark Janos",
+      "date": "10/11/1996",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16238"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:33.100339"
+}

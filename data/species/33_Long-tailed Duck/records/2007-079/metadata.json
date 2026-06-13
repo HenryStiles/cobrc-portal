@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-079",
+  "year": "2007",
+  "location": "Fossil Creek Reservoir",
+  "county": "Larimer",
+  "observers": "Larry Semo",
+  "comments": "Age: adult; Plumage: altermate; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "797",
+      "reporter": "Larry Semo",
+      "date": "4/28/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=797"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:12.228814"
+}

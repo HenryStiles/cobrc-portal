@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-284",
+  "year": "2013",
+  "location": "Stulp Farmyard",
+  "county": "Prowers",
+  "observers": "Jane Stulp",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2767",
+      "reporter": "Jane Stulp",
+      "date": "5/1/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2767"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:38.199962"
+}

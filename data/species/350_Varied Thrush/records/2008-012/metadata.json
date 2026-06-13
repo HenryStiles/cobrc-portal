@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-012",
+  "year": "2008",
+  "location": "Steamboat Springs",
+  "county": "Routt",
+  "observers": "Tom Litteral",
+  "comments": "Age: adult; Plumage: basic; Sex: f;",
+  "citations": "Semo, L.  The 50th Report of the CBRC. Colorado Birds 43(2), 123-135.",
+  "documentations": [
+    {
+      "doc_id": "884",
+      "reporter": "Thomas Litteral",
+      "date": "2/3/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=884"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:04.997018"
+}

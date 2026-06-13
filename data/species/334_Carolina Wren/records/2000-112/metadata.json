@@ -1,0 +1,19 @@
+{
+  "acc_no": "2000-112",
+  "year": "2000",
+  "location": "Grand Junction",
+  "county": "Mesa",
+  "observers": "Ron Lambeth",
+  "comments": "",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "14002",
+      "reporter": "Ron Lambeth",
+      "date": "5/18/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14002"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:15.764916"
+}

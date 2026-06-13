@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-088",
+  "year": "2008",
+  "location": "Dixon Reservoir/Pine Ridge Natural Area",
+  "county": "Larimer",
+  "observers": "Andrew Spencer",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Semo, L. and Faulkner, D.  The 52nd Report of the CBRC. Colorado Birds 43(4), 268-281.",
+  "documentations": [
+    {
+      "doc_id": "1017",
+      "reporter": "Andrew Spencer",
+      "date": "6/11/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1017"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:51.257521"
+}

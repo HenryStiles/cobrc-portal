@@ -1,0 +1,19 @@
+{
+  "acc_no": "42-94-48",
+  "year": "1993",
+  "location": "Pueblo",
+  "county": "Pueblo",
+  "observers": "Bob Dickson",
+  "comments": "",
+  "citations": "Prather, B.  1994 Report of the CBRC. CFO Journal 31(1), 23-31.",
+  "documentations": [
+    {
+      "doc_id": "13993",
+      "reporter": "Bob Dickson",
+      "date": "11/22/1993",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13993"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:03.167790"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-133",
+  "year": "2010",
+  "location": "Georgetown and Silver Plume",
+  "county": "Clear Creek",
+  "observers": "Todd Deininger",
+  "comments": "",
+  "citations": "Faulkner, D. and Semo, L. The 59th Report of the CBRC. Colorado Birds 45(3), 174-180.",
+  "documentations": [
+    {
+      "doc_id": "1518",
+      "reporter": "Todd Deininger",
+      "date": "10/23/2010",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1518"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:40.551231"
+}

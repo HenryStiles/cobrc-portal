@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-227",
+  "year": "2012",
+  "location": "Thompson Ranch",
+  "county": "Lincoln",
+  "observers": "Joey Kellner",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "4081",
+      "reporter": "Kellner, Joey",
+      "date": "5/28/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4081"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:36.735476"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "44-82-5",
+  "year": "1981",
+  "location": "Beulah",
+  "county": "Pueblo",
+  "observers": "Pat & Ward Stryker",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "14453",
+      "reporter": "Pat & Ward Stryker",
+      "date": "4/2/1981",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14453"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:21.222394"
+}

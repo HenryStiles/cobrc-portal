@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-007",
+  "year": "2012",
+  "location": "Animas River",
+  "county": "La Plata",
+  "observers": "Riley Morris",
+  "comments": "Age: adult; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1925",
+      "reporter": "Riley Morris",
+      "date": "1/12/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1925"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:57.054712"
+}

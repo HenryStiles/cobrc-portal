@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-007",
+  "year": "2007",
+  "location": "Durango",
+  "county": "La Plata",
+  "observers": "Heather Morris",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "657",
+      "reporter": "Heather Morris",
+      "date": "1/30/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=657"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:02.684724"
+}

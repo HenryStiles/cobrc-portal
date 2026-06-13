@@ -1,0 +1,26 @@
+{
+  "acc_no": "2010-166",
+  "year": "2010",
+  "location": "Longmont",
+  "county": "Boulder",
+  "observers": "Todd Deininger, Cole Wild, Jane Gabrilove",
+  "comments": "Age: adult; Sex: m;",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1549",
+      "reporter": "Todd Deininger",
+      "date": "12/26/2010",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1549"
+    },
+    {
+      "doc_id": "1558",
+      "reporter": "C W",
+      "date": "12/26/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1558"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:47.540472"
+}

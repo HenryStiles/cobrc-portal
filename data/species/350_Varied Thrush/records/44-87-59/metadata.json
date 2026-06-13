@@ -1,0 +1,19 @@
+{
+  "acc_no": "44-87-59",
+  "year": "1986",
+  "location": "Beulah",
+  "county": "Pueblo",
+  "observers": "Neva Haver",
+  "comments": "",
+  "citations": "Bunn, R.  1987 Report of the CBRC, Part 2. CFO Journal 23(4), 114-120.",
+  "documentations": [
+    {
+      "doc_id": "16235",
+      "reporter": "Neva Haver",
+      "date": "12/13/1986",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16235"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:28.897734"
+}

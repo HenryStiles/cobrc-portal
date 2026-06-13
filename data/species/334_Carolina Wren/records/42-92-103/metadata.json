@@ -1,0 +1,19 @@
+{
+  "acc_no": "42-92-103",
+  "year": "1991",
+  "location": "Beulah",
+  "county": "Pueblo",
+  "observers": "Brandon Percival, Mark Janos",
+  "comments": "",
+  "citations": "Prather, B.  1992 Report of the CBRC. CFO Journal 28(4), 157-168.",
+  "documentations": [
+    {
+      "doc_id": "13992",
+      "reporter": "Brandon Percival, Mark Janos",
+      "date": "12/28/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13992"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:02.153858"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-140",
+  "year": "2007",
+  "location": "Canon City Riverwalk",
+  "county": "Fremont",
+  "observers": "Nathan Pieplow",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "707",
+      "reporter": "Nathan Pieplow",
+      "date": "4/25/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=707"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:22.397025"
+}

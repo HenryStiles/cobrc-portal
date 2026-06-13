@@ -1,0 +1,19 @@
+{
+  "acc_no": "44-77-25",
+  "year": "1977",
+  "location": "South Republican SWA",
+  "county": "Yuma",
+  "observers": "Mike Moulton, William Lybarger",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16541",
+      "reporter": "Mike Moulton, William Lybarger",
+      "date": "5/14/1977",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16541"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:19.584337"
+}

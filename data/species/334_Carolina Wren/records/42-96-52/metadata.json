@@ -1,0 +1,19 @@
+{
+  "acc_no": "42-96-52",
+  "year": "1996",
+  "location": "Denver",
+  "county": "Denver",
+  "observers": "William Wuerthele, Urling & Hugh Kingery",
+  "comments": "",
+  "citations": "Janos, M.  1996 Report of the CBRC.  J. of the CFO 32(3), 173-187.",
+  "documentations": [
+    {
+      "doc_id": "13995",
+      "reporter": "Urling & Hugh Kingery, William Wuerthele",
+      "date": "4/14/1996",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13995"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:05.053219"
+}

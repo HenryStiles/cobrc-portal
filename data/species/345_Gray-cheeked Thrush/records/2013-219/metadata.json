@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-219",
+  "year": "2013",
+  "location": "Hale area",
+  "county": "Yuma",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2587",
+      "reporter": "Steven Mlodinow",
+      "date": "9/28/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2587"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:46.099863"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-189",
+  "year": "2014",
+  "location": "Aurora",
+  "county": "Arapahoe",
+  "observers": "Caroline Hancock",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "3942",
+      "reporter": "Caroline Hancock",
+      "date": "4/22/2014",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3942"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:17.019135"
+}

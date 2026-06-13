@@ -1,0 +1,19 @@
+{
+  "acc_no": "2020-041",
+  "year": "2020",
+  "location": "Grand Lake Area",
+  "county": "Grand",
+  "observers": "Burke Angstman",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176",
+  "documentations": [
+    {
+      "doc_id": "11928",
+      "reporter": "Burke Angstman",
+      "date": "11/20/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11928"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:41.080465"
+}

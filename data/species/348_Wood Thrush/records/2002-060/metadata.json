@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-060",
+  "year": "2002",
+  "location": "South Republican SWA",
+  "county": "Yuma",
+  "observers": "Urling & Hugh Kingery",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "14462",
+      "reporter": "Urling & Hugh Kingery",
+      "date": "5/19/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14462"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:54.271124"
+}

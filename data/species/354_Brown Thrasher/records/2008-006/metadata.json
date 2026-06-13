@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-006",
+  "year": "2008",
+  "location": "Colorado River State Park (James M. Robb)",
+  "county": "Mesa",
+  "observers": "Craig Dodson",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "874",
+      "reporter": "Craig Dodson",
+      "date": "1/19/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=874"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:12.599985"
+}

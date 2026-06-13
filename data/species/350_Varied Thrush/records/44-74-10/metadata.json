@@ -1,0 +1,19 @@
+{
+  "acc_no": "44-74-10",
+  "year": "1973",
+  "location": "Lyons",
+  "county": "Boulder",
+  "observers": "Craig Williams",
+  "comments": "",
+  "citations": "Reddall, J. 1975. Records from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "16231",
+      "reporter": "Craig Williams",
+      "date": "12/22/1973",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16231"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:23.477634"
+}

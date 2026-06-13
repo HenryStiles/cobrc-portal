@@ -1,0 +1,19 @@
+{
+  "acc_no": "44-72-35",
+  "year": "1972",
+  "location": "Grand Junction",
+  "county": "Mesa",
+  "observers": "Lucy Ela",
+  "comments": "",
+  "citations": "Reddall, J. 1973b. Reports from the CFO Official Records Committee. Colorado Field Ornithologist 16:19-26.",
+  "documentations": [
+    {
+      "doc_id": "14446",
+      "reporter": "Lucy Ela",
+      "date": "9/13/1972",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14446"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:46.090843"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2017-066",
+  "year": "2017",
+  "location": "Norwood",
+  "county": "San Miguel",
+  "observers": "Coen Dexter",
+  "comments": "",
+  "citations": "Accepted by the Chairman and not published.",
+  "documentations": [
+    {
+      "doc_id": "9624",
+      "reporter": "Coen Dexter",
+      "date": "10/12/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=9624"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:50.862200"
+}

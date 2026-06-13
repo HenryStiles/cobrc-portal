@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-187",
+  "year": "2010",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Bill Schmoker",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1438",
+      "reporter": "Bill Schmoker",
+      "date": "6/1/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1438"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:24.588461"
+}

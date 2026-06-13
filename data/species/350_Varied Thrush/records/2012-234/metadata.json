@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-234",
+  "year": "2012",
+  "location": "W Platte River Rd",
+  "county": "Jefferson",
+  "observers": "Karen Martin",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2213",
+      "reporter": "Karen Martin",
+      "date": "12/10/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2213"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:59.475712"
+}

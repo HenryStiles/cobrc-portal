@@ -1,0 +1,19 @@
+{
+  "acc_no": "42-73-27",
+  "year": "1972",
+  "location": "Pueblo",
+  "county": "Pueblo",
+  "observers": "Nadine Elich, Dave Griffiths, Steve Larson",
+  "comments": "",
+  "citations": "Reddall, J. 1974. Reports from the CFO Official Records Committee. Colorado Field Ornithologist 19:11-41.",
+  "documentations": [
+    {
+      "doc_id": "13983",
+      "reporter": "Nadine Elich, Dave Griffiths, Steve Larson",
+      "date": "12/15/1972",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13983"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:51.189088"
+}

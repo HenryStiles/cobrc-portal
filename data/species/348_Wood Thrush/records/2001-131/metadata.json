@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-131",
+  "year": "2001",
+  "location": "Poudre River Trail (Ft. Collins section)",
+  "county": "Larimer",
+  "observers": "Dave Leatherman",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  2001 pt.1 Report of the CBRC. Colorado Birds 37(3), 138-155.",
+  "documentations": [
+    {
+      "doc_id": "14460",
+      "reporter": "Dave Leatherman",
+      "date": "10/13/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14460"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:34.775263"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "44-95-68",
+  "year": "1995",
+  "location": "Fort Lyon Area",
+  "county": "Bent",
+  "observers": "Brandon Percival, Mark Janos",
+  "comments": "",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "14457",
+      "reporter": "Brandon Percival, Mark Janos",
+      "date": "5/8/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14457"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:25.794708"
+}

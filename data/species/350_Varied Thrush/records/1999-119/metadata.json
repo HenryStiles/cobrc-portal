@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-119",
+  "year": "1999",
+  "location": "Hale area",
+  "county": "Yuma",
+  "observers": "Peter Gaede",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "16243",
+      "reporter": "Peter Gaede",
+      "date": "1/1/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16243"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:34.804808"
+}

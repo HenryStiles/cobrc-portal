@@ -1,0 +1,19 @@
+{
+  "acc_no": "44-76-75",
+  "year": "1976",
+  "location": "Jumbo Reservoir State Wildlife Area",
+  "county": "Logan",
+  "observers": "William Lybarger",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "16539",
+      "reporter": "William Lybarger",
+      "date": "5/29/1976",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16539"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:18.302042"
+}

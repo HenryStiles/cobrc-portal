@@ -1,0 +1,19 @@
+{
+  "acc_no": "43-76-13",
+  "year": "1970",
+  "location": "Timpas",
+  "county": "Otero",
+  "observers": "Robert Buttery",
+  "comments": "Nest with 5 eggs.",
+  "citations": "Buttery, R., Bendire's Thrasher nesting in Colorado. Colorado Field Ornithologist, 9, 29, 1971.",
+  "documentations": [
+    {
+      "doc_id": "13753",
+      "reporter": "Robert Buttery",
+      "date": "6/9/1970",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13753"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:47.358463"
+}

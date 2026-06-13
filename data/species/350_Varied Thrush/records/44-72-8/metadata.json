@@ -1,0 +1,19 @@
+{
+  "acc_no": "44-72-8",
+  "year": "1972",
+  "location": "Lakewood",
+  "county": "Jefferson",
+  "observers": "Bernice Noyce, John Cooper, Jim Lane, Ray Olson",
+  "comments": "1330 Kipling St.",
+  "citations": "Reddall, J. 1973b. Reports from the CFO Official Records Committee. Colorado Field Ornithologist 16:19-26.",
+  "documentations": [
+    {
+      "doc_id": "16230",
+      "reporter": "Bernice Noyce, John Cooper, Jim Lane, Ray Olson",
+      "date": "11/27/1972",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16230"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:22.018441"
+}

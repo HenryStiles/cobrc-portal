@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-174",
+  "year": "2006",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Robert Blinderman",
+  "comments": "Age: adult; Plumage: basic; Sex: m;",
+  "citations": "Semo, L.  The 48th Report of the CBRC. Colorado Birds 42(4), 270-278.",
+  "documentations": [
+    {
+      "doc_id": "628",
+      "reporter": "Robert Blinderman",
+      "date": "12/21/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=628"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:57.718194"
+}

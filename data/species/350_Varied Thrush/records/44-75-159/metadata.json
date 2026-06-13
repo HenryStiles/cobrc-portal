@@ -1,0 +1,19 @@
+{
+  "acc_no": "44-75-159",
+  "year": "1975",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Eleanor Hough",
+  "comments": "",
+  "citations": "Reddall, J. 1976. CFO Official Records Committee 1975 Report. C.F.O. Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "16232",
+      "reporter": "Eleanor Hough",
+      "date": "11/19/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16232"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:24.540102"
+}

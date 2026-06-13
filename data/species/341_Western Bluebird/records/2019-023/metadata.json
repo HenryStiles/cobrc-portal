@@ -1,0 +1,19 @@
+{
+  "acc_no": "2019-023",
+  "year": "2019",
+  "location": "South Platte Park",
+  "county": "Arapahoe",
+  "observers": "Amanda Spears",
+  "comments": "",
+  "citations": "Colorado Birds 56(3), 213-222, 2022",
+  "documentations": [
+    {
+      "doc_id": "11843",
+      "reporter": "Amanda Spears",
+      "date": "10/10/2019",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11843"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:57.004304"
+}

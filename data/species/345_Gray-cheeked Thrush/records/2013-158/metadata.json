@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-158",
+  "year": "2013",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2484",
+      "reporter": "Steven Mlodinow",
+      "date": "5/22/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2484"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:44.953369"
+}

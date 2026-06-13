@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-072",
+  "year": "2011",
+  "location": "Crow Valley Campground",
+  "county": "Weld",
+  "observers": "Steve Mlodinow",
+  "comments": "",
+  "citations": "Faulkner, D. The 65th Report of the CBRC. Colorado Birds 47(1), 28-37.",
+  "documentations": [
+    {
+      "doc_id": "1693",
+      "reporter": "Steven Mlodinow",
+      "date": "4/16/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1693"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:57.246975"
+}

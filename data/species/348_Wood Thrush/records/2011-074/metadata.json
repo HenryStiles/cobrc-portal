@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-074",
+  "year": "2011",
+  "location": "Limon",
+  "county": "Lincoln",
+  "observers": "Kathy Mihm Dunning",
+  "comments": "",
+  "citations": "Faulkner, D. The 62nd Report of the CBRC. Colorado Birds 46(2), 106-120.",
+  "documentations": [
+    {
+      "doc_id": "1868",
+      "reporter": "Kathy Mihm Dunning",
+      "date": "5/19/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1868"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:00.773985"
+}

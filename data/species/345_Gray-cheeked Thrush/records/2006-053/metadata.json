@@ -1,0 +1,26 @@
+{
+  "acc_no": "2006-053",
+  "year": "2006",
+  "location": "Crow Valley Campground",
+  "county": "Weld",
+  "observers": "Cole Wild, Nicholas Komar",
+  "comments": "",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "413",
+      "reporter": "Nicholas Komar",
+      "date": "5/14/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=413"
+    },
+    {
+      "doc_id": "430",
+      "reporter": "C W",
+      "date": "5/14/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=430"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:38.588158"
+}

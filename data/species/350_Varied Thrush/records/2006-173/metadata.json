@@ -1,0 +1,26 @@
+{
+  "acc_no": "2006-173",
+  "year": "2006",
+  "location": "Crow Valley Campground",
+  "county": "Weld",
+  "observers": "Cole Wild, Nick Komar",
+  "comments": "Age: 1st-basic; Plumage: basic; Sex: m;",
+  "citations": "Semo, L.  The 48th Report of the CBRC. Colorado Birds 42(4), 270-278.",
+  "documentations": [
+    {
+      "doc_id": "636",
+      "reporter": "Nicholas Komar",
+      "date": "12/18/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=636"
+    },
+    {
+      "doc_id": "702",
+      "reporter": "C W",
+      "date": "12/18/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=702"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:55.895600"
+}

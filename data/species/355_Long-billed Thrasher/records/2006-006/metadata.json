@@ -1,0 +1,54 @@
+{
+  "acc_no": "2006-006",
+  "year": "2006",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Brandon Percival, Bill Maynard, Doug Faulkner, Andrew Spencer, Peter Gent, Cole Wild",
+  "comments": "",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "347",
+      "reporter": "Brandon K Percival",
+      "date": "1/14/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=347"
+    },
+    {
+      "doc_id": "456",
+      "reporter": "Bill Maynard",
+      "date": "1/27/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=456"
+    },
+    {
+      "doc_id": "364",
+      "reporter": "Doug Faulkner",
+      "date": "1/28/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=364"
+    },
+    {
+      "doc_id": "348",
+      "reporter": "Andrew Spencer",
+      "date": "1/29/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=348"
+    },
+    {
+      "doc_id": "352",
+      "reporter": "Peter Gent",
+      "date": "1/29/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=352"
+    },
+    {
+      "doc_id": "361",
+      "reporter": "C W",
+      "date": "2/3/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=361"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:43.820858"
+}

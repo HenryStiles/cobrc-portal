@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-002",
+  "year": "2010",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Bill Miller",
+  "comments": "Age: adult; Plumage: basic; Sex: f;",
+  "citations": "Semo, L. and Faulkner, D. The 56th Report of the CBRC. Colorado Birds 44(4), 240-254.",
+  "documentations": [
+    {
+      "doc_id": "1363",
+      "reporter": "Bill Miller",
+      "date": "1/6/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1363"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:15.616440"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2017-071",
+  "year": "2017",
+  "location": "Greeley",
+  "county": "Weld",
+  "observers": "Shawn Mason",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "9618",
+      "reporter": "Shawn Mason",
+      "date": "11/28/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=9618"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:04.462866"
+}

@@ -1,0 +1,26 @@
+{
+  "acc_no": "2007-006",
+  "year": "2007",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Alex Cringan",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "651",
+      "reporter": "ALEX CRINGAN",
+      "date": "1/29/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=651"
+    },
+    {
+      "doc_id": "672",
+      "reporter": "ALEX CRINGAN",
+      "date": "1/29/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=672"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:00.536580"
+}

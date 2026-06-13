@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-139",
+  "year": "2007",
+  "location": "Canon City Riverwalk",
+  "county": "Fremont",
+  "observers": "Bill Maynard",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "668",
+      "reporter": "Bill Maynard",
+      "date": "3/12/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=668"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:21.498492"
+}

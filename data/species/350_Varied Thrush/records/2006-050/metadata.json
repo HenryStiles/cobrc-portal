@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-050",
+  "year": "2006",
+  "location": "Last Chance",
+  "county": "Washington",
+  "observers": "Glenn Walbek",
+  "comments": "Age: adult; Plumage: alternate; Sex: f;",
+  "citations": "Semo, L.  The 48th Report of the CBRC. Colorado Birds 42(4), 270-278.",
+  "documentations": [
+    {
+      "doc_id": "556",
+      "reporter": "Glenn Walbek",
+      "date": "5/12/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=556"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:55.049607"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "44-76-58",
+  "year": "1976",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Mildred Snyder",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "16535",
+      "reporter": "Mildred Snyder",
+      "date": "5/17/1976",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16535"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:17.251069"
+}

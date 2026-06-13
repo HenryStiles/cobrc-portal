@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-061",
+  "year": "2008",
+  "location": "Chico Basin Ranch",
+  "county": "Pueblo",
+  "observers": "Brian Gibbons",
+  "comments": "",
+  "citations": "Semo, L.  The 51st Report of the CBRC. Colorado Birds 43(3), 193-204.",
+  "documentations": [
+    {
+      "doc_id": "999",
+      "reporter": "Brian Gibbons",
+      "date": "5/14/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=999"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:22.870212"
+}
