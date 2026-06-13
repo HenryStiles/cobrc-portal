@@ -1,0 +1,26 @@
+{
+  "acc_no": "2009-112",
+  "year": "2009",
+  "location": "Tunnel Drive",
+  "county": "Fremont",
+  "observers": "Brandon K Percival",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "Semo, L. and Faulkner, D. The 56th Report of the CBRC. Colorado Birds 44(4), 240-254.",
+  "documentations": [
+    {
+      "doc_id": "1388",
+      "reporter": "Brandon K Percival",
+      "date": "12/20/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1388"
+    },
+    {
+      "doc_id": "1401",
+      "reporter": "Brandon K Percival",
+      "date": "4/19/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1401"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:27.473153"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-107",
+  "year": "2011",
+  "location": "North Cheyenne Canon Park",
+  "county": "El Paso",
+  "observers": "Bill Maynard",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Faulkner, D. The 63rd Report of the CBRC. Colorado Birds 46(3), 188-197.",
+  "documentations": [
+    {
+      "doc_id": "1736",
+      "reporter": "Bill Maynard",
+      "date": "8/8/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1736"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:09.136211"
+}

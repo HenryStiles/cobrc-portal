@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-138",
+  "year": "2011",
+  "location": "Valco Ponds",
+  "county": "Pueblo",
+  "observers": "Brandon Percival",
+  "comments": "Age: adult; Sex: f;",
+  "citations": "Faulkner, D. The 64th Report of the CBRC. Colorado Birds 46(4), 255-267.",
+  "documentations": [
+    {
+      "doc_id": "1804",
+      "reporter": "Brandon K Percival",
+      "date": "10/8/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1804"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:16.054754"
+}

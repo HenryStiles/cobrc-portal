@@ -1,0 +1,19 @@
+{
+  "acc_no": "55-79-20",
+  "year": "1978",
+  "location": "Powderhorn",
+  "county": "Gunnison",
+  "observers": "Jim Bredy",
+  "comments": "",
+  "citations": "Chase, C.  1977-1980 Pt.2 Report of the CBRC. CFO Journal 15(2), 54-59.",
+  "documentations": [
+    {
+      "doc_id": "15926",
+      "reporter": "Jim Bredy",
+      "date": "8/10/1978",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15926"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:58.931600"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "1996-501",
+  "year": "1996",
+  "location": "Grand Junction",
+  "county": "Mesa",
+  "observers": "Coen Dexter",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176.",
+  "documentations": [
+    {
+      "doc_id": "11863",
+      "reporter": "Coen Dexter",
+      "date": "11/1/1996",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11863"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:40.561402"
+}

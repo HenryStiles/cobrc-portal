@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-204",
+  "year": "2006",
+  "location": "Lamar",
+  "county": "Prowers",
+  "observers": "Bill Maynard",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "477",
+      "reporter": "Bill Maynard",
+      "date": "5/7/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=477"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:14.689550"
+}

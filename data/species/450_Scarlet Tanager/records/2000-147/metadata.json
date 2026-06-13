@@ -1,0 +1,19 @@
+{
+  "acc_no": "2000-147",
+  "year": "2000",
+  "location": "Lamar Community College",
+  "county": "Prowers",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "15944",
+      "reporter": "Mark Janos",
+      "date": "5/21/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15944"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:48.244788"
+}

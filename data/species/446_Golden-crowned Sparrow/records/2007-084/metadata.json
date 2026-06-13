@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-084",
+  "year": "2007",
+  "location": "Last Chance",
+  "county": "Washington",
+  "observers": "Andrew Spencer",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "803",
+      "reporter": "Andrew Spencer",
+      "date": "5/6/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=803"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:14.890900"
+}

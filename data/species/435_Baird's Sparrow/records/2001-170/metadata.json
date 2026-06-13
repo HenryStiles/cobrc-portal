@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-170",
+  "year": "2000",
+  "location": "8 Rd near P Rd",
+  "county": "Baca",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "Leukering, T.  The 40th Report of the CBRC. Colorado Birds 39(4), 168-176.",
+  "documentations": [
+    {
+      "doc_id": "13680",
+      "reporter": "Tony Leukering",
+      "date": "4/30/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13680"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:46.325982"
+}

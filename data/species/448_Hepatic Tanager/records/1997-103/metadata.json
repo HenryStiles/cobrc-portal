@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-103",
+  "year": "1994",
+  "location": "Mesa de Maya area",
+  "county": "Las Animas",
+  "observers": "Tom Van Zandt",
+  "comments": "",
+  "citations": "Janos, M.  1997 Report of the CBRC.  J. of the CFO 33(4), 241-252.",
+  "documentations": [
+    {
+      "doc_id": "13951",
+      "reporter": "Tom Van Zandt",
+      "date": "5/15/1994",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13951"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:19.679877"
+}

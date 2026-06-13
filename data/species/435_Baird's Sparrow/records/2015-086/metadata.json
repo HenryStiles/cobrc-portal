@@ -1,0 +1,26 @@
+{
+  "acc_no": "2015-086",
+  "year": "2015",
+  "location": "Carr, CO",
+  "county": "Larimer",
+  "observers": "Nicholas Komar",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6303",
+      "reporter": "Nicholas Komar",
+      "date": "7/25/2015",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6303"
+    },
+    {
+      "doc_id": "6313",
+      "reporter": "Nicholas Komar",
+      "date": "7/31/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6313"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:56.495447"
+}

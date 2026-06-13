@@ -1,0 +1,19 @@
+{
+  "acc_no": "1989-500",
+  "year": "1989",
+  "location": "Clifton",
+  "county": "Mesa",
+  "observers": "Coen Dexter",
+  "comments": "",
+  "citations": "Colorado Birds 56(3), 213-222, 2022",
+  "documentations": [
+    {
+      "doc_id": "11848",
+      "reporter": "Coen Dexter",
+      "date": "11/21/1989",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11848"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:50.786131"
+}

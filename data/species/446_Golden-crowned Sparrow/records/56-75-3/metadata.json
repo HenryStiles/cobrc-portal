@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-75-3",
+  "year": "1974",
+  "location": "Waterton Canyon",
+  "county": "Jefferson",
+  "observers": "Robert Reed, Jack Reddall",
+  "comments": "",
+  "citations": "Reddall, J. 1976. CFO Official Records Committee 1975 Report. C.F.O. Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "16110",
+      "reporter": "Robert Reed, Jack Reddall",
+      "date": "12/28/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16110"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:47.137443"
+}

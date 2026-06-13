@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-040",
+  "year": "2012",
+  "location": "Loveland",
+  "county": "Larimer",
+  "observers": "Sean Walters",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2277",
+      "reporter": "Sean Walters",
+      "date": "11/10/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2277"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:17.983614"
+}

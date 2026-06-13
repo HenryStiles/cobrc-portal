@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-160",
+  "year": "2001",
+  "location": "Fort Lyon Wildlife Area",
+  "county": "Bent",
+  "observers": "Doug Faulkner",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "15947",
+      "reporter": "Doug Faulkner",
+      "date": "5/19/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15947"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:49.115458"
+}

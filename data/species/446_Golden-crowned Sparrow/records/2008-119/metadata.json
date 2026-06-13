@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-119",
+  "year": "2008",
+  "location": "Lakewood",
+  "county": "Jefferson",
+  "observers": "Norm Lewis",
+  "comments": "Age: imm.; Plumage: basic;",
+  "citations": "Semo, L.  The 51st Report of the CBRC. Colorado Birds 43(3), 193-204.",
+  "documentations": [
+    {
+      "doc_id": "1123",
+      "reporter": "Norm Lewis",
+      "date": "10/11/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1123"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:21.087357"
+}

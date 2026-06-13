@@ -1,0 +1,47 @@
+{
+  "acc_no": "2014-128",
+  "year": "2014",
+  "location": "Drennan Road",
+  "county": "El Paso",
+  "observers": "Bill Maynard, John Drummond, Bruce Cyganowski, Joe Roller, Steven Mlodinow",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "5120",
+      "reporter": "Bill Maynard",
+      "date": "8/27/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5120"
+    },
+    {
+      "doc_id": "5112",
+      "reporter": "John Drummond",
+      "date": "9/1/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5112"
+    },
+    {
+      "doc_id": "5110",
+      "reporter": "Bruce Cyganowski",
+      "date": "9/3/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5110"
+    },
+    {
+      "doc_id": "5122",
+      "reporter": "Joe Roller",
+      "date": "9/5/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5122"
+    },
+    {
+      "doc_id": "5125",
+      "reporter": "Steven Mlodinow",
+      "date": "9/7/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5125"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:48.144553"
+}

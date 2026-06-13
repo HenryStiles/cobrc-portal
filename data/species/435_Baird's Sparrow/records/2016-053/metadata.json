@@ -1,0 +1,26 @@
+{
+  "acc_no": "2016-053",
+  "year": "2016",
+  "location": "Soapstone Prairie Natural Area",
+  "county": "Larimer",
+  "observers": "Kathy Mihm Dunning, Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6453",
+      "reporter": "Kathy Mihm Dunning",
+      "date": "7/15/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6453"
+    },
+    {
+      "doc_id": "6461",
+      "reporter": "Steven Mlodinow",
+      "date": "7/15/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6461"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:59.107961"
+}

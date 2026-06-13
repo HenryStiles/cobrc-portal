@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-89-57",
+  "year": "1989",
+  "location": "Julesburg",
+  "county": "Sedgwick",
+  "observers": "Dan Bridges",
+  "comments": "",
+  "citations": "Nelson, D.  1989 Report of the CBRC. CFO Journal 25(4), 119-125.",
+  "documentations": [
+    {
+      "doc_id": "13110",
+      "reporter": "Dan Bridges",
+      "date": "10/14/1989",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13110"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:42.475702"
+}

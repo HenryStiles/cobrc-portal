@@ -1,0 +1,19 @@
+{
+  "acc_no": "2020-042",
+  "year": "2020",
+  "location": "Burlington",
+  "county": "Kit Carson",
+  "observers": "Sue Riffe",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176",
+  "documentations": [
+    {
+      "doc_id": "11922",
+      "reporter": "Sue Riffe",
+      "date": "11/9/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11922"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:57.627674"
+}

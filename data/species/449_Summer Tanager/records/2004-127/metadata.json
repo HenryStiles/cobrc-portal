@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-127",
+  "year": "2004",
+  "location": "Ridgway",
+  "county": "Ouray",
+  "observers": "Jim Beatty",
+  "comments": "Age: adult; Sex: f;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "92",
+      "reporter": "James Beatty",
+      "date": "8/11/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=92"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:14.048387"
+}

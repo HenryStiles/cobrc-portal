@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-038",
+  "year": "1996",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Virginia Dionigi, Tony Esposito",
+  "comments": "specimen??",
+  "citations": "Leukering, T. and Semo, L.  2001 pt.1 Report of the CBRC. Colorado Birds 37(3), 138-155.",
+  "documentations": [
+    {
+      "doc_id": "15928",
+      "reporter": "Virginia Dionigi, Tony Esposito",
+      "date": "11/19/1996",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15928"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:38.564463"
+}

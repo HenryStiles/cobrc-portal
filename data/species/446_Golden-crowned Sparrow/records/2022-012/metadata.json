@@ -1,0 +1,19 @@
+{
+  "acc_no": "2022-012",
+  "year": "2022",
+  "location": "Chalk Cliff Fish Hatchery, Nathrop",
+  "county": "Chaffee",
+  "observers": "Sally Waterhouse",
+  "comments": "",
+  "citations": "The 83rd Report of the Colorado Bird Records Committee,  Peter R. Gent, Colorado Birds, 57(2), 61-70, 2023.",
+  "documentations": [
+    {
+      "doc_id": "12037",
+      "reporter": "Sally Waterhouse",
+      "date": "3/9/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12037"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:38.401419"
+}

@@ -1,0 +1,26 @@
+{
+  "acc_no": "2012-223",
+  "year": "2012",
+  "location": "Trinidad",
+  "county": "Las Animas",
+  "observers": "Polly Neldner",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1993",
+      "reporter": "Polly Neldner",
+      "date": "5/20/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1993"
+    },
+    {
+      "doc_id": "1994",
+      "reporter": "Polly Neldner",
+      "date": "5/20/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1994"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:43.414618"
+}

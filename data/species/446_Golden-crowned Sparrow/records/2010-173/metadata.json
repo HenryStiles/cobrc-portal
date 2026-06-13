@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-173",
+  "year": "2010",
+  "location": "Crow Valley Campground",
+  "county": "Weld",
+  "observers": "David Leatherman",
+  "comments": "Age: immature; Plumage: 1st-winter;",
+  "citations": "Faulkner, D. The 62nd Report of the CBRC. Colorado Birds 46(2), 106-120.",
+  "documentations": [
+    {
+      "doc_id": "1608",
+      "reporter": "David Leatherman",
+      "date": "10/15/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1608"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:32.519552"
+}

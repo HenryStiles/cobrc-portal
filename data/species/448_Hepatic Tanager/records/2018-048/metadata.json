@@ -1,0 +1,19 @@
+{
+  "acc_no": "2018-048",
+  "year": "2018",
+  "location": "Chico Basin Ranch, Rose Pond",
+  "county": "Pueblo",
+  "observers": "Brandon K. Percival",
+  "comments": "",
+  "citations": "Colorado Birds 56(3), 213-222, 2022",
+  "documentations": [
+    {
+      "doc_id": "11754",
+      "reporter": "Brandon K. Percival",
+      "date": "5/13/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11754"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:47.634484"
+}

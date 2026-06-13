@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-77-29",
+  "year": "1977",
+  "location": "Berthoud",
+  "county": "Larimer",
+  "observers": "Ed Hollowed",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "13112",
+      "reporter": "Ed Hollowed",
+      "date": "5/7/1977",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13112"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:02.456360"
+}

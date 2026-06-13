@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-107",
+  "year": "2013",
+  "location": "Two Buttes State Wildlife Area",
+  "county": "Baca",
+  "observers": "Jeff Calhoun",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "4086",
+      "reporter": "Jeff Calhoun",
+      "date": "3/2/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4086"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:23.277913"
+}

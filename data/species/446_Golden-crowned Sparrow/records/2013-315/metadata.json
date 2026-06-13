@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-315",
+  "year": "2013",
+  "location": "Red Rocks Park",
+  "county": "Jefferson",
+  "observers": "Kris Petersen",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176.",
+  "documentations": [
+    {
+      "doc_id": "4087",
+      "reporter": "Kris Petersen",
+      "date": "4/25/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4087"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:24.179762"
+}

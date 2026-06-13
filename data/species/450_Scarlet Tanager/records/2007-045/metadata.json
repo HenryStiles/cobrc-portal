@@ -1,0 +1,33 @@
+{
+  "acc_no": "2007-045",
+  "year": "2007",
+  "location": "Gregory Canyon",
+  "county": "Boulder",
+  "observers": "Bill Maynard, Larry Semo, Nathan Pieplow",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "741",
+      "reporter": "Bill Maynard",
+      "date": "6/30/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=741"
+    },
+    {
+      "doc_id": "796",
+      "reporter": "Larry Semo",
+      "date": "7/4/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=796"
+    },
+    {
+      "doc_id": "753",
+      "reporter": "Nathan Pieplow",
+      "date": "7/7/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=753"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:59.045226"
+}

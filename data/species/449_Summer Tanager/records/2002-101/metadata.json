@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-101",
+  "year": "2002",
+  "location": "Brown's Park National Wildlife Refuge",
+  "county": "Moffat",
+  "observers": "Suzanne Halvorson",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  The 37th Report of the CBRC. Colorado Birds 38(2), 73-88.",
+  "documentations": [
+    {
+      "doc_id": "14536",
+      "reporter": "Suzanne Halvorson",
+      "date": "10/6/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14536"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:13.011077"
+}

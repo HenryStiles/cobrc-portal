@@ -1,0 +1,19 @@
+{
+  "acc_no": "2019-049",
+  "year": "2019",
+  "location": "Soapstone Prairie Natural Area",
+  "county": "Larimer",
+  "observers": "Andrew Bankert",
+  "comments": "First documentations of breeding in Colorado in Larimer and Weld Counties.",
+  "citations": "The 82nd Report of the CBRC, 2022. Colorado Birds, 56(4), 283-294.",
+  "documentations": [
+    {
+      "doc_id": "11849",
+      "reporter": "Andrew Bankert",
+      "date": "5/14/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11849"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:26.708794"
+}

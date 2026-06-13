@@ -1,0 +1,26 @@
+{
+  "acc_no": "2023-011",
+  "year": "2023",
+  "location": "Mountaindale Cabins Resort",
+  "county": "Fremont",
+  "observers": "Diana Beatty, Aaron Driscoll",
+  "comments": "",
+  "citations": "Gent, P.  85th Report of the CBRC. Colorado Birds 58(1), 7-14.",
+  "documentations": [
+    {
+      "doc_id": "13344",
+      "reporter": "Diana Beatty",
+      "date": "6/21/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13344"
+    },
+    {
+      "doc_id": "13350",
+      "reporter": "Aaron Driscoll",
+      "date": "7/2/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13350"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:52.514731"
+}

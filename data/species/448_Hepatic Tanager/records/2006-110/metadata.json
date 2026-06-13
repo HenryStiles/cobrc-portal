@@ -1,0 +1,33 @@
+{
+  "acc_no": "2006-110",
+  "year": "2006",
+  "location": "Bader Ranch",
+  "county": "Las Animas",
+  "observers": "Andrew Spencer, Cole Wild",
+  "comments": "Age: adults; Plumage: alternate; Sex: adult male, adult female, 2 young in nest;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "478",
+      "reporter": "Andrew Spencer",
+      "date": "7/18/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=478"
+    },
+    {
+      "doc_id": "499",
+      "reporter": "C W",
+      "date": "7/18/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=499"
+    },
+    {
+      "doc_id": "500",
+      "reporter": "C W",
+      "date": "7/18/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=500"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:36.075022"
+}

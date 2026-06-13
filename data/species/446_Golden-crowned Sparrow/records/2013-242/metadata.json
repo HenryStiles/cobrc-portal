@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-242",
+  "year": "2013",
+  "location": "Nucla",
+  "county": "Montrose",
+  "observers": "Coen Dexter",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2613",
+      "reporter": "Coen Dexter",
+      "date": "4/27/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2613"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:25.774811"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2000-144",
+  "year": "2000",
+  "location": "Two Buttes State Wildlife Area",
+  "county": "Baca",
+  "observers": "Chris Wood",
+  "comments": "",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "15939",
+      "reporter": "Chris Wood",
+      "date": "5/16/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15939"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:45.289223"
+}

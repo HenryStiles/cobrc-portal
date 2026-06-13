@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-182",
+  "year": "2014",
+  "location": "Red Rocks Park",
+  "county": "Jefferson",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176",
+  "documentations": [
+    {
+      "doc_id": "5182",
+      "reporter": "Steven Mlodinow",
+      "date": "12/11/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5182"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:33.585026"
+}

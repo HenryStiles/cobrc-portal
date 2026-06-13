@@ -1,0 +1,19 @@
+{
+  "acc_no": "55-90-68",
+  "year": "1990",
+  "location": "Two Buttes State Wildlife Area",
+  "county": "Baca",
+  "observers": "Dan Bridges",
+  "comments": "",
+  "citations": "Nelson, D.  1990 Report of the CBRC. CFO Journal 26(3), 91-97.",
+  "documentations": [
+    {
+      "doc_id": "15929",
+      "reporter": "Dan Bridges",
+      "date": "5/8/1990",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15929"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:17.126737"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-045",
+  "year": "2016",
+  "location": "Fruita",
+  "county": "Mesa",
+  "observers": "Mike Henwood",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6446",
+      "reporter": "Mike Henwood",
+      "date": "4/9/2016",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6446"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:34.400183"
+}

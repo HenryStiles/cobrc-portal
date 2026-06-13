@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-90-73",
+  "year": "1990",
+  "location": "John Martin Reservoir State Park",
+  "county": "Bent",
+  "observers": "Dan Bridges, Norm Erthal, Peter Gent, Shawneen Finnegan, Paul Lehman",
+  "comments": "",
+  "citations": "Nelson, D.  1990 Report of the CBRC. CFO Journal 26(3), 91-97.",
+  "documentations": [
+    {
+      "doc_id": "13114",
+      "reporter": "Dan Bridges, Norm Erthal, Peter Gent, Shawneen Finnegan, Paul Lehman",
+      "date": "12/2/1990",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13114"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:03.447302"
+}

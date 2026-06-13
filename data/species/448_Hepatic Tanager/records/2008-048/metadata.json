@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-048",
+  "year": "2008",
+  "location": "Two Buttes State Wildlife Area",
+  "county": "Baca",
+  "observers": "Andrew Spencer",
+  "comments": "Age: adult; Plumage: alternate; Sex: f;",
+  "citations": "Semo, L.  The 51st Report of the CBRC. Colorado Birds 43(3), 193-204.",
+  "documentations": [
+    {
+      "doc_id": "961",
+      "reporter": "Andrew Spencer",
+      "date": "5/4/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=961"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:40.972704"
+}

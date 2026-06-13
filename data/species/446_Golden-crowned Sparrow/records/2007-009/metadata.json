@@ -1,0 +1,40 @@
+{
+  "acc_no": "2007-009",
+  "year": "2007",
+  "location": "Tunnel Drive",
+  "county": "Fremont",
+  "observers": "Bill Maynard, Brandon Percival, David Elwonger, Tony Leukering",
+  "comments": "Age: imm.; Plumage: basic;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "670",
+      "reporter": "Bill Maynard",
+      "date": "2/16/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=670"
+    },
+    {
+      "doc_id": "659",
+      "reporter": "Brandon K Percival",
+      "date": "2/18/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=659"
+    },
+    {
+      "doc_id": "661",
+      "reporter": "David Elwonger",
+      "date": "2/26/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=661"
+    },
+    {
+      "doc_id": "765",
+      "reporter": "Tony Leukering",
+      "date": "3/15/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=765"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:09.909183"
+}

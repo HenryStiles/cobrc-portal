@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-322",
+  "year": "2013",
+  "location": "Red Rocks Park",
+  "county": "Jefferson",
+  "observers": "Mike Henwood",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2791",
+      "reporter": "Mike Henwood",
+      "date": "11/5/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2791"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:31.253293"
+}

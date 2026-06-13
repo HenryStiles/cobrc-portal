@@ -1,0 +1,26 @@
+{
+  "acc_no": "2008-018",
+  "year": "2008",
+  "location": "Colorado Springs",
+  "county": "El Paso",
+  "observers": "Bill Maynard, Marty Wolf",
+  "comments": "Age: imm.; Plumage: basic;",
+  "citations": "Semo, L.  The 50th Report of the CBRC. Colorado Birds 43(2), 123-135.",
+  "documentations": [
+    {
+      "doc_id": "904",
+      "reporter": "Bill Maynard",
+      "date": "2/23/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=904"
+    },
+    {
+      "doc_id": "924",
+      "reporter": "Marty Wolf",
+      "date": "2/23/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=924"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:15.606606"
+}

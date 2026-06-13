@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-146",
+  "year": "1998",
+  "location": "Long Pond and surrounding lakes",
+  "county": "Larimer",
+  "observers": "Rachel Hopper, BB Hahn, Alex Cringan",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "15938",
+      "reporter": "Rachel Hopper, BB Hahn, Alex Cringan",
+      "date": "7/22/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15938"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:44.181644"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-105",
+  "year": "2016",
+  "location": "Rocky Ford State Wildlife Area",
+  "county": "Otero",
+  "observers": "Kathy Mihm Dunning",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "8518",
+      "reporter": "Kathy Mihm Dunning",
+      "date": "12/16/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8518"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:35.077723"
+}

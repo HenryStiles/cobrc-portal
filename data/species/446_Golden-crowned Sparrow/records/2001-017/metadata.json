@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-017",
+  "year": "2001",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "J B Hayes, Doug Faulkner",
+  "comments": "found on 12/25/2000 by Bob Brown; spent winter",
+  "citations": "Leukering, T. and Semo, L.  2001 pt.1 Report of the CBRC. Colorado Birds 37(3), 138-155.",
+  "documentations": [
+    {
+      "doc_id": "16125",
+      "reporter": "J B Hayes, Doug Faulkner",
+      "date": "1/1/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16125"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:00.212212"
+}

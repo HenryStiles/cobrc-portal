@@ -1,0 +1,19 @@
+{
+  "acc_no": "55-76-115",
+  "year": "1976",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Freeman Hall",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "15924",
+      "reporter": "Freeman Hall",
+      "date": "6/12/1976",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15924"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:57.083337"
+}

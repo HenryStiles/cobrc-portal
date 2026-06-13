@@ -1,0 +1,26 @@
+{
+  "acc_no": "2010-001",
+  "year": "2010",
+  "location": "Red Rocks Park",
+  "county": "Jefferson",
+  "observers": "Bill Schmoker, Bill Maynard",
+  "comments": "Age: imm.; Plumage: basic;",
+  "citations": "Semo, L. and Faulkner, D. The 56th Report of the CBRC. Colorado Birds 44(4), 240-254.",
+  "documentations": [
+    {
+      "doc_id": "1376",
+      "reporter": "Bill Schmoker",
+      "date": "1/3/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1376"
+    },
+    {
+      "doc_id": "1606",
+      "reporter": "Bill Maynard",
+      "date": "1/15/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1606"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:30.123913"
+}

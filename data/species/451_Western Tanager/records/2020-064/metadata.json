@@ -1,0 +1,19 @@
+{
+  "acc_no": "2020-064",
+  "year": "2020",
+  "location": "Denver",
+  "county": "Denver",
+  "observers": "Diane Ipsen",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176",
+  "documentations": [
+    {
+      "doc_id": "11884",
+      "reporter": "Diane Ipsen",
+      "date": "5/12/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11884"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:01.905810"
+}

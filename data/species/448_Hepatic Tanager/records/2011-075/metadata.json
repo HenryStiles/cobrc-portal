@@ -1,0 +1,26 @@
+{
+  "acc_no": "2011-075",
+  "year": "2011",
+  "location": "Reed Canyon",
+  "county": "Las Animas",
+  "observers": "John Drummond",
+  "comments": "Age: adult; Plumage: alternate; Sex: m,f;",
+  "citations": "Faulkner, D. The 62nd Report of the CBRC. Colorado Birds 46(2), 106-120.",
+  "documentations": [
+    {
+      "doc_id": "1686",
+      "reporter": "John Drummond",
+      "date": "5/29/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1686"
+    },
+    {
+      "doc_id": "1713",
+      "reporter": "John Drummond",
+      "date": "6/5/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1713"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:41.856150"
+}

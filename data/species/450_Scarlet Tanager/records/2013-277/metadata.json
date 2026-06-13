@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-277",
+  "year": "1994",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Randall Siebert",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2773",
+      "reporter": "Randall Siebert",
+      "date": "2/18/1994",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2773"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:19.932066"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "55-95-93",
+  "year": "1995",
+  "location": "Two Buttes State Wildlife Area",
+  "county": "Baca",
+  "observers": "Brandon Percival",
+  "comments": "",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "15932",
+      "reporter": "Brandon Percival",
+      "date": "4/30/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15932"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:37.576422"
+}

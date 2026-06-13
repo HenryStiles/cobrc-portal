@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-039",
+  "year": "2016",
+  "location": "Not Specified",
+  "county": "Gunnison",
+  "observers": "Norm Lewis",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "6437",
+      "reporter": "Norm Lewis",
+      "date": "6/5/2016",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6437"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:46.265280"
+}

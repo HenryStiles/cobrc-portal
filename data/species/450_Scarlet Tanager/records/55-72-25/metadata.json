@@ -1,0 +1,19 @@
+{
+  "acc_no": "55-72-25",
+  "year": "1972",
+  "location": "Gunnison",
+  "county": "Gunnison",
+  "observers": "Sidney Hyde",
+  "comments": "5 mls NE of Gunnison.",
+  "citations": "Reddall, J. 1973b. Reports from the CFO Official Records Committee. Colorado Field Ornithologist 16:19-26.",
+  "documentations": [
+    {
+      "doc_id": "15923",
+      "reporter": "Sidney Hyde",
+      "date": "9/3/1972",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15923"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:56.224352"
+}

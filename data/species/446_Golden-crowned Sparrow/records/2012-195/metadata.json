@@ -1,0 +1,40 @@
+{
+  "acc_no": "2012-195",
+  "year": "2012",
+  "location": "Red Rocks Park",
+  "county": "Jefferson",
+  "observers": "Mike Henwood, Linda Chittum, Steven Mlodinow",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2352",
+      "reporter": "Mike Henwood",
+      "date": "10/26/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2352"
+    },
+    {
+      "doc_id": "2196",
+      "reporter": "Linda Chittum",
+      "date": "11/23/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2196"
+    },
+    {
+      "doc_id": "2238",
+      "reporter": "Steven Mlodinow",
+      "date": "12/25/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2238"
+    },
+    {
+      "doc_id": "2544",
+      "reporter": "Doug Faulkner",
+      "date": "2/18/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2544"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:14.730475"
+}

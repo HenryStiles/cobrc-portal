@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-74-128",
+  "year": "1974",
+  "location": "Animas River",
+  "county": "La Plata",
+  "observers": "Gloria Childress",
+  "comments": "",
+  "citations": "Reddall, J.  1975a Report of the CBRC. CFO Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "16109",
+      "reporter": "Gloria Childress",
+      "date": "10/10/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16109"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:45.907709"
+}

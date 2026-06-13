@@ -1,0 +1,19 @@
+{
+  "acc_no": "2018-051",
+  "year": "2018",
+  "location": "Meadow Springs Ranch",
+  "county": "Weld",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 56(3), 213-222, 2022",
+  "documentations": [
+    {
+      "doc_id": "11690",
+      "reporter": "Steven Mlodinow",
+      "date": "6/5/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11690"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:05.365696"
+}

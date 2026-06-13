@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-95-99",
+  "year": "1995",
+  "location": "Lake Meredith",
+  "county": "Crowley",
+  "observers": "Mark Janos",
+  "comments": "Old Acc. No. 56-95-99 photos by Chris Wood",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "13117",
+      "reporter": "Mark Janos",
+      "date": "12/30/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13117"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:07.304518"
+}

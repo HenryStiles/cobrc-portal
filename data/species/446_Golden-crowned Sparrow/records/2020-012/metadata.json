@@ -1,0 +1,19 @@
+{
+  "acc_no": "2020-012",
+  "year": "2020",
+  "location": "Sand Creek, just east of intersection with Westerly Creek",
+  "county": "Denver",
+  "observers": "Jake Shorty",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176",
+  "documentations": [
+    {
+      "doc_id": "11873",
+      "reporter": "Jake Shorty",
+      "date": "4/19/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11873"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:37.282567"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-192",
+  "year": "2009",
+  "location": "Highline Lake State Park",
+  "county": "Mesa",
+  "observers": "Jacob Cooper",
+  "comments": "Age: immature; Plumage: 1st cycle; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1218",
+      "reporter": "Jacob Cooper",
+      "date": "4/24/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1218"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:22.231511"
+}

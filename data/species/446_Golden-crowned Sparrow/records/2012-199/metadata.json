@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-199",
+  "year": "2012",
+  "location": "Centennial Park",
+  "county": "Arapahoe",
+  "observers": "Art Hudak",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2203",
+      "reporter": "Art Hudak",
+      "date": "10/10/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2203"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:12.568161"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-85-55",
+  "year": "1985",
+  "location": "Jackson Reservoir",
+  "county": "Morgan",
+  "observers": "Wade Leitner, Laurens Halsey",
+  "comments": "",
+  "citations": "Gent, P.  1985 Report of the CBRC. CFO Journal 20(3-4), 44-50.",
+  "documentations": [
+    {
+      "doc_id": "13097",
+      "reporter": "Wade Leitner, Laurens Halsey",
+      "date": "9/10/1985",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13097"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:21.631794"
+}

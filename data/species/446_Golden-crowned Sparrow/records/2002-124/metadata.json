@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-124",
+  "year": "2002",
+  "location": "Wray Area",
+  "county": "Yuma",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  The 38th Report of the CBRC. Colorado Birds 38(4), 168-183.",
+  "documentations": [
+    {
+      "doc_id": "16127",
+      "reporter": "Tony Leukering",
+      "date": "1/6/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16127"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:01.623472"
+}

@@ -1,0 +1,26 @@
+{
+  "acc_no": "2011-121",
+  "year": "2011",
+  "location": "Chico Basin Ranch",
+  "county": "Pueblo",
+  "observers": "Bill Maynard, John Drummond",
+  "comments": "",
+  "citations": "Faulkner, D. The 63rd Report of the CBRC. Colorado Birds, 46(3), 188-197.",
+  "documentations": [
+    {
+      "doc_id": "1772",
+      "reporter": "Bill Maynard",
+      "date": "9/17/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1772"
+    },
+    {
+      "doc_id": "1805",
+      "reporter": "John Drummond",
+      "date": "10/5/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1805"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:19.659169"
+}

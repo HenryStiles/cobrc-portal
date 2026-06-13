@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-037",
+  "year": "1996",
+  "location": "Lyons",
+  "county": "Boulder",
+  "observers": "Phyllis Baker, Tony Esposito",
+  "comments": "Found dead",
+  "citations": "Leukering, T. and Semo, L.  2001 pt.1 Report of the CBRC. Colorado Birds 37(3), 138-155.",
+  "documentations": [
+    {
+      "doc_id": "14535",
+      "reporter": "Phyllis Baker, Tony Esposito",
+      "date": "12/19/1996",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14535"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:11.932230"
+}

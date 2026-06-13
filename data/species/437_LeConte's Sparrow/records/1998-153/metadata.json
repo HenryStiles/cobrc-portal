@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-153",
+  "year": "1998",
+  "location": "Estes Park",
+  "county": "Larimer",
+  "observers": "Scott Roederer,  Susan Ward",
+  "comments": "photo by D. Coe",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "13118",
+      "reporter": "Scott Roederer,  Susan Ward",
+      "date": "4/25/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13118"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:08.298026"
+}

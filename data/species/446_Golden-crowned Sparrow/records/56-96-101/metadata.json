@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-96-101",
+  "year": "1996",
+  "location": "Aspen Center for Environmental Studies (ACES)",
+  "county": "Pitkin",
+  "observers": "Dale Abrams",
+  "comments": "",
+  "citations": "Janos, M.  1996 Report of the CBRC.  J. of the CFO 32(3), 173-187.",
+  "documentations": [
+    {
+      "doc_id": "16118",
+      "reporter": "Dale Abrams",
+      "date": "12/22/1996",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16118"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:52.633509"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "55-85-28",
+  "year": "1985",
+  "location": "Kim area",
+  "county": "Las Animas",
+  "observers": "Dan Bridges",
+  "comments": "",
+  "citations": "Gent, P.  1985 Report of the CBRC. CFO Journal 20(3-4), 44-50.",
+  "documentations": [
+    {
+      "doc_id": "13941",
+      "reporter": "Dan Bridges",
+      "date": "5/11/1985",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13941"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:04.730670"
+}

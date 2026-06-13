@@ -1,0 +1,19 @@
+{
+  "acc_no": "2025-055",
+  "year": "2025",
+  "location": "",
+  "county": "Lincoln",
+  "observers": "Diana Beatty",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16219",
+      "reporter": "Diana Beatty",
+      "date": "6/19/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16219"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:05.578294"
+}

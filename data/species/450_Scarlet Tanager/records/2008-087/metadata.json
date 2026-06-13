@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-087",
+  "year": "2008",
+  "location": "Gregory Canyon",
+  "county": "Boulder",
+  "observers": "Andrew Spencer",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Semo, L. and Faulkner, D.  The 52nd Report of the CBRC. Colorado Birds 43(4), 268-281.",
+  "documentations": [
+    {
+      "doc_id": "1016",
+      "reporter": "Andrew Spencer",
+      "date": "6/11/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1016"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:01.658719"
+}

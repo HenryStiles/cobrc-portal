@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-032",
+  "year": "2012",
+  "location": "Teller Lake #5 and Culver Ponds",
+  "county": "Boulder",
+  "observers": "Steve Mlodinow",
+  "comments": "Age: adult;",
+  "citations": "Faulkner, D. The 65th Report of the CBRC. Colorado Birds 47(1), 28-37.",
+  "documentations": [
+    {
+      "doc_id": "1955",
+      "reporter": "Steven Mlodinow",
+      "date": "3/3/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1955"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:11.182425"
+}

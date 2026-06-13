@@ -1,0 +1,19 @@
+{
+  "acc_no": "55-77-53",
+  "year": "1977",
+  "location": "Lower Poudre Canyon",
+  "county": "Larimer",
+  "observers": "Elyse Bliss",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "15925",
+      "reporter": "Elyse Bliss",
+      "date": "6/19/1977",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15925"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:58.028045"
+}

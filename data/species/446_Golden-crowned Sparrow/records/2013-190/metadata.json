@@ -1,0 +1,26 @@
+{
+  "acc_no": "2013-190",
+  "year": "2013",
+  "location": "Lamar",
+  "county": "Prowers",
+  "observers": "Jane Stulp, Brandon K Percival",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2766",
+      "reporter": "Jane Stulp",
+      "date": "5/9/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2766"
+    },
+    {
+      "doc_id": "2457",
+      "reporter": "Brandon K Percival",
+      "date": "5/11/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2457"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:26.984113"
+}

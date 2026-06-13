@@ -1,0 +1,19 @@
+{
+  "acc_no": "55-73-100",
+  "year": "1973",
+  "location": "Mouth of e. fork of Parachute Cr.",
+  "county": "Garfield",
+  "observers": "Allen Smith",
+  "comments": "Male and female.",
+  "citations": "Reddall, J. 1974. Reports from the CFO Official Records Committee. Colorado Field Ornithologist 19:11-41.",
+  "documentations": [
+    {
+      "doc_id": "13937",
+      "reporter": "Allen Smith",
+      "date": "7/21/1973",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13937"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:59.299654"
+}

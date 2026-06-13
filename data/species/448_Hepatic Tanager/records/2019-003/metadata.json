@@ -1,0 +1,19 @@
+{
+  "acc_no": "2019-003",
+  "year": "2019",
+  "location": "Colorado Springs",
+  "county": "El Paso",
+  "observers": "George Cresswell",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176",
+  "documentations": [
+    {
+      "doc_id": "11821",
+      "reporter": "George Cresswell",
+      "date": "5/25/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11821"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:51.048329"
+}

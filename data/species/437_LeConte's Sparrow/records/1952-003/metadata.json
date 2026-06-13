@@ -1,0 +1,19 @@
+{
+  "acc_no": "1952-003",
+  "year": "1952",
+  "location": "Gunnison",
+  "county": "Gunnison",
+  "observers": "Sidney Hyde",
+  "comments": "Collected: Specimen DMNH #36720",
+  "citations": "Hyde, S., Unusual Records from Western Colorado. Condor, 55, 216, 1953.",
+  "documentations": [
+    {
+      "doc_id": "13218",
+      "reporter": "Sidney Hyde",
+      "date": "5/6/1962",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13218"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:01.590942"
+}

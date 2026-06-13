@@ -1,0 +1,26 @@
+{
+  "acc_no": "2009-067",
+  "year": "2009",
+  "location": "Idalia",
+  "county": "Yuma",
+  "observers": "Bill Maynard, Bryan Patrick, Ted Floyd",
+  "comments": "",
+  "citations": "Semo, L. and Faulkner, D.  The 54th Report of the CBRC. Colorado Birds 44(2), 89-105.",
+  "documentations": [
+    {
+      "doc_id": "1298",
+      "reporter": "Bill Maynard",
+      "date": "10/2/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1298"
+    },
+    {
+      "doc_id": "1297",
+      "reporter": "Ted Floyd",
+      "date": "10/3/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1297"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:16.383315"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-145",
+  "year": "1998",
+  "location": "3V Rd 2 mls E of Hwy 71",
+  "county": "Lincoln",
+  "observers": "Chris Wood",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "15936",
+      "reporter": "Chris Wood",
+      "date": "5/11/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15936"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:43.258427"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-263",
+  "year": "2005",
+  "location": "McKay Lake",
+  "county": "Adams",
+  "observers": "David Ely",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2716",
+      "reporter": "David Ely",
+      "date": "5/5/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2716"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:55.449403"
+}

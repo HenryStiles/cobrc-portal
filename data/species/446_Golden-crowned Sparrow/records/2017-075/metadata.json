@@ -1,0 +1,19 @@
+{
+  "acc_no": "2017-075",
+  "year": "2017",
+  "location": "Morrison",
+  "county": "Jefferson",
+  "observers": "Rodene Harwood",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "10630",
+      "reporter": "Rodene Harwood",
+      "date": "12/16/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=10630"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:36.365329"
+}

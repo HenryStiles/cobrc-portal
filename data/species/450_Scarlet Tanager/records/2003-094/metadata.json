@@ -1,0 +1,26 @@
+{
+  "acc_no": "2003-094",
+  "year": "2003",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Doug Swartz, Rachel Hopper, Roger Linfield",
+  "comments": "Age: imm; Plumage: basic I; Sex: m;",
+  "citations": "Leukering, T. and Semo, L. The 39th Report of the CBRC. Colorado Birds 39(3), 131-141.",
+  "documentations": [
+    {
+      "doc_id": "15948",
+      "reporter": "Doug Swartz, Rachel Hopper",
+      "date": "12/6/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15948"
+    },
+    {
+      "doc_id": "58",
+      "reporter": "Roger Linfield",
+      "date": "12/21/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=58"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:50.255696"
+}

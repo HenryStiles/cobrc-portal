@@ -1,0 +1,19 @@
+{
+  "acc_no": "1952-002",
+  "year": "1952",
+  "location": "Gunnison",
+  "county": "Gunnison",
+  "observers": "Sidney Hyde",
+  "comments": "Collected: Specimen DMNH #36719",
+  "citations": "Hyde, S., Sharp-tailed Sparrow and Grasshopper Sparrow in Gunnison County, Colorado. Condor, 60, 68, 1958.",
+  "documentations": [
+    {
+      "doc_id": "13219",
+      "reporter": "Sidney Hyde",
+      "date": "10/24/1952",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13219"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:06.644707"
+}

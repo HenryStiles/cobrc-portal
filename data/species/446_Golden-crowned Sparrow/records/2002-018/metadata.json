@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-018",
+  "year": "2002",
+  "location": "Navajo Watchable Wildlife Area",
+  "county": "Archuleta",
+  "observers": "Susan Allerton, James Beatty",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  The 38th Report of the CBRC. Colorado Birds 38(4), 168-183.",
+  "documentations": [
+    {
+      "doc_id": "16126",
+      "reporter": "Susan Allerton, James Beatty",
+      "date": "1/29/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16126"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:02.872625"
+}

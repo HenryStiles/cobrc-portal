@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-193",
+  "year": "2014",
+  "location": "Chico Basin Ranch",
+  "county": "Pueblo",
+  "observers": "Bill Maynard",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "4031",
+      "reporter": "Bill Maynard",
+      "date": "5/21/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4031"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:18.416130"
+}

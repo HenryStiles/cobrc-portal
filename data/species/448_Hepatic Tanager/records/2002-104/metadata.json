@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-104",
+  "year": "2002",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Tony Leukering",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "776",
+      "reporter": "Tony Leukering",
+      "date": "5/11/2002",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=776"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:22.345584"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2020-079",
+  "year": "2020",
+  "location": "Carbondale Nature Park",
+  "county": "Garfield",
+  "observers": "Jake Glassman",
+  "comments": "",
+  "citations": "The 83rd Report of the Colorado Bird Records Committee,  Peter R. Gent, Colorado Birds, 57(2), 61-70, 2023.",
+  "documentations": [
+    {
+      "doc_id": "11991",
+      "reporter": "Jake Glassman",
+      "date": "9/9/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11991"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:04.071963"
+}

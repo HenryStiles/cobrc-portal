@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-196",
+  "year": "2010",
+  "location": "151 County Road 359  La Veta, CO 81055",
+  "county": "Huerfano",
+  "observers": "Polly Neldner",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1548",
+      "reporter": "Polly Neldner",
+      "date": "12/24/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1548"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:57.741150"
+}

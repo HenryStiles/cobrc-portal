@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-144",
+  "year": "2012",
+  "location": "Durango",
+  "county": "La Plata",
+  "observers": "Riley Morris",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2467",
+      "reporter": "Riley Morris",
+      "date": "10/21/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2467"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:13.777434"
+}

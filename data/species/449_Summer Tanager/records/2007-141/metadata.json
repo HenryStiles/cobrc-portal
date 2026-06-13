@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-141",
+  "year": "2007",
+  "location": "Poudre River Trail (Ft. Collins section)",
+  "county": "Larimer",
+  "observers": "Joe Mammoser",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2656",
+      "reporter": "Joe Mammoser",
+      "date": "4/25/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2656"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:18.500170"
+}

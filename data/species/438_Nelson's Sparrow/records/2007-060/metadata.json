@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-060",
+  "year": "2007",
+  "location": "Idalia",
+  "county": "Yuma",
+  "observers": "Bill Schmoker",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "786",
+      "reporter": "Bill Schmoker",
+      "date": "10/6/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=786"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:08.331170"
+}

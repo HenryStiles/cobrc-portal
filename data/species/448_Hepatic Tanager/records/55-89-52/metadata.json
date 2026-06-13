@@ -1,0 +1,19 @@
+{
+  "acc_no": "55-89-52",
+  "year": "1989",
+  "location": "Canon City",
+  "county": "Fremont",
+  "observers": "Juliet Howard",
+  "comments": "",
+  "citations": "Nelson, D.  1989 Report of the CBRC. CFO Journal 25(4), 119-125.",
+  "documentations": [
+    {
+      "doc_id": "13945",
+      "reporter": "Juliet Howard",
+      "date": "6/17/1989",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13945"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:10.441902"
+}
