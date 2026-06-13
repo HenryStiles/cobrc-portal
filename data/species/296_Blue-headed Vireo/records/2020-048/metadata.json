@@ -1,0 +1,19 @@
+{
+  "acc_no": "2020-048",
+  "year": "2020",
+  "location": "Manitou Lake and Trout Creek",
+  "county": "Teller",
+  "observers": "Scott Shaum",
+  "comments": "",
+  "citations": "The 82nd Report of the CBRC, 2022. Colorado Birds, 56(4), 283-294.",
+  "documentations": [
+    {
+      "doc_id": "11941",
+      "reporter": "Scott Shaum",
+      "date": "10/10/2020",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11941"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:41.191633"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-170",
+  "year": "2010",
+  "location": "Cope",
+  "county": "Washington",
+  "observers": "Joey Kellner",
+  "comments": "Age: adult; Plumage: fall;",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1601",
+      "reporter": "Joey Kellner",
+      "date": "10/9/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1601"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:12.522327"
+}

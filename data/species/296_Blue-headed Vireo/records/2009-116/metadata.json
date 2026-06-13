@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-116",
+  "year": "2009",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Brian Gibbons",
+  "comments": "Age: imm; Plumage: 1st basic;",
+  "citations": "Faulkner, D. and Semo, L. The 58th Report of the CBRC. Colorado Birds 45(2), 92-101.",
+  "documentations": [
+    {
+      "doc_id": "1391",
+      "reporter": "Brian Gibbons",
+      "date": "9/16/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1391"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:59.237283"
+}

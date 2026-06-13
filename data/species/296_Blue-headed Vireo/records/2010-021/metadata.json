@@ -1,0 +1,26 @@
+{
+  "acc_no": "2010-021",
+  "year": "2010",
+  "location": "Chico Basin Ranch",
+  "county": "Pueblo",
+  "observers": "Brandon Percival, Bill Maynard",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "Semo, L. and Faulkner, D. The 56th Report of the CBRC. Colorado Birds 44(4), 240-254.",
+  "documentations": [
+    {
+      "doc_id": "1410",
+      "reporter": "Bill Maynard",
+      "date": "5/6/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1410"
+    },
+    {
+      "doc_id": "1419",
+      "reporter": "Brandon K Percival",
+      "date": "5/6/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1419"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:06.997092"
+}

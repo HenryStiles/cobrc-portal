@@ -1,0 +1,19 @@
+{
+  "acc_no": "51-95-74",
+  "year": "1995",
+  "location": "Pueblo City Park",
+  "county": "Pueblo",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "14177",
+      "reporter": "Mark Janos",
+      "date": "5/20/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14177"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:54.540150"
+}

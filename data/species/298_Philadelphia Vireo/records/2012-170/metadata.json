@@ -1,0 +1,26 @@
+{
+  "acc_no": "2012-170",
+  "year": "2012",
+  "location": "Chico Basin Ranch",
+  "county": "Pueblo",
+  "observers": "Brandon K Percival, John Drummond",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2102",
+      "reporter": "Brandon K Percival",
+      "date": "10/5/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2102"
+    },
+    {
+      "doc_id": "2125",
+      "reporter": "John Drummond",
+      "date": "10/5/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2125"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:51:08.483476"
+}

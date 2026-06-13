@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-075",
+  "year": "2016",
+  "location": "Crow Valley Campground",
+  "county": "Weld",
+  "observers": "Joe Mammoser",
+  "comments": "",
+  "citations": "Colorado Birds 56(3), 213-222, 2022",
+  "documentations": [
+    {
+      "doc_id": "7476",
+      "reporter": "Joe Mammoser",
+      "date": "9/2/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=7476"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:37.254579"
+}

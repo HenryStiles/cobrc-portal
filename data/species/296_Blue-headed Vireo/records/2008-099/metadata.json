@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-099",
+  "year": "2008",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Glenn Walbek",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "Semo, L.  The 51st Report of the CBRC. Colorado Birds 43(3), 193-204.",
+  "documentations": [
+    {
+      "doc_id": "1084",
+      "reporter": "Glenn Walbek",
+      "date": "9/4/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1084"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:52.506134"
+}

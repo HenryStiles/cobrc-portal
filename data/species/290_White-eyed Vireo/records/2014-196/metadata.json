@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-196",
+  "year": "2014",
+  "location": "Centennial",
+  "county": "Arapahoe",
+  "observers": "Mary O'Connor",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "3985",
+      "reporter": "Mary O'Connor",
+      "date": "6/3/2014",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3985"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:07.779713"
+}

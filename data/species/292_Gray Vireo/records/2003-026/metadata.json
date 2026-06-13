@@ -1,0 +1,19 @@
+{
+  "acc_no": "2003-026",
+  "year": "2003",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Tony Leukering",
+  "comments": "Age: 1st alternate; Plumage: alternate;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "769",
+      "reporter": "Tony Leukering",
+      "date": "5/9/2003",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=769"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:54.447643"
+}

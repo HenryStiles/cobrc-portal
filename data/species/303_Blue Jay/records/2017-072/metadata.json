@@ -1,0 +1,19 @@
+{
+  "acc_no": "2017-072",
+  "year": "2017",
+  "location": "Cortez",
+  "county": "Montezuma",
+  "observers": "Charles Haspels",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176.",
+  "documentations": [
+    {
+      "doc_id": "10658",
+      "reporter": "Charles Haspels",
+      "date": "11/29/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=10658"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:58.012173"
+}

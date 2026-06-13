@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-130",
+  "year": "1901",
+  "location": "Estes Park",
+  "county": "Larimer",
+  "observers": "Andrew Bankert",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6371",
+      "reporter": "Andrew Bankert",
+      "date": "5/1/1901",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6371"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:15.648339"
+}

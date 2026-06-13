@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-020",
+  "year": "2014",
+  "location": "I-70 & Peoria Rd",
+  "county": "Arapahoe",
+  "observers": "Steve Stachowiak",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "5217",
+      "reporter": "Steve Stachowiak",
+      "date": "5/23/2014",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5217"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:06.923793"
+}

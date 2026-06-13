@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-065",
+  "year": "2002",
+  "location": "Welchester Tree Grant Park",
+  "county": "Jefferson",
+  "observers": "Mark Chavez",
+  "comments": "",
+  "citations": "Leukering, T. and L. Semo.  The 38th Report of the CBRC, Colorado Birds 38(3), 168-183.",
+  "documentations": [
+    {
+      "doc_id": "14195",
+      "reporter": "Mark Chavez",
+      "date": "5/26/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14195"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:14.002817"
+}

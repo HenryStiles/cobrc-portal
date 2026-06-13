@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-032",
+  "year": "2006",
+  "location": "John Martin Reservoir State Park",
+  "county": "Bent",
+  "observers": "Brian Gibbons",
+  "comments": "Age: adult; Sex: m;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "461",
+      "reporter": "Brian Gibbons",
+      "date": "4/16/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=461"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:07.648353"
+}

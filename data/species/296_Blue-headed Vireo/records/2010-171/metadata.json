@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-171",
+  "year": "2010",
+  "location": "Lamar Community College",
+  "county": "Prowers",
+  "observers": "Dave Leatherman",
+  "comments": "Age: adult;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1607",
+      "reporter": "David Leatherman",
+      "date": "10/9/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1607"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:13.448487"
+}

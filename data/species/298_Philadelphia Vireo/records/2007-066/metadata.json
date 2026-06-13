@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-066",
+  "year": "2007",
+  "location": "Lamar",
+  "county": "Prowers",
+  "observers": "Jane Stulp",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "807",
+      "reporter": "Jane Stulp",
+      "date": "9/16/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=807"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:00.039457"
+}

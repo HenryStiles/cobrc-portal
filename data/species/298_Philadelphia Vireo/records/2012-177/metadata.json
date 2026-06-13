@@ -1,0 +1,26 @@
+{
+  "acc_no": "2012-177",
+  "year": "2012",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Bill Maynard, Nancy Gobris",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2321",
+      "reporter": "Nancy Gobris",
+      "date": "9/26/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2321"
+    },
+    {
+      "doc_id": "2121",
+      "reporter": "Bill Maynard",
+      "date": "9/27/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2121"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:51:02.395758"
+}

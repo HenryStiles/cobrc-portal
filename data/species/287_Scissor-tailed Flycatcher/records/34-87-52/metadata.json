@@ -1,0 +1,19 @@
+{
+  "acc_no": "34-87-52",
+  "year": "1987",
+  "location": "Bellvue Watson Fish Hatchery & Lake",
+  "county": "Larimer",
+  "observers": "Bobbie DeMuth",
+  "comments": "",
+  "citations": "Bunn, R.  1987 Report of the CBRC, Part 2. CFO Journal 23(4), 114-120.",
+  "documentations": [
+    {
+      "doc_id": "14522",
+      "reporter": "Bobbie DeMuth",
+      "date": "9/19/1987",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14522"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:55.744767"
+}

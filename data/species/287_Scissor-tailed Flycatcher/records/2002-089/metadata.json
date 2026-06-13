@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-089",
+  "year": "2002",
+  "location": "Dotsero Ponds",
+  "county": "Eagle",
+  "observers": "Jack Merchant",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  The 38th Report of the CBRC. Colorado Birds 38(4), 168-183.",
+  "documentations": [
+    {
+      "doc_id": "14546",
+      "reporter": "Jack Merchant",
+      "date": "5/17/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14546"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:45.273249"
+}

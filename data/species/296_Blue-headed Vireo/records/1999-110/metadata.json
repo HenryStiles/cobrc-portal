@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-110",
+  "year": "1999",
+  "location": "Poudre River Trail (Ft. Collins section)",
+  "county": "Larimer",
+  "observers": "Dave Leatherman",
+  "comments": "",
+  "citations": "Lisowsky, B.  1999 Report of the CBRC. Journal of the CFO 35(1), 23-39.",
+  "documentations": [
+    {
+      "doc_id": "14095",
+      "reporter": "Dave Leatherman",
+      "date": "9/19/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14095"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:02.763674"
+}

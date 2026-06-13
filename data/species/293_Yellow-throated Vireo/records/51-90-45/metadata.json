@@ -1,0 +1,19 @@
+{
+  "acc_no": "51-90-45",
+  "year": "1990",
+  "location": "Crow Valley Campground",
+  "county": "Weld",
+  "observers": "Joan Humphrey, Stephen Bailey",
+  "comments": "",
+  "citations": "Nelson, D.  1990 Report of the CBRC. CFO Journal 26(3), 91-97.",
+  "documentations": [
+    {
+      "doc_id": "14167",
+      "reporter": "Joan Humphrey, Stephen Bailey",
+      "date": "6/20/1990",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14167"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:47.935245"
+}

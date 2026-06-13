@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-171",
+  "year": "2005",
+  "location": "Second Avenue and Pearl Street",
+  "county": "Denver",
+  "observers": "Bonnie Taher",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "214",
+      "reporter": "Bonnie Taher",
+      "date": "11/11/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=214"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:56.841418"
+}

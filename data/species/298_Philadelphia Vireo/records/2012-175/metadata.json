@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-175",
+  "year": "2012",
+  "location": "Chatfield State Park",
+  "county": "Douglas",
+  "observers": "Glenn Walbek",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2117",
+      "reporter": "Glenn Walbek",
+      "date": "10/7/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2117"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:51:15.915742"
+}

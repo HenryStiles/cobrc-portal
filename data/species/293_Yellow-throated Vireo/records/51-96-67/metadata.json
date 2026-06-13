@@ -1,0 +1,19 @@
+{
+  "acc_no": "51-96-67",
+  "year": "1996",
+  "location": "South Republican SWA",
+  "county": "Yuma",
+  "observers": "Bill Lisowsky",
+  "comments": "",
+  "citations": "Janos, M.  1996 Report of the CBRC.  J. of the CFO 32(3), 173-187.",
+  "documentations": [
+    {
+      "doc_id": "14178",
+      "reporter": "Bill Lisowsky",
+      "date": "5/17/1996",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14178"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:56.325066"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-026",
+  "year": "2005",
+  "location": "Two Buttes State Wildlife Area",
+  "county": "Baca",
+  "observers": "Andrew Spencer",
+  "comments": "Age: adult; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "258",
+      "reporter": "Andrew Spencer",
+      "date": "4/20/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=258"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:04.594898"
+}

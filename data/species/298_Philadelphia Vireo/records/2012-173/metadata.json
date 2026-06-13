@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-173",
+  "year": "2012",
+  "location": "Holyoke",
+  "county": "Phillips",
+  "observers": "Steve Mlodinow",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2114",
+      "reporter": "Steven Mlodinow",
+      "date": "9/22/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2114"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:59.252926"
+}

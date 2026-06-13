@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-183",
+  "year": "2006",
+  "location": "near Granby",
+  "county": "Grand",
+  "observers": "Oveta De Boer",
+  "comments": "Age: adult; Sex: m;",
+  "citations": "Semo, L. and Faulkner, D.  The 54th Report of the CBRC. Colorado Birds 44(2), 89-105.",
+  "documentations": [
+    {
+      "doc_id": "1317",
+      "reporter": "Oveta De Boer",
+      "date": "8/6/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1317"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:09.904040"
+}

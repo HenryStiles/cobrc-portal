@@ -1,0 +1,19 @@
+{
+  "acc_no": "2000-090",
+  "year": "2000",
+  "location": "Yampa River Core Trail",
+  "county": "Routt",
+  "observers": "Virginia Dionigi",
+  "comments": "",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "14542",
+      "reporter": "Virginia Dionigi",
+      "date": "7/26/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14542"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:41.501968"
+}

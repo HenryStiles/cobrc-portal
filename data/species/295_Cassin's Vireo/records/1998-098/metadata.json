@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-098",
+  "year": "1998",
+  "location": "Rocky Mountain Arsenal National Wildlife Refuge",
+  "county": "Adams",
+  "observers": "Urling & Hugh Kingery",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "14058",
+      "reporter": "Urling & Hugh Kingery",
+      "date": "9/13/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14058"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:55.284110"
+}

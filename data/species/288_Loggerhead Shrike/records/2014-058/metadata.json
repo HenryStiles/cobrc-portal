@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-058",
+  "year": "2014",
+  "location": "",
+  "county": "Weld",
+  "observers": "Cathy Sheeter",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176",
+  "documentations": [
+    {
+      "doc_id": "3967",
+      "reporter": "Cathy Sheeter",
+      "date": "2/6/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3967"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:54.896244"
+}

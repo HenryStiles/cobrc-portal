@@ -1,0 +1,19 @@
+{
+  "acc_no": "2003-114",
+  "year": "2003",
+  "location": "Crow Valley Campground",
+  "county": "Weld",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "768",
+      "reporter": "Tony Leukering",
+      "date": "9/1/2003",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=768"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:38.053631"
+}

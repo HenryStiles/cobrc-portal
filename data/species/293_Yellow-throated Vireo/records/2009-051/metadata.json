@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-051",
+  "year": "2009",
+  "location": "Pueblo West",
+  "county": "Pueblo",
+  "observers": "Brandon Percival",
+  "comments": "Age: adult; Plumage: alternate; Sex: singing;",
+  "citations": "Semo, L. and Faulkner, D.  The 54th Report of the CBRC. Colorado Birds 44(2), 89-105.",
+  "documentations": [
+    {
+      "doc_id": "1269",
+      "reporter": "Brandon K Percival",
+      "date": "6/16/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1269"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:19.238387"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-058",
+  "year": "2008",
+  "location": "Prewitt Reservoir State Wildlife Area",
+  "county": "Washington",
+  "observers": "Glenn Walbek",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "Semo, L.  The 51st Report of the CBRC. Colorado Birds 43(3), 193-204.",
+  "documentations": [
+    {
+      "doc_id": "1009",
+      "reporter": "Glenn Walbek",
+      "date": "5/13/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1009"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:51.296644"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-130",
+  "year": "2000",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Doug Faulkner",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  The 38th Report of the CBRC. Colorado Birds 38(4), 168-183.",
+  "documentations": [
+    {
+      "doc_id": "14099",
+      "reporter": "Doug Faulkner",
+      "date": "10/25/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14099"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:37.141517"
+}

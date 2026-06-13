@@ -1,0 +1,33 @@
+{
+  "acc_no": "2006-134",
+  "year": "2006",
+  "location": "CR 1 and Rd KK",
+  "county": "Otero & Pueblo",
+  "observers": "Brian Gibbons, Brandon K. Percival, Bill Maynard",
+  "comments": "Age: adult; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "606",
+      "reporter": "Brian Gibbons",
+      "date": "9/19/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=606"
+    },
+    {
+      "doc_id": "574",
+      "reporter": "Brandon K Percival",
+      "date": "9/24/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=574"
+    },
+    {
+      "doc_id": "565",
+      "reporter": "Bill Maynard",
+      "date": "9/27/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=565"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:11.982982"
+}

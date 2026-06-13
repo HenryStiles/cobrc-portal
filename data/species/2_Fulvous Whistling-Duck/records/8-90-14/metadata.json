@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-90-14",
+  "year": "1990",
+  "location": "0.5 mi south of Hwy 34 and Weld Co. Rd. 59",
+  "county": "Weld",
+  "observers": "Jerry Cairo, Joseph Himmel",
+  "comments": "",
+  "citations": "Nelson, D.  1990 Report of the CBRC. CFO Journal 26(3), 91-97.",
+  "documentations": [
+    {
+      "doc_id": "13119",
+      "reporter": "Jerry Cairo, Joseph Himmel",
+      "date": "10/15/1990",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13119"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:41.534571"
+}

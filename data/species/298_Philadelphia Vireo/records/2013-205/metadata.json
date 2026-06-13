@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-205",
+  "year": "2013",
+  "location": "Prewitt Reservoir State Wildlife Area",
+  "county": "Washington",
+  "observers": "Steve Mlodinow",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2569",
+      "reporter": "Steven Mlodinow",
+      "date": "9/10/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2569"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:52:44.172960"
+}

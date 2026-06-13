@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-032",
+  "year": "2005",
+  "location": "Chico Basin Ranch",
+  "county": "Pueblo",
+  "observers": "Brian Gibbons",
+  "comments": "Age: adult; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "122",
+      "reporter": "Brian Gibbons",
+      "date": "4/25/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=122"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:05.189002"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2003-160",
+  "year": "2001",
+  "location": "Colorado River State Park (James M. Robb)",
+  "county": "Mesa",
+  "observers": "Glenn Giroir",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "14060",
+      "reporter": "Glenn Giroir",
+      "date": "10/5/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14060"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:57.325463"
+}

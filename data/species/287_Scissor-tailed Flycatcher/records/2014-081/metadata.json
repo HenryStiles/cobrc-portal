@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-081",
+  "year": "2014",
+  "location": "Wetmore area",
+  "county": "Fremont",
+  "observers": "Brandon Percival",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "4035",
+      "reporter": "Brandon Percival",
+      "date": "7/14/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4035"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:27.788957"
+}

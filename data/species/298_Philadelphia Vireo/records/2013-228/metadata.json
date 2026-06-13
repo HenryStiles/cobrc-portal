@@ -1,0 +1,26 @@
+{
+  "acc_no": "2013-228",
+  "year": "2013",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Brad Biggerstaff, Kevin Keirn",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2592",
+      "reporter": "Brad Biggerstaff",
+      "date": "9/19/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2592"
+    },
+    {
+      "doc_id": "4066",
+      "reporter": "Kevin Keirn",
+      "date": "9/19/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4066"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:52:45.460340"
+}

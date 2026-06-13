@@ -1,0 +1,19 @@
+{
+  "acc_no": "2023-065",
+  "year": "2023",
+  "location": "Prewitt Reservoir SWA",
+  "county": "Washington",
+  "observers": "Luke Pheneger",
+  "comments": "",
+  "citations": "Gent, P., 2025. 87th Report of the CBRC.  Colorado Birds, 59(1), 7-15.",
+  "documentations": [
+    {
+      "doc_id": "13662",
+      "reporter": "Luke Pheneger",
+      "date": "9/30/2023",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13662"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:13.029104"
+}

@@ -1,0 +1,26 @@
+{
+  "acc_no": "2006-060",
+  "year": "2006",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Brian Gibbons, C W",
+  "comments": "Age: adult; Plumage: alternate; Sex: f;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "440",
+      "reporter": "Brian Gibbons",
+      "date": "5/15/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=440"
+    },
+    {
+      "doc_id": "490",
+      "reporter": "C W",
+      "date": "5/15/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=490"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:44.018182"
+}

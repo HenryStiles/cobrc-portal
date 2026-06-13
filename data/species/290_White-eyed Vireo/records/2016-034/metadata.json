@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-034",
+  "year": "2016",
+  "location": "La Veta",
+  "county": "Huerfano",
+  "observers": "Polly Neldner",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "6427",
+      "reporter": "Polly Neldner",
+      "date": "5/22/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6427"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:08.651287"
+}

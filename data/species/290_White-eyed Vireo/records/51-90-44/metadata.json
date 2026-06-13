@@ -1,0 +1,19 @@
+{
+  "acc_no": "51-90-44",
+  "year": "1990",
+  "location": "Wheat Ridge Greenbelt",
+  "county": "Jefferson",
+  "observers": "Joe TenBrink, Duane Nelson",
+  "comments": "",
+  "citations": "Nelson, D.  1990 Report of the CBRC. CFO Journal 26(3), 91-97.",
+  "documentations": [
+    {
+      "doc_id": "14137",
+      "reporter": "Joe TenBrink, Duane Nelson",
+      "date": "5/16/1990",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14137"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:33.944228"
+}

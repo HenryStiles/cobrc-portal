@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-071",
+  "year": "1997",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Dave Leatherman",
+  "comments": "",
+  "citations": "Janos, M.  1997 Report of the CBRC.  J. of the CFO 33(4), 241-252.",
+  "documentations": [
+    {
+      "doc_id": "14092",
+      "reporter": "Dave Leatherman",
+      "date": "9/20/1997",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14092"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:59.923920"
+}

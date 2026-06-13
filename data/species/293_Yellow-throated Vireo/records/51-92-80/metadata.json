@@ -1,0 +1,19 @@
+{
+  "acc_no": "51-92-80",
+  "year": "1992",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Jack Reddall",
+  "comments": "",
+  "citations": "Prather, B.  1992 Report of the CBRC. CFO Journal 28(4), 157-168.",
+  "documentations": [
+    {
+      "doc_id": "14171",
+      "reporter": "Jack Reddall",
+      "date": "4/28/1992",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14171"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:49.316731"
+}

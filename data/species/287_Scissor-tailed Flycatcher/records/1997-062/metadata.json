@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-062",
+  "year": "1997",
+  "location": "Campo",
+  "county": "Baca",
+  "observers": "David Quesenberry",
+  "comments": "",
+  "citations": "Janos, M.  1997 Report of the CBRC. J. Colorado Field Ornithologists, 33, 241-252.",
+  "documentations": [
+    {
+      "doc_id": "14528",
+      "reporter": "David Quesenberry",
+      "date": "5/24/1997",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14528"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:33.586431"
+}

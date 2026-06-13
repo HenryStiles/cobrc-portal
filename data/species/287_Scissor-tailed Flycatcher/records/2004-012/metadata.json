@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-012",
+  "year": "1991",
+  "location": "Creede",
+  "county": "Mineral",
+  "observers": "Jay Sarason",
+  "comments": "",
+  "citations": "Semo, L.  The 41st Report of the CBRC. Colorado Birds 40(1), 26-44.",
+  "documentations": [
+    {
+      "doc_id": "14527",
+      "reporter": "Jay Sarason",
+      "date": "5/16/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14527"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:29.239597"
+}

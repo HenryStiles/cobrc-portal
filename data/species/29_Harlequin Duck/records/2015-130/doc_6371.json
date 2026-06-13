@@ -1,0 +1,42 @@
+{
+  "doc_id": "6371",
+  "scraped_at": "2026-06-13T14:35:15.945085",
+  "species": "Harlequin Duck",
+  "acc_no": "2015-130",
+  "reporter_name": "Andrew Bankert",
+  "address": "",
+  "city": "Fort Collins,",
+  "state": "CO",
+  "zip": "80521",
+  "reporter_email": "abankert2007@my.fit.edu",
+  "other_observers": "Collected by Charles Wovthen, photos by Mark Peck at Royal Ontario Museum",
+  "species_name": "Harlequin Duck",
+  "first_date": "5/1/1901 12:00:00 PM",
+  "last_date": "5/1/1901 12:00:00 PM",
+  "duration": "Specimen",
+  "county": "Larimer",
+  "specific_location": "Estes Park",
+  "number_of_birds": "1",
+  "age": "Adult",
+  "sex": "Male",
+  "plumage": "Breeding",
+  "description": "***NOTE***\u00a0 Year should be 1901, form did not allow for dates before 1975.\n\r\nI have not personally seen the specimen, just photos which are attached.\u00a0 The photos show a dark duck with white in front of the face, a white dot behind the eye, and a white line towards the top of the head.\u00a0 The back has some white and rusty colored areas.\u00a0 The belly appears to be completely dark. \n\r\nThis species should be added to the Larimer County List.",
+  "photographer": "Photographer: Mark Peck, Mark Peck, Mark Peck",
+  "photos_text": "Photos |",
+  "uploads_text": "6371_HADU.jpg\n6371_HADU1.jpg\n6371_HADU2.jpg",
+  "date_submitted": "12/5/2015 7:00:00 PM",
+  "attachments": [
+    {
+      "filename": "6371_HADU.jpg",
+      "url": "/RecordUploads/6371/6371_HADU.jpg"
+    },
+    {
+      "filename": "6371_HADU1.jpg",
+      "url": "/RecordUploads/6371/6371_HADU1.jpg"
+    },
+    {
+      "filename": "6371_HADU2.jpg",
+      "url": "/RecordUploads/6371/6371_HADU2.jpg"
+    }
+  ]
+}

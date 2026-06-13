@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-053",
+  "year": "2007",
+  "location": "Two Buttes State Wildlife Area",
+  "county": "Baca",
+  "observers": "Peter Janzen",
+  "comments": "Age: adult;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "777",
+      "reporter": "Pete Janzen",
+      "date": "9/2/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=777"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:50.597597"
+}

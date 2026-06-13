@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-131",
+  "year": "2011",
+  "location": "Wray Area",
+  "county": "Yuma",
+  "observers": "Steve Mlodinow",
+  "comments": "",
+  "citations": "Faulkner, D. The 64th Report of the CBRC. Colorado Birds 46(4), 255-267.",
+  "documentations": [
+    {
+      "doc_id": "1794",
+      "reporter": "Steven Mlodinow",
+      "date": "10/3/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1794"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:44.104331"
+}

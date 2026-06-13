@@ -1,0 +1,19 @@
+{
+  "acc_no": "51-95-75",
+  "year": "1995",
+  "location": "Valco Ponds",
+  "county": "Pueblo",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "14119",
+      "reporter": "Mark Janos",
+      "date": "9/7/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14119"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:27.899820"
+}

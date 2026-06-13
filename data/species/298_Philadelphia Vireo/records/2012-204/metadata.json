@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-204",
+  "year": "2012",
+  "location": "Prewitt Reservoir State Wildlife Area",
+  "county": "Washington",
+  "observers": "David Dowell",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2214",
+      "reporter": "David Dowell",
+      "date": "9/9/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2214"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:48.378006"
+}

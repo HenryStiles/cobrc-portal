@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-76-108",
+  "year": "1976",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Tom Shane, Robert Andrews",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "13134",
+      "reporter": "Robert Andrews, Tom Shane",
+      "date": "10/24/1976",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13134"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:17.112203"
+}

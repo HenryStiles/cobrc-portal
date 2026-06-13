@@ -1,0 +1,19 @@
+{
+  "acc_no": "51-91-55",
+  "year": "1990",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Duane Nelson",
+  "comments": "Specimen DMNH #39956",
+  "citations": "Nelson, D.  1991 Report of the CBRC. CFO Journal 27(2), 49-56.",
+  "documentations": [
+    {
+      "doc_id": "14138",
+      "reporter": "Duane Nelson",
+      "date": "11/1/1990",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14138"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:35.186571"
+}

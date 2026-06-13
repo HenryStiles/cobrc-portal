@@ -1,0 +1,40 @@
+{
+  "acc_no": "2013-151",
+  "year": "2013",
+  "location": "Two Buttes State Wildlife Area",
+  "county": "Baca",
+  "observers": "Ric Olson, Glenn Walbek, Brandon K Percival, Nicholas Komar",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2474",
+      "reporter": "Ric Olson",
+      "date": "5/10/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2474"
+    },
+    {
+      "doc_id": "2560",
+      "reporter": "Glenn Walbek",
+      "date": "5/10/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2560"
+    },
+    {
+      "doc_id": "2456",
+      "reporter": "Brandon K Percival",
+      "date": "5/11/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2456"
+    },
+    {
+      "doc_id": "2712",
+      "reporter": "Nicholas Komar",
+      "date": "5/11/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2712"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:52:23.515704"
+}

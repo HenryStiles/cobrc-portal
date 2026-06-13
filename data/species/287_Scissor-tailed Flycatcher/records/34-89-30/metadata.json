@@ -1,0 +1,19 @@
+{
+  "acc_no": "34-89-30",
+  "year": "1989",
+  "location": "Monte Vista National Wildlife Refuge",
+  "county": "Alamosa",
+  "observers": "Juliet Howard",
+  "comments": "",
+  "citations": "Nelson, D.  1989 Report of the CBRC. CFO Journal 25(4), 119-125.",
+  "documentations": [
+    {
+      "doc_id": "14523",
+      "reporter": "Juliet Howard",
+      "date": "6/19/1989",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14523"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:56.865483"
+}

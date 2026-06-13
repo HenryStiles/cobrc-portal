@@ -1,0 +1,19 @@
+{
+  "acc_no": "2023-042",
+  "year": "2023",
+  "location": "Dotsero Ponds",
+  "county": "Eagle",
+  "observers": "Nicolas Moore",
+  "comments": "",
+  "citations": "Gent, P.  The 86th Report of the CBRC.  Colorado Birds 58(3), 125-132.",
+  "documentations": [
+    {
+      "doc_id": "13639",
+      "reporter": "Nicolas Moore",
+      "date": "11/12/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13639"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:20.941105"
+}

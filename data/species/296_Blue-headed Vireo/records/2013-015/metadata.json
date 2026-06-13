@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-015",
+  "year": "2012",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Nick Moore",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2250",
+      "reporter": "Nick Moore",
+      "date": "10/11/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2250"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:33.867737"
+}

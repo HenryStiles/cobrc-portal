@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-102",
+  "year": "1999",
+  "location": "Chatfield State Park",
+  "county": "Jefferson",
+  "observers": "Karleen Schofield",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "14156",
+      "reporter": "Karleen Schofield",
+      "date": "8/25/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14156"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:56.051932"
+}

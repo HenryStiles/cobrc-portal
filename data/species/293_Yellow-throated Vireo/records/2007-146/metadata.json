@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-146",
+  "year": "2007",
+  "location": "Chatfield State Park (Douglas Portion)",
+  "county": "Douglas",
+  "observers": "Glenn Walbek",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "783",
+      "reporter": "Glenn Walbek",
+      "date": "9/21/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=783"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:17.998437"
+}

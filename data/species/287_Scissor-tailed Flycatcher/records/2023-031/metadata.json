@@ -1,0 +1,19 @@
+{
+  "acc_no": "2023-031",
+  "year": "2023",
+  "location": "Lincoln County Road R",
+  "county": "Lincoln",
+  "observers": "Luke Pheneger",
+  "comments": "",
+  "citations": "Gent, P.  The 86th Report of the CBRC.  Colorado Birds 58(3), 125-132.",
+  "documentations": [
+    {
+      "doc_id": "13442",
+      "reporter": "Luke Pheneger",
+      "date": "5/20/2023",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13442"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:47.528309"
+}

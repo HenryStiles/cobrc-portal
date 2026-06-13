@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-093",
+  "year": "2010",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Blaine Carnes",
+  "comments": "",
+  "citations": "Faulkner, D. and Semo, L. The 59th Report of the CBRC. Colorado Birds 45(3), 174-180.",
+  "documentations": [
+    {
+      "doc_id": "1485",
+      "reporter": "Blaine Carnes",
+      "date": "8/26/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1485"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:21.745973"
+}

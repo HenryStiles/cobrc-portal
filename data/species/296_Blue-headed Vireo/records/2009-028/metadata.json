@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-028",
+  "year": "2009",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Nancy Gobris",
+  "comments": "Age: adult;",
+  "citations": "Semo, L. and Faulkner, D.  The 53rd Report of the CBRC. Colorado Birds 44(1), 31-42.",
+  "documentations": [
+    {
+      "doc_id": "1254",
+      "reporter": "Nancy Gobris",
+      "date": "5/7/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1254"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:53.969789"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-037",
+  "year": "2007",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Brian Gibbons",
+  "comments": "Age: adult; Plumage: alternate; Sex: f;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "747",
+      "reporter": "Brian Gibbons",
+      "date": "5/19/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=747"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:48.927216"
+}

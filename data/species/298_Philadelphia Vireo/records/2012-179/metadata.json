@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-179",
+  "year": "2012",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Nicholas Komar",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2140",
+      "reporter": "Nicholas Komar",
+      "date": "10/8/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2140"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:51:20.139029"
+}

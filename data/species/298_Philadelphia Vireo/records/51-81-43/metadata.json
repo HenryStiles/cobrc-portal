@@ -1,0 +1,19 @@
+{
+  "acc_no": "51-81-43",
+  "year": "1980",
+  "location": "Aurora",
+  "county": "Arapahoe",
+  "observers": "Mildred Snyder",
+  "comments": "",
+  "citations": "Chase, C.  1981 Report of the CBRC. CFO Journal 17(4), 75-82.",
+  "documentations": [
+    {
+      "doc_id": "14110",
+      "reporter": "Mildred Snyder",
+      "date": "9/8/1980",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14110"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:16.871004"
+}

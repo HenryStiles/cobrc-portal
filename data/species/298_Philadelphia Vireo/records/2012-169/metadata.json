@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-169",
+  "year": "2012",
+  "location": "Thompson Ranch",
+  "county": "Lincoln",
+  "observers": "Glenn Walbek",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2095",
+      "reporter": "Glenn Walbek",
+      "date": "9/21/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2095"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:55.954448"
+}

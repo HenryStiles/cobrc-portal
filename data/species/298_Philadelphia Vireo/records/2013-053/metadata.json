@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-053",
+  "year": "2011",
+  "location": "Lamar Community College",
+  "county": "Prowers",
+  "observers": "Jane Stulp",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2320",
+      "reporter": "Jane Stulp",
+      "date": "5/15/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2320"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:43.551537"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-020",
+  "year": "2010",
+  "location": "Canon City Riverwalk",
+  "county": "Fremont",
+  "observers": "Brandon Percival",
+  "comments": "Age: adult; Plumage: alternate; Sex: singing;",
+  "citations": "Semo, L. and Faulkner, D. The 57th Report of the CBRC. Colorado Birds 45(1), 30-41.",
+  "documentations": [
+    {
+      "doc_id": "1406",
+      "reporter": "Brandon K Percival",
+      "date": "5/3/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1406"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:21.137648"
+}

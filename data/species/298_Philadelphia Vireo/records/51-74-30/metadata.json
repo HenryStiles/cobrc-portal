@@ -1,0 +1,19 @@
+{
+  "acc_no": "51-74-30",
+  "year": "1973",
+  "location": "Lyons Area",
+  "county": "Boulder",
+  "observers": "Allegra Collister",
+  "comments": "",
+  "citations": "Reddall, J. 1975. Records from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "14106",
+      "reporter": "Allegra Collister",
+      "date": "9/4/1973",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14106"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:13.621257"
+}

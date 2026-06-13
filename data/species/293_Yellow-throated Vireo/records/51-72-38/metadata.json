@@ -1,0 +1,19 @@
+{
+  "acc_no": "51-72-38",
+  "year": "1971",
+  "location": "South Republican SWA",
+  "county": "Yuma",
+  "observers": "Hugh Kingery",
+  "comments": "Along Republican R downstream of dam.",
+  "citations": "Reddall, J. 1973b. Reports from the CFO Official Records Committee. Colorado Field Ornithologist 16:19-26.",
+  "documentations": [
+    {
+      "doc_id": "14162",
+      "reporter": "Hugh Kingery",
+      "date": "4/24/1971",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14162"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:39.078281"
+}

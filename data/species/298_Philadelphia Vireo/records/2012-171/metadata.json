@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-171",
+  "year": "2012",
+  "location": "Valco Ponds",
+  "county": "Pueblo",
+  "observers": "Brandon K Percival",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2103",
+      "reporter": "Brandon K Percival",
+      "date": "10/6/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2103"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:51:12.867801"
+}

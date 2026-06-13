@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-037",
+  "year": "2005",
+  "location": "Bear Creek Greenbelt (Jefferson portion)",
+  "county": "Jefferson",
+  "observers": "Doug Faulkner",
+  "comments": "Age: adult; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "118",
+      "reporter": "Doug Faulkner",
+      "date": "5/3/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=118"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:05.764773"
+}

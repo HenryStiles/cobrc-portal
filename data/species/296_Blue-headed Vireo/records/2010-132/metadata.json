@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-132",
+  "year": "2010",
+  "location": "Pueblo City Park",
+  "county": "Pueblo",
+  "observers": "Brandon Percival",
+  "comments": "",
+  "citations": "Faulkner, D. and Semo, L. The 58th Report of the CBRC. Colorado Birds 45(2), 92-101.",
+  "documentations": [
+    {
+      "doc_id": "1589",
+      "reporter": "Brandon K Percival",
+      "date": "10/21/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1589"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:14.656147"
+}

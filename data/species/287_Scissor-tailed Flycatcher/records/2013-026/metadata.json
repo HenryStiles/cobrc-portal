@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-026",
+  "year": "1996",
+  "location": "Cottonwood Canyon",
+  "county": "Las Animas",
+  "observers": "Dan Belter",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2268",
+      "reporter": "Dan Belter",
+      "date": "6/1/1996",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2268"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:31.861973"
+}

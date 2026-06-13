@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-047",
+  "year": "2005",
+  "location": "Pawnee National Grasslands (western section)",
+  "county": "Weld",
+  "observers": "Nick Komar",
+  "comments": "Age: adult; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "111",
+      "reporter": "Nicholas Komar",
+      "date": "5/14/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=111"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:06.724319"
+}

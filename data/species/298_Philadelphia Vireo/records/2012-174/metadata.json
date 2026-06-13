@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-174",
+  "year": "2012",
+  "location": "Last Chance",
+  "county": "Washington",
+  "observers": "Steve Mlodinow",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2113",
+      "reporter": "Steven Mlodinow",
+      "date": "9/27/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2113"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:51:00.613663"
+}

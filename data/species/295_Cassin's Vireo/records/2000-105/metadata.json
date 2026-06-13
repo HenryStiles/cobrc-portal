@@ -1,0 +1,19 @@
+{
+  "acc_no": "2000-105",
+  "year": "2000",
+  "location": "Colorado River State Park (James M. Robb)",
+  "county": "Mesa",
+  "observers": "Rich Levad",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "14059",
+      "reporter": "Rich Levad",
+      "date": "9/24/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14059"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:56.233182"
+}

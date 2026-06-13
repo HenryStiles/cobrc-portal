@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-200",
+  "year": "2013",
+  "location": "Near Lyons",
+  "county": "Boulder",
+  "observers": "Cathy Sheeter",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2564",
+      "reporter": "Cathy Sheeter",
+      "date": "5/24/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2564"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:52:26.393265"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "51-74-103",
+  "year": "1974",
+  "location": "Waterton Canyon",
+  "county": "Jefferson",
+  "observers": "Bob Andrews",
+  "comments": "",
+  "citations": "Reddall, J. 1975. Records from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "14132",
+      "reporter": "Bob Andrews",
+      "date": "9/21/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14132"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:28.743273"
+}

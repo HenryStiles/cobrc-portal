@@ -1,0 +1,19 @@
+{
+  "acc_no": "51-80-6",
+  "year": "1979",
+  "location": "Crow Valley Campground",
+  "county": "Weld",
+  "observers": "Courtney Buechert",
+  "comments": "",
+  "citations": "Gent, P.  1983 Report of the CBRC. CFO Journal 19(1-2), 28-33.",
+  "documentations": [
+    {
+      "doc_id": "14164",
+      "reporter": "Courtney Buechert",
+      "date": "7/3/1979",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14164"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:42.219199"
+}

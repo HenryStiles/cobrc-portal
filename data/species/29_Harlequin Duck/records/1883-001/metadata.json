@@ -1,0 +1,19 @@
+{
+  "acc_no": "1883-001",
+  "year": "1883",
+  "location": "Vallecito Reservoir",
+  "county": "La Plata",
+  "observers": "A. W. Anthony",
+  "comments": "Downy young 10-12 days old collected: now in the collection of the Carnegie Museum of Natural History in Pittsburgh #21786.",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "13139",
+      "reporter": "A. W. Anthony",
+      "date": "7/15/1883",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13139"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:13.858762"
+}

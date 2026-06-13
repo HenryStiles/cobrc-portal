@@ -1,0 +1,19 @@
+{
+  "acc_no": "51-94-57",
+  "year": "1994",
+  "location": "Great Sand Dunes National Park and Preserve",
+  "county": "Alamosa",
+  "observers": "John Rawinski",
+  "comments": "",
+  "citations": "Prather, B.  1994 Report of the CBRC. CFO Journal 31(1), 23-31.",
+  "documentations": [
+    {
+      "doc_id": "14176",
+      "reporter": "John Rawinski",
+      "date": "5/21/1994",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14176"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:53.515954"
+}

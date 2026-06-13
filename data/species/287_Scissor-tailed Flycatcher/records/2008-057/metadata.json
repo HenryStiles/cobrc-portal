@@ -1,0 +1,26 @@
+{
+  "acc_no": "2008-057",
+  "year": "2008",
+  "location": "Chico Basin Ranch",
+  "county": "Pueblo",
+  "observers": "Bill Maynard, Brian Gibbons",
+  "comments": "Age: adult; Sex: m;",
+  "citations": "Semo, L.  The 51st Report of the CBRC. Colorado Birds 43(3), 193-204.",
+  "documentations": [
+    {
+      "doc_id": "973",
+      "reporter": "Bill Maynard",
+      "date": "5/11/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=973"
+    },
+    {
+      "doc_id": "975",
+      "reporter": "Brian Gibbons",
+      "date": "5/11/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=975"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:16.432009"
+}

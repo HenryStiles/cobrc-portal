@@ -1,0 +1,19 @@
+{
+  "acc_no": "51-75-137",
+  "year": "1971",
+  "location": "Glendale",
+  "county": "Arapahoe",
+  "observers": "Bob Andrews",
+  "comments": "",
+  "citations": "Reddall, J. 1976. CFO Official Records Committee 1975 Report. C.F.O. Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "14109",
+      "reporter": "Bob Andrews",
+      "date": "9/14/1971",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14109"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:11.279122"
+}

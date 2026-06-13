@@ -1,0 +1,33 @@
+{
+  "acc_no": "2008-068",
+  "year": "2008",
+  "location": "Chico Basin Ranch",
+  "county": "Pueblo",
+  "observers": "Nick Komar, Bill Maynard, Glenn Walbek",
+  "comments": "",
+  "citations": "Semo, L.  The 51st Report of the CBRC. Colorado Birds 43(3), 193-204.",
+  "documentations": [
+    {
+      "doc_id": "1060",
+      "reporter": "Nicholas Komar",
+      "date": "5/17/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1060"
+    },
+    {
+      "doc_id": "986",
+      "reporter": "Bill Maynard",
+      "date": "5/20/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=986"
+    },
+    {
+      "doc_id": "1030",
+      "reporter": "Glenn Walbek",
+      "date": "5/22/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1030"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:04.810842"
+}

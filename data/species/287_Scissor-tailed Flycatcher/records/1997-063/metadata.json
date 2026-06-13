@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-063",
+  "year": "1997",
+  "location": "Lower Poudre Canyon",
+  "county": "Larimer",
+  "observers": "Bill Lisowsky",
+  "comments": "",
+  "citations": "Janos, M.  1997 Report of the CBRC.  J. of the CFO 33(4), 241-252.",
+  "documentations": [
+    {
+      "doc_id": "14529",
+      "reporter": "Bill Lisowsky",
+      "date": "8/5/1997",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14529"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:34.721630"
+}

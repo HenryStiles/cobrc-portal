@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-170",
+  "year": "2008",
+  "location": "Cortez",
+  "county": "Montezuma",
+  "observers": "Dean Hill",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "14549",
+      "reporter": "Dean Hill",
+      "date": "5/28/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14549"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:17.946870"
+}

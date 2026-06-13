@@ -1,0 +1,19 @@
+{
+  "acc_no": "51-84-39",
+  "year": "1984",
+  "location": "Crow Valley Campground",
+  "county": "Weld",
+  "observers": "Judy Ward, Judy Ward",
+  "comments": "",
+  "citations": "Gent, P.  1984 Report of the CBRC. CFO Journal 19(4), 82-87.",
+  "documentations": [
+    {
+      "doc_id": "14114",
+      "reporter": "Judy Ward",
+      "date": "9/1/1984",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14114"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:22.256852"
+}

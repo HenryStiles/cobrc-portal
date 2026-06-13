@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-101",
+  "year": "1998",
+  "location": "Pueblo City Park",
+  "county": "Pueblo",
+  "observers": "David Silverman",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "14123",
+      "reporter": "David Silverman",
+      "date": "10/1/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14123"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:32.180044"
+}

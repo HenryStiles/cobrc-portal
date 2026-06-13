@@ -1,0 +1,19 @@
+{
+  "acc_no": "2017-019",
+  "year": "2017",
+  "location": "Beebe Draw",
+  "county": "Weld",
+  "observers": "John Kennedy",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "8565",
+      "reporter": "John Kennedy",
+      "date": "4/26/2017",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8565"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:46.889297"
+}

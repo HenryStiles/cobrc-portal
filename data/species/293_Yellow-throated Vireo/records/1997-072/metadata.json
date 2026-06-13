@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-072",
+  "year": "1996",
+  "location": "Fort Lyon Wildlife Area",
+  "county": "Bent",
+  "observers": "Brandon Percival",
+  "comments": "",
+  "citations": "Janos, M.  1997 Report of the CBRC.  J. of the CFO 33(4), 241-252.",
+  "documentations": [
+    {
+      "doc_id": "14180",
+      "reporter": "Brandon Percival",
+      "date": "5/3/1996",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14180"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:55.368895"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-069",
+  "year": "1997",
+  "location": "Chatfield State Park",
+  "county": "Jefferson",
+  "observers": "Karleen Schofield",
+  "comments": "",
+  "citations": "Janos, M.  1997 Report of the CBRC.  J. of the CFO 33(4), 241-252.",
+  "documentations": [
+    {
+      "doc_id": "14154",
+      "reporter": "Karleen Schofield",
+      "date": "8/25/1997",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14154"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:52.215962"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-088",
+  "year": "2009",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Brandon Percival",
+  "comments": "",
+  "citations": "Semo, L. and Faulkner, D. The 56th Report of the CBRC. Colorado Birds 44(4), 240-254.",
+  "documentations": [
+    {
+      "doc_id": "1305",
+      "reporter": "Brandon K Percival",
+      "date": "9/25/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1305"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:01.588473"
+}

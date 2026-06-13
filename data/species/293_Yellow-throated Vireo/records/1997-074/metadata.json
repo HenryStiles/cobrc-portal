@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-074",
+  "year": "1997",
+  "location": "Two Buttes State Wildlife Area",
+  "county": "Baca",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Janos, M.  1997 Report of the CBRC.  J. of the CFO 33(4), 241-252.",
+  "documentations": [
+    {
+      "doc_id": "14182",
+      "reporter": "Mark Janos",
+      "date": "5/4/1997",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14182"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:59.299091"
+}

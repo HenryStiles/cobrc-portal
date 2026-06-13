@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-189",
+  "year": "2012",
+  "location": "W side of Fox Ranch",
+  "county": "Yuma",
+  "observers": "Steve Mlodinow",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2183",
+      "reporter": "Steven Mlodinow",
+      "date": "10/6/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2183"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:51:15.341923"
+}

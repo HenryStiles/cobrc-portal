@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-074",
+  "year": "2009",
+  "location": "Chivington",
+  "county": "Kiowa",
+  "observers": "Brad Steger",
+  "comments": "Age: adults; Plumage: alternate; Sex: m & f;",
+  "citations": "Semo, L.  The 55th Report of the CBRC. Colorado Birds 44(3), 180-185.",
+  "documentations": [
+    {
+      "doc_id": "1342",
+      "reporter": "Brad Steger",
+      "date": "6/10/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1342"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:20.629595"
+}

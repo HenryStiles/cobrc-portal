@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-038",
+  "year": "2016",
+  "location": "Salida",
+  "county": "Chaffee",
+  "observers": "Norm Lewis",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176",
+  "documentations": [
+    {
+      "doc_id": "6436",
+      "reporter": "Norm Lewis",
+      "date": "6/3/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6436"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:46.017455"
+}

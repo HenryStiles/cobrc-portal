@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-098",
+  "year": "1999",
+  "location": "Colorado Springs",
+  "county": "El Paso",
+  "observers": "B B Hahn, Rachel Kolokoff",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "14530",
+      "reporter": "B B Hahn, Rachel Kolokoff",
+      "date": "6/10/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14530"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:35.768860"
+}

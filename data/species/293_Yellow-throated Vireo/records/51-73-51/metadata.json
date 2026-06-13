@@ -1,0 +1,19 @@
+{
+  "acc_no": "51-73-51",
+  "year": "1973",
+  "location": "Boulder Creek (downtown section)",
+  "county": "Boulder",
+  "observers": "Steve Larson, Alan Crockett",
+  "comments": "Along Boulder Creek N of Stadium.",
+  "citations": "Reddall, J. 1974. Reports from the CFO Official Records Committee. Colorado Field Ornithologist 19:11-41.",
+  "documentations": [
+    {
+      "doc_id": "14163",
+      "reporter": "Steve Larson, Alan Crockett",
+      "date": "5/10/1973",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14163"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:40.121489"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-228",
+  "year": "2012",
+  "location": "Kit Carson",
+  "county": "Cheyenne",
+  "observers": "Christopher Rustay",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2025",
+      "reporter": "Christopher Rustay",
+      "date": "5/31/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2025"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:27.177760"
+}

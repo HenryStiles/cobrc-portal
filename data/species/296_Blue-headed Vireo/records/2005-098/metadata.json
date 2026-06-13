@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-098",
+  "year": "2005",
+  "location": "Castle Rock",
+  "county": "Douglas",
+  "observers": "Glenn Walbek",
+  "comments": "",
+  "citations": "Semo, L.  The 44th Report of the CBRC. Colorado Birds 41(4), 241-258.",
+  "documentations": [
+    {
+      "doc_id": "202",
+      "reporter": "Glenn Walbek",
+      "date": "9/24/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=202"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:42.778119"
+}

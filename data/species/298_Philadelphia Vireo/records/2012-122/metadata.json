@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-122",
+  "year": "2012",
+  "location": "Pueblo Nature Center",
+  "county": "Pueblo",
+  "observers": "Brandon K Percival",
+  "comments": "",
+  "citations": "Faulkner, Doug. October 2013. The 68th Report of the Colorado Bird Records Committee: Colorado Birds 47(4):252-263",
+  "documentations": [
+    {
+      "doc_id": "2085",
+      "reporter": "Brandon K Percival",
+      "date": "9/29/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2085"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:51:06.742726"
+}

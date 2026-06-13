@@ -1,0 +1,19 @@
+{
+  "acc_no": "2018-083",
+  "year": "2018",
+  "location": "Grand Junction",
+  "county": "Mesa",
+  "observers": "Debbie Tubridy",
+  "comments": "",
+  "citations": "Colorado Birds 56(3), 213-222, 2022",
+  "documentations": [
+    {
+      "doc_id": "11779",
+      "reporter": "Debbie Tubridy",
+      "date": "12/16/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11779"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:39.855130"
+}

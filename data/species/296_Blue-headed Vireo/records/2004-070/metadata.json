@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-070",
+  "year": "2004",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Brian Gibbons",
+  "comments": "",
+  "citations": "Semo, L.  The 41st Report of the CBRC. Colorado Birds 40(1), 26-44.",
+  "documentations": [
+    {
+      "doc_id": "14103",
+      "reporter": "Brian Gibbons",
+      "date": "9/6/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14103"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:40.076825"
+}

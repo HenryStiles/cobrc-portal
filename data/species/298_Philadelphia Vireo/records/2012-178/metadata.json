@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-178",
+  "year": "2012",
+  "location": "Chico Basin Ranch",
+  "county": "Pueblo",
+  "observers": "John Drummond",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2126",
+      "reporter": "John Drummond",
+      "date": "10/5/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2126"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:51:11.393537"
+}

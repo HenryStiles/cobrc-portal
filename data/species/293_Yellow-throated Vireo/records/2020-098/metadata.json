@@ -1,0 +1,19 @@
+{
+  "acc_no": "2020-098",
+  "year": "2020",
+  "location": "Ovid (town)",
+  "county": "Sedgwick",
+  "observers": "Cole Sage",
+  "comments": "",
+  "citations": "Gent, P., 2025. 87th Report of the CBRC.  Colorado Birds, 59(1), 7-15.",
+  "documentations": [
+    {
+      "doc_id": "13902",
+      "reporter": "Cole Sage",
+      "date": "5/23/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13902"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:22.151214"
+}

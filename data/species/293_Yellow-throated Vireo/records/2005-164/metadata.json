@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-164",
+  "year": "2004",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Roger Linfield",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "39",
+      "reporter": "Roger Linfield",
+      "date": "5/23/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=39"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:15.086887"
+}

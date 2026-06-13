@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-206",
+  "year": "2012",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Doug Faulkner",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2216",
+      "reporter": "Doug Faulkner",
+      "date": "8/21/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2216"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:46.404393"
+}

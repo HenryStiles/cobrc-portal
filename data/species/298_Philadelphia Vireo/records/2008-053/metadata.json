@@ -1,0 +1,26 @@
+{
+  "acc_no": "2008-053",
+  "year": "2008",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Brian Gibbons, Bill Maynard",
+  "comments": "",
+  "citations": "Semo, L.  The 51st Report of the CBRC. Colorado Birds 43(3), 193-204.",
+  "documentations": [
+    {
+      "doc_id": "970",
+      "reporter": "Brian Gibbons",
+      "date": "5/7/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=970"
+    },
+    {
+      "doc_id": "969",
+      "reporter": "Bill Maynard",
+      "date": "5/8/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=969"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:01.862772"
+}
