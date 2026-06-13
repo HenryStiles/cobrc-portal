@@ -1,0 +1,54 @@
+{
+  "acc_no": "2016-077",
+  "year": "2016",
+  "location": "Blue River arm of Dillion Res.",
+  "county": "Summit",
+  "observers": "Jack Bushong, Peter Gent, David Blue, Brandon Percival, Doug Faulkner, Rudi Nuissl",
+  "comments": "",
+  "citations": "Colorado Birds 52(4):30-37",
+  "documentations": [
+    {
+      "doc_id": "8519",
+      "reporter": "Jack Bushong",
+      "date": "12/16/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8519"
+    },
+    {
+      "doc_id": "8522",
+      "reporter": "Peter R. Gent",
+      "date": "12/17/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8522"
+    },
+    {
+      "doc_id": "8520",
+      "reporter": "David Blue",
+      "date": "12/18/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8520"
+    },
+    {
+      "doc_id": "8521",
+      "reporter": "Brandon K. Percival",
+      "date": "12/19/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8521"
+    },
+    {
+      "doc_id": "8524",
+      "reporter": "Doug Faulkner",
+      "date": "12/31/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8524"
+    },
+    {
+      "doc_id": "8526",
+      "reporter": "Rudi Nuissl",
+      "date": "12/31/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8526"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:07.072193"
+}

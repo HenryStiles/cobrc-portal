@@ -1,0 +1,19 @@
+{
+  "acc_no": "2023-037",
+  "year": "2023",
+  "location": "Aurora",
+  "county": "Arapahoe",
+  "observers": "Patricia Jackson",
+  "comments": "",
+  "citations": "Gent, P.  The 86th Report of the CBRC.  Colorado Birds 58(3), 125-132.",
+  "documentations": [
+    {
+      "doc_id": "13522",
+      "reporter": "patricia jackson",
+      "date": "11/18/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13522"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:04.238562"
+}

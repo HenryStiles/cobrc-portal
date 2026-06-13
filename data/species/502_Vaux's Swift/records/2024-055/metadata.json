@@ -1,0 +1,19 @@
+{
+  "acc_no": "2024-055",
+  "year": "2024",
+  "location": "Medicine Bow Curve, RMNP",
+  "county": "Larimer",
+  "observers": "Simon Tolzmann",
+  "comments": "",
+  "citations": "The 89th Report of the CBRC, Peter R. Gent, Colorado Birds 60(1), 323-332, 2026.",
+  "documentations": [
+    {
+      "doc_id": "14757",
+      "reporter": "Simon Tolzmann",
+      "date": "9/15/2024",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14757"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:52.067006"
+}

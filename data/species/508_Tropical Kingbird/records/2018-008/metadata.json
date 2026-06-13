@@ -1,0 +1,54 @@
+{
+  "acc_no": "2018-008",
+  "year": "2018",
+  "location": "South Platte Reservoir",
+  "county": "Jefferson",
+  "observers": "Frank Farrell, Michael Lester, Peter Gent, Steven Mlodinow, Bill Maynard, Brandon Percival",
+  "comments": "",
+  "citations": "Colorado Birds 52(4):30-37.",
+  "documentations": [
+    {
+      "doc_id": "11734",
+      "reporter": "Frank Farrell",
+      "date": "10/5/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11734"
+    },
+    {
+      "doc_id": "11730",
+      "reporter": "Michael Lester",
+      "date": "10/5/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11730"
+    },
+    {
+      "doc_id": "11735",
+      "reporter": "Peter R. Gent",
+      "date": "10/6/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11735"
+    },
+    {
+      "doc_id": "11743",
+      "reporter": "Steven Mlodinow",
+      "date": "10/6/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11743"
+    },
+    {
+      "doc_id": "11736",
+      "reporter": "Bill Maynard",
+      "date": "10/6/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11736"
+    },
+    {
+      "doc_id": "11740",
+      "reporter": "Brandon K. Percival",
+      "date": "10/7/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11740"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:42.929384"
+}

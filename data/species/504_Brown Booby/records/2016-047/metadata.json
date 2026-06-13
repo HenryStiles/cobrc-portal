@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-047",
+  "year": "2016",
+  "location": "Rowena, Left Hand Canyon",
+  "county": "Boulder",
+  "observers": "Peter Bandurian",
+  "comments": "Determined to be of the Caribbean race after examination by Matthew Baumann, Baumann et al., Wilson Journal of Ornithology, 135 (3), 327-344.",
+  "citations": "Colorado Birds 52(4):30-37",
+  "documentations": [
+    {
+      "doc_id": "6448",
+      "reporter": "Peter Bandurian",
+      "date": "6/22/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6448"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:48.147444"
+}

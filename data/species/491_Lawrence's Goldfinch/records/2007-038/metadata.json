@@ -1,0 +1,68 @@
+{
+  "acc_no": "2007-038",
+  "year": "2007",
+  "location": "Grand Junction",
+  "county": "Mesa",
+  "observers": "Larry Arnold, Andrew Spencer, Nathan Pieplow, Peter Gent, Rachel Hopper, Bill Maynard, Gregg Goodrich",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Semo, L.  The 45th Report of the CBRC. Colorado Birds 42(1), 38-45.",
+  "documentations": [
+    {
+      "doc_id": "722",
+      "reporter": "Larry Arnold",
+      "date": "5/23/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=722"
+    },
+    {
+      "doc_id": "2768",
+      "reporter": "LARRY ARNOLD",
+      "date": "5/23/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2768"
+    },
+    {
+      "doc_id": "821",
+      "reporter": "Andrew Spencer",
+      "date": "5/25/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=821"
+    },
+    {
+      "doc_id": "725",
+      "reporter": "Peter Gent",
+      "date": "5/25/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=725"
+    },
+    {
+      "doc_id": "719",
+      "reporter": "Nathan Pieplow",
+      "date": "5/25/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=719"
+    },
+    {
+      "doc_id": "720",
+      "reporter": "Rachel Hopper",
+      "date": "5/25/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=720"
+    },
+    {
+      "doc_id": "724",
+      "reporter": "Bill Maynard",
+      "date": "5/26/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=724"
+    },
+    {
+      "doc_id": "733",
+      "reporter": "Gregg Goodrich",
+      "date": "5/26/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=733"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:17.866098"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-080",
+  "year": "2013",
+  "location": "North Sterling State Park",
+  "county": "Logan",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Faulkner, Doug. Spring 2014. The 69th Report of the Colorado Bird Records Committee: Colorado Birds 48(2):163-179",
+  "documentations": [
+    {
+      "doc_id": "2363",
+      "reporter": "Steven Mlodinow",
+      "date": "3/3/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2363"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:54.254416"
+}

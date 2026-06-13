@@ -1,0 +1,40 @@
+{
+  "acc_no": "2017-039",
+  "year": "2017",
+  "location": "13 Mirada Rd",
+  "county": "El Paso",
+  "observers": "David Tonnessen, Brandon K. Percival, Bill Maynard, Sue Riffe",
+  "comments": "",
+  "citations": "Colorado Birds 52(4):30-37",
+  "documentations": [
+    {
+      "doc_id": "11667",
+      "reporter": "David Tonnessen",
+      "date": "12/21/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11667"
+    },
+    {
+      "doc_id": "11686",
+      "reporter": "Bill Maynard",
+      "date": "12/22/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11686"
+    },
+    {
+      "doc_id": "10635",
+      "reporter": "Brandon K. Percival",
+      "date": "12/22/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=10635"
+    },
+    {
+      "doc_id": "10639",
+      "reporter": "Sue Riffe",
+      "date": "12/30/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=10639"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:51.738710"
+}

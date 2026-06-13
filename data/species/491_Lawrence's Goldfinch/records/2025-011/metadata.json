@@ -1,0 +1,33 @@
+{
+  "acc_no": "2025-011",
+  "year": "2025",
+  "location": "Rokich ranch",
+  "county": "Huerfano",
+  "observers": "Robert Raker, Glenn Walbek, Peter Burke",
+  "comments": "",
+  "citations": "The 89th Report of the CBRC, Peter R. Gent, Colorado Birds 60(1), 323-332, 2026.",
+  "documentations": [
+    {
+      "doc_id": "14773",
+      "reporter": "Robert Raker",
+      "date": "4/27/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14773"
+    },
+    {
+      "doc_id": "14818",
+      "reporter": "Glenn Walbek",
+      "date": "4/28/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14818"
+    },
+    {
+      "doc_id": "15894",
+      "reporter": "Peter Burke",
+      "date": "4/28/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15894"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:24.157250"
+}

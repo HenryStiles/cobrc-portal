@@ -1,0 +1,19 @@
+{
+  "acc_no": "2017-041",
+  "year": "2017",
+  "location": "2700 & CC Road",
+  "county": "Montrose",
+  "observers": "Coen Dexter",
+  "comments": "",
+  "citations": "Colorado Birds 52(4):30-37.",
+  "documentations": [
+    {
+      "doc_id": "9610",
+      "reporter": "Coen Dexter",
+      "date": "10/2/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=9610"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:39.330416"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2018-089",
+  "year": "2018",
+  "location": "Windsor",
+  "county": "Weld",
+  "observers": "Elaine Verdill",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176",
+  "documentations": [
+    {
+      "doc_id": "10644",
+      "reporter": "Elaine Verdill",
+      "date": "1/23/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=10644"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:03.317920"
+}

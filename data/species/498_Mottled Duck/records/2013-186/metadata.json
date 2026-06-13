@@ -1,0 +1,26 @@
+{
+  "acc_no": "2013-186",
+  "year": "2013",
+  "location": "Andrick Ponds SWA, pond off of MCR 2",
+  "county": "Morgan",
+  "observers": "Steve Mlodinow, Rachel Hopper",
+  "comments": "",
+  "citations": "Faulkner, D. The 69th Report of the Colorado Bird Records Committee: Colorado Birds 48(2):163-179.",
+  "documentations": [
+    {
+      "doc_id": "2538",
+      "reporter": "Steven Mlodinow",
+      "date": "7/28/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2538"
+    },
+    {
+      "doc_id": "2540",
+      "reporter": "Rachel Hopper",
+      "date": "7/30/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2540"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:26.748411"
+}

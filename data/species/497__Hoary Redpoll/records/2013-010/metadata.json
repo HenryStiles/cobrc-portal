@@ -1,0 +1,110 @@
+{
+  "acc_no": "2013-010",
+  "year": "2012",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Thomas Hall, Steven Mlodinow, Rachel Hopper, Kathy Mihm Dunning, Mark Minner-Lee, Bill Maynard",
+  "comments": "",
+  "citations": "Faulkner, Doug. Spring 2014. The 69th Report of the Colorado Bird Records Committee: Colorado Birds 48(2):163-179",
+  "documentations": [
+    {
+      "doc_id": "2338",
+      "reporter": "Thomas Hall",
+      "date": "12/23/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2338"
+    },
+    {
+      "doc_id": "2376",
+      "reporter": "Thomas Hall",
+      "date": "1/3/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2376"
+    },
+    {
+      "doc_id": "2342",
+      "reporter": "Steven Mlodinow",
+      "date": "1/6/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2342"
+    },
+    {
+      "doc_id": "2244",
+      "reporter": "Rachel Hopper",
+      "date": "1/7/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2244"
+    },
+    {
+      "doc_id": "2258",
+      "reporter": "Mark Minnerlee",
+      "date": "1/9/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2258"
+    },
+    {
+      "doc_id": "2260",
+      "reporter": "Kathy Mihm Dunning",
+      "date": "1/9/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2260"
+    },
+    {
+      "doc_id": "2248",
+      "reporter": "Bill Maynard",
+      "date": "1/11/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2248"
+    },
+    {
+      "doc_id": "2369",
+      "reporter": "Rachel Hopper",
+      "date": "1/11/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2369"
+    },
+    {
+      "doc_id": "2343",
+      "reporter": "Steven Mlodinow",
+      "date": "1/12/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2343"
+    },
+    {
+      "doc_id": "2344",
+      "reporter": "Steven Mlodinow",
+      "date": "1/12/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2344"
+    },
+    {
+      "doc_id": "2345",
+      "reporter": "Steven Mlodinow",
+      "date": "1/12/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2345"
+    },
+    {
+      "doc_id": "2346",
+      "reporter": "Steven Mlodinow",
+      "date": "1/26/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2346"
+    },
+    {
+      "doc_id": "2347",
+      "reporter": "Steven Mlodinow",
+      "date": "1/26/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2347"
+    },
+    {
+      "doc_id": "2366",
+      "reporter": "Steven Mlodinow",
+      "date": "1/26/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2366"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:20.256124"
+}

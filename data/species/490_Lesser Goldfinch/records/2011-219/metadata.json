@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-219",
+  "year": "2011",
+  "location": "Thompson Ranch",
+  "county": "Lincoln",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1775",
+      "reporter": "Steven Mlodinow",
+      "date": "9/5/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1775"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:10.084139"
+}

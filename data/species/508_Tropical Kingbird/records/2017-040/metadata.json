@@ -1,0 +1,19 @@
+{
+  "acc_no": "2017-040",
+  "year": "2017",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "David Tonnessen",
+  "comments": "",
+  "citations": "Colorado Birds 52(4):30-37",
+  "documentations": [
+    {
+      "doc_id": "8602",
+      "reporter": "David Tonnessen",
+      "date": "9/17/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8602"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:35.036184"
+}

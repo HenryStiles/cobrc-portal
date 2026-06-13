@@ -1,0 +1,40 @@
+{
+  "acc_no": "2018-002",
+  "year": "2018",
+  "location": "Dinosaur National Monument",
+  "county": "Moffat",
+  "observers": "Kenny Frisch, Peter R. Gent, Arthur Bezuidenhout, Vic Zerbi",
+  "comments": "",
+  "citations": "Colorado Birds 52(4):30-37",
+  "documentations": [
+    {
+      "doc_id": "10665",
+      "reporter": "Kenny Frisch",
+      "date": "4/7/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=10665"
+    },
+    {
+      "doc_id": "10664",
+      "reporter": "Vic Zerbi",
+      "date": "4/10/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=10664"
+    },
+    {
+      "doc_id": "11668",
+      "reporter": "Peter R. Gent",
+      "date": "4/13/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11668"
+    },
+    {
+      "doc_id": "11670",
+      "reporter": "Arthur Bezuidenhout",
+      "date": "4/14/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11670"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:41.564343"
+}

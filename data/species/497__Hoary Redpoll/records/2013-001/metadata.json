@@ -1,0 +1,33 @@
+{
+  "acc_no": "2013-001",
+  "year": "2012",
+  "location": "Longmont",
+  "county": "Boulder",
+  "observers": "Bill Schmoker, Steven Mlodinow, Peter Gent",
+  "comments": "",
+  "citations": "Faulkner, Doug. October 2013. The 68th Report of the Colorado Bird Records Committee: Colorado Birds 47(4):252-263",
+  "documentations": [
+    {
+      "doc_id": "2234",
+      "reporter": "Bill Schmoker",
+      "date": "12/29/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2234"
+    },
+    {
+      "doc_id": "2341",
+      "reporter": "Steven Mlodinow",
+      "date": "12/30/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2341"
+    },
+    {
+      "doc_id": "2231",
+      "reporter": "Peter Gent",
+      "date": "12/30/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2231"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:40.867741"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2025-039",
+  "year": "2025",
+  "location": "CR 34 playa",
+  "county": "Cheyenne",
+  "observers": "Brian Genge, Luke Pheneger",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16116",
+      "reporter": "Luke Pheneger",
+      "date": "9/27/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16116"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:32.264537"
+}
