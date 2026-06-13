@@ -1,0 +1,33 @@
+{
+  "acc_no": "2020-022",
+  "year": "2020",
+  "location": "SW Norwood",
+  "county": "San Miguel",
+  "observers": "Coen Dexter, Peter Gent, Rachel Hopper",
+  "comments": "",
+  "citations": "Colorado Birds, 55(2), 104-105.",
+  "documentations": [
+    {
+      "doc_id": "11925",
+      "reporter": "Coen Dexter",
+      "date": "10/19/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11925"
+    },
+    {
+      "doc_id": "11915",
+      "reporter": "Peter R. Gent",
+      "date": "10/21/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11915"
+    },
+    {
+      "doc_id": "11947",
+      "reporter": "Rachel Hopper",
+      "date": "10/29/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11947"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:42.401831"
+}

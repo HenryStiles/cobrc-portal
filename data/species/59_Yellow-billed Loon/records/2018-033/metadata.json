@@ -1,0 +1,19 @@
+{
+  "acc_no": "2018-033",
+  "year": "2018",
+  "location": "Blue Mesa Reservoir",
+  "county": "Gunnison",
+  "observers": "Kathy Mihm Dunning",
+  "comments": "",
+  "citations": "Colorado Birds 56(3), 213-222, 2022",
+  "documentations": [
+    {
+      "doc_id": "10649",
+      "reporter": "Kathy Mihm Dunning",
+      "date": "2/13/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=10649"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:54.009649"
+}

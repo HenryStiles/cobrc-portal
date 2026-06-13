@@ -1,0 +1,19 @@
+{
+  "acc_no": "2000-004",
+  "year": "2000",
+  "location": "Big Johnson Reservoir",
+  "county": "El Paso",
+  "observers": "Larry Norris, Dunning Idle, Greg Lasley",
+  "comments": "",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "13858",
+      "reporter": "Larry Norris, Dunning Idle, Greg Lasley",
+      "date": "3/26/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13858"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:23.783663"
+}

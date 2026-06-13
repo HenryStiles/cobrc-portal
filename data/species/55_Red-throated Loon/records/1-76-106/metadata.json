@@ -1,0 +1,19 @@
+{
+  "acc_no": "1-76-106",
+  "year": "1976",
+  "location": "Sloan's Lake",
+  "county": "Denver",
+  "observers": "Bob Andrews, Jack Reddall, Van Remsen, John Cooper",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "16166",
+      "reporter": "Bob Andrews, Jack Reddall, Van Remsen, John Cooper",
+      "date": "10/27/1976",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16166"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:13.418444"
+}

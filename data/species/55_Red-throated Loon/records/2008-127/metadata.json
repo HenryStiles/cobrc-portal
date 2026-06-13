@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-127",
+  "year": "2008",
+  "location": "Sweitzer Lake State Park",
+  "county": "Delta",
+  "observers": "Jason Beason",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1174",
+      "reporter": "Jason Beason",
+      "date": "10/26/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1174"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:49.676353"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-067",
+  "year": "2005",
+  "location": "Jumbo Reservoir State Wildlife Area",
+  "county": "Logan & Sedgwick",
+  "observers": "Steve Larson",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1023",
+      "reporter": "Steve Larson",
+      "date": "11/19/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1023"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:37.755678"
+}

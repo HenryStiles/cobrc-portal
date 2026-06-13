@@ -1,0 +1,19 @@
+{
+  "acc_no": "1-91-2",
+  "year": "1991",
+  "location": "Chatfield State Park",
+  "county": "Jefferson & Douglas",
+  "observers": "Joey Kellner",
+  "comments": "",
+  "citations": "Nelson, D.  1991 Report of the CBRC. CFO Journal 27(2), 49-56.",
+  "documentations": [
+    {
+      "doc_id": "16186",
+      "reporter": "Joey Kellner",
+      "date": "12/2/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16186"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:55.799372"
+}

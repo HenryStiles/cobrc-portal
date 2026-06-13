@@ -1,0 +1,33 @@
+{
+  "acc_no": "2009-102",
+  "year": "2009",
+  "location": "Union Reservoir",
+  "county": "Weld & Pueblo",
+  "observers": "Nathan Pieplow, Brandon Percival, Bill Maynard",
+  "comments": "Age: juvenile;",
+  "citations": "Faulkner, D. and Semo, L. The 58th Report of the CBRC. Colorado Birds 45(2), 92-101.",
+  "documentations": [
+    {
+      "doc_id": "1320",
+      "reporter": "Nathan Pieplow",
+      "date": "10/30/2009",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1320"
+    },
+    {
+      "doc_id": "1325",
+      "reporter": "Brandon K Percival",
+      "date": "11/7/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1325"
+    },
+    {
+      "doc_id": "1344",
+      "reporter": "Bill Maynard",
+      "date": "11/14/2009",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1344"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:52.089310"
+}

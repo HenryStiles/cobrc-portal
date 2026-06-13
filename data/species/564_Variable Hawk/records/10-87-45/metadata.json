@@ -1,0 +1,19 @@
+{
+  "acc_no": "10-87-45",
+  "year": "1987",
+  "location": "Gunnison",
+  "county": "Gunnison",
+  "observers": "Bill Maynard",
+  "comments": "",
+  "citations": "Colorado Birds, 56(2), 111-116",
+  "documentations": [
+    {
+      "doc_id": "3861",
+      "reporter": "Bill Maynard",
+      "date": "8/31/1987",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3861"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:48.601045"
+}

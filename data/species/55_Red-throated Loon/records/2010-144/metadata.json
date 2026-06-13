@@ -1,0 +1,26 @@
+{
+  "acc_no": "2010-144",
+  "year": "2010",
+  "location": "Chatfield State Park",
+  "county": "Douglas",
+  "observers": "Joey Kellner, Cole Wild",
+  "comments": "Age: adult for entire length/juv for Nov. 10 only; Plumage: basic;",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1553",
+      "reporter": "C W",
+      "date": "11/10/2010",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1553"
+    },
+    {
+      "doc_id": "1598",
+      "reporter": "Joey Kellner",
+      "date": "11/10/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1598"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:53.768858"
+}

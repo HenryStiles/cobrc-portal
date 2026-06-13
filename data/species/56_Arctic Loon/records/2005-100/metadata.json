@@ -1,0 +1,26 @@
+{
+  "acc_no": "2005-100",
+  "year": "2005",
+  "location": "Chatfield State Park",
+  "county": "Jefferson & Douglas",
+  "observers": "Andrew Spencer, Glenn Walbek",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "183",
+      "reporter": "Andrew Spencer",
+      "date": "9/28/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=183"
+    },
+    {
+      "doc_id": "201",
+      "reporter": "Glenn Walbek",
+      "date": "9/28/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=201"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:42.858054"
+}

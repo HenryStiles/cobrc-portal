@@ -1,0 +1,26 @@
+{
+  "acc_no": "2025-027",
+  "year": "2025",
+  "location": "Estes Park",
+  "county": "Larimer",
+  "observers": "Rob Rutledge, Edward Raynor",
+  "comments": "",
+  "citations": "The 89th Report of the CBRC, Peter R. Gent, Colorado Birds 60(1), 323-332, 2026.",
+  "documentations": [
+    {
+      "doc_id": "15919",
+      "reporter": "Rob Rutledge",
+      "date": "6/27/2025",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15919"
+    },
+    {
+      "doc_id": "15920",
+      "reporter": "Edward Raynor",
+      "date": "6/28/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15920"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:42.105795"
+}

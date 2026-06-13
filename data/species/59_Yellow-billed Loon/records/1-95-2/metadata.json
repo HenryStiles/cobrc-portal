@@ -1,0 +1,19 @@
+{
+  "acc_no": "1-95-2",
+  "year": "1995",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Mark Janos, Brandon Percival",
+  "comments": "",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "13854",
+      "reporter": "Mark Janos, Brandon Percival",
+      "date": "1/8/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13854"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:18.619516"
+}

@@ -1,0 +1,54 @@
+{
+  "acc_no": "2021-001",
+  "year": "2021",
+  "location": "Rokich Ranch",
+  "county": "Huerfano",
+  "observers": "Brandon K. Percival, William Anderson, Cheryl Teuton, Peter R. Gent, Sue Riffe, Carl Bendorf",
+  "comments": "New state record.",
+  "citations": "Colorado Birds 56(3), 213-222, 2022",
+  "documentations": [
+    {
+      "doc_id": "11979",
+      "reporter": "Brandon K. Percival",
+      "date": "5/28/2021",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11979"
+    },
+    {
+      "doc_id": "11977",
+      "reporter": "William Anderson",
+      "date": "5/28/2021",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11977"
+    },
+    {
+      "doc_id": "11975",
+      "reporter": "Cheryl Teuton",
+      "date": "5/29/2021",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11975"
+    },
+    {
+      "doc_id": "11976",
+      "reporter": "Peter R. Gent",
+      "date": "5/29/2021",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11976"
+    },
+    {
+      "doc_id": "11981",
+      "reporter": "Carl Bendorf",
+      "date": "5/30/2021",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11981"
+    },
+    {
+      "doc_id": "11985",
+      "reporter": "Sue Riffe",
+      "date": "5/30/2021",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11985"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:27.646064"
+}

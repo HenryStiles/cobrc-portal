@@ -1,0 +1,33 @@
+{
+  "acc_no": "2002-105",
+  "year": "2002",
+  "location": "Walker Pit",
+  "county": "Douglas & Arapahoe",
+  "observers": "Urling & Hugh Kingery, David Waltman, Doug Faulkner, Rachel Hopper, Ric Olson, Steve Stachowiak",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  The 37th Report of the CBRC. Colorado Birds 38(2), 73-88.",
+  "documentations": [
+    {
+      "doc_id": "13694",
+      "reporter": "Urling & Hugh Kingery, Doug Faulkner, Ric Olson",
+      "date": "11/17/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13694"
+    },
+    {
+      "doc_id": "13324",
+      "reporter": "David Waltman",
+      "date": "11/19/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13324"
+    },
+    {
+      "doc_id": "14423",
+      "reporter": "Steve Stachowiak",
+      "date": "11/21/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14423"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:40.910110"
+}

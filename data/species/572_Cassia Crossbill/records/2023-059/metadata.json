@@ -1,0 +1,19 @@
+{
+  "acc_no": "2023-059",
+  "year": "2023",
+  "location": "Routt NF",
+  "county": "Larimer",
+  "observers": "Kathy Mihm Dunning",
+  "comments": "",
+  "citations": "Gent, P.  The 86th Report of the CBRC.  Colorado Birds 58(3), 125-132.",
+  "documentations": [
+    {
+      "doc_id": "13616",
+      "reporter": "Kathy Mihm Dunning",
+      "date": "8/22/2023",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13616"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:50.225776"
+}

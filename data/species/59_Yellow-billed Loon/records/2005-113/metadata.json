@@ -1,0 +1,26 @@
+{
+  "acc_no": "2005-113",
+  "year": "2005",
+  "location": "Standley Lake",
+  "county": "Jefferson & Douglas",
+  "observers": "Doug Faulkner, Andrew Spencer",
+  "comments": "Age: juv; Plumage: juvenal;",
+  "citations": "Faulkner, D. The 65th Report of the CBRC. Colorado Birds 47(1), 28-37.",
+  "documentations": [
+    {
+      "doc_id": "200",
+      "reporter": "Doug Faulkner",
+      "date": "11/4/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=200"
+    },
+    {
+      "doc_id": "259",
+      "reporter": "Andrew Spencer",
+      "date": "11/7/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=259"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:30.645395"
+}

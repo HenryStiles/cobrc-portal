@@ -1,0 +1,19 @@
+{
+  "acc_no": "2023-060",
+  "year": "2023",
+  "location": "East Meadow Creek Trail",
+  "county": "Eagle",
+  "observers": "Kathy Mihm Dunning",
+  "comments": "",
+  "citations": "Gent, P., 2025. 87th Report of the CBRC.  Colorado Birds, 59(1), 7-15.",
+  "documentations": [
+    {
+      "doc_id": "13617",
+      "reporter": "Kathy Mihm Dunning",
+      "date": "9/21/2023",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13617"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:50.768530"
+}

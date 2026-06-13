@@ -1,0 +1,26 @@
+{
+  "acc_no": "2014-176",
+  "year": "2014",
+  "location": "Chatfield State Park (Douglas Portion)",
+  "county": "Douglas",
+  "observers": "Joey Kellner, John Drummond",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "5185",
+      "reporter": "Joey Kellner",
+      "date": "12/13/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5185"
+    },
+    {
+      "doc_id": "5183",
+      "reporter": "John Drummond",
+      "date": "12/15/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5183"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:50.688433"
+}

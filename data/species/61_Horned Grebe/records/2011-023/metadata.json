@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-023",
+  "year": "2011",
+  "location": "Smith Reservoir State Wildlife Reservoir",
+  "county": "Costilla",
+  "observers": "Ted Floyd",
+  "comments": "",
+  "citations": "Faulkner, D. The 62nd Report of the CBRC. Colorado Birds 46(2), 106-120.",
+  "documentations": [
+    {
+      "doc_id": "1624",
+      "reporter": "Ted Floyd",
+      "date": "3/28/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1624"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:41.432395"
+}

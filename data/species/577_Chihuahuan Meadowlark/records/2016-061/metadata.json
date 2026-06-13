@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-061",
+  "year": "2016",
+  "location": "John Martin Reservoir State Park",
+  "county": "Bent",
+  "observers": "Steven Mlodinow",
+  "comments": "Changed from Eastern to Chihuahuan Meadowlark on 10/23/22 based on original description and photos, plus the comments from members Peterson and Leukering.",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "6462",
+      "reporter": "Steven Mlodinow",
+      "date": "6/27/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6462"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:10.695622"
+}

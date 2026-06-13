@@ -1,0 +1,33 @@
+{
+  "acc_no": "2003-125",
+  "year": "2003",
+  "location": "Standley Lake",
+  "county": "Jefferson",
+  "observers": "Roger Linfield, Larry Semo, Bill Schmoker",
+  "comments": "Age: adult;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "919",
+      "reporter": "Larry Semo",
+      "date": "11/30/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=919"
+    },
+    {
+      "doc_id": "57",
+      "reporter": "Roger Linfield",
+      "date": "12/2/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=57"
+    },
+    {
+      "doc_id": "16199",
+      "reporter": "Bill Schmoker",
+      "date": "12/6/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16199"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:31.797122"
+}

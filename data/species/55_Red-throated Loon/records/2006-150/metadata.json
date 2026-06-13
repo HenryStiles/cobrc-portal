@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-150",
+  "year": "2006",
+  "location": "Chatfield State Park",
+  "county": "Douglas",
+  "observers": "Joey Kellner",
+  "comments": "Age: juv.; Plumage: juvenal;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "665",
+      "reporter": "Joey Kellner",
+      "date": "11/2/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=665"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:38.468289"
+}

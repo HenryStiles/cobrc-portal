@@ -1,0 +1,47 @@
+{
+  "acc_no": "2022-001",
+  "year": "2022",
+  "location": "Cortez",
+  "county": "Montezuma",
+  "observers": "Coen Dexter, Brandon Percival, Karel Buckley, Peter Gent, Sue Riffe",
+  "comments": "New species in Colorado.",
+  "citations": "Colorado Birds 56(3), 213-222, 2022",
+  "documentations": [
+    {
+      "doc_id": "12004",
+      "reporter": "Coen Dexter",
+      "date": "1/18/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12004"
+    },
+    {
+      "doc_id": "12001",
+      "reporter": "Brandon K. Percival",
+      "date": "1/19/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12001"
+    },
+    {
+      "doc_id": "12005",
+      "reporter": "Karel Buckley",
+      "date": "1/20/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12005"
+    },
+    {
+      "doc_id": "12003",
+      "reporter": "Peter R. Gent",
+      "date": "1/23/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12003"
+    },
+    {
+      "doc_id": "12013",
+      "reporter": "Sue Riffe",
+      "date": "1/25/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12013"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:57.386756"
+}

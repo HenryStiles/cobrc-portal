@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-046",
+  "year": "2016",
+  "location": "Highline Lake State Park",
+  "county": "Mesa",
+  "observers": "Mike Henwood",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "6447",
+      "reporter": "Mike Henwood",
+      "date": "3/17/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6447"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:19.900295"
+}

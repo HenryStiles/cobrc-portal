@@ -1,0 +1,26 @@
+{
+  "acc_no": "2000-002",
+  "year": "2000",
+  "location": "Ramah State Wildlife Area",
+  "county": "El Paso",
+  "observers": "Alan Versaw",
+  "comments": "",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "16163",
+      "reporter": "Alan Versaw",
+      "date": "6/6/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16163"
+    },
+    {
+      "doc_id": "16197",
+      "reporter": "Alan Versaw",
+      "date": "6/6/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16197"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:27.237562"
+}

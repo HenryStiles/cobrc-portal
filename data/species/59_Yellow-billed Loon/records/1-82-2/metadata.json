@@ -1,0 +1,19 @@
+{
+  "acc_no": "1-82-2",
+  "year": "1981",
+  "location": "Chatfield State Park",
+  "county": "Douglas & Jefferson",
+  "observers": "Jack Reddall, Mark Holmgren, Robert Andrews",
+  "comments": "",
+  "citations": "Gent, P.  1982 Report of the CBRC. CFO Journal 18(2), 51-57.",
+  "documentations": [
+    {
+      "doc_id": "13846",
+      "reporter": "Jack Reddall, Mark Holmgren, Bob Andrews",
+      "date": "12/19/1981",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13846"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:06.861104"
+}

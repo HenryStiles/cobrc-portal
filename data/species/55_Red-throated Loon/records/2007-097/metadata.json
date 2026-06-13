@@ -1,0 +1,26 @@
+{
+  "acc_no": "2007-097",
+  "year": "2007",
+  "location": "Union Reservoir",
+  "county": "Weld",
+  "observers": "Nathan Pieplow, Andrew Spencer",
+  "comments": "Age: juv;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "830",
+      "reporter": "Nathan Pieplow",
+      "date": "11/17/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=830"
+    },
+    {
+      "doc_id": "837",
+      "reporter": "Andrew Spencer",
+      "date": "11/17/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=837"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:45.430364"
+}

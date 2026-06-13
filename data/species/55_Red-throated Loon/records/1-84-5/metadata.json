@@ -1,0 +1,19 @@
+{
+  "acc_no": "1-84-5",
+  "year": "1983",
+  "location": "Jumbo Reservoir State Wildlife Area",
+  "county": "Logan",
+  "observers": "Steve Larson",
+  "comments": "",
+  "citations": "Gent, P.  1984 Report of the CBRC. CFO Journal 19(4), 82-87.",
+  "documentations": [
+    {
+      "doc_id": "16170",
+      "reporter": "Steve Larson",
+      "date": "11/5/1983",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16170"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:48.356235"
+}

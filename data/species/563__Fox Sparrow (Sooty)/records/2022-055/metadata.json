@@ -1,0 +1,19 @@
+{
+  "acc_no": "2022-055",
+  "year": "2022",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Kieran Schnitzspahn",
+  "comments": "",
+  "citations": "Gent, P.  The 84th Report of the CBRC. Colorado Birds 54(4), 194-203.",
+  "documentations": [
+    {
+      "doc_id": "12094",
+      "reporter": "Kieran Schnitzspahn",
+      "date": "10/11/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12094"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:21.166846"
+}

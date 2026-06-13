@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-003",
+  "year": "1998",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "David Quesenberry, Mark Janos, Tony Leukering",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "13857",
+      "reporter": "David Quesenberry, Mark Janos, Tony Leukering",
+      "date": "12/26/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13857"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:21.118633"
+}

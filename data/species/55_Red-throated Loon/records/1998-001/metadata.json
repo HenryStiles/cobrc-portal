@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-001",
+  "year": "1995",
+  "location": "Chatfield State Park",
+  "county": "Jefferson",
+  "observers": "Brandon Percival",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "16195",
+      "reporter": "Brandon Percival",
+      "date": "12/1/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16195"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:04.784918"
+}

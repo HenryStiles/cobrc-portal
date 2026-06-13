@@ -1,0 +1,19 @@
+{
+  "acc_no": "2003-033",
+  "year": "2003",
+  "location": "Campo Lek",
+  "county": "Baca",
+  "observers": "Michael Patten",
+  "comments": "Originally published as 2003-22.  Changed from Eastern to Chihuahuan Meadowlark on 8/6/22.",
+  "citations": "The 82nd Report of the CBRC, 2022. Colorado Birds, 56(4), 283-294.",
+  "documentations": [
+    {
+      "doc_id": "13737",
+      "reporter": "Michael Patten",
+      "date": "4/27/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13737"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:05.162196"
+}

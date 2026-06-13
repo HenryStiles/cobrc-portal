@@ -1,0 +1,19 @@
+{
+  "acc_no": "1-90-1",
+  "year": "1990",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Nelson, D.  1990 Report of the CBRC. CFO Journal 26(3), 91-97.",
+  "documentations": [
+    {
+      "doc_id": "16182",
+      "reporter": "Mark Janos",
+      "date": "11/17/1990",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16182"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:53.565721"
+}

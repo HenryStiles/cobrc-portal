@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-002",
+  "year": "2001",
+  "location": "Sweitzer Lake State Park",
+  "county": "Delta",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "Semo, L.  The 41st Report of the CBRC. Colorado Birds 40(1), 26-44.",
+  "documentations": [
+    {
+      "doc_id": "85",
+      "reporter": "Tony Leukering",
+      "date": "11/10/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=85"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:32.088909"
+}

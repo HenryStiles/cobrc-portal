@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-089",
+  "year": "2007",
+  "location": "Union Reservoir",
+  "county": "Weld",
+  "observers": "Nathan Pieplow",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "812",
+      "reporter": "Nathan Pieplow",
+      "date": "11/3/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=812"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:43.841149"
+}

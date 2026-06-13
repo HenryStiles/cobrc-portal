@@ -1,0 +1,26 @@
+{
+  "acc_no": "2006-103",
+  "year": "2006",
+  "location": "Colorado City and Rye",
+  "county": "Pueblo",
+  "observers": "David Silverman, Brandon Percival",
+  "comments": "Age: adult; Plumage: basic; Sex: unknown;  Changed from Eastern to Chihuahuan Meadowlark on 8/6/22.",
+  "citations": "The 82nd Report of the CBRC, 2022. Colorado Birds, 56(4), 283-294.",
+  "documentations": [
+    {
+      "doc_id": "506",
+      "reporter": "David Silverman",
+      "date": "6/19/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=506"
+    },
+    {
+      "doc_id": "448",
+      "reporter": "Brandon K Percival",
+      "date": "7/8/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=448"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:07.530192"
+}

@@ -1,0 +1,26 @@
+{
+  "acc_no": "2025-012",
+  "year": "2025",
+  "location": "S CR 137, Bennett",
+  "county": "Arapahoe",
+  "observers": "Courtney Rella, Matt Newport",
+  "comments": "",
+  "citations": "The 89th Report of the CBRC, Peter R. Gent, Colorado Birds 60(1), 323-332, 2026.",
+  "documentations": [
+    {
+      "doc_id": "14815",
+      "reporter": "Courtney Rella",
+      "date": "5/8/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14815"
+    },
+    {
+      "doc_id": "14817",
+      "reporter": "Matt Newport",
+      "date": "5/8/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14817"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:35.951789"
+}

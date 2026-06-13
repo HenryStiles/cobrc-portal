@@ -1,0 +1,19 @@
+{
+  "acc_no": "1944-001",
+  "year": "1944",
+  "location": "Sterling",
+  "county": "Logan",
+  "observers": "Allan Phillips",
+  "comments": "Collected: Specimen DMNH #23974",
+  "citations": "Phillips, A., Western Birds, 21, 17-24, 1990.",
+  "documentations": [
+    {
+      "doc_id": "13257",
+      "reporter": "Allan Phillips",
+      "date": "1/19/1944",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13257"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:05.981825"
+}

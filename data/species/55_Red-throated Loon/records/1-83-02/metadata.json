@@ -1,0 +1,19 @@
+{
+  "acc_no": "1-83-02",
+  "year": "1982",
+  "location": "Chatfield State Park",
+  "county": "Douglas & Jefferson",
+  "observers": "Mark Holmgren",
+  "comments": "",
+  "citations": "Gent, P.  1983 Report of the CBRC. CFO Journal 19(1-2), 28-33.",
+  "documentations": [
+    {
+      "doc_id": "16169",
+      "reporter": "Mark Holmgren",
+      "date": "11/18/1982",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16169"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:47.281528"
+}

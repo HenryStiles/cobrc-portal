@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-150",
+  "year": "2010",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Glenn Walbek, Cole Wild",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1554",
+      "reporter": "C W",
+      "date": "11/19/2010",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1554"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:14.313188"
+}

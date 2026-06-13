@@ -1,0 +1,19 @@
+{
+  "acc_no": "1-91-1",
+  "year": "1991",
+  "location": "Vega State Park and Reservoir",
+  "county": "Mesa",
+  "observers": "Coen Dexter",
+  "comments": "",
+  "citations": "Nelson, D.  1991 Report of the CBRC. CFO Journal 27(2), 49-56.",
+  "documentations": [
+    {
+      "doc_id": "16183",
+      "reporter": "Coen Dexter",
+      "date": "10/20/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16183"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:54.673510"
+}

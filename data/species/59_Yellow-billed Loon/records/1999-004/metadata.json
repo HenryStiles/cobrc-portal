@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-004",
+  "year": "1999",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "13757",
+      "reporter": "Mark Janos",
+      "date": "12/5/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13757"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:22.615071"
+}

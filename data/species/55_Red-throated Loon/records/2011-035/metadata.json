@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-035",
+  "year": "2011",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Cheryl Teuton",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "Faulkner, D. The 62nd Report of the CBRC. Colorado Birds 46(2), 106-120.",
+  "documentations": [
+    {
+      "doc_id": "1799",
+      "reporter": "Cheryl Teuton",
+      "date": "4/19/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1799"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:14.867982"
+}

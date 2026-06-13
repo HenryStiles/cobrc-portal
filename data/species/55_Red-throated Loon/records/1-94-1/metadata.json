@@ -1,0 +1,19 @@
+{
+  "acc_no": "1-94-1",
+  "year": "1994",
+  "location": "Lake Henry",
+  "county": "Crowley",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Prather, B.  1994 Report of the CBRC. CFO Journal 31(1), 23-31.",
+  "documentations": [
+    {
+      "doc_id": "16190",
+      "reporter": "Mark Janos",
+      "date": "10/30/1994",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16190"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:02.643363"
+}

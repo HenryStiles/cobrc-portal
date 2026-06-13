@@ -1,0 +1,19 @@
+{
+  "acc_no": "2020-008",
+  "year": "2020",
+  "location": "Standley Lake",
+  "county": "Jefferson",
+  "observers": "Donna Stumpp",
+  "comments": "Tony Leukering says the fringed upperparts feathers identify this as a juvenile bird.",
+  "citations": "The 82nd Report of the CBRC, 2022. Colorado Birds, 56(4), 283-294.",
+  "documentations": [
+    {
+      "doc_id": "11862",
+      "reporter": "Donna Stumpp",
+      "date": "3/14/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11862"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:59.589530"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2020-093",
+  "year": "2020",
+  "location": "",
+  "county": "Adams",
+  "observers": "Doug Faulkner",
+  "comments": "",
+  "citations": "Gent, P., 2025. 87th Report of the CBRC.  Colorado Birds, 59(1), 7-15.",
+  "documentations": [
+    {
+      "doc_id": "13821",
+      "reporter": "Doug Faulkner",
+      "date": "11/6/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13821"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:01.683683"
+}

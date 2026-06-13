@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-041",
+  "year": "2009",
+  "location": "Brush Hollow Reservoir and State Wildlife Area",
+  "county": "Fremont",
+  "observers": "Brandon Percival",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "Faulkner, D. and Semo, L. The 58th Report of the CBRC. Colorado Birds 45(2), 92-101.",
+  "documentations": [
+    {
+      "doc_id": "1268",
+      "reporter": "Brandon K Percival",
+      "date": "5/19/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1268"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:50.550459"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2026-001",
+  "year": "2026",
+  "location": "Ridgway Reservoir",
+  "county": "Ouray",
+  "observers": "Don Marsh",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16271",
+      "reporter": "Don Marsh",
+      "date": "1/2/2026",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16271"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:15.393287"
+}

@@ -1,0 +1,26 @@
+{
+  "acc_no": "2005-022",
+  "year": "2005",
+  "location": "Campo Lek",
+  "county": "Baca",
+  "observers": "Marshall Iliff, Brandon K Percival",
+  "comments": "Changed from Eastern to Chihuahuan Meadowlark on 8/6/22.",
+  "citations": "The 82nd Report of the CBRC, 2022. Colorado Birds, 56(4), 283-294.",
+  "documentations": [
+    {
+      "doc_id": "114",
+      "reporter": "Marshall Iliff",
+      "date": "4/18/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=114"
+    },
+    {
+      "doc_id": "302",
+      "reporter": "Brandon K Percival",
+      "date": "4/22/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=302"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:06.472196"
+}

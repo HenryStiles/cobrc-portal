@@ -1,0 +1,33 @@
+{
+  "acc_no": "2011-158",
+  "year": "2011",
+  "location": "Baseline Reservoir",
+  "county": "Boulder",
+  "observers": "Christian Nunes, Bill Kaempfer, Peter Gent",
+  "comments": "Age: juvenile;",
+  "citations": "Faulkner, D. The 64th Report of the CBRC. Colorado Birds 46(4), 255-267.",
+  "documentations": [
+    {
+      "doc_id": "1844",
+      "reporter": "Bill Kaempfer",
+      "date": "11/8/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1844"
+    },
+    {
+      "doc_id": "1846",
+      "reporter": "Christian Nunes",
+      "date": "11/8/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1846"
+    },
+    {
+      "doc_id": "1852",
+      "reporter": "Peter Gent",
+      "date": "11/8/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1852"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:16.325412"
+}

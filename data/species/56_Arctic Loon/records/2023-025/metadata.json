@@ -1,0 +1,26 @@
+{
+  "acc_no": "2023-025",
+  "year": "2023",
+  "location": "Big Johnson Reservoir",
+  "county": "El Paso",
+  "observers": "Brandon K. Percival, Michael Lester",
+  "comments": "Third state record.",
+  "citations": "Gent, P.  85th Report of the CBRC. Colorado Birds 58(1), 7-14.",
+  "documentations": [
+    {
+      "doc_id": "13319",
+      "reporter": "Brandon K. Percival",
+      "date": "6/2/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13319"
+    },
+    {
+      "doc_id": "13347",
+      "reporter": "Michael Lester",
+      "date": "6/2/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13347"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:46.000670"
+}

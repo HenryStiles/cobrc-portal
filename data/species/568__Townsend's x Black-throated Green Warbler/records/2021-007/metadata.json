@@ -1,0 +1,19 @@
+{
+  "acc_no": "2021-007",
+  "year": "2021",
+  "location": "Rocky Mountain National Park (Larimer section)",
+  "county": "Larimer",
+  "observers": "Carl Bendorf",
+  "comments": "",
+  "citations": "The 83rd Report of the Colorado Bird Records Committee,  Peter R. Gent, Colorado Birds, 57(2), 61-70, 2023.",
+  "documentations": [
+    {
+      "doc_id": "11999",
+      "reporter": "Carl Bendorf",
+      "date": "9/20/2021",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11999"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:01.351049"
+}

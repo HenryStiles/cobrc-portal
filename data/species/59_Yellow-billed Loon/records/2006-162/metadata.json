@@ -1,0 +1,40 @@
+{
+  "acc_no": "2006-162",
+  "year": "2006",
+  "location": "Prince Lakes, Erie and Thomas Reservoirs",
+  "county": "Boulder",
+  "observers": "Bill Schmoker, Peter Gent, Walter Szeliga, Bill Maynard",
+  "comments": "Age: juv.; Plumage: juvenal;",
+  "citations": "Semo, L. and Faulkner, D.  The 49th Report of the CBRC. Colorado Birds 43(1), 50-64.",
+  "documentations": [
+    {
+      "doc_id": "598",
+      "reporter": "Bill Schmoker",
+      "date": "11/22/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=598"
+    },
+    {
+      "doc_id": "602",
+      "reporter": "Walter Szeliga",
+      "date": "11/22/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=602"
+    },
+    {
+      "doc_id": "597",
+      "reporter": "Bill Maynard",
+      "date": "11/24/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=597"
+    },
+    {
+      "doc_id": "727",
+      "reporter": "Peter Gent",
+      "date": "11/30/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=727"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:38.117523"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "1-86-59",
+  "year": "1986",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Peter Gent",
+  "comments": "",
+  "citations": "Bunn, R.  1986 Report of the CBRC. CFO Journal 22(3), 85-90.",
+  "documentations": [
+    {
+      "doc_id": "16171",
+      "reporter": "Peter Gent",
+      "date": "11/8/1986",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16171"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:51.371189"
+}

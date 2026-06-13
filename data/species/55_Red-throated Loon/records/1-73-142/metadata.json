@@ -1,0 +1,19 @@
+{
+  "acc_no": "1-73-142",
+  "year": "1973",
+  "location": "Marston Reservoir",
+  "county": "Jefferson",
+  "observers": "Van Truan, Jack Reddall, Harold Holt",
+  "comments": "Observed on Denver CBC.",
+  "citations": "Reddall, J. 1974. Reports from the CFO Official Records Committee. Colorado Field Ornithologist 19:11-41.",
+  "documentations": [
+    {
+      "doc_id": "16165",
+      "reporter": "Van Truan, Jack Reddall, Harold Holt",
+      "date": "12/15/1973",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16165"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:11.650066"
+}

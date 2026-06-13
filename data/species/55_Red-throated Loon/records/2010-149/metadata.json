@@ -1,0 +1,26 @@
+{
+  "acc_no": "2010-149",
+  "year": "2010",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Brandon Percival, Bill Maynard",
+  "comments": "Age: juvenile;",
+  "citations": "Faulkner, D. and Semo, L. The 58th Report of the CBRC. Colorado Birds 45(2), 92-101.",
+  "documentations": [
+    {
+      "doc_id": "1512",
+      "reporter": "Bill Maynard",
+      "date": "11/15/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1512"
+    },
+    {
+      "doc_id": "1593",
+      "reporter": "Brandon K Percival",
+      "date": "11/15/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1593"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:11.331975"
+}

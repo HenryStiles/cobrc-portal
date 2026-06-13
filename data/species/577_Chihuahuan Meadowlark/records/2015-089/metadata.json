@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-089",
+  "year": "2015",
+  "location": "McIntosh Lake",
+  "county": "Boulder",
+  "observers": "Johanna Beam",
+  "comments": "Changed from Eastern to Chihuahuan Meadowlark on 8/6/22.",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6305",
+      "reporter": "Johanna Beam",
+      "date": "7/21/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6305"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:09.136838"
+}

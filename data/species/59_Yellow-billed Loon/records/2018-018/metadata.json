@@ -1,0 +1,19 @@
+{
+  "acc_no": "2018-018",
+  "year": "2018",
+  "location": "Dillon Reservoir",
+  "county": "Summit",
+  "observers": "Ryan Bushong",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "11729",
+      "reporter": "Ryan Bushong",
+      "date": "9/30/2018",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11729"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:58.013800"
+}

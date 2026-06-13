@@ -1,0 +1,26 @@
+{
+  "acc_no": "2002-093",
+  "year": "2002",
+  "location": "Boyd Lake State Park",
+  "county": "Larimer",
+  "observers": "Bill Schmoker, Andrew Spencer",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  The 37th Report of the CBRC. Colorado Birds 38(2), 73-88.",
+  "documentations": [
+    {
+      "doc_id": "13770",
+      "reporter": "Bill Schmoker",
+      "date": "11/5/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13770"
+    },
+    {
+      "doc_id": "517",
+      "reporter": "Andrew Spencer",
+      "date": "11/10/2002",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=517"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:25.347999"
+}

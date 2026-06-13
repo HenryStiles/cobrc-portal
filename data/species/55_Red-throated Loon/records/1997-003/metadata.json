@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-003",
+  "year": "1994",
+  "location": "North Sterling State Park",
+  "county": "Logan",
+  "observers": "Jack Reddall",
+  "comments": "",
+  "citations": "Janos, M.  1997 Report of the CBRC.  J. of the CFO 33(4), 241-252.",
+  "documentations": [
+    {
+      "doc_id": "16192",
+      "reporter": "Jack Reddall",
+      "date": "11/6/1994",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16192"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:03.714254"
+}
