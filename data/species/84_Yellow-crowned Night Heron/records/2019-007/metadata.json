@@ -1,0 +1,26 @@
+{
+  "acc_no": "2019-007",
+  "year": "2019",
+  "location": "Sell Lake",
+  "county": "Fremont",
+  "observers": "Derek Hudgins, Brandon K. Percival",
+  "comments": "",
+  "citations": "Colorado Birds 56(3), 213-222, 2022.",
+  "documentations": [
+    {
+      "doc_id": "11790",
+      "reporter": "Derek Hudgins",
+      "date": "4/23/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11790"
+    },
+    {
+      "doc_id": "11789",
+      "reporter": "Brandon K. Percival",
+      "date": "4/24/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11789"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:53.595500"
+}

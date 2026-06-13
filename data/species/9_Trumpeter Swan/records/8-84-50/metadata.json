@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-84-50",
+  "year": "1984",
+  "location": "1 ml NE of Mack",
+  "county": "Mesa",
+  "observers": "Van Graham",
+  "comments": "",
+  "citations": "Gent, P.  1984 Report of the CBRC. CFO Journal 19(4), 82-87.",
+  "documentations": [
+    {
+      "doc_id": "15955",
+      "reporter": "Van Graham",
+      "date": "12/19/1984",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15955"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:23.314945"
+}

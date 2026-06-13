@@ -1,0 +1,19 @@
+{
+  "acc_no": "7-85-15",
+  "year": "1985",
+  "location": "Neesopah Reservoir",
+  "county": "Kiowa",
+  "observers": "Dan Bridges, Peter Gent",
+  "comments": "",
+  "citations": "Gent, P.  1985 Report of the CBRC. CFO Journal 20(3-4), 44-50.",
+  "documentations": [
+    {
+      "doc_id": "13121",
+      "reporter": "Dan Bridges, Peter Gent",
+      "date": "7/20/1985",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13121"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:32.014922"
+}

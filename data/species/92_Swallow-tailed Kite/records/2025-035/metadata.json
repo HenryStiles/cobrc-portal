@@ -1,0 +1,33 @@
+{
+  "acc_no": "2025-035",
+  "year": "2025",
+  "location": "Chatfield Drive, Colorado Springs",
+  "county": "El Paso",
+  "observers": "Brandon Percival, Doug Faulkner, Kelsey Crona",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16022",
+      "reporter": "Brandon Percival",
+      "date": "8/18/2025",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16022"
+    },
+    {
+      "doc_id": "16491",
+      "reporter": "Kelsey Crona",
+      "date": "8/19/2025",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16491"
+    },
+    {
+      "doc_id": "16025",
+      "reporter": "Doug Faulkner",
+      "date": "8/21/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16025"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:44.522848"
+}

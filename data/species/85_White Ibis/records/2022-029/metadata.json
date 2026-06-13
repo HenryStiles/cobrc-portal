@@ -1,0 +1,33 @@
+{
+  "acc_no": "2022-029",
+  "year": "2022",
+  "location": "Fountain Creek Regional Park",
+  "county": "El Paso",
+  "observers": "Melvin Goff, Aaron Driscoll, Jenyva Fox",
+  "comments": "",
+  "citations": "Gent, P.  The 84th Report of the CBRC. Colorado Birds 54(4), 194-203.",
+  "documentations": [
+    {
+      "doc_id": "13092",
+      "reporter": "Jenyva Fox",
+      "date": "5/6/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13092"
+    },
+    {
+      "doc_id": "12060",
+      "reporter": "Melvin Goff",
+      "date": "5/6/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12060"
+    },
+    {
+      "doc_id": "12061",
+      "reporter": "Aaron Driscoll",
+      "date": "5/6/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12061"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:03.863299"
+}

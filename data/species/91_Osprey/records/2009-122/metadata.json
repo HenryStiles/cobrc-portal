@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-122",
+  "year": "2009",
+  "location": "E 78th Avenue and Steele Street",
+  "county": "Adams",
+  "observers": "Daniel Disner",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1222",
+      "reporter": "Daniel Disner",
+      "date": "4/30/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1222"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:12.067859"
+}

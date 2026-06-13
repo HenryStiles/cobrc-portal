@@ -1,0 +1,19 @@
+{
+  "acc_no": "9-78-54",
+  "year": "1978",
+  "location": "Pawnee National Grasslands (western section)",
+  "county": "Weld",
+  "observers": "Thomas Olson",
+  "comments": "Originally not accepted because single observer sight record. Accepted on re-circulation, so now 1st state record.",
+  "citations": "Gent, P.  The 86th Report of the CBRC.  Colorado Birds 58(3), 125-132.",
+  "documentations": [
+    {
+      "doc_id": "13520",
+      "reporter": "Thomas Olson",
+      "date": "6/6/1978",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13520"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:15.340699"
+}

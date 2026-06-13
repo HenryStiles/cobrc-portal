@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-078",
+  "year": "2009",
+  "location": "John Martin Reservoir State Park",
+  "county": "Bent",
+  "observers": "Brad Steger",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "Semo, L.  The 55th Report of the CBRC. Colorado Birds 44(3), 180-185.",
+  "documentations": [
+    {
+      "doc_id": "1343",
+      "reporter": "Brad Steger",
+      "date": "7/31/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1343"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:20.567270"
+}

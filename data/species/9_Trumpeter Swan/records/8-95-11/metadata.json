@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-95-11",
+  "year": "1995",
+  "location": "Lake Cheraw",
+  "county": "Otero",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Janos, M. 1995 Report of the CBRC. J. Colo. Field Ornith. 31:139-153. Note that the record is incorrectly labelled as 8-96-16 in that report.",
+  "documentations": [
+    {
+      "doc_id": "15963",
+      "reporter": "Mark Janos",
+      "date": "12/30/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15963"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:00.988870"
+}

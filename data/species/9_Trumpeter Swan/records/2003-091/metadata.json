@@ -1,0 +1,19 @@
+{
+  "acc_no": "2003-091",
+  "year": "2003",
+  "location": "Lake Maria",
+  "county": "Huerfano",
+  "observers": "David Silverman",
+  "comments": "3 adults, one immature",
+  "citations": "Semo, L.  The 42nd Report of the CBRC. Colorado Birds 40(3), 133-156.",
+  "documentations": [
+    {
+      "doc_id": "15978",
+      "reporter": "David Silverman",
+      "date": "11/30/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15978"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:27.661869"
+}

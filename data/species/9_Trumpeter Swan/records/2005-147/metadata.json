@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-147",
+  "year": "2005",
+  "location": "Salida",
+  "county": "Chaffee",
+  "observers": "Matt Kroschel, Sherrie York",
+  "comments": "Age: adults;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "265",
+      "reporter": "Sherrie York",
+      "date": "12/29/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=265"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:34.419883"
+}

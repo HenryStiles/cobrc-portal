@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-196",
+  "year": "2002",
+  "location": "Loloff Reservoir",
+  "county": "Weld",
+  "observers": "Kent Nickell",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  The 37th Report of the CBRC. Colorado Birds 38(2), 73-88.",
+  "documentations": [
+    {
+      "doc_id": "16472",
+      "reporter": "Kent Nickell",
+      "date": "8/27/2002",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16472"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:41.694776"
+}

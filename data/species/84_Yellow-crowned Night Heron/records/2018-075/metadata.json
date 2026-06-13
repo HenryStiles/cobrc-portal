@@ -1,0 +1,19 @@
+{
+  "acc_no": "2018-075",
+  "year": "2018",
+  "location": "Main Reservoir",
+  "county": "Jefferson",
+  "observers": "Santiago  Tabares Erices",
+  "comments": "",
+  "citations": "Colorado Birds 56(3), 213-222, 2022",
+  "documentations": [
+    {
+      "doc_id": "11719",
+      "reporter": "Santiago  Tabares Erices",
+      "date": "8/28/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11719"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:52.204408"
+}

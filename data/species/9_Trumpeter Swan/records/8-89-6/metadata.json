@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-89-6",
+  "year": "1989",
+  "location": "Little Gaynor Lake",
+  "county": "Boulder & Weld",
+  "observers": "Bill Prather, David Bolton",
+  "comments": "",
+  "citations": "Nelson, D.  1989 Report of the CBRC. CFO Journal 25(4), 119-125.",
+  "documentations": [
+    {
+      "doc_id": "15956",
+      "reporter": "Bill Prather, David Bolton",
+      "date": "3/23/1989",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15956"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:24.442040"
+}

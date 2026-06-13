@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-012",
+  "year": "1998",
+  "location": "Lake Meredith",
+  "county": "Crowley",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "16453",
+      "reporter": "Mark Janos",
+      "date": "4/11/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16453"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:19.660792"
+}

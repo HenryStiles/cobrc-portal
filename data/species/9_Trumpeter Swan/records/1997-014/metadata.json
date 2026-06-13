@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-014",
+  "year": "1997",
+  "location": "Little Gaynor Lake",
+  "county": "Boulder",
+  "observers": "D.W. King, Ric Olson",
+  "comments": "",
+  "citations": "Janos, M.  1997 Report of the CBRC.  J. of the CFO 33(4), 241-252.",
+  "documentations": [
+    {
+      "doc_id": "15968",
+      "reporter": "D.W. King, Ric Olson",
+      "date": "12/7/1997",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15968"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:03.729420"
+}

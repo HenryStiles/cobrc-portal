@@ -1,0 +1,26 @@
+{
+  "acc_no": "2005-033",
+  "year": "2005",
+  "location": "Las Animas",
+  "county": "Bent",
+  "observers": "Nathan Pieplow, Andrew Boyce",
+  "comments": "",
+  "citations": "Semo, L.  The 44th Report of the CBRC. Colorado Birds 41(4), 241-258.",
+  "documentations": [
+    {
+      "doc_id": "102",
+      "reporter": "Nathan Pieplow",
+      "date": "4/30/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=102"
+    },
+    {
+      "doc_id": "103",
+      "reporter": "Andrew Boyce",
+      "date": "4/30/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=103"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:48.335595"
+}

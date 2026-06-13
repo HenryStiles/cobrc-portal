@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-183",
+  "year": "2005",
+  "location": "Berthoud",
+  "county": "Larimer",
+  "observers": "Laurens Halsey",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "817",
+      "reporter": "Laurens Halsey",
+      "date": "9/5/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=817"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:01.178220"
+}

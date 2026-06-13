@@ -1,0 +1,33 @@
+{
+  "acc_no": "2000-014",
+  "year": "2000",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Doug Faulkner, Larry Semo, Joe Mammoser",
+  "comments": "",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "2684",
+      "reporter": "Larry Semo",
+      "date": "4/25/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2684"
+    },
+    {
+      "doc_id": "2685",
+      "reporter": "Doug Faulkner",
+      "date": "4/25/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2685"
+    },
+    {
+      "doc_id": "2683",
+      "reporter": "Joe Mammoser",
+      "date": "4/26/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2683"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:40.793747"
+}

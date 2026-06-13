@@ -1,0 +1,19 @@
+{
+  "acc_no": "5-91-12",
+  "year": "1989",
+  "location": "Tamarack Ranch State Wildlife Area",
+  "county": "Logan",
+  "observers": "Mark Nikas",
+  "comments": "",
+  "citations": "Nelson, D.  1991 Report of the CBRC. CFO Journal 27(2), 49-56.",
+  "documentations": [
+    {
+      "doc_id": "14670",
+      "reporter": "Mark Nikas",
+      "date": "6/17/1989",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14670"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:47.550300"
+}

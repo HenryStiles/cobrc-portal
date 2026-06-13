@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-075",
+  "year": "2010",
+  "location": "Union Reservoir",
+  "county": "Weld",
+  "observers": "Christian Nunes",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "Semo, L. and Faulkner, D. The 56th Report of the CBRC. Colorado Birds 44(4), 240-254.",
+  "documentations": [
+    {
+      "doc_id": "1473",
+      "reporter": "Christian Nunes",
+      "date": "4/24/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1473"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:05.359394"
+}

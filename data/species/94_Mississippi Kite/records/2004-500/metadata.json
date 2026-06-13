@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-500",
+  "year": "2004",
+  "location": "Norwood",
+  "county": "San Miguel",
+  "observers": "Coen Dexter",
+  "comments": "",
+  "citations": "Colorado Birds 54(3): 109-118",
+  "documentations": [
+    {
+      "doc_id": "9625",
+      "reporter": "Coen Dexter",
+      "date": "6/19/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=9625"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:54.532444"
+}

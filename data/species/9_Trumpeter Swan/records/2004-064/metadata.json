@@ -1,0 +1,26 @@
+{
+  "acc_no": "2004-064",
+  "year": "2004",
+  "location": "Loveland",
+  "county": "Larimer",
+  "observers": "Doug Faulkner, Bill Schmoker",
+  "comments": "",
+  "citations": "Semo, L.  The 41st Report of the CBRC. Colorado Birds 40(1), 26-44.",
+  "documentations": [
+    {
+      "doc_id": "68",
+      "reporter": "Doug Faulkner",
+      "date": "11/13/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=68"
+    },
+    {
+      "doc_id": "2651",
+      "reporter": "Bill Schmoker",
+      "date": "11/14/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2651"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:30.407763"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-012",
+  "year": "1997",
+  "location": "North Sterling State Park",
+  "county": "Logan",
+  "observers": "Stephen Dinsmore",
+  "comments": "",
+  "citations": "Janos, M.  1997 Report of the CBRC.  J. of the CFO 33(4), 241-252.",
+  "documentations": [
+    {
+      "doc_id": "15966",
+      "reporter": "Stephen Dinsmore",
+      "date": "11/16/1997",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15966"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:01.843828"
+}

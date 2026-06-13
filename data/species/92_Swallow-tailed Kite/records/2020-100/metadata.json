@@ -1,0 +1,19 @@
+{
+  "acc_no": "2020-100",
+  "year": "2020",
+  "location": "Willow Creek Park",
+  "county": "Prowers",
+  "observers": "Jeffrey Wang",
+  "comments": "",
+  "citations": "Gent, P.  85th Report of the CBRC. Colorado Birds 58(1), 7-14.",
+  "documentations": [
+    {
+      "doc_id": "13339",
+      "reporter": "Jeffrey Wang",
+      "date": "8/1/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13339"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:43.797335"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-152",
+  "year": "2014",
+  "location": "Neesopah Reservoir",
+  "county": "Kiowa",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "5148",
+      "reporter": "Steven Mlodinow",
+      "date": "9/24/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5148"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:42.405971"
+}

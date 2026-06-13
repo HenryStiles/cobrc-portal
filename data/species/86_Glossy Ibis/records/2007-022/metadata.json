@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-022",
+  "year": "2007",
+  "location": "Chico Basin Ranch",
+  "county": "Pueblo",
+  "observers": "Bill Maynard",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "696",
+      "reporter": "Bill Maynard",
+      "date": "4/12/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=696"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:55.377069"
+}

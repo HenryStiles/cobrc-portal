@@ -1,0 +1,19 @@
+{
+  "acc_no": "5-87-5",
+  "year": "1986",
+  "location": "Two Buttes State Wildlife Area",
+  "county": "Baca",
+  "observers": "Beth Dillion",
+  "comments": "",
+  "citations": "Bunn, R.  1987 Report of the CBRC pt.1. CFO Journal 23(1), 13-18.",
+  "documentations": [
+    {
+      "doc_id": "14673",
+      "reporter": "Beth Dillon",
+      "date": "5/31/1986",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14673"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:46.612143"
+}

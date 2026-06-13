@@ -1,0 +1,26 @@
+{
+  "acc_no": "2006-045",
+  "year": "2006",
+  "location": "Maybell",
+  "county": "Moffat",
+  "observers": "Doug Faulkner, Larry Semo",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "428",
+      "reporter": "Doug Faulkner",
+      "date": "5/10/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=428"
+    },
+    {
+      "doc_id": "911",
+      "reporter": "Larry Semo",
+      "date": "5/10/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=911"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:52.057538"
+}

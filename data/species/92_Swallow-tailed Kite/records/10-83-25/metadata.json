@@ -1,0 +1,19 @@
+{
+  "acc_no": "10-83-25",
+  "year": "1983",
+  "location": "Denver",
+  "county": "Arapahoe & Jefferson",
+  "observers": "Ken Gammon, Patti Echelmeyer, Ann Bonnell, Bobby Frazer, Pat Beran, B Livingstone",
+  "comments": "",
+  "citations": "The CFO Records Committee report for 1983, Peter R. Gent. C.F.O. Journal 19:28-33.",
+  "documentations": [
+    {
+      "doc_id": "13174",
+      "reporter": "Ken Gammon, Patti Echelmeyer, Ann Bonnell, Bobby Frazier, Pat Beran, Barbara Livingstone",
+      "date": "4/7/1983",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13174"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:37.129856"
+}

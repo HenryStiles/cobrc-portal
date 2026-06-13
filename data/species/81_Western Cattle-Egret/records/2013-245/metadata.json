@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-245",
+  "year": "2013",
+  "location": "Pagosa Springs",
+  "county": "Archuleta",
+  "observers": "Ben Bailey",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2621",
+      "reporter": "Ben Bailey",
+      "date": "11/1/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2621"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:11.939096"
+}

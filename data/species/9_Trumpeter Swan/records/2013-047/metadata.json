@@ -1,0 +1,26 @@
+{
+  "acc_no": "2013-047",
+  "year": "2002",
+  "location": "McKay Lake",
+  "county": "Adams",
+  "observers": "Bill Schmoker, Norm Lewis",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "5138",
+      "reporter": "Schmoker, Bill",
+      "date": "1/13/2002",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5138"
+    },
+    {
+      "doc_id": "2307",
+      "reporter": "Norm Lewis",
+      "date": "1/19/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2307"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:24.600884"
+}

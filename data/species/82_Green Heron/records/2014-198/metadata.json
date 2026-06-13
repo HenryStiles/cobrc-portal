@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-198",
+  "year": "2014",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Ruth Guillemette",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "4025",
+      "reporter": "Ruth Guillemette",
+      "date": "6/8/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4025"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:11.867242"
+}

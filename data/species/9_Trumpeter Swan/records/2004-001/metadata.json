@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-001",
+  "year": "2003",
+  "location": "Left Hand Valley Reservoir area",
+  "county": "Boulder",
+  "observers": "Bill Schmoker",
+  "comments": "",
+  "citations": "Semo, L.  The 41st Report of the CBRC. Colorado Birds 40(1), 26-44.",
+  "documentations": [
+    {
+      "doc_id": "15979",
+      "reporter": "Bill Schmoker",
+      "date": "12/11/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15979"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:28.615718"
+}

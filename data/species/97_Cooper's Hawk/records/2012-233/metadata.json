@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-233",
+  "year": "2012",
+  "location": "my house -- 1330 South Garfield St.",
+  "county": "Denver",
+  "observers": "Mark Rudnick",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2167",
+      "reporter": "Mark Rudnick",
+      "date": "11/9/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2167"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:48.162563"
+}

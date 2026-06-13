@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-033",
+  "year": "2002",
+  "location": "Two Buttes State Wildlife Area",
+  "county": "Baca",
+  "observers": "Dave Leatherman",
+  "comments": "sketches",
+  "citations": "Leukering, T. and Semo, L.  The 38th Report of the CBRC. Colorado Birds 38(4), 168-183.",
+  "documentations": [
+    {
+      "doc_id": "15974",
+      "reporter": "Dave Leatherman",
+      "date": "3/22/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15974"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:25.599706"
+}

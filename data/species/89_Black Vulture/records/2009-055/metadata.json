@@ -1,0 +1,40 @@
+{
+  "acc_no": "2009-055",
+  "year": "2009",
+  "location": "Castlewood Canyon State Park",
+  "county": "Douglas",
+  "observers": "Ric Olson, Bill Maynard, Peter Gent, Nathan Pieplow, Bill Maynard",
+  "comments": "Age: adult;",
+  "citations": "Semo, L. and Faulkner, D.  The 53rd Report of the CBRC. Colorado Birds 44(1), 31-42.",
+  "documentations": [
+    {
+      "doc_id": "1264",
+      "reporter": "Ric Olson",
+      "date": "7/5/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1264"
+    },
+    {
+      "doc_id": "1260",
+      "reporter": "Bill Maynard",
+      "date": "7/7/2009",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1260"
+    },
+    {
+      "doc_id": "1262",
+      "reporter": "Peter Gent",
+      "date": "7/8/2009",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1262"
+    },
+    {
+      "doc_id": "1263",
+      "reporter": "Nathan Pieplow",
+      "date": "7/12/2009",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1263"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:18.396982"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-059",
+  "year": "2008",
+  "location": "Salida",
+  "county": "Chaffee",
+  "observers": "Nathan Pieplow",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "Semo, L. and Faulkner, D.  The 54th Report of the CBRC. Colorado Birds 44(2), 89-105.",
+  "documentations": [
+    {
+      "doc_id": "978",
+      "reporter": "Nathan Pieplow",
+      "date": "5/14/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=978"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:00.035921"
+}

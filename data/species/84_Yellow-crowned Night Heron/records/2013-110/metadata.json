@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-110",
+  "year": "1979",
+  "location": "Chatfield State Park",
+  "county": "Jefferson",
+  "observers": "Hugh Kingery",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2418",
+      "reporter": "Hugh Kingery",
+      "date": "5/19/1979",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2418"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:42.215307"
+}

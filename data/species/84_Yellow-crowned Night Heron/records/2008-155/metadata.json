@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-155",
+  "year": "2005",
+  "location": "Banner Lakes State Wildlife Area",
+  "county": "Weld",
+  "observers": "Steve Larson",
+  "comments": "",
+  "citations": "Faulkner, Doug. October 2013. The 68th Report of the Colorado Bird Records Committee: Colorado Birds 47(4):252-263",
+  "documentations": [
+    {
+      "doc_id": "1018",
+      "reporter": "Steve Larson",
+      "date": "7/18/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1018"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:58.791146"
+}

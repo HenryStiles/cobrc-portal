@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-123",
+  "year": "2005",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Andrew Spencer",
+  "comments": "Age: adults;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "234",
+      "reporter": "Andrew Spencer",
+      "date": "11/16/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=234"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:33.143175"
+}

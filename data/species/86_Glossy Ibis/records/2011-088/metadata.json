@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-088",
+  "year": "2011",
+  "location": "Hwy 263 east of Greeley",
+  "county": "Weld",
+  "observers": "Steve Mlodinow",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "Faulkner, D. The 62nd Report of the CBRC. Colorado Birds 46(2), 106-120.",
+  "documentations": [
+    {
+      "doc_id": "1707",
+      "reporter": "Steven Mlodinow",
+      "date": "6/11/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1707"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:34.953308"
+}

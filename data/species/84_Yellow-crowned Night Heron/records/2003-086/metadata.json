@@ -1,0 +1,26 @@
+{
+  "acc_no": "2003-086",
+  "year": "2003",
+  "location": "Belmar Historic Park",
+  "county": "Jefferson",
+  "observers": "Karleen Schofield, Doug Faulkner, Bill Schmoker, Roger Linfield, Nathan Pieplow",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  The 39th Report of the CBRC. Colorado Birds 39(3), 131-141.",
+  "documentations": [
+    {
+      "doc_id": "14682",
+      "reporter": "Karleen Schofield, Doug Faulkner, Bill Schmoker, Nathan Pieplow",
+      "date": "9/19/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14682"
+    },
+    {
+      "doc_id": "53",
+      "reporter": "Roger Linfield",
+      "date": "9/23/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=53"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:57.002490"
+}

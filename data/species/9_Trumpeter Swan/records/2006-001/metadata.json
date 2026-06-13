@@ -1,0 +1,26 @@
+{
+  "acc_no": "2006-001",
+  "year": "2006",
+  "location": "Southwest Loveland lakes",
+  "county": "Larimer",
+  "observers": "Tony Leukering, Doug Faulkner",
+  "comments": "Age: adults;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "617",
+      "reporter": "Tony Leukering",
+      "date": "1/1/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=617"
+    },
+    {
+      "doc_id": "312",
+      "reporter": "Doug Faulkner",
+      "date": "1/21/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=312"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:35.398285"
+}

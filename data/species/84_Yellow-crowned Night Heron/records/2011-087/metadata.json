@@ -1,0 +1,47 @@
+{
+  "acc_no": "2011-087",
+  "year": "2011",
+  "location": "Greeley (except north end)",
+  "county": "Weld",
+  "observers": "Bill Kaempfer, Steve Mlodinow, Doug Faulkner, Sean Walters, Rudi Nuissl",
+  "comments": "Age: adult;",
+  "citations": "Faulkner, D. The 62nd Report of the CBRC. Colorado Birds 46(2), 106-120.",
+  "documentations": [
+    {
+      "doc_id": "1710",
+      "reporter": "Bill Kaempfer",
+      "date": "6/10/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1710"
+    },
+    {
+      "doc_id": "1720",
+      "reporter": "Steven Mlodinow",
+      "date": "6/11/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1720"
+    },
+    {
+      "doc_id": "1712",
+      "reporter": "Doug Faulkner",
+      "date": "6/12/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1712"
+    },
+    {
+      "doc_id": "2027",
+      "reporter": "Sean Walters",
+      "date": "6/18/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2027"
+    },
+    {
+      "doc_id": "4037",
+      "reporter": "Rudi Nuissl",
+      "date": "6/29/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4037"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:27.740009"
+}

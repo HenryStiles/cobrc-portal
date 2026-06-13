@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-016",
+  "year": "1999",
+  "location": "Hwy 392 0.5 ml W of I-25",
+  "county": "Larimer",
+  "observers": "Nick Komar, Joe Fontaine",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "16460",
+      "reporter": "Nick Komar, Joe Fontaine",
+      "date": "5/12/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16460"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:26.562692"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-192",
+  "year": "2010",
+  "location": "Twin Lakes",
+  "county": "Lake",
+  "observers": "Todd Deininger",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1520",
+      "reporter": "Todd Deininger",
+      "date": "11/21/2010",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1520"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:14.737669"
+}

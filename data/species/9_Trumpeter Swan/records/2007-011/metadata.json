@@ -1,0 +1,33 @@
+{
+  "acc_no": "2007-011",
+  "year": "2007",
+  "location": "Pueblo",
+  "county": "Pueblo",
+  "observers": "Brandon K Percival, Bill Maynard,",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "663",
+      "reporter": "Bill Maynard",
+      "date": "3/5/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=663"
+    },
+    {
+      "doc_id": "664",
+      "reporter": "Brandon K Percival",
+      "date": "3/5/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=664"
+    },
+    {
+      "doc_id": "754",
+      "reporter": "Brandon K Percival",
+      "date": "3/11/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=754"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:40.190024"
+}

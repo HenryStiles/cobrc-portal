@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-018",
+  "year": "2007",
+  "location": "Elliott State Wildlife Area",
+  "county": "Morgan",
+  "observers": "Cole Wild",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "700",
+      "reporter": "C W",
+      "date": "4/6/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=700"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:12.176663"
+}

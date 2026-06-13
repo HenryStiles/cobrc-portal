@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-011",
+  "year": "1998",
+  "location": "Bayfield",
+  "county": "La Plata & Alamosa",
+  "observers": "Loretta Annala, Joey Kellner, John and Lisa Rawinski",
+  "comments": "The same individual is believed to have been near Bayfield, La Plata, from 4/15/98-5/1/98 and at Blanca Wetlands, Alamosa, on 5/5/98.",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "13122",
+      "reporter": "Loretta Annala, Joey Kellner, John and Lisa Rawinski",
+      "date": "4/15/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13122"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:38.973052"
+}

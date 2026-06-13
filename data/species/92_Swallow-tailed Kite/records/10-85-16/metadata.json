@@ -1,0 +1,19 @@
+{
+  "acc_no": "10-85-16",
+  "year": "1984",
+  "location": "South Republican SWA",
+  "county": "Yuma",
+  "observers": "Vic Zerbi",
+  "comments": "",
+  "citations": "Gent, P.  1985 Report of the CBRC. CFO Journal 20(3-4), 44-50.",
+  "documentations": [
+    {
+      "doc_id": "13175",
+      "reporter": "Vic Zerbi",
+      "date": "5/13/1984",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13175"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:38.399690"
+}

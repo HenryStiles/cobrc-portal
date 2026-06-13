@@ -1,0 +1,19 @@
+{
+  "acc_no": "2023-040",
+  "year": "2023",
+  "location": "Ramah",
+  "county": "El Paso",
+  "observers": "Karen Rau",
+  "comments": "",
+  "citations": "Gent, P.  The 86th Report of the CBRC.  Colorado Birds 58(3), 125-132.",
+  "documentations": [
+    {
+      "doc_id": "13383",
+      "reporter": "Karen Rau",
+      "date": "8/10/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13383"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:07.057526"
+}

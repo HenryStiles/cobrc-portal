@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-008",
+  "year": "1998",
+  "location": "Valco Ponds",
+  "county": "Pueblo",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "14678",
+      "reporter": "Mark Janos",
+      "date": "3/28/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14678"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:51.808186"
+}

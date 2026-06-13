@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-92-114",
+  "year": "1992",
+  "location": "Bond",
+  "county": "Eagle",
+  "observers": "Bob Thompson",
+  "comments": "",
+  "citations": "Prather, B.  1992 Report of the CBRC. CFO Jornal 28(4), 157-168.",
+  "documentations": [
+    {
+      "doc_id": "15958",
+      "reporter": "Bob Thompson",
+      "date": "11/30/1992",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15958"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:26.373711"
+}

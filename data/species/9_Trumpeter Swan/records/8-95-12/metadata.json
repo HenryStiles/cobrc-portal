@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-95-12",
+  "year": "1995",
+  "location": "Valmont Reservoir complex",
+  "county": "Boulder",
+  "observers": "Dick Schottler",
+  "comments": "",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "15964",
+      "reporter": "Dick Schottler",
+      "date": "1/7/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15964"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:59.278187"
+}

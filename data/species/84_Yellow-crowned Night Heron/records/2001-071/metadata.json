@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-071",
+  "year": "2001",
+  "location": "Lower Latham Reservoir",
+  "county": "Weld",
+  "observers": "Tony Leukering, Chris Wood",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  2001 pt.2 of the CBRC. Colorado Birds 38(1), 14-21.",
+  "documentations": [
+    {
+      "doc_id": "14681",
+      "reporter": "Tony Leukering, Chris Wood",
+      "date": "8/10/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14681"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:54.958814"
+}

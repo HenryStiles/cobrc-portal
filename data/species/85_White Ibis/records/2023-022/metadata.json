@@ -1,0 +1,19 @@
+{
+  "acc_no": "2023-022",
+  "year": "2023",
+  "location": "Brighton",
+  "county": "Adams",
+  "observers": "Rich Reading",
+  "comments": "",
+  "citations": "Gent, P.  85th Report of the CBRC. Colorado Birds 58(1), 7-14.",
+  "documentations": [
+    {
+      "doc_id": "13304",
+      "reporter": "Rich Reading",
+      "date": "5/24/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13304"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:13.031145"
+}

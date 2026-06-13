@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-149",
+  "year": "2014",
+  "location": "Horseshoe Lake",
+  "county": "Larimer",
+  "observers": "Michael Britten",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "5143",
+      "reporter": "Michael Britten",
+      "date": "9/11/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5143"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:54.933985"
+}

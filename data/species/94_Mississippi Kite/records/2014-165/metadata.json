@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-165",
+  "year": "2012",
+  "location": "Greeley",
+  "county": "Weld",
+  "observers": "Sean Walters",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "5168",
+      "reporter": "Sean Walters",
+      "date": "7/21/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5168"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:57.508461"
+}

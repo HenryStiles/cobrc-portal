@@ -1,0 +1,54 @@
+{
+  "acc_no": "2017-044",
+  "year": "2017",
+  "location": "Clear Creek Valley Park",
+  "county": "Adams",
+  "observers": "Zachary  Schiff, Mark Minner-Lee, Peter R. Gent, George Mayfield, Christine Alexander, Doug Faulkner",
+  "comments": "",
+  "citations": "Colorado Birds 56(3), 213-222, 2022",
+  "documentations": [
+    {
+      "doc_id": "8577",
+      "reporter": "Zachary  Schiff",
+      "date": "6/18/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8577"
+    },
+    {
+      "doc_id": "8578",
+      "reporter": "Mark Minner-Lee",
+      "date": "6/20/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8578"
+    },
+    {
+      "doc_id": "8580",
+      "reporter": "Peter R. Gent",
+      "date": "6/20/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8580"
+    },
+    {
+      "doc_id": "8579",
+      "reporter": "George Mayfield",
+      "date": "6/20/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8579"
+    },
+    {
+      "doc_id": "8581",
+      "reporter": "Christine Alexander",
+      "date": "6/20/2017",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8581"
+    },
+    {
+      "doc_id": "8582",
+      "reporter": "Doug Faulkner",
+      "date": "6/24/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8582"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:55.774686"
+}

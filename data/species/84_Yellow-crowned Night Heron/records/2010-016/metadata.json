@@ -1,0 +1,33 @@
+{
+  "acc_no": "2010-016",
+  "year": "2010",
+  "location": "Fountain Creek Regional Park",
+  "county": "El Paso",
+  "observers": "Bill Maynard, Brandon Percival, Cole Wild, Kara Lewantowicz",
+  "comments": "Age: adult;",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1399",
+      "reporter": "Bill Maynard",
+      "date": "4/16/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1399"
+    },
+    {
+      "doc_id": "1400",
+      "reporter": "Brandon K Percival",
+      "date": "4/16/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1400"
+    },
+    {
+      "doc_id": "1556",
+      "reporter": "C W",
+      "date": "4/19/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1556"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:23.811988"
+}

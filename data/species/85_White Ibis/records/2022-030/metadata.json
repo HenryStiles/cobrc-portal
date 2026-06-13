@@ -1,0 +1,33 @@
+{
+  "acc_no": "2022-030",
+  "year": "2022",
+  "location": "Golden Ponds Park and Nature Area",
+  "county": "Boulder",
+  "observers": "Sarah Spotten, Peter  Gent, Jeff Percell",
+  "comments": "",
+  "citations": "Gent, P.  The 84th Report of the CBRC. Colorado Birds 54(4), 194-203.",
+  "documentations": [
+    {
+      "doc_id": "12067",
+      "reporter": "Sarah Spotten",
+      "date": "5/30/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12067"
+    },
+    {
+      "doc_id": "12068",
+      "reporter": "Peter  Gent",
+      "date": "5/30/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12068"
+    },
+    {
+      "doc_id": "12070",
+      "reporter": "Jeff Percell",
+      "date": "5/30/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12070"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:06.214967"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-120",
+  "year": "2002",
+  "location": "Valmont Reservoir complex",
+  "county": "Boulder",
+  "observers": "Chris Wood, Bill Schmoker",
+  "comments": "same bird as at Valmont Res. later",
+  "citations": "Leukering, T. and Semo, L.  The 37th Report of the CBRC. Colorado Birds 38(2), 73-88.",
+  "documentations": [
+    {
+      "doc_id": "15976",
+      "reporter": "Chris Wood, Bill Schmoker",
+      "date": "12/18/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15976"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:26.608187"
+}

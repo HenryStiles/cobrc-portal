@@ -1,0 +1,19 @@
+{
+  "acc_no": "2000-018",
+  "year": "2000",
+  "location": "Near Squaw Creek wastewater plant",
+  "county": "Eagle",
+  "observers": "Jack Merchant",
+  "comments": "",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "2689",
+      "reporter": "Jack Merchant",
+      "date": "4/25/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2689"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:32.228898"
+}

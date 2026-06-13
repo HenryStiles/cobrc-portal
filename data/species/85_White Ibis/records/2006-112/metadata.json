@@ -1,0 +1,26 @@
+{
+  "acc_no": "2006-112",
+  "year": "2006",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Brandon Percival, Andrew Spencer",
+  "comments": "Age: adult;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "484",
+      "reporter": "Brandon K Percival",
+      "date": "7/22/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=484"
+    },
+    {
+      "doc_id": "481",
+      "reporter": "Andrew Spencer",
+      "date": "7/23/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=481"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:51.015972"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-084",
+  "year": "2009",
+  "location": "Jumbo Reservoir State Wildlife Area",
+  "county": "Logan",
+  "observers": "Eric Defonso",
+  "comments": "Age: juv.; Plumage: juvenal;",
+  "citations": "Semo, L.  The 55th Report of the CBRC. Colorado Birds 44(3), 180-185.",
+  "documentations": [
+    {
+      "doc_id": "1323",
+      "reporter": "Eric Defonso",
+      "date": "9/2/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1323"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:22.247851"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-302",
+  "year": "2013",
+  "location": "La Veta Town Lakes",
+  "county": "Huerfano",
+  "observers": "Polly Neldner",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2436",
+      "reporter": "Polly Neldner",
+      "date": "4/21/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2436"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:09.890243"
+}

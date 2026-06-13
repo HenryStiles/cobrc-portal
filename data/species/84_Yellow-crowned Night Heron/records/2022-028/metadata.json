@@ -1,0 +1,19 @@
+{
+  "acc_no": "2022-028",
+  "year": "2022",
+  "location": "Valco Ponds",
+  "county": "Pueblo",
+  "observers": "Brandon K. Percival",
+  "comments": "",
+  "citations": "Gent, P.  The 84th Report of the CBRC. Colorado Birds 54(4), 194-203.",
+  "documentations": [
+    {
+      "doc_id": "13084",
+      "reporter": "Brandon K. Percival",
+      "date": "10/1/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13084"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:04.850276"
+}

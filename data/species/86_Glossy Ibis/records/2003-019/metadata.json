@@ -1,0 +1,19 @@
+{
+  "acc_no": "2003-019",
+  "year": "2002",
+  "location": "Hwy 52 & County Line Rd.",
+  "county": "Boulder",
+  "observers": "Nathan Pieplow",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16474",
+      "reporter": "Nathan Pieplow",
+      "date": "5/13/2002",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16474"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:40.685018"
+}

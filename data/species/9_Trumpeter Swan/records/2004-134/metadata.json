@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-134",
+  "year": "2004",
+  "location": "Coors Ponds",
+  "county": "Jefferson",
+  "observers": "Doug Faulkner",
+  "comments": "Age: adult;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "69",
+      "reporter": "Doug Faulkner",
+      "date": "11/29/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=69"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:31.932391"
+}

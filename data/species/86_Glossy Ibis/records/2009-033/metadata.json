@@ -1,0 +1,26 @@
+{
+  "acc_no": "2009-033",
+  "year": "2009",
+  "location": "Beebe Draw",
+  "county": "Weld",
+  "observers": "Larry Semo, Mark Lockwood",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "Semo, L. and Faulkner, D. The 56th Report of the CBRC. Colorado Birds 44(4), 240-254.",
+  "documentations": [
+    {
+      "doc_id": "1230",
+      "reporter": "Mark Lockwood",
+      "date": "5/12/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1230"
+    },
+    {
+      "doc_id": "1447",
+      "reporter": "Larry Semo",
+      "date": "5/12/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1447"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:01.672350"
+}

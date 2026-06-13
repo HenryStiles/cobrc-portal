@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-118",
+  "year": "2010",
+  "location": "Wild Horse",
+  "county": "Cheyenne",
+  "observers": "Gregg Goodrich",
+  "comments": "Age: adult;",
+  "citations": "Faulkner, D. and Semo, L. The 58th Report of the CBRC. Colorado Birds 45(2), 92-101.",
+  "documentations": [
+    {
+      "doc_id": "1523",
+      "reporter": "Gregg Goodrich",
+      "date": "7/31/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1523"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:20.684020"
+}

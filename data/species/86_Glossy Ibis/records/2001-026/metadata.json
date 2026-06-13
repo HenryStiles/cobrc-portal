@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-026",
+  "year": "2001",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Rachel Hopper, Tony Leukering, Marshall Iliff",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  2001 pt.1 Report of the CBRC. Colorado Birds 37(3), 138-155.",
+  "documentations": [
+    {
+      "doc_id": "16466",
+      "reporter": "Rachel Hopper, Tony Leukering, Marshall Iliff",
+      "date": "4/24/2001",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16466"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:35.283423"
+}

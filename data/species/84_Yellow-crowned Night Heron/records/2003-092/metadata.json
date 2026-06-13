@@ -1,0 +1,19 @@
+{
+  "acc_no": "2003-092",
+  "year": "2003",
+  "location": "Valco Ponds",
+  "county": "Pueblo",
+  "observers": "Rich Miller",
+  "comments": "",
+  "citations": "Semo, L.  The 42nd Report of the CBRC. Colorado Birds 40(3), 133-156.",
+  "documentations": [
+    {
+      "doc_id": "14683",
+      "reporter": "Rich Miller",
+      "date": "9/18/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14683"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:56.032817"
+}

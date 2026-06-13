@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-078",
+  "year": "2007",
+  "location": "Pastorius State Wildlife Area",
+  "county": "La Plata",
+  "observers": "Jim Beatty",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "Semo, L.  The 50th Report of the CBRC. Colorado Birds 43(2), 123-135.",
+  "documentations": [
+    {
+      "doc_id": "834",
+      "reporter": "James Beatty",
+      "date": "4/27/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=834"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:56.332436"
+}

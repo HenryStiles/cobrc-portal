@@ -1,0 +1,19 @@
+{
+  "acc_no": "5-96-6",
+  "year": "1996",
+  "location": "South Republican SWA",
+  "county": "Yuma",
+  "observers": "Bob Righter",
+  "comments": "",
+  "citations": "Janos, M.  1996 Report of the CBRC.  J. of the CFO 32(3), 173-187.",
+  "documentations": [
+    {
+      "doc_id": "14677",
+      "reporter": "Bob Righter",
+      "date": "5/19/1996",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14677"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:50.845817"
+}

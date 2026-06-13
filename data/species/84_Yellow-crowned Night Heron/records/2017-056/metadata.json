@@ -1,0 +1,19 @@
+{
+  "acc_no": "2017-056",
+  "year": "2017",
+  "location": "Stalker Lake",
+  "county": "Yuma",
+  "observers": "Kathy Mihm Dunning",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "8601",
+      "reporter": "Kathy Mihm Dunning",
+      "date": "9/15/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8601"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:48.600427"
+}

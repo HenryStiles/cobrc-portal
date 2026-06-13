@@ -1,0 +1,26 @@
+{
+  "acc_no": "2010-073",
+  "year": "2010",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Rachel Hopper, Cole Wild, Dave Elens",
+  "comments": "Age: adult;",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1463",
+      "reporter": "Rachel Hopper",
+      "date": "4/21/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1463"
+    },
+    {
+      "doc_id": "1557",
+      "reporter": "C W",
+      "date": "4/21/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1557"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:26.024603"
+}

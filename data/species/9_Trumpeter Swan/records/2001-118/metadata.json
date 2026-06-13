@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-118",
+  "year": "2001",
+  "location": "Lake Avery and Oak Ridge State Wildlife Area",
+  "county": "Rio Blanco",
+  "observers": "Dona Hilkey, Kim Potter",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  2001 pt.1 Report of the CBRC. Colorado Birds 37(3), 138-155.",
+  "documentations": [
+    {
+      "doc_id": "15971",
+      "reporter": "Dona Hilkey, Kim Potter",
+      "date": "11/3/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15971"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:23.471530"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2003-101",
+  "year": "2003",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "Semo, L.  The 42nd Report of the CBRC. Colorado Birds 40(3), 133-156.",
+  "documentations": [
+    {
+      "doc_id": "328",
+      "reporter": "Tony Leukering",
+      "date": "12/20/2003",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=328"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:10.261679"
+}

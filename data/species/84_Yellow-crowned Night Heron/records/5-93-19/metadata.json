@@ -1,0 +1,19 @@
+{
+  "acc_no": "5-93-19",
+  "year": "1982",
+  "location": "Tamarack Ranch State Wildlife Area",
+  "county": "Logan",
+  "observers": "Bill Prather",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "14676",
+      "reporter": "Bill Prather",
+      "date": "5/16/1982",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14676"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:44.494540"
+}

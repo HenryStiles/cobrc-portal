@@ -1,0 +1,26 @@
+{
+  "acc_no": "2005-045",
+  "year": "2005",
+  "location": "Box Springs",
+  "county": "Crowley",
+  "observers": "Doug Faulkner, Larry Semo",
+  "comments": "",
+  "citations": "Semo, L.  The 44th Report of the CBRC. Colorado Birds 41(4), 241-258.",
+  "documentations": [
+    {
+      "doc_id": "159",
+      "reporter": "Doug Faulkner",
+      "date": "5/13/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=159"
+    },
+    {
+      "doc_id": "177",
+      "reporter": "Larry Semo",
+      "date": "5/13/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=177"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:49.104338"
+}

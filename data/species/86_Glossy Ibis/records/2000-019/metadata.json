@@ -1,0 +1,19 @@
+{
+  "acc_no": "2000-019",
+  "year": "2000",
+  "location": "Greeley",
+  "county": "Weld",
+  "observers": "Karleen Schofield",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16463",
+      "reporter": "Karleen Schofield",
+      "date": "5/22/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16463"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:33.328269"
+}

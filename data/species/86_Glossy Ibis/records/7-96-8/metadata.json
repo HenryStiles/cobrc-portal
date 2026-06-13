@@ -1,0 +1,19 @@
+{
+  "acc_no": "7-96-8",
+  "year": "1996",
+  "location": "Buckley Rd & 124th Ave.",
+  "county": "Adams",
+  "observers": "Joe TenBrink",
+  "comments": "",
+  "citations": "Janos, M.  1996 Report of the CBRC.  J. of the CFO 32(3), 173-187.",
+  "documentations": [
+    {
+      "doc_id": "16448",
+      "reporter": "Joe TenBrink",
+      "date": "5/3/1996",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16448"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:14.379587"
+}
