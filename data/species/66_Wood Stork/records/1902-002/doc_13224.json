@@ -1,0 +1,38 @@
+{
+  "doc_id": "13224",
+  "scraped_at": "2026-06-13T14:33:54.071864",
+  "species": "Wood Stork",
+  "acc_no": "1902-002",
+  "reporter_name": "A. Felger",
+  "address": "",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "reporter_email": "",
+  "other_observers": "",
+  "species_name": "Wood Stork",
+  "first_date": "8/30/1902 8:00:00 AM",
+  "last_date": "8/30/1902 8:05:00 AM",
+  "duration": "",
+  "county": "Arapahoe",
+  "specific_location": "Littleton",
+  "number_of_birds": "1",
+  "age": "Unknown",
+  "sex": "Unknown",
+  "plumage": "Other/Unknown",
+  "description": "",
+  "photographer": "Photographer: A. Felger, A. Felger, A. Bailey, A. Bailey",
+  "photos_text": "PDF",
+  "uploads_text": "13224_wost-12379.pdf\n13224_wost-7417.pdf",
+  "date_submitted": "3/27/2023 2:50:00 PM",
+  "attachments": [
+    {
+      "filename": "13224_wost-12379.pdf",
+      "url": "/RecordUploads/13224/13224_wost-12379.pdf"
+    },
+    {
+      "filename": "13224_wost-7417.pdf",
+      "url": "/RecordUploads/13224/13224_wost-7417.pdf"
+    }
+  ]
+}

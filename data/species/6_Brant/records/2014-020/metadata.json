@@ -1,0 +1,26 @@
+{
+  "acc_no": "2014-020",
+  "year": "2013",
+  "location": "Equalizer Lake and Houts Reservoir, Loveland",
+  "county": "Larimer",
+  "observers": "Scott Baron, Steven Mlodinow",
+  "comments": "Submitted as Atlantic Brant; CBRC accepts as Brant with further evaluation as Gray-bellied Brant pending.",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2794",
+      "reporter": "Scott Baron",
+      "date": "10/25/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2794"
+    },
+    {
+      "doc_id": "2753",
+      "reporter": "Steven Mlodinow",
+      "date": "11/2/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2753"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:55.913923"
+}

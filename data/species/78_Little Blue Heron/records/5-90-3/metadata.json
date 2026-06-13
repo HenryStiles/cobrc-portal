@@ -1,0 +1,19 @@
+{
+  "acc_no": "5-90-3",
+  "year": "1990",
+  "location": "Neenoshe Reservoir",
+  "county": "Kiowa",
+  "observers": "Mike Carter, Duane Nelson",
+  "comments": "",
+  "citations": "Nelson, D.  1990 Report of the CBRC. CFO Journal 26(3), 91-97.",
+  "documentations": [
+    {
+      "doc_id": "14298",
+      "reporter": "Mike Carter, Duane Nelson",
+      "date": "6/5/1990",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14298"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:43.631709"
+}

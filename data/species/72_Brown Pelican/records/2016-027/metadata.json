@@ -1,0 +1,26 @@
+{
+  "acc_no": "2016-027",
+  "year": "2016",
+  "location": "John Martin Reservoir State Park",
+  "county": "Bent",
+  "observers": "Brandon K. Percival, Kathy Mihm Dunning",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6416",
+      "reporter": "Brandon K. Percival",
+      "date": "4/23/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6416"
+    },
+    {
+      "doc_id": "6432",
+      "reporter": "Kathy Mihm Dunning",
+      "date": "4/24/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6432"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:21.253621"
+}

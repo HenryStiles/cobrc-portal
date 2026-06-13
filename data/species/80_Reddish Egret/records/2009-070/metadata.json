@@ -1,0 +1,33 @@
+{
+  "acc_no": "2009-070",
+  "year": "2009",
+  "location": "Westcliffe and Silver Cliff",
+  "county": "Custer",
+  "observers": "Bill Maynard, Brandon Percival, Lisa Edwards",
+  "comments": "Age: 2nd-cycle; Plumage: immature;",
+  "citations": "Semo, L. and Faulkner, D.  The 54th Report of the CBRC. Colorado Birds 44(2), 89-105.",
+  "documentations": [
+    {
+      "doc_id": "1265",
+      "reporter": "Bill Maynard",
+      "date": "7/17/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1265"
+    },
+    {
+      "doc_id": "1266",
+      "reporter": "Brandon K Percival",
+      "date": "7/17/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1266"
+    },
+    {
+      "doc_id": "1280",
+      "reporter": "Lisa Edwards",
+      "date": "7/18/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1280"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:24.413832"
+}

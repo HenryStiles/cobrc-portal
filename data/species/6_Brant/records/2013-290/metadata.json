@@ -1,0 +1,61 @@
+{
+  "acc_no": "2013-290",
+  "year": "2013",
+  "location": "Chatfield State Park (Douglas Portion)",
+  "county": "Douglas",
+  "observers": "Kris Petersen, Christopher Warneke, Judith Henderson, Edward Donnan, Tim Ryan, Bill Maynard, Charlie Nims",
+  "comments": "Submitted as Atlantic Brant; CBRC accepts as Brant with further evaluation as Gray-bellied Brant pending.",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "4049",
+      "reporter": "Kris Petersen",
+      "date": "12/16/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4049"
+    },
+    {
+      "doc_id": "2776",
+      "reporter": "Christopher Warneke",
+      "date": "12/17/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2776"
+    },
+    {
+      "doc_id": "4104",
+      "reporter": "Judith Henderson",
+      "date": "12/20/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4104"
+    },
+    {
+      "doc_id": "5107",
+      "reporter": "Edward Donnan",
+      "date": "12/22/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5107"
+    },
+    {
+      "doc_id": "4052",
+      "reporter": "Tim Ryan",
+      "date": "2/16/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4052"
+    },
+    {
+      "doc_id": "2839",
+      "reporter": "Bill Maynard",
+      "date": "2/17/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2839"
+    },
+    {
+      "doc_id": "2837",
+      "reporter": "Charlie Nims",
+      "date": "2/19/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2837"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:59.498004"
+}

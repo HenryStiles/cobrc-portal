@@ -1,0 +1,19 @@
+{
+  "acc_no": "5-80-39",
+  "year": "1979",
+  "location": "Walden Ponds/Sawhill Ponds Complex",
+  "county": "Boulder",
+  "observers": "Horst Droeger",
+  "comments": "Nest found on 7/13: 4 birds fledged on 7/26.",
+  "citations": "Chase, C.  1977-1980 Pt.2 Report of the CBRC. CFO Journal 15(2), 54-59.",
+  "documentations": [
+    {
+      "doc_id": "13806",
+      "reporter": "Horst Droeger",
+      "date": "7/13/1979",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13806"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:27.188226"
+}

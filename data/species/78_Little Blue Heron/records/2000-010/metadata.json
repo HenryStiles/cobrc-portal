@@ -1,0 +1,19 @@
+{
+  "acc_no": "2000-010",
+  "year": "2000",
+  "location": "Near Evans",
+  "county": "Weld",
+  "observers": "Joe Himmel",
+  "comments": "",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "2680",
+      "reporter": "Joe Himmel",
+      "date": "5/19/2000",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2680"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:32.635497"
+}

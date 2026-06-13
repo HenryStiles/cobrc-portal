@@ -1,0 +1,19 @@
+{
+  "acc_no": "5-74-53",
+  "year": "1974",
+  "location": "Monte Vista National Wildlife Refuge",
+  "county": "Rio Grande",
+  "observers": "James Wheeling",
+  "comments": "",
+  "citations": "Reddall, J.  1975a Report of the CBRC. CFO Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "14282",
+      "reporter": "James Wheeling",
+      "date": "5/26/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14282"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:29.348818"
+}

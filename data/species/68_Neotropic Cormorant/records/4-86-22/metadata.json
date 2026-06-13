@@ -1,0 +1,19 @@
+{
+  "acc_no": "4-86-22",
+  "year": "1985",
+  "location": "Jumbo Reservoir State Wildlife Area",
+  "county": "Sedgwick",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Bunn, R.  1986 Report of the CBRC. CFO Journal 22(3), 85-90.",
+  "documentations": [
+    {
+      "doc_id": "14047",
+      "reporter": "Mark Janos",
+      "date": "9/6/1985",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14047"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:19.543674"
+}

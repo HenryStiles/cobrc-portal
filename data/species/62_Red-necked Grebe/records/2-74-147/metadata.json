@@ -1,0 +1,19 @@
+{
+  "acc_no": "2-74-147",
+  "year": "1974",
+  "location": "Prince Lakes, Erie and Thomas Reservoirs",
+  "county": "Boulder",
+  "observers": "Steve Larson",
+  "comments": "",
+  "citations": "Reddall, J. 1975. Reports from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "13641",
+      "reporter": "Steve Larson",
+      "date": "10/29/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13641"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:03.377578"
+}

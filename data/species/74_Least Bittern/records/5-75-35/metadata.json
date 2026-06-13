@@ -1,0 +1,19 @@
+{
+  "acc_no": "5-75-35",
+  "year": "1973",
+  "location": "Walden Ponds/Sawhill Ponds Complex",
+  "county": "Boulder",
+  "observers": "Peter Moulton",
+  "comments": "",
+  "citations": "Reddall, J. 1976. CFO Official Records Committee 1975 Report. C.F.O. Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "13805",
+      "reporter": "Peter Moulton",
+      "date": "6/3/1973",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13805"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:23.806658"
+}

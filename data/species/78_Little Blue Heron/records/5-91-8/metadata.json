@@ -1,0 +1,19 @@
+{
+  "acc_no": "5-91-8",
+  "year": "1991",
+  "location": "Bear Creek Lake Park",
+  "county": "Jefferson",
+  "observers": "Margaret Elliott",
+  "comments": "",
+  "citations": "Nelson, D.  1991 Report of the CBRC. CFO Journal 27(2), 49-56.",
+  "documentations": [
+    {
+      "doc_id": "14301",
+      "reporter": "Margaret Elliott",
+      "date": "9/14/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14301"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:45.972710"
+}

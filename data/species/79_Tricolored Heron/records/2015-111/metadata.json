@@ -1,0 +1,40 @@
+{
+  "acc_no": "2015-111",
+  "year": "2015",
+  "location": "Walden Ponds/Sawhill Ponds Complex",
+  "county": "Boulder",
+  "observers": "Dean E  Shoup, Jamie Simo, Peter R. Gent, Andrew Bankert",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "6347",
+      "reporter": "Dean E  Shoup",
+      "date": "10/11/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6347"
+    },
+    {
+      "doc_id": "6346",
+      "reporter": "Jamie Simo",
+      "date": "10/11/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6346"
+    },
+    {
+      "doc_id": "6349",
+      "reporter": "Peter R. Gent",
+      "date": "10/11/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6349"
+    },
+    {
+      "doc_id": "7505",
+      "reporter": "Andrew Bankert",
+      "date": "10/11/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=7505"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:58.422664"
+}

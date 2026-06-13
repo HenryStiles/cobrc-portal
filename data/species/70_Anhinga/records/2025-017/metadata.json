@@ -1,0 +1,61 @@
+{
+  "acc_no": "2025-017",
+  "year": "2025",
+  "location": "95th Street",
+  "county": "Boulder",
+  "observers": "Greg Levandoski, Leslie Sutton, Brandon K. Percival, Jim Ward, Peter Burke, Cassandra Stroud, Tony Leukering",
+  "comments": "",
+  "citations": "The 89th Report of the CBRC, Peter R. Gent, Colorado Birds 60(1), 323-332, 2026.",
+  "documentations": [
+    {
+      "doc_id": "15857",
+      "reporter": "Greg Levandoski",
+      "date": "6/2/2025",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15857"
+    },
+    {
+      "doc_id": "15858",
+      "reporter": "Leslie Sutton",
+      "date": "6/2/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15858"
+    },
+    {
+      "doc_id": "15863",
+      "reporter": "Jim Ward",
+      "date": "6/2/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15863"
+    },
+    {
+      "doc_id": "16155",
+      "reporter": "Tony Leukering",
+      "date": "6/2/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16155"
+    },
+    {
+      "doc_id": "15868",
+      "reporter": "Peter Burke",
+      "date": "6/3/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15868"
+    },
+    {
+      "doc_id": "15860",
+      "reporter": "Brandon K. Percival",
+      "date": "6/3/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15860"
+    },
+    {
+      "doc_id": "15946",
+      "reporter": "Cassandra Stroud",
+      "date": "6/20/2025",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15946"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:39.289938"
+}

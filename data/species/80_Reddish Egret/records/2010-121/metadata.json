@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-121",
+  "year": "2010",
+  "location": "John Martin Reservoir State Park",
+  "county": "Bent",
+  "observers": "Duane Nelson, Cole Wild",
+  "comments": "Age: juv; Plumage: white-morph;",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1569",
+      "reporter": "C W",
+      "date": "8/18/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1569"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:30.935595"
+}

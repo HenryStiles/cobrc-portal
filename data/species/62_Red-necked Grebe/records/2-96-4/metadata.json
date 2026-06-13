@@ -1,0 +1,19 @@
+{
+  "acc_no": "2-96-4",
+  "year": "1996",
+  "location": "Lake Cheraw",
+  "county": "Otero",
+  "observers": "Tony Leukering, Mark Janos",
+  "comments": "",
+  "citations": "Janos, M.  1996 Report of the CBRC.  J. of the CFO 32(3), 173-187.",
+  "documentations": [
+    {
+      "doc_id": "13649",
+      "reporter": "Tony Leukering, Mark Janos",
+      "date": "5/17/1996",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13649"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:11.424275"
+}

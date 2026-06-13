@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-160",
+  "year": "2008",
+  "location": "1008 S. Johnson Way",
+  "county": "Jefferson",
+  "observers": "Michele Lewis",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1027",
+      "reporter": "Michele Lewis",
+      "date": "6/19/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1027"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:50.635824"
+}

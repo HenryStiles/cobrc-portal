@@ -1,0 +1,19 @@
+{
+  "acc_no": "2-74-131",
+  "year": "1974",
+  "location": "San Luis Lakes",
+  "county": "Alamosa",
+  "observers": "David Hutchinson",
+  "comments": "",
+  "citations": "Reddall, J. 1975. Reports from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "13640",
+      "reporter": "David Hutchinson",
+      "date": "9/2/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13640"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:02.056894"
+}

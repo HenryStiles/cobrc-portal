@@ -1,0 +1,26 @@
+{
+  "acc_no": "2022-026",
+  "year": "2022",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe & Jefferson",
+  "observers": "Cole Sage, Michael Lester",
+  "comments": "",
+  "citations": "Gent, P.  The 84th Report of the CBRC. Colorado Birds 54(4), 194-203.",
+  "documentations": [
+    {
+      "doc_id": "13672",
+      "reporter": "Cole Sage",
+      "date": "4/15/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13672"
+    },
+    {
+      "doc_id": "12048",
+      "reporter": "Michael Lester",
+      "date": "4/17/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12048"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:25.434133"
+}

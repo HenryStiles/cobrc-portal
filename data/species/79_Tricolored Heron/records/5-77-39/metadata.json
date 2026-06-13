@@ -1,0 +1,19 @@
+{
+  "acc_no": "5-77-39",
+  "year": "1977",
+  "location": "S Platte River 3.8 Km W of Masters Bridge",
+  "county": "Weld",
+  "observers": "Gary Miller",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "13827",
+      "reporter": "Gary Miller",
+      "date": "5/22/1977",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13827"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:51.407096"
+}

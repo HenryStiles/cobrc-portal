@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-108",
+  "year": "2016",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe & Arapahoe",
+  "observers": "Ronald D Carter",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "6380",
+      "reporter": "Ronald D Carter",
+      "date": "1/1/2016",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6380"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:52.193250"
+}

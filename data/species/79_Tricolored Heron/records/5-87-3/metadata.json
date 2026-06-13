@@ -1,0 +1,19 @@
+{
+  "acc_no": "5-87-3",
+  "year": "1987",
+  "location": "Lake Meredith",
+  "county": "Crowley",
+  "observers": "Mark Janos, Dan Bridges",
+  "comments": "",
+  "citations": "Bunn, R.  1987 Report of the CBRC, Part 2. CFO Journal 23(4), 114-120.",
+  "documentations": [
+    {
+      "doc_id": "13834",
+      "reporter": "Mark Janos, Dan Bridges",
+      "date": "9/5/1987",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13834"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:03.869088"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2023-064",
+  "year": "2023",
+  "location": "Midwestern Farms",
+  "county": "Prowers",
+  "observers": "Luke  Pheneger",
+  "comments": "",
+  "citations": "Gent, P., 2025. 87th Report of the CBRC.  Colorado Birds, 59(1), 7-15.",
+  "documentations": [
+    {
+      "doc_id": "13743",
+      "reporter": "Luke  Pheneger",
+      "date": "5/14/2023",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13743"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:15.045603"
+}

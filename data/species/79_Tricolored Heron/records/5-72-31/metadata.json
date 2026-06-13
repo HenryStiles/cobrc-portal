@@ -1,0 +1,26 @@
+{
+  "acc_no": "5-72-31",
+  "year": "1971",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Harold Holt, Inez Baker",
+  "comments": "",
+  "citations": "Reddall, J. 1973b. Reports from the CFO Official Records Committee. Colorado Field Ornithologist 16:19-26.",
+  "documentations": [
+    {
+      "doc_id": "5106",
+      "reporter": "Harold Holt",
+      "date": "7/25/1971",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5106"
+    },
+    {
+      "doc_id": "13825",
+      "reporter": "Harold Holt, Inez Baker",
+      "date": "7/25/1971",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13825"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:47.791774"
+}

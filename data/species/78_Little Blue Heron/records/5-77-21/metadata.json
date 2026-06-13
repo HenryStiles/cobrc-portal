@@ -1,0 +1,19 @@
+{
+  "acc_no": "5-77-21",
+  "year": "1973",
+  "location": "Maybell",
+  "county": "Moffat",
+  "observers": "Michael Szymczak",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "14286",
+      "reporter": "Michael Szymczak",
+      "date": "5/23/1973",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14286"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:25.745747"
+}

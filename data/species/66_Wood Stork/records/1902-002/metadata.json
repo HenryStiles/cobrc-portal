@@ -1,0 +1,19 @@
+{
+  "acc_no": "1902-002",
+  "year": "1902",
+  "location": "Littleton",
+  "county": "Arapahoe",
+  "observers": "A. Felger",
+  "comments": "Collected: Specimens DMNH #7417 and #14711",
+  "citations": "Felger, A. Auk, 20, 65, 1903: Bailey, A. and R. Niedrach, Notes on Colorado Birds. Auk 54, 524-527, 1937.",
+  "documentations": [
+    {
+      "doc_id": "13224",
+      "reporter": "A. Felger",
+      "date": "8/30/1902",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13224"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:53.783233"
+}

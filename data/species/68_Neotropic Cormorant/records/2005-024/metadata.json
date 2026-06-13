@@ -1,0 +1,26 @@
+{
+  "acc_no": "2005-024",
+  "year": "2005",
+  "location": "South Republican SWA",
+  "county": "Yuma",
+  "observers": "Marshall Iliff, Jim Beatty",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "112",
+      "reporter": "Marshall Iliff",
+      "date": "4/19/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=112"
+    },
+    {
+      "doc_id": "206",
+      "reporter": "James Beatty",
+      "date": "5/16/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=206"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:30.646578"
+}

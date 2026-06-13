@@ -1,0 +1,19 @@
+{
+  "acc_no": "5-91-9",
+  "year": "1991",
+  "location": "Blue Lake (Adobe Creek Reservoir)",
+  "county": "Kiowa & Bent",
+  "observers": "Dick Schottler, Karl Overman, Mark Janos, Peter Gent, Dan Bridges",
+  "comments": "",
+  "citations": "Nelson, D.  1991 Report of the CBRC. CFO Journal 27(2), 49-56.",
+  "documentations": [
+    {
+      "doc_id": "13136",
+      "reporter": "Dick Schottler, Karl Overman, Mark Janos, Peter Gent, Dan Bridges",
+      "date": "5/27/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13136"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:14.475780"
+}

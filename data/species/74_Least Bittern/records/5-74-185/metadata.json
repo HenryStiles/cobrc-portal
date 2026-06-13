@@ -1,0 +1,19 @@
+{
+  "acc_no": "5-74-185",
+  "year": "1974",
+  "location": "Fruita",
+  "county": "Mesa",
+  "observers": "Edgar Muhr",
+  "comments": "",
+  "citations": "Reddall, J. 1975. Reports from the CFO Official Records Committee. C.J.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "13804",
+      "reporter": "Edgar Muhr",
+      "date": "9/15/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13804"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:26.154669"
+}

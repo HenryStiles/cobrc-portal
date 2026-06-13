@@ -1,0 +1,26 @@
+{
+  "acc_no": "2009-069",
+  "year": "2009",
+  "location": "Fort Lyon Wildlife Area",
+  "county": "Bent",
+  "observers": "Bill Maynard, Larry Semo",
+  "comments": "Age: ?; Sex: ?;",
+  "citations": "Semo, L. and Faulkner, D.  The 53rd Report of the CBRC. Colorado Birds 44(1), 31-42.",
+  "documentations": [
+    {
+      "doc_id": "1274",
+      "reporter": "Bill Maynard",
+      "date": "7/25/2009",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1274"
+    },
+    {
+      "doc_id": "1301",
+      "reporter": "Larry Semo",
+      "date": "7/25/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1301"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:18.853890"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-135",
+  "year": "2002",
+  "location": "Prewitt Reservoir State Wildlife Area",
+  "county": "Washington",
+  "observers": "Kent Nickell",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "13712",
+      "reporter": "Kent Nickell",
+      "date": "9/1/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13712"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:20.318225"
+}

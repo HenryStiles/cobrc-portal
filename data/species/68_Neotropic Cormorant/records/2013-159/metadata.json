@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-159",
+  "year": "2013",
+  "location": "Weld CR 7 St Vrain State Park",
+  "county": "Weld",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2478",
+      "reporter": "Steven Mlodinow",
+      "date": "5/15/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2478"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:57.995338"
+}

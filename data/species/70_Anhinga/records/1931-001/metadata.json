@@ -1,0 +1,19 @@
+{
+  "acc_no": "1931-001",
+  "year": "1931",
+  "location": "Along Coal Creek",
+  "county": "Broomfield & Adams",
+  "observers": "A. Viraldo",
+  "comments": "Collected: Specimen DMNH #12297. Note incorrectly labelled #12247 in Bailey and Niedrach Vol 1, pg 92, 1965. Note that NW Adams County was included in Broomfield County in 2001.",
+  "citations": "Bailey, A. and R, Niedrach: Five New Species to Colorado. Condor, 39, 132-133,1937.",
+  "documentations": [
+    {
+      "doc_id": "13222",
+      "reporter": "A. Viraldo",
+      "date": "9/24/1931",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13222"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:37.642355"
+}

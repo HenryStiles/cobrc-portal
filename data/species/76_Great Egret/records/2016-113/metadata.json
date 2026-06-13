@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-113",
+  "year": "2016",
+  "location": "Not Specified",
+  "county": "Weld",
+  "observers": "Julie Capp",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "6442",
+      "reporter": "Julie Capp",
+      "date": "6/25/2016",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6442"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:09.875554"
+}

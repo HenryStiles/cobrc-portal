@@ -1,0 +1,19 @@
+{
+  "acc_no": "5-87-2",
+  "year": "1987",
+  "location": "Lake Henry",
+  "county": "Crowley",
+  "observers": "Dan Bridges",
+  "comments": "",
+  "citations": "Bunn, R.  1987 Report of the CBRC pt.1. CFO Journal 23(1), 13-18.",
+  "documentations": [
+    {
+      "doc_id": "13833",
+      "reporter": "Dan Bridges",
+      "date": "5/1/1987",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13833"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:02.808616"
+}

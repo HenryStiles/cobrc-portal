@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-105",
+  "year": "2005",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Brandon Percival",
+  "comments": "Age: juv; Plumage: juvenal;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "246",
+      "reporter": "Brandon K Percival",
+      "date": "10/9/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=246"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:34.978410"
+}

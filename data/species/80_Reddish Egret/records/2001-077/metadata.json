@@ -1,0 +1,26 @@
+{
+  "acc_no": "2001-077",
+  "year": "2001",
+  "location": "Neenoshe Reservoir",
+  "county": "Kiowa & Bent",
+  "observers": "Dave Leatherman, Tony Leukering, Chris Wood",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  2001 pt.2 of the CBRC. Colorado Birds 38(1), 14-21.",
+  "documentations": [
+    {
+      "doc_id": "14083",
+      "reporter": "Dave Leatherman",
+      "date": "5/27/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14083"
+    },
+    {
+      "doc_id": "13905",
+      "reporter": "Tony Leukering, Chris Wood",
+      "date": "7/10/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13905"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:18.699436"
+}

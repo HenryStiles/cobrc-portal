@@ -1,0 +1,19 @@
+{
+  "acc_no": "5-77-38",
+  "year": "1977",
+  "location": "Beebe Draw",
+  "county": "Weld",
+  "observers": "Warner Gorenzel",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "14287",
+      "reporter": "Warner Gorenzel",
+      "date": "4/26/1977",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14287"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:32.874850"
+}

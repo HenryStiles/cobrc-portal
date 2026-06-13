@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-007",
+  "year": "1998",
+  "location": "Union Reservoir",
+  "county": "Weld",
+  "observers": "Peter Plage, Tony Leukering",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "13839",
+      "reporter": "Peter Plage, Tony Leukering",
+      "date": "5/16/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13839"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:10.339962"
+}

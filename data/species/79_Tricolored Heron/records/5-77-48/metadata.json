@@ -1,0 +1,19 @@
+{
+  "acc_no": "5-77-48",
+  "year": "1977",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Chris Knight",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "13829",
+      "reporter": "Chris Knight",
+      "date": "5/30/1977",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13829"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:52.682031"
+}

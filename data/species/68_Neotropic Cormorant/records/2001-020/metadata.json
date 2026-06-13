@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-020",
+  "year": "2001",
+  "location": "John Martin Reservoir State Park",
+  "county": "Bent",
+  "observers": "Brandon Percival",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  2001 pt.1 Report of the CBRC. Colorado Birds 37(3), 138-155.",
+  "documentations": [
+    {
+      "doc_id": "2646",
+      "reporter": "Brandon Percival",
+      "date": "4/8/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2646"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:28.786944"
+}

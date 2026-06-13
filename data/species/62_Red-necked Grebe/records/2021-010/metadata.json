@@ -1,0 +1,19 @@
+{
+  "acc_no": "2021-010",
+  "year": "2021",
+  "location": "Antero Reservoir",
+  "county": "Park",
+  "observers": "David Olmstead",
+  "comments": "",
+  "citations": "Accepted by the Chairman and not published.",
+  "documentations": [
+    {
+      "doc_id": "11963",
+      "reporter": "David Olmstead",
+      "date": "4/29/2021",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11963"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:45.596624"
+}

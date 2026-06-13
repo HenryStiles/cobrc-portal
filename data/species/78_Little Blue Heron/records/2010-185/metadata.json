@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-185",
+  "year": "2010",
+  "location": "Sheridan Lake",
+  "county": "Kiowa",
+  "observers": "Mike Hendrickson",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1403",
+      "reporter": "Mike Hendrickson",
+      "date": "4/24/2010",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1403"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:41.156243"
+}

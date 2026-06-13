@@ -1,0 +1,19 @@
+{
+  "acc_no": "2000-009",
+  "year": "2000",
+  "location": "Rocky Mountain Arsenal National Wildlife Refuge",
+  "county": "Adams",
+  "observers": "Larry Wilson, Urling & Hugh Kingery",
+  "comments": "",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "14616",
+      "reporter": "Larry Wilson, Urling&Hugh Kingery",
+      "date": "5/14/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14616"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:14.097741"
+}

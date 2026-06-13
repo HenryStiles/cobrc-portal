@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-006",
+  "year": "1998",
+  "location": "SE of Lochbuie",
+  "county": "Adams",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "14310",
+      "reporter": "Tony Leukering",
+      "date": "8/1/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14310"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:53.390788"
+}

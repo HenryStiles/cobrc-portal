@@ -1,0 +1,26 @@
+{
+  "acc_no": "2009-056",
+  "year": "2009",
+  "location": "John Martin Reservoir State Park",
+  "county": "Bent",
+  "observers": "Brandon Percival, Bill Maynard",
+  "comments": "Age: adult;",
+  "citations": "Semo, L. and Faulkner, D.  The 53rd Report of the CBRC. Colorado Birds 44(1), 31-42.",
+  "documentations": [
+    {
+      "doc_id": "1267",
+      "reporter": "Brandon K Percival",
+      "date": "7/18/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1267"
+    },
+    {
+      "doc_id": "1273",
+      "reporter": "Bill Maynard",
+      "date": "7/25/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1273"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:35.556763"
+}

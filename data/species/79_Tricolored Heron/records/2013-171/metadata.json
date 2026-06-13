@@ -1,0 +1,26 @@
+{
+  "acc_no": "2013-171",
+  "year": "2013",
+  "location": "John Martin Reservoir State Park",
+  "county": "Bent",
+  "observers": "John Drummond, Bill Maynard",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2503",
+      "reporter": "John Drummond",
+      "date": "6/22/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2503"
+    },
+    {
+      "doc_id": "2511",
+      "reporter": "Bill Maynard",
+      "date": "6/22/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2511"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:40.096634"
+}

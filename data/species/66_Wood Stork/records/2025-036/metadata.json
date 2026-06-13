@@ -1,0 +1,47 @@
+{
+  "acc_no": "2025-036",
+  "year": "2025",
+  "location": "City Park",
+  "county": "Denver",
+  "observers": "Patrick O'Driscoll, Matt Hofeditz, Brandon Percival, Holly Houser, Dan Zmolek",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16014",
+      "reporter": "Patrick O'Driscoll",
+      "date": "8/17/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16014"
+    },
+    {
+      "doc_id": "16117",
+      "reporter": "Dan Zmolek",
+      "date": "8/18/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16117"
+    },
+    {
+      "doc_id": "16024",
+      "reporter": "Matt Hofeditz",
+      "date": "8/20/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16024"
+    },
+    {
+      "doc_id": "16023",
+      "reporter": "Brandon Percival",
+      "date": "8/21/2025",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16023"
+    },
+    {
+      "doc_id": "16064",
+      "reporter": "Holly Houser",
+      "date": "8/30/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16064"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:55.938834"
+}

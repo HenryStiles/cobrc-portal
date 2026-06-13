@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-118",
+  "year": "2002",
+  "location": "Highline Lake State Park",
+  "county": "Mesa",
+  "observers": "Dave Wright",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  The 37th Report of the CBRC. Colorado Birds 38(2), 73-88.",
+  "documentations": [
+    {
+      "doc_id": "13735",
+      "reporter": "Dave Wright",
+      "date": "12/28/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13735"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:35.203917"
+}

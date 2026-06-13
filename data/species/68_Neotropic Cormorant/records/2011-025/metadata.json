@@ -1,0 +1,33 @@
+{
+  "acc_no": "2011-025",
+  "year": "2011",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Nick Bonomo, John Drummond, Nathan Pieplow",
+  "comments": "Age: immature;",
+  "citations": "Faulkner, D. The 62nd Report of the CBRC. Colorado Birds 46(2), 106-120.",
+  "documentations": [
+    {
+      "doc_id": "1630",
+      "reporter": "John Drummond",
+      "date": "4/9/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1630"
+    },
+    {
+      "doc_id": "8528",
+      "reporter": "Rudi Nuissl",
+      "date": "4/9/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8528"
+    },
+    {
+      "doc_id": "1629",
+      "reporter": "Nathan Pieplow",
+      "date": "4/15/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1629"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:43.894833"
+}

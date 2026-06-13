@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-040",
+  "year": "2010",
+  "location": "Walden Ponds/Sawhill Ponds Complex",
+  "county": "Boulder",
+  "observers": "Margaret Arp",
+  "comments": "",
+  "citations": "Semo, L. and Faulkner, D. The 57th Report of the CBRC. Colorado Birds 45(1), 30-41.",
+  "documentations": [
+    {
+      "doc_id": "1429",
+      "reporter": "Margaret Arp",
+      "date": "5/24/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1429"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:20.669774"
+}

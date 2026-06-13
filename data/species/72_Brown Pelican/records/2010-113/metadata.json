@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-113",
+  "year": "2010",
+  "location": "Highline Lake State Park",
+  "county": "Mesa",
+  "observers": "Cole Wild",
+  "comments": "Age: sub-adult;",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1559",
+      "reporter": "C W",
+      "date": "6/9/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1559"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:14.256227"
+}

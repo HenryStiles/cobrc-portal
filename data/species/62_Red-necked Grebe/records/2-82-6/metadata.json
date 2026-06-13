@@ -1,0 +1,19 @@
+{
+  "acc_no": "2-82-6",
+  "year": "1982",
+  "location": "Big Johnson Reservoir",
+  "county": "El Paso",
+  "observers": "Richard Bunn",
+  "comments": "",
+  "citations": "Gent, P.  1982 Report of the CBRC. CFO Journal 18(2), 51-57.",
+  "documentations": [
+    {
+      "doc_id": "13642",
+      "reporter": "Richard Bunn",
+      "date": "4/10/1982",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13642"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:04.383878"
+}

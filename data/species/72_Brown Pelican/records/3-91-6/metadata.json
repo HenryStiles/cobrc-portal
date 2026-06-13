@@ -1,0 +1,19 @@
+{
+  "acc_no": "3-91-6",
+  "year": "1991",
+  "location": "Chatfield State Park",
+  "county": "Jefferson",
+  "observers": "Dick Schottler, Mark Janos, Peter Gent",
+  "comments": "",
+  "citations": "Nelson, D.  1991 Report of the CBRC. CFO Journal 27(2), 49-56.",
+  "documentations": [
+    {
+      "doc_id": "13498",
+      "reporter": "Dick Schottler, Mark Janos, Peter Gent",
+      "date": "6/23/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13498"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:06.460731"
+}

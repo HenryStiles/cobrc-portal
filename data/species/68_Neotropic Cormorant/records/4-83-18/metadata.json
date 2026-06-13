@@ -1,0 +1,19 @@
+{
+  "acc_no": "4-83-18",
+  "year": "1983",
+  "location": "Red Lion State Wildlife Area",
+  "county": "Logan",
+  "observers": "Paul Lehman",
+  "comments": "",
+  "citations": "Gent, P.  1983 Report of the CBRC. CFO Journal 19(1-2), 28-33.",
+  "documentations": [
+    {
+      "doc_id": "14045",
+      "reporter": "Paul Lehman",
+      "date": "7/1/1983",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14045"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:18.578466"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "5-77-47",
+  "year": "1977",
+  "location": "Wellington Lakes",
+  "county": "Larimer",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "13828",
+      "reporter": "Mark Janos",
+      "date": "5/31/1977",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13828"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:55.137039"
+}

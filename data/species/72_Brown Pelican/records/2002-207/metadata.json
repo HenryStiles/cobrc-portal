@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-207",
+  "year": "2002",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Nathan Pieplow",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  The 38th Report of the CBRC. Colorado Birds 38(4), 168-183.",
+  "documentations": [
+    {
+      "doc_id": "13695",
+      "reporter": "Nathan Pieplow",
+      "date": "5/8/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13695"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:17.751275"
+}

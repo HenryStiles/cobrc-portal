@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-012",
+  "year": "2014",
+  "location": "Greeley",
+  "county": "Weld",
+  "observers": "Steven Mlodinow",
+  "comments": "Submitted as Atlantic Brant; CBRC accepts as Brant with further evaluation as Gray-bellied Brant pending.",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2809",
+      "reporter": "Steven Mlodinow",
+      "date": "1/15/2014",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2809"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:06.946457"
+}

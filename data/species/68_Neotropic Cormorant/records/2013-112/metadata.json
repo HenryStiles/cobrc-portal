@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-112",
+  "year": "2013",
+  "location": "Valco Ponds",
+  "county": "Pueblo",
+  "observers": "Robb Hinds",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2709",
+      "reporter": "Robb Hinds",
+      "date": "4/5/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2709"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:56.690087"
+}

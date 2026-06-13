@@ -1,0 +1,82 @@
+{
+  "acc_no": "2006-089",
+  "year": "2006",
+  "location": "Greenbriar Park, Fort Collins/near Greeley/Fossil Creek Res./Lake Loveland/Boyd Lake/Pond S. of Chatfield Res./McIntosh Lake",
+  "county": "Larimer & Boulder",
+  "observers": "Nick Komar, Nathan Pieplow, Rachel Hopper, Andrew Spencer, Bill Schmoker, Tony Leukering, Lee Farrell, Bill Maynard, Walter Szeliga",
+  "comments": "Age: juvenile;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "633",
+      "reporter": "Nicholas Komar",
+      "date": "5/27/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=633"
+    },
+    {
+      "doc_id": "425",
+      "reporter": "Nathan Pieplow",
+      "date": "5/29/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=425"
+    },
+    {
+      "doc_id": "728",
+      "reporter": "Rachel Hopper",
+      "date": "7/16/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=728"
+    },
+    {
+      "doc_id": "551",
+      "reporter": "Andrew Spencer",
+      "date": "9/17/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=551"
+    },
+    {
+      "doc_id": "582",
+      "reporter": "Bill Schmoker",
+      "date": "10/22/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=582"
+    },
+    {
+      "doc_id": "585",
+      "reporter": "Bill Schmoker",
+      "date": "10/29/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=585"
+    },
+    {
+      "doc_id": "612",
+      "reporter": "Tony Leukering",
+      "date": "11/4/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=612"
+    },
+    {
+      "doc_id": "1460",
+      "reporter": "Lee Farrell",
+      "date": "11/19/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1460"
+    },
+    {
+      "doc_id": "815",
+      "reporter": "Walter Szeliga",
+      "date": "11/27/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=815"
+    },
+    {
+      "doc_id": "599",
+      "reporter": "Bill Maynard",
+      "date": "11/27/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=599"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:26.959743"
+}

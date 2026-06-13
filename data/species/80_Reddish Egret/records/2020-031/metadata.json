@@ -1,0 +1,19 @@
+{
+  "acc_no": "2020-031",
+  "year": "2020",
+  "location": "Jackson Reservoir",
+  "county": "Morgan",
+  "observers": "Joey Kellner",
+  "comments": "",
+  "citations": "The 82nd Report of the CBRC, 2022. Colorado Birds, 56(4), 283-294.",
+  "documentations": [
+    {
+      "doc_id": "11911",
+      "reporter": "Joey Kellner",
+      "date": "9/18/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11911"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:43.303642"
+}

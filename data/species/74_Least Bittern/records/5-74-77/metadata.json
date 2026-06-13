@@ -1,0 +1,19 @@
+{
+  "acc_no": "5-74-77",
+  "year": "1974",
+  "location": "Lower Poudre Canyon",
+  "county": "Larimer",
+  "observers": "Paul Gertler",
+  "comments": "",
+  "citations": "Reddall, J. 1975. Reports from the CFO Official Records Committee. C.J.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "13803",
+      "reporter": "Paul Gertler",
+      "date": "5/18/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13803"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:25.166071"
+}

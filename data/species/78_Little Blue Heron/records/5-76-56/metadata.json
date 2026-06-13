@@ -1,0 +1,19 @@
+{
+  "acc_no": "5-76-56",
+  "year": "1976",
+  "location": "Hudson",
+  "county": "Weld",
+  "observers": "Harold Holt",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "14285",
+      "reporter": "Harold Holt",
+      "date": "5/31/1976",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14285"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:32.008844"
+}

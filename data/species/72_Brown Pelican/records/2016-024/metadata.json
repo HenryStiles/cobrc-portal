@@ -1,0 +1,40 @@
+{
+  "acc_no": "2016-024",
+  "year": "2016",
+  "location": "Lake Beckwith, Colorado City",
+  "county": "Pueblo",
+  "observers": "David Silverman, Brandon K. Percival, Cheryl Teuton, Kathy Mihm Dunning",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6414",
+      "reporter": "David Silverman",
+      "date": "4/5/2016",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6414"
+    },
+    {
+      "doc_id": "6411",
+      "reporter": "Brandon K. Percival",
+      "date": "4/5/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6411"
+    },
+    {
+      "doc_id": "6413",
+      "reporter": "Cheryl Teuton",
+      "date": "4/6/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6413"
+    },
+    {
+      "doc_id": "6412",
+      "reporter": "Kathy Mihm Dunning",
+      "date": "4/6/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6412"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:15.911106"
+}

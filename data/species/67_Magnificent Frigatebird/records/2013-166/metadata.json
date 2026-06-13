@@ -1,0 +1,26 @@
+{
+  "acc_no": "2013-166",
+  "year": "2013",
+  "location": "North Delaney Buttes Lake",
+  "county": "Jackson",
+  "observers": "Mark Vaughn, Alan  Martinez",
+  "comments": "",
+  "citations": "Faulkner, D. The 71st Report of the CBRC, Colorado Birds 49(2), 53-57.",
+  "documentations": [
+    {
+      "doc_id": "2492",
+      "reporter": "Mark Vaughn",
+      "date": "6/5/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2492"
+    },
+    {
+      "doc_id": "2729",
+      "reporter": "Alan  Martinez",
+      "date": "6/12/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2729"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:35.983078"
+}

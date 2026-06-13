@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-111",
+  "year": "2010",
+  "location": "Cottonwood Hollow Natural Area",
+  "county": "Larimer",
+  "observers": "Cole Wild",
+  "comments": "Age: adult; Sex: female;",
+  "citations": "Faulkner, D. and Semo, L. The 59th Report of the CBRC. Colorado Birds 45(3), 174-180.",
+  "documentations": [
+    {
+      "doc_id": "1563",
+      "reporter": "C W",
+      "date": "6/7/2010",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1563"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:22.003156"
+}

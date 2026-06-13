@@ -1,0 +1,26 @@
+{
+  "acc_no": "2014-047",
+  "year": "2014",
+  "location": "Denny Lake, Cortez",
+  "county": "Montezuma",
+  "observers": "Rebecca Bartlett, James Beatty",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "3949",
+      "reporter": "Rebecca Bartlett",
+      "date": "4/17/2014",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3949"
+    },
+    {
+      "doc_id": "3950",
+      "reporter": "James Beatty",
+      "date": "5/3/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3950"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:59.638115"
+}

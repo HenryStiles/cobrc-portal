@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-077",
+  "year": "2009",
+  "location": "Cottonwood Hollow Natural Area",
+  "county": "Larimer",
+  "observers": "Rachel Hopper",
+  "comments": "Age: female or imm.; Plumage: basic; Sex: female?;",
+  "citations": "Semo, L.  The 55th Report of the CBRC. Colorado Birds 44(3), 180-185.",
+  "documentations": [
+    {
+      "doc_id": "1331",
+      "reporter": "Rachel Hopper",
+      "date": "7/21/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1331"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:17.830521"
+}

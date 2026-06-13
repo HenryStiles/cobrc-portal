@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-038",
+  "year": "2013",
+  "location": "John Martin Reservoir State Park",
+  "county": "Bent",
+  "observers": "Jane Stulp",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2828",
+      "reporter": "Jane Stulp",
+      "date": "8/21/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2828"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:42.418104"
+}

@@ -1,0 +1,26 @@
+{
+  "acc_no": "2020-073",
+  "year": "2020",
+  "location": "John Martin Reservoir State Park",
+  "county": "Bent",
+  "observers": "Norma Verhoef, Samantha Colvin",
+  "comments": "3rd state record.",
+  "citations": "Colorado Birds 56(3), 213-222, 2022",
+  "documentations": [
+    {
+      "doc_id": "11958",
+      "reporter": "Norma Verhoef",
+      "date": "11/5/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11958"
+    },
+    {
+      "doc_id": "11956",
+      "reporter": "Samantha Colvin",
+      "date": "11/5/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11956"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:39.820786"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "5-91-11",
+  "year": "1991",
+  "location": "Hidden Lake",
+  "county": "Adams",
+  "observers": "Philip Hayes, Duane Nelson",
+  "comments": "",
+  "citations": "Nelson, D.  1991 Report of the CBRC. CFO Journal 27(2), 49-56.",
+  "documentations": [
+    {
+      "doc_id": "14626",
+      "reporter": "Philip Hayes, Duane Nelson",
+      "date": "8/16/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14626"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:06.268769"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-004",
+  "year": "2013",
+  "location": "Prospect Ponds Natural Area",
+  "county": "Larimer",
+  "observers": "Robert Beauchamp",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2796",
+      "reporter": "Robert Beauchamp",
+      "date": "12/31/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2796"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:05.266486"
+}

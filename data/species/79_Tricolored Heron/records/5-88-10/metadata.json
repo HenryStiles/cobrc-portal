@@ -1,0 +1,19 @@
+{
+  "acc_no": "5-88-10",
+  "year": "1987",
+  "location": "Yuma",
+  "county": "Yuma",
+  "observers": "Frances Pusateri",
+  "comments": "Collected: Specimen DMNH #39487",
+  "citations": "Webb, B and Reddall, J., Recent state record specimens of birds at the DMNH. CFO Journal, 23, 121-127, 1989.  Andrews and Righter, Colorado Birds, pg 21, 1992.",
+  "documentations": [
+    {
+      "doc_id": "13844",
+      "reporter": "Frances Pusateri",
+      "date": "11/20/1987",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13844"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:05.308119"
+}

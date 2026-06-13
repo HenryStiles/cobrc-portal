@@ -1,0 +1,33 @@
+{
+  "acc_no": "2005-063",
+  "year": "2005",
+  "location": "Walden Ponds/Sawhill Ponds Complex",
+  "county": "Boulder",
+  "observers": "Bill Schmoker, Nathan Pieplow, Peter Gent",
+  "comments": "Age: ad; Plumage: basic; Sex: male;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "131",
+      "reporter": "Peter Gent",
+      "date": "6/5/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=131"
+    },
+    {
+      "doc_id": "191",
+      "reporter": "Bill Schmoker",
+      "date": "6/5/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=191"
+    },
+    {
+      "doc_id": "337",
+      "reporter": "Nathan Pieplow",
+      "date": "6/5/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=337"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:57.512472"
+}

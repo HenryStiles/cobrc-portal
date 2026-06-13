@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-012",
+  "year": "1999",
+  "location": "Lochbuie",
+  "county": "Adams",
+  "observers": "Karleen Schofield",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "14318",
+      "reporter": "Karleen Schofield",
+      "date": "8/15/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14318"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:55.982103"
+}

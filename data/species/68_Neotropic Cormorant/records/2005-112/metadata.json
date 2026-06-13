@@ -1,0 +1,33 @@
+{
+  "acc_no": "2005-112",
+  "year": "2005",
+  "location": "John Martin Reservoir State Park",
+  "county": "Bent",
+  "observers": "Brandon Percival, Andrew Spencer, Glenn Walbek",
+  "comments": "Age: possibly adult;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "199",
+      "reporter": "Andrew Spencer",
+      "date": "10/30/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=199"
+    },
+    {
+      "doc_id": "213",
+      "reporter": "Glenn Walbek",
+      "date": "10/30/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=213"
+    },
+    {
+      "doc_id": "247",
+      "reporter": "Brandon K Percival",
+      "date": "10/30/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=247"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:31.897298"
+}

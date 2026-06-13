@@ -1,0 +1,19 @@
+{
+  "acc_no": "5-84-47",
+  "year": "1984",
+  "location": "Sweitzer Lake State Park",
+  "county": "Delta",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Gent, P.  1984 Report of the CBRC. CFO Journal 19(4), 82-87.",
+  "documentations": [
+    {
+      "doc_id": "14296",
+      "reporter": "Mark Janos",
+      "date": "11/1/1984",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14296"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:40.254602"
+}

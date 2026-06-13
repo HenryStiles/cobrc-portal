@@ -1,0 +1,19 @@
+{
+  "acc_no": "5-84-18",
+  "year": "1983",
+  "location": "Alamosa National Wildlife Refuge",
+  "county": "Alamosa",
+  "observers": "Jon Kauffield",
+  "comments": "",
+  "citations": "Gent, P.  1984 Report of the CBRC. CFO Journal 19(4), 82-87.",
+  "documentations": [
+    {
+      "doc_id": "14295",
+      "reporter": "Jon Kauffield",
+      "date": "6/2/1983",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14295"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:38.221382"
+}

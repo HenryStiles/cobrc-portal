@@ -1,0 +1,19 @@
+{
+  "acc_no": "2000-008",
+  "year": "2000",
+  "location": "Blue Lake (Adobe Creek Reservoir)",
+  "county": "Bent",
+  "observers": "Chris Wood",
+  "comments": "one adult in alternate, one molting subadult",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "2677",
+      "reporter": "Chris Wood",
+      "date": "5/10/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2677"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:56.823199"
+}

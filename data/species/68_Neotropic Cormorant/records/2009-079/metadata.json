@@ -1,0 +1,33 @@
+{
+  "acc_no": "2009-079",
+  "year": "2009",
+  "location": "Timnath Reservoir",
+  "county": "Larimer",
+  "observers": "Nick Komar, Rachel Hopper, Brandon Percival",
+  "comments": "Age: juv.;",
+  "citations": "Semo, L.  The 55th Report of the CBRC. Colorado Birds 44(3), 180-185.",
+  "documentations": [
+    {
+      "doc_id": "1495",
+      "reporter": "Nicholas Komar",
+      "date": "8/14/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1495"
+    },
+    {
+      "doc_id": "1338",
+      "reporter": "Rachel Hopper",
+      "date": "8/15/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1338"
+    },
+    {
+      "doc_id": "1306",
+      "reporter": "Brandon K Percival",
+      "date": "8/30/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1306"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:37.897742"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-138",
+  "year": "2007",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Bill Maynard",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "631",
+      "reporter": "Bill Maynard",
+      "date": "1/9/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=631"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:39.273751"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-115",
+  "year": "2004",
+  "location": "Colorado City and Rye",
+  "county": "Pueblo",
+  "observers": "David Silverman",
+  "comments": "Published as 2004-79",
+  "citations": "Semo, L.  The 41st Report of the CBRC. Colorado Birds 40(1), 26-44. Incorrectly labelled as 2004-79 in that report.",
+  "documentations": [
+    {
+      "doc_id": "13705",
+      "reporter": "Dave Silverman",
+      "date": "4/29/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13705"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:21.484799"
+}

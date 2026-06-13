@@ -1,0 +1,33 @@
+{
+  "acc_no": "2000-011",
+  "year": "2000",
+  "location": "Russell Lakes State Wildlife Area",
+  "county": "Saguache",
+  "observers": "Dean Lee, Rich Levad, Doug Faulkner",
+  "comments": "",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "2697",
+      "reporter": "Dean Lee",
+      "date": "6/28/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2697"
+    },
+    {
+      "doc_id": "2695",
+      "reporter": "Richard Levad",
+      "date": "7/20/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2695"
+    },
+    {
+      "doc_id": "2696",
+      "reporter": "Doug Faulkner",
+      "date": "7/24/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2696"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:13.718246"
+}

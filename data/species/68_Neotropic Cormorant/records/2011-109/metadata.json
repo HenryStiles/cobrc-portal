@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-109",
+  "year": "2011",
+  "location": "Timnath Reservoir",
+  "county": "Larimer",
+  "observers": "Ted Floyd",
+  "comments": "Age: adult;",
+  "citations": "Faulkner, D. The 63rd Report of the CBRC. Colorado Birds 46(3), 188-197.",
+  "documentations": [
+    {
+      "doc_id": "1741",
+      "reporter": "Ted Floyd",
+      "date": "8/15/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1741"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:50.992022"
+}

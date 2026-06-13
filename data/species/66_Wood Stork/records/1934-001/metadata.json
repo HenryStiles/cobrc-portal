@@ -1,0 +1,19 @@
+{
+  "acc_no": "1934-001",
+  "year": "1934",
+  "location": "Denver",
+  "county": "Denver",
+  "observers": "Fred Brandenburg",
+  "comments": "Collected: Specimen DMNH #12379",
+  "citations": "Bailey, A. and R. Niedrach, Notes on Colorado Birds. Auk, 54, 524-527, 1937.",
+  "documentations": [
+    {
+      "doc_id": "13225",
+      "reporter": "Fred Brandenburg",
+      "date": "7/25/1934",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13225"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:55.137333"
+}

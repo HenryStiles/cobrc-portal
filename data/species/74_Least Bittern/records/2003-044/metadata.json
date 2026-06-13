@@ -1,0 +1,26 @@
+{
+  "acc_no": "2003-044",
+  "year": "2003",
+  "location": "Fort Lyon Wildlife Area",
+  "county": "Bent",
+  "observers": "Charlie Lawrence, Peter Frechtel, Ric Olson, Brian Gibbons",
+  "comments": "sketch; Lawrence corrected date from 5/18 to 5/3.",
+  "citations": "Leukering, T. and Semo, L.  The 39th Report of the CBRC. Colorado Birds 39(3), 131-141.",
+  "documentations": [
+    {
+      "doc_id": "13811",
+      "reporter": "Charlie Lawrence, Peter Frechtel, Ric Olson",
+      "date": "5/3/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13811"
+    },
+    {
+      "doc_id": "2638",
+      "reporter": "Brian Gibbons",
+      "date": "6/27/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2638"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:38.352182"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-022",
+  "year": "2009",
+  "location": "Lake Meredith",
+  "county": "Crowley",
+  "observers": "Bill Maynard",
+  "comments": "Age: immature;",
+  "citations": "Semo, L. and Faulkner, D.  The 52nd Report of the CBRC. Colorado Birds 43(4), 268-281.",
+  "documentations": [
+    {
+      "doc_id": "1220",
+      "reporter": "Bill Maynard",
+      "date": "4/25/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1220"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:12.800453"
+}

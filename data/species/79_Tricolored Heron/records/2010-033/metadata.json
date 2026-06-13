@@ -1,0 +1,26 @@
+{
+  "acc_no": "2010-033",
+  "year": "2010",
+  "location": "Holcim Marsh",
+  "county": "Fremont",
+  "observers": "Brandon Percival, Bill Maynard",
+  "comments": "",
+  "citations": "Semo, L. and Faulkner, D. The 57th Report of the CBRC. Colorado Birds 45(1), 30-41.",
+  "documentations": [
+    {
+      "doc_id": "1450",
+      "reporter": "Brandon K Percival",
+      "date": "5/18/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1450"
+    },
+    {
+      "doc_id": "1423",
+      "reporter": "Bill Maynard",
+      "date": "5/19/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1423"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:27.313636"
+}

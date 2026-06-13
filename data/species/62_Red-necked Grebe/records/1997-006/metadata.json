@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-006",
+  "year": "1997",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Janos, M.  1997 Report of the CBRC. Journal of the CFO 33(4), 241-252.",
+  "documentations": [
+    {
+      "doc_id": "13652",
+      "reporter": "Mark Janos",
+      "date": "10/26/1997",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13652"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:15.733906"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-151",
+  "year": "2008",
+  "location": "Cottonwood Hollow Natural Area",
+  "county": "Larimer",
+  "observers": "David Leatherman",
+  "comments": "Age: adult; Sex: ?;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1188",
+      "reporter": "David Leatherman",
+      "date": "8/19/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1188"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:00.804489"
+}

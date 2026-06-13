@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-093",
+  "year": "2008",
+  "location": "Thurston Reservoir State Wildlife Area",
+  "county": "Prowers",
+  "observers": "Brandon Percival",
+  "comments": "Age: juv; Plumage: juvenal;",
+  "citations": "Semo, L. and Faulkner, D.  The 52nd Report of the CBRC. Colorado Birds 43(4), 268-281.",
+  "documentations": [
+    {
+      "doc_id": "1053",
+      "reporter": "Brandon K Percival",
+      "date": "7/28/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1053"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:21.331346"
+}

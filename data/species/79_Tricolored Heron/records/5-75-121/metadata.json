@@ -1,0 +1,19 @@
+{
+  "acc_no": "5-75-121",
+  "year": "1975",
+  "location": "North Poudre Res. #5",
+  "county": "Larimer",
+  "observers": "Michael Szymczak, Alex Cringan",
+  "comments": "",
+  "citations": "Reddall, J. 1976. CFO Official Records Committee 1975 Report. C.F.O. Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "13826",
+      "reporter": "Michael Szymczak, Alex Cringan",
+      "date": "6/13/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13826"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:49.860602"
+}

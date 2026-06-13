@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-193",
+  "year": "2001",
+  "location": "Standley Lake",
+  "county": "Jefferson",
+  "observers": "Larry Semo",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  2001 pt.2 of the CBRC. Colorado Birds 38(1), 14-21.",
+  "documentations": [
+    {
+      "doc_id": "13626",
+      "reporter": "Larry Semo",
+      "date": "12/10/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13626"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:26.707366"
+}

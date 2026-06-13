@@ -1,0 +1,19 @@
+{
+  "acc_no": "5-77-55",
+  "year": "1977",
+  "location": "1/2 ml N of McCoy",
+  "county": "Routt",
+  "observers": "Margaret Ewing",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "14288",
+      "reporter": "Margaret Ewing",
+      "date": "5/15/1977",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14288"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:33.951526"
+}

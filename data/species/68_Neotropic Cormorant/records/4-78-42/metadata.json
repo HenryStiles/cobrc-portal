@@ -1,0 +1,19 @@
+{
+  "acc_no": "4-78-42",
+  "year": "1978",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Bob Andrews",
+  "comments": "",
+  "citations": "Chase, C.  1977-1980 Pt.2 Report of the CBRC. CFO Journal 15(2), 54-59.",
+  "documentations": [
+    {
+      "doc_id": "14043",
+      "reporter": "Bob Andrews",
+      "date": "6/15/1978",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14043"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:16.480870"
+}

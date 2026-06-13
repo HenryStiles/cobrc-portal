@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-308",
+  "year": "2013",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Kay Rasmussen",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2497",
+      "reporter": "Kay Rasmussen",
+      "date": "6/6/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2497"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:41.704566"
+}

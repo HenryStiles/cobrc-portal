@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-036",
+  "year": "2016",
+  "location": "Pagosa Springs",
+  "county": "Archuleta",
+  "observers": "Satoko Lincoln",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6435",
+      "reporter": "Satoko Lincoln",
+      "date": "5/31/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6435"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:44.049671"
+}

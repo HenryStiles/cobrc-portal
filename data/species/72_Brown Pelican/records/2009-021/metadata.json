@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-021",
+  "year": "2009",
+  "location": "Totten Reservoir",
+  "county": "Montezuma",
+  "observers": "Jim Beatty",
+  "comments": "Age: adult;",
+  "citations": "Semo, L. and Faulkner, D.  The 54th Report of the CBRC. Colorado Birds 44(2), 89-105.",
+  "documentations": [
+    {
+      "doc_id": "1219",
+      "reporter": "James Beatty",
+      "date": "4/25/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1219"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:10.797863"
+}

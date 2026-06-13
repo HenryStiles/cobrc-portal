@@ -1,0 +1,26 @@
+{
+  "acc_no": "2025-007",
+  "year": "2025",
+  "location": "Franz Lake",
+  "county": "Chaffee",
+  "observers": "David Orth-Moore, Fran Rulon-Miller",
+  "comments": "",
+  "citations": "The 89th Report of the CBRC, Peter R. Gent, Colorado Birds 60(1), 323-332, 2026.",
+  "documentations": [
+    {
+      "doc_id": "14776",
+      "reporter": "David Orth-Moore",
+      "date": "5/1/2025",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14776"
+    },
+    {
+      "doc_id": "14784",
+      "reporter": "Fran Rulon-Miller",
+      "date": "5/1/2025",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14784"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:37.526603"
+}

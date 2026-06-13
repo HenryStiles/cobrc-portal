@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-018",
+  "year": "1999",
+  "location": "Chatfield Arboretum",
+  "county": "Jefferson",
+  "observers": "Ann Bonnell, Larry Norris",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "14392",
+      "reporter": "Ann Bonnell, Larry Norris",
+      "date": "3/19/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14392"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:02.455180"
+}

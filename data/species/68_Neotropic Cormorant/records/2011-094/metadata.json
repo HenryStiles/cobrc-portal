@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-094",
+  "year": "2011",
+  "location": "Box Springs",
+  "county": "Crowley",
+  "observers": "Bill Kaempfer",
+  "comments": "Age: adult; Plumage: non-breeding;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1721",
+      "reporter": "Bill Kaempfer",
+      "date": "6/24/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1721"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:46.858743"
+}

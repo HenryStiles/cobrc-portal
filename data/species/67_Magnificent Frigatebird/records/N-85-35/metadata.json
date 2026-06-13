@@ -1,0 +1,19 @@
+{
+  "acc_no": "N-85-35",
+  "year": "1985",
+  "location": "Littleton and Green Mtn Res",
+  "county": "Jefferson & Summit",
+  "observers": "Hans-Joachim Feddern",
+  "comments": "Old Acc. No. N-85-35    DMNS #39020; specimen collected at Green Mtn Res., Summit County",
+  "citations": "Gent, P.  1985 Report of the CBRC. CFO Journal 20(3-4), 44-50.",
+  "documentations": [
+    {
+      "doc_id": "13120",
+      "reporter": "Hans-Joachim Feddern",
+      "date": "9/14/1985",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13120"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:33.200747"
+}

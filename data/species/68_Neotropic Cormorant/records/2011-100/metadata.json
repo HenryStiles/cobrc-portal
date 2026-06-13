@@ -1,0 +1,33 @@
+{
+  "acc_no": "2011-100",
+  "year": "2011",
+  "location": "Prewitt Reservoir State Wildlife Area",
+  "county": "Washington",
+  "observers": "Steven Mlodinow",
+  "comments": "Age: immature;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1747",
+      "reporter": "Steven Mlodinow",
+      "date": "7/10/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1747"
+    },
+    {
+      "doc_id": "1748",
+      "reporter": "Steven Mlodinow",
+      "date": "7/10/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1748"
+    },
+    {
+      "doc_id": "1749",
+      "reporter": "Steven Mlodinow",
+      "date": "8/6/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1749"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:47.394820"
+}

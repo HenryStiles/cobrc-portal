@@ -1,0 +1,40 @@
+{
+  "acc_no": "2008-095",
+  "year": "2008",
+  "location": "Prewitt Reservoir State Wildlife Area",
+  "county": "Washington",
+  "observers": "Larry Griffin, Peter Gent, Bryan Guarante, Tony Leukering",
+  "comments": "Age: juvenile;",
+  "citations": "Semo, L. and Faulkner, D.  The 53rd Report of the CBRC. Colorado Birds 44(1), 31-42.",
+  "documentations": [
+    {
+      "doc_id": "1055",
+      "reporter": "Larry Griffin",
+      "date": "8/11/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1055"
+    },
+    {
+      "doc_id": "1066",
+      "reporter": "Peter Gent",
+      "date": "9/5/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1066"
+    },
+    {
+      "doc_id": "2824",
+      "reporter": "Tony Leukering",
+      "date": "9/5/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2824"
+    },
+    {
+      "doc_id": "2230",
+      "reporter": "Bryan Guarente",
+      "date": "9/6/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2230"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:06.889482"
+}

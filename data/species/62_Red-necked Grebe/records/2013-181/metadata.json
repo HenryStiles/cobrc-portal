@@ -1,0 +1,26 @@
+{
+  "acc_no": "2013-181",
+  "year": "2013",
+  "location": "Lake John State Wildlife Area and Alkali Lake",
+  "county": "Jackson",
+  "observers": "Lee Farrell, Charles Hundertmark",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2531",
+      "reporter": "Lee Farrell",
+      "date": "7/10/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2531"
+    },
+    {
+      "doc_id": "2532",
+      "reporter": "Charles Hundertmark",
+      "date": "7/13/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2532"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:40.280638"
+}

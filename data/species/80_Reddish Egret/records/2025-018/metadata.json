@@ -1,0 +1,26 @@
+{
+  "acc_no": "2025-018",
+  "year": "2025",
+  "location": "Blue Lake (Adobe Creek Reservoir)",
+  "county": "Bent",
+  "observers": "Duane Nelson, Cole Sage",
+  "comments": "",
+  "citations": "The 89th Report of the CBRC, Peter R. Gent, Colorado Birds 60(1), 323-332, 2026.",
+  "documentations": [
+    {
+      "doc_id": "15861",
+      "reporter": "Duane Nelson",
+      "date": "5/20/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15861"
+    },
+    {
+      "doc_id": "15864",
+      "reporter": "Cole Sage",
+      "date": "5/20/2025",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15864"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:47.011097"
+}

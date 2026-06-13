@@ -1,0 +1,33 @@
+{
+  "acc_no": "2013-167",
+  "year": "2013",
+  "location": "Holcim Wetlands",
+  "county": "Fremont",
+  "observers": "Brandon K Percival, John Drummond, Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2495",
+      "reporter": "Brandon K Percival",
+      "date": "6/14/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2495"
+    },
+    {
+      "doc_id": "2498",
+      "reporter": "John Drummond",
+      "date": "6/17/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2498"
+    },
+    {
+      "doc_id": "2526",
+      "reporter": "Steven Mlodinow",
+      "date": "7/3/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2526"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:33.104169"
+}

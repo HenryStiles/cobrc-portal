@@ -1,0 +1,26 @@
+{
+  "acc_no": "2001-033",
+  "year": "2001",
+  "location": "John Martin Reservoir State Park",
+  "county": "Bent",
+  "observers": "Tony Leukering, Ric Olson, Rachel Kolokoff, Marshall Iliff",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  2001 pt.1 Report of the CBRC. Colorado Birds 37(3), 138-155.",
+  "documentations": [
+    {
+      "doc_id": "13841",
+      "reporter": "Tony Leukering, Rachel Kolokoff, Marshall Iliff",
+      "date": "4/25/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13841"
+    },
+    {
+      "doc_id": "2785",
+      "reporter": "Ric Olson",
+      "date": "4/27/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2785"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:16.209936"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-092",
+  "year": "2008",
+  "location": "Thurston Reservoir State Wildlife Area",
+  "county": "Prowers",
+  "observers": "Brandon Percival",
+  "comments": "Age: ?; Plumage: ?;",
+  "citations": "Semo, L. and Faulkner, D.  The 54th Report of the CBRC. Colorado Birds 44(2), 89-105.",
+  "documentations": [
+    {
+      "doc_id": "1052",
+      "reporter": "Brandon K Percival",
+      "date": "7/28/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1052"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:00.104289"
+}

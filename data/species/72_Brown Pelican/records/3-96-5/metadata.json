@@ -1,0 +1,19 @@
+{
+  "acc_no": "3-96-5",
+  "year": "1996",
+  "location": "Prewitt Reservoir State Wildlife Area",
+  "county": "Washington",
+  "observers": "Joey Kellner",
+  "comments": "",
+  "citations": "Janos, M.  1996 Report of the CBRC.  J. of the CFO 32(3), 173-187.",
+  "documentations": [
+    {
+      "doc_id": "13503",
+      "reporter": "Joey Kellner",
+      "date": "8/21/1996",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13503"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:13.447572"
+}

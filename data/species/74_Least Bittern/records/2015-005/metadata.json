@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-005",
+  "year": "2014",
+  "location": "Chico Basin Ranch",
+  "county": "Pueblo",
+  "observers": "Brandon Percival",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "5199",
+      "reporter": "Brandon K. Percival",
+      "date": "5/21/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5199"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:26.719293"
+}

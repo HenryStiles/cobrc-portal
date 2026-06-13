@@ -1,0 +1,19 @@
+{
+  "acc_no": "5-75-33",
+  "year": "1975",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Johanna Billmyer, Harold Holt, Bob Andrews, Thompson Marsh",
+  "comments": "",
+  "citations": "Reddall, J. 1976. CFO Official Records Committee 1975 Report. C.F.O. Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "14284",
+      "reporter": "Johanna Billmyer, Harold Holt, Bob Andrews, Thompson Marsh",
+      "date": "4/12/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14284"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:31.056692"
+}

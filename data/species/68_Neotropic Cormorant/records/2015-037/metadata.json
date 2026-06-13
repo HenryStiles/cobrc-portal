@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-037",
+  "year": "2015",
+  "location": "Windsor",
+  "county": "Weld",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6243",
+      "reporter": "Steven Mlodinow",
+      "date": "4/6/2015",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6243"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:01.082379"
+}

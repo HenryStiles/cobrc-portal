@@ -1,0 +1,19 @@
+{
+  "acc_no": "5-81-60",
+  "year": "1981",
+  "location": "Chatfield State Park",
+  "county": "Jefferson",
+  "observers": "Richard Heil",
+  "comments": "",
+  "citations": "Chase, C.  1981 Report of the CBRC. CFO Journal 17(4), 75-82.",
+  "documentations": [
+    {
+      "doc_id": "14294",
+      "reporter": "Richard Heil",
+      "date": "8/21/1981",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14294"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:37.235622"
+}

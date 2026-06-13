@@ -1,0 +1,19 @@
+{
+  "acc_no": "3-95-6",
+  "year": "1995",
+  "location": "Sweitzer Lake State Park",
+  "county": "Delta",
+  "observers": "Scott Jorgensen, Coen Dexter",
+  "comments": "",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "13502",
+      "reporter": "Scott Jorgensen, Coen Dexter",
+      "date": "7/9/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13502"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:12.280355"
+}

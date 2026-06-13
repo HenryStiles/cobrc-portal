@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-007",
+  "year": "1996",
+  "location": "Warren Lake",
+  "county": "Larimer",
+  "observers": "David Ely",
+  "comments": "",
+  "citations": "Janos, M.  1997 Report of the CBRC. Journal of the CFO 33(4), 241-252.",
+  "documentations": [
+    {
+      "doc_id": "13650",
+      "reporter": "David Ely",
+      "date": "11/27/1996",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13650"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:12.567442"
+}

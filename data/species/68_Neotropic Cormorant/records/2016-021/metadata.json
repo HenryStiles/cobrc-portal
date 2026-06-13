@@ -1,0 +1,26 @@
+{
+  "acc_no": "2016-021",
+  "year": "2016",
+  "location": "Chipeta Lakes State Wildlife Area",
+  "county": "Montrose",
+  "observers": "Coen Dexter, Maureen Briggs",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6408",
+      "reporter": "Coen Dexter",
+      "date": "3/17/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6408"
+    },
+    {
+      "doc_id": "6444",
+      "reporter": "Maureen Briggs",
+      "date": "7/5/2016",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6444"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:01.660928"
+}

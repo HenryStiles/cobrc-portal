@@ -1,0 +1,26 @@
+{
+  "acc_no": "2009-100",
+  "year": "2009",
+  "location": "Big Johnson Reservoir",
+  "county": "El Paso",
+  "observers": "Bill Maynard, John Drummond",
+  "comments": "Age: juv.;",
+  "citations": "Semo, L. and Faulkner, D. The 57th Report of the CBRC. Colorado Birds 45(1), 30-41.",
+  "documentations": [
+    {
+      "doc_id": "1311",
+      "reporter": "Bill Maynard",
+      "date": "10/22/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1311"
+    },
+    {
+      "doc_id": "1312",
+      "reporter": "John Drummond",
+      "date": "10/22/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1312"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:42.201480"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-048",
+  "year": "2012",
+  "location": "Saint Vrain State Park",
+  "county": "Weld",
+  "observers": "Steven Mlodinow",
+  "comments": "Age: immature;",
+  "citations": "Faulker, D. The 66th Report of the CBRC. Colorado Birds 47(2), 86-93.",
+  "documentations": [
+    {
+      "doc_id": "1974",
+      "reporter": "Steven Mlodinow",
+      "date": "4/19/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1974"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:54.630897"
+}

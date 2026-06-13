@@ -1,0 +1,19 @@
+{
+  "acc_no": "2018-071",
+  "year": "2018",
+  "location": "Neegronda Reservoir",
+  "county": "Kiowa",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176.",
+  "documentations": [
+    {
+      "doc_id": "11706",
+      "reporter": "Steven Mlodinow",
+      "date": "7/29/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11706"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:06.951679"
+}

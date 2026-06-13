@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-009",
+  "year": "1999",
+  "location": "Quincy Reservoir",
+  "county": "Arapahoe",
+  "observers": "Paul Langendorfer",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "13506",
+      "reporter": "Paul Langendorfer",
+      "date": "9/5/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13506"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:16.703432"
+}

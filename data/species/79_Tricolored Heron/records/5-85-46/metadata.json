@@ -1,0 +1,19 @@
+{
+  "acc_no": "5-85-46",
+  "year": "1985",
+  "location": "Lower Latham Reservoir",
+  "county": "Weld",
+  "observers": "Jerry Cairo",
+  "comments": "",
+  "citations": "Gent, P.  1985 Report of the CBRC. CFO Journal 20(3-4), 44-50.",
+  "documentations": [
+    {
+      "doc_id": "13832",
+      "reporter": "Jerry Cairo",
+      "date": "9/8/1985",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13832"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:01.618588"
+}

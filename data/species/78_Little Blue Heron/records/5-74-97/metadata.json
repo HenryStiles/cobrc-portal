@@ -1,0 +1,19 @@
+{
+  "acc_no": "5-74-97",
+  "year": "1974",
+  "location": "Prospect Reservoir",
+  "county": "Weld",
+  "observers": "Joe Roller",
+  "comments": "",
+  "citations": "Reddall, J.  1975a Report of the CBRC. CFO Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "14283",
+      "reporter": "Joe Roller",
+      "date": "9/2/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14283"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:30.243289"
+}

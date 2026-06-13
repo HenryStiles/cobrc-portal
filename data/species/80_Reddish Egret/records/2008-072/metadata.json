@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-072",
+  "year": "2008",
+  "location": "Neenoshe Reservoir",
+  "county": "Kiowa",
+  "observers": "Andrew Spencer",
+  "comments": "Age: sub-adult; Plumage: mostly adult plumage;",
+  "citations": "Semo, L.  The 51st Report of the CBRC. Colorado Birds 43(3), 193-204.",
+  "documentations": [
+    {
+      "doc_id": "979",
+      "reporter": "Andrew Spencer",
+      "date": "5/21/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=979"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:22.675192"
+}
