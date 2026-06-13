@@ -1,0 +1,11 @@
+# Exclude logs
+data/scraper.log
+
+# Exclude scratch scripts
+test_fetch.py
+
+# OS files
+.DS_Store
+
+# Dev server node modules
+node_modules/
