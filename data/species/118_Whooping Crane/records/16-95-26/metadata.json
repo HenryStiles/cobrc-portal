@@ -1,0 +1,19 @@
+{
+  "acc_no": "16-95-26",
+  "year": "1995",
+  "location": "Thurston Reservoir State Wildlife Area",
+  "county": "Prowers",
+  "observers": "Jennie Slater, Mark Janos, Brandon Percival, Peter Gent",
+  "comments": "Old Acc. No. 16-95-26 One immature bird wandered widely in SE CO and also in SW KS; most observations were from Thurston Reservoir SWA.",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "13152",
+      "reporter": "Jennie Slater, Mark Janos, Brandon Percival, Peter Gent",
+      "date": "3/10/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13152"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:26.728381"
+}

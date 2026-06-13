@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-143",
+  "year": "2014",
+  "location": "Hwy 150 S of Fort Garland",
+  "county": "Costilla",
+  "observers": "Ronald Newhouse",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "5135",
+      "reporter": "Ronald Newhouse",
+      "date": "7/12/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5135"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:17.830548"
+}

@@ -1,0 +1,26 @@
+{
+  "acc_no": "17-91-26",
+  "year": "1991",
+  "location": "Bent's Old Fort and Oxbow State Wildlife Area",
+  "county": "Otero",
+  "observers": "Dan Bridges, Hugh Kingery, Mark Janos, Peter Gent",
+  "comments": "",
+  "citations": "Nelson, D.  1991 Report of the CBRC. CFO Journal 27(2), 49-56.",
+  "documentations": [
+    {
+      "doc_id": "13155",
+      "reporter": "Dan Bridges, Hugh Kingery, Mark Janos, Peter Gent",
+      "date": "5/7/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13155"
+    },
+    {
+      "doc_id": "14624",
+      "reporter": "Dan Bridges",
+      "date": "5/27/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14624"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:42.204358"
+}

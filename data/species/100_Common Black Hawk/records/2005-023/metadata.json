@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-023",
+  "year": "2005",
+  "location": "Two Buttes State Wildlife Area",
+  "county": "Baca",
+  "observers": "Marshall Iliff",
+  "comments": "",
+  "citations": "Semo, L.  The 44th Report of the CBRC. Colorado Birds 41(4), 241-258.",
+  "documentations": [
+    {
+      "doc_id": "109",
+      "reporter": "Marshall Iliff",
+      "date": "4/19/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=109"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:04.541575"
+}

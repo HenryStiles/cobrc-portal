@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-013",
+  "year": "2007",
+  "location": "Big Johnson Reservoir",
+  "county": "El Paso",
+  "observers": "Bill Maynard",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "671",
+      "reporter": "Bill Maynard",
+      "date": "3/19/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=671"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:50.640378"
+}

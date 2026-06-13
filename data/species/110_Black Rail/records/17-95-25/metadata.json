@@ -1,0 +1,19 @@
+{
+  "acc_no": "17-95-25",
+  "year": "1995",
+  "location": "Bent's Old Fort and Oxbow State Wildlife Area",
+  "county": "Otero & Bent",
+  "observers": "Joe Mammoser, Brandon Percival",
+  "comments": "",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "13157",
+      "reporter": "Joe Mammoser, Brandon Percival",
+      "date": "5/18/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13157"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:45.843941"
+}

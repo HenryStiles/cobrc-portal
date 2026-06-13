@@ -1,0 +1,19 @@
+{
+  "acc_no": "2025-058",
+  "year": "2025",
+  "location": "McElmo Canyon",
+  "county": "Montezuma",
+  "observers": "Mike Thompson",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16279",
+      "reporter": "Mike Thompson",
+      "date": "12/11/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16279"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:20.224509"
+}

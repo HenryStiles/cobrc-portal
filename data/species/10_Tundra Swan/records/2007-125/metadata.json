@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-125",
+  "year": "2007",
+  "location": "Baseline Reservoir",
+  "county": "Boulder",
+  "observers": "Walter Szeliga",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "814",
+      "reporter": "Walter Szeliga",
+      "date": "11/4/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=814"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:51.632102"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "1906-003",
+  "year": "1906",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "L. Hersey",
+  "comments": "Collected: Specimen DMNH #957",
+  "citations": "Lincoln, F., Two Species New to Colorado. Auk, 31, 256, 1914.",
+  "documentations": [
+    {
+      "doc_id": "13220",
+      "reporter": "L. Hersey",
+      "date": "7/1/1906",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13220"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:06.203087"
+}

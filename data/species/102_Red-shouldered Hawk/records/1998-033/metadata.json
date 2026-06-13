@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-033",
+  "year": "1998",
+  "location": "Rocky Ford",
+  "county": "Otero",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Lisowsky, B.  1998 Report of the CBRC. Colorado Birds 34(3):168-184.",
+  "documentations": [
+    {
+      "doc_id": "13567",
+      "reporter": "Mark Janos",
+      "date": "3/1/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13567"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:47.876760"
+}

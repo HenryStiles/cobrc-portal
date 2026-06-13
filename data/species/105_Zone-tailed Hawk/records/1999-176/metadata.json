@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-176",
+  "year": "1999",
+  "location": "Colorado National Monument",
+  "county": "Mesa",
+  "observers": "Jennie Duberstein, Matt Norris, Nick Barber",
+  "comments": "First State Record: photos by Adam Wood, Scott Yanco.",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "13162",
+      "reporter": "Jennie Duberstein, Matt Norris, Nick Barber",
+      "date": "7/17/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13162"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:57.414325"
+}

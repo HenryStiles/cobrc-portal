@@ -1,0 +1,26 @@
+{
+  "acc_no": "2015-099",
+  "year": "2015",
+  "location": "North Sterling State Park",
+  "county": "Logan",
+  "observers": "Bill Kaempfer, John Vanderpoel",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6318",
+      "reporter": "Bill Kaempfer",
+      "date": "8/30/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6318"
+    },
+    {
+      "doc_id": "6319",
+      "reporter": "John Vanderpoel",
+      "date": "8/30/2015",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6319"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:16.393780"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-167",
+  "year": "2005",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Andrew Spencer",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176",
+  "documentations": [
+    {
+      "doc_id": "233",
+      "reporter": "Andrew Spencer",
+      "date": "11/16/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=233"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:42.522584"
+}

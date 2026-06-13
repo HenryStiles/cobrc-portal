@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-010",
+  "year": "1896",
+  "location": "Denver",
+  "county": "Denver",
+  "observers": "William Harry Bergtold",
+  "comments": "Age: 1st-year; Plumage: juvenal;",
+  "citations": "Semo, L. and Faulkner, D. The 57th Report of the CBRC. Colorado Birds 45(1), 30-41.",
+  "documentations": [
+    {
+      "doc_id": "1105",
+      "reporter": "Nathan Pieplow",
+      "date": "1/20/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1105"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:30.924580"
+}

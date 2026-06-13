@@ -1,0 +1,19 @@
+{
+  "acc_no": "10-95-21",
+  "year": "1995",
+  "location": "Manzanola",
+  "county": "Otero",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "13186",
+      "reporter": "Mark Janos",
+      "date": "10/14/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13186"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:10.229058"
+}

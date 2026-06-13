@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-085",
+  "year": "2005",
+  "location": "South Republican SWA",
+  "county": "Yuma",
+  "observers": "Larry Semo",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "179",
+      "reporter": "Larry Semo",
+      "date": "9/4/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=179"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:56.038147"
+}

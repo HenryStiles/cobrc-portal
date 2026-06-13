@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-018",
+  "year": "2004",
+  "location": "Wellington State Wildlife Area/Cobb Lake State Wildlife Area",
+  "county": "Larimer",
+  "observers": "Rachel Hopper",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "14475",
+      "reporter": "Rachel Hopper",
+      "date": "3/31/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14475"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:35.538555"
+}

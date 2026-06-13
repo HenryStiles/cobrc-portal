@@ -1,0 +1,19 @@
+{
+  "acc_no": "17-81-9",
+  "year": "1981",
+  "location": "Loveland",
+  "county": "Larimer",
+  "observers": "Dave Leatherman",
+  "comments": "",
+  "citations": "Chase, C.  1980-1981 Report of the CBRC. CFO Journal 16(3), 46-52.",
+  "documentations": [
+    {
+      "doc_id": "13309",
+      "reporter": "Dave Leatherman",
+      "date": "4/30/1981",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13309"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:47.570024"
+}

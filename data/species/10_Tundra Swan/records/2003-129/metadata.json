@@ -1,0 +1,19 @@
+{
+  "acc_no": "2003-129",
+  "year": "2002",
+  "location": "Valco Ponds",
+  "county": "Pueblo",
+  "observers": "Brandon Percival, Larry Semo",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  The 39th Report of the CBRC. Colorado Birds 39(3), 131-141.",
+  "documentations": [
+    {
+      "doc_id": "14471",
+      "reporter": "Brandon Percival, Larry Semo",
+      "date": "11/18/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14471"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:25.640873"
+}

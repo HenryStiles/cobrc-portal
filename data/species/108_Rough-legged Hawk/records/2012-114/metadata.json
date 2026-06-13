@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-114",
+  "year": "2012",
+  "location": "Estes Park",
+  "county": "Larimer",
+  "observers": "Brett Sandercock",
+  "comments": "",
+  "citations": "Faulkner, Doug. July 2013. The 67th Report of the Colorado Bird Records Committee: Colorado Birds 47(3):178-186",
+  "documentations": [
+    {
+      "doc_id": "2081",
+      "reporter": "Brett Sandercock",
+      "date": "9/12/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2081"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:50.362883"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "10-94-19",
+  "year": "1994",
+  "location": "Pueblo",
+  "county": "Pueblo",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Prather, B.  1994 Report of the CBRC. CFO Journal 31(1), 23-31.",
+  "documentations": [
+    {
+      "doc_id": "13566",
+      "reporter": "Mark Janos",
+      "date": "1/9/1994",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13566"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:46.908146"
+}

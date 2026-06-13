@@ -1,0 +1,19 @@
+{
+  "acc_no": "2023-012",
+  "year": "2023",
+  "location": "Wellsville",
+  "county": "Fremont",
+  "observers": "Chris Brown",
+  "comments": "",
+  "citations": "Gent, P.  85th Report of the CBRC. Colorado Birds 58(1), 7-14.",
+  "documentations": [
+    {
+      "doc_id": "13265",
+      "reporter": "Chris Brown",
+      "date": "4/16/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13265"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:23.562158"
+}

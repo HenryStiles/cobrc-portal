@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-030",
+  "year": "1999",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Dave Leatherman",
+  "comments": "",
+  "citations": "Lisowsky, B.  1999 Report of the CBRC. Colorado Birds 35(1):23-39.",
+  "documentations": [
+    {
+      "doc_id": "13569",
+      "reporter": "Dave Leatherman",
+      "date": "10/2/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13569"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:49.941996"
+}

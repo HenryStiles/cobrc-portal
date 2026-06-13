@@ -1,0 +1,26 @@
+{
+  "acc_no": "2000-027",
+  "year": "2000",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "David Quesenberry, Karleen Schofield",
+  "comments": "",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "2682",
+      "reporter": "Dave Quesenberry",
+      "date": "3/11/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2682"
+    },
+    {
+      "doc_id": "2681",
+      "reporter": "Karleen Schofield",
+      "date": "3/12/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2681"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:53.892016"
+}

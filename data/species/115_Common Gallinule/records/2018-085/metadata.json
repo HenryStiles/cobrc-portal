@@ -1,0 +1,19 @@
+{
+  "acc_no": "2018-085",
+  "year": "2018",
+  "location": "CSU Environmental Learning Center",
+  "county": "Larimer",
+  "observers": "Andrew Bankert",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176.",
+  "documentations": [
+    {
+      "doc_id": "11830",
+      "reporter": "Andrew Bankert",
+      "date": "7/7/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11830"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:01.977582"
+}

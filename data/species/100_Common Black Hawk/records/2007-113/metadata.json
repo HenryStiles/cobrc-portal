@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-113",
+  "year": "2007",
+  "location": "Colorado River State Park (James M. Robb)",
+  "county": "Mesa",
+  "observers": "Roger Linfield",
+  "comments": "Age: adult;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "905",
+      "reporter": "Roger Linfield",
+      "date": "5/25/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=905"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:07.529263"
+}

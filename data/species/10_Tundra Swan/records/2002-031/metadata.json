@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-031",
+  "year": "2002",
+  "location": "Lathrop State Park",
+  "county": "Huerfano",
+  "observers": "David Silverman",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  The 38th Report of the CBRC. Colorado Birds 38(4), 168-183.",
+  "documentations": [
+    {
+      "doc_id": "14469",
+      "reporter": "David Silverman",
+      "date": "3/12/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14469"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:21.509099"
+}

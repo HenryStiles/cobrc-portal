@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-147",
+  "year": "2015",
+  "location": "Crow Valley Campground",
+  "county": "Weld",
+  "observers": "Julie Barraza",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "6228",
+      "reporter": "Julie Barraza",
+      "date": "3/28/2015",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6228"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:05.304247"
+}

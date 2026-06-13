@@ -1,0 +1,26 @@
+{
+  "acc_no": "2023-013",
+  "year": "2023",
+  "location": "Neenoshe Reservoir",
+  "county": "Kiowa",
+  "observers": "Adrian Lakin, Doug Faulkner",
+  "comments": "",
+  "citations": "Gent, P.  85th Report of the CBRC. Colorado Birds 58(1), 7-14.",
+  "documentations": [
+    {
+      "doc_id": "13348",
+      "reporter": "Doug Faulkner",
+      "date": "4/17/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13348"
+    },
+    {
+      "doc_id": "13272",
+      "reporter": "Adrian Lakin",
+      "date": "4/18/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13272"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:33.621784"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "10-76-47",
+  "year": "1976",
+  "location": "Hale area",
+  "county": "Yuma",
+  "observers": "Jack Reddall",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "13557",
+      "reporter": "Jack Reddall",
+      "date": "5/5/1976",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13557"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:35.837318"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-004",
+  "year": "2007",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Brandon K Percival",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "689",
+      "reporter": "Brandon K Percival",
+      "date": "1/16/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=689"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:49.338035"
+}

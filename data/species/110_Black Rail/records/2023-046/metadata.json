@@ -1,0 +1,19 @@
+{
+  "acc_no": "2023-046",
+  "year": "2023",
+  "location": "Cottonwood Canyon",
+  "county": "Baca",
+  "observers": "Luke Pheneger",
+  "comments": "",
+  "citations": "Gent, P., 2025. 87th Report of the CBRC.  Colorado Birds, 59(1), 7-15.",
+  "documentations": [
+    {
+      "doc_id": "13435",
+      "reporter": "Luke Pheneger",
+      "date": "5/15/2023",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13435"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:56.763105"
+}

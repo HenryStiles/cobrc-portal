@@ -1,0 +1,19 @@
+{
+  "acc_no": "17-74-24",
+  "year": "1965",
+  "location": "Fort Morgan",
+  "county": "Morgan",
+  "observers": "Allegra Collister, Sylvia Brockner",
+  "comments": "",
+  "citations": "Reddall, J. 1975. Reports from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "13308",
+      "reporter": "Allegra Collister, Sylvia Brockner",
+      "date": "6/6/1965",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13308"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:46.162151"
+}

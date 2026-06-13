@@ -1,0 +1,40 @@
+{
+  "acc_no": "2018-058",
+  "year": "2018",
+  "location": "Cottonwood Hollow Natural Area",
+  "county": "Larimer",
+  "observers": "Robert Beauchamp, Joe Mammoser, Kevin Keirn, Sue Riffe",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176",
+  "documentations": [
+    {
+      "doc_id": "11695",
+      "reporter": "Robert Beauchamp",
+      "date": "7/1/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11695"
+    },
+    {
+      "doc_id": "11699",
+      "reporter": "Joe Mammoser",
+      "date": "7/2/2018",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11699"
+    },
+    {
+      "doc_id": "11698",
+      "reporter": "Kevin Keirn",
+      "date": "7/5/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11698"
+    },
+    {
+      "doc_id": "11763",
+      "reporter": "Sue Riffe",
+      "date": "7/15/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11763"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:58.346819"
+}

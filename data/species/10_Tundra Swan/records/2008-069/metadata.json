@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-069",
+  "year": "2008",
+  "location": "Zink's Pond",
+  "county": "La Plata",
+  "observers": "Susan Allerton",
+  "comments": "Age: adult;",
+  "citations": "Faulkner, D. and Semo, L. The 59th Report of the CBRC. Colorado Birds 45(3), 174-180.",
+  "documentations": [
+    {
+      "doc_id": "899",
+      "reporter": "Susan Allerton",
+      "date": "1/1/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=899"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:53.320322"
+}

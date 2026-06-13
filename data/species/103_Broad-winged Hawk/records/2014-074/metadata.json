@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-074",
+  "year": "2014",
+  "location": "Snowline Lake",
+  "county": "Gilpin",
+  "observers": "Todd Deininger",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "4021",
+      "reporter": "Todd Deininger",
+      "date": "6/14/2014",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4021"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:56.160120"
+}

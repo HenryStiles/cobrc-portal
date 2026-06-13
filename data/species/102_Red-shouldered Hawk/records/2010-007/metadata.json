@@ -1,0 +1,47 @@
+{
+  "acc_no": "2010-007",
+  "year": "2010",
+  "location": "Kodak Watchable State Wildlife Area and Poudre River Trail (western section)",
+  "county": "Weld",
+  "observers": "Cole Wild, Nathan Pieplow, Bill Schmoker, Larry Semo",
+  "comments": "Age: juv.; Plumage: basic;",
+  "citations": "Semo, L. and Faulkner, D. The 57th Report of the CBRC. Colorado Birds 45(1), 30-41.",
+  "documentations": [
+    {
+      "doc_id": "1378",
+      "reporter": "Eric Defonso",
+      "date": "1/6/2010",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1378"
+    },
+    {
+      "doc_id": "1566",
+      "reporter": "C W",
+      "date": "1/11/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1566"
+    },
+    {
+      "doc_id": "1375",
+      "reporter": "Nathan Pieplow",
+      "date": "1/14/2010",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1375"
+    },
+    {
+      "doc_id": "1377",
+      "reporter": "Bill Schmoker",
+      "date": "1/16/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1377"
+    },
+    {
+      "doc_id": "1480",
+      "reporter": "Larry Semo",
+      "date": "1/20/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1480"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:56.603663"
+}

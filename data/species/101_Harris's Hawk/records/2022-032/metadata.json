@@ -1,0 +1,19 @@
+{
+  "acc_no": "2022-032",
+  "year": "2022",
+  "location": "Pueblo West",
+  "county": "Pueblo",
+  "observers": "Brandon K. Percival",
+  "comments": "",
+  "citations": "Gent, P.  The 84th Report of the CBRC. Colorado Birds 54(4), 194-203.",
+  "documentations": [
+    {
+      "doc_id": "12036",
+      "reporter": "Brandon K. Percival",
+      "date": "3/12/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12036"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:29.760446"
+}

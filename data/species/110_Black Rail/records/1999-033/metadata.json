@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-033",
+  "year": "1997",
+  "location": "Bent's Old Fort and Oxbow State Wildlife Area",
+  "county": "Otero",
+  "observers": "Dave Leatherman, Joe Mammoser",
+  "comments": "",
+  "citations": "Lisowsky, B.  1999 Report of the CBRC. CFO Journal 35(1), 23-39.",
+  "documentations": [
+    {
+      "doc_id": "13598",
+      "reporter": "Dave Leatherman, Joe Mammoser",
+      "date": "5/10/1997",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13598"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:49.525708"
+}

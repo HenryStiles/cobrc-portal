@@ -1,0 +1,19 @@
+{
+  "acc_no": "N-17-59",
+  "year": "1975",
+  "location": "Fort Lyon Area",
+  "county": "Bent",
+  "observers": "Herman Griese",
+  "comments": "Old Acc. No. N-17-59 tape recordings obtained: now treated as 1st State Record.",
+  "citations": "Gent, P.  1982 Report of the CBRC. CFO Journal 18(2), 51-57.",
+  "documentations": [
+    {
+      "doc_id": "13153",
+      "reporter": "Herman Griese",
+      "date": "6/11/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13153"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:40.291454"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "17-83-26",
+  "year": "1983",
+  "location": "Walden Ponds/Sawhill Ponds Complex",
+  "county": "Boulder",
+  "observers": "Peter Gent, Laurens Halsey, Doug Ward",
+  "comments": "",
+  "citations": "Gent, P.  1983 Report of the CBRC. CFO Journal 19(1-2), 28-33.",
+  "documentations": [
+    {
+      "doc_id": "13311",
+      "reporter": "Peter Gent, Laurens Halsey, Doug Ward",
+      "date": "6/10/1983",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13311"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:48.413120"
+}

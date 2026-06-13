@@ -1,0 +1,19 @@
+{
+  "acc_no": "2019-029",
+  "year": "2019",
+  "location": "Pastorius State Wildlife Area",
+  "county": "La Plata",
+  "observers": "Susan E. Allerton",
+  "comments": "",
+  "citations": "The 82nd Report of the CBRC, 2022. Colorado Birds, 56(4), 283-294.",
+  "documentations": [
+    {
+      "doc_id": "11842",
+      "reporter": "Susan E. Allerton",
+      "date": "9/26/2019",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11842"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:56.672313"
+}

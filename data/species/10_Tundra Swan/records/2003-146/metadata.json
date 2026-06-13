@@ -1,0 +1,19 @@
+{
+  "acc_no": "2003-146",
+  "year": "2003",
+  "location": "Pastorius State Wildlife Area",
+  "county": "La Plata",
+  "observers": "James Beatty",
+  "comments": "",
+  "citations": "Leukering, T.  The 40th Report of the CBRC. Colorado Birds 39(4), 168-176.",
+  "documentations": [
+    {
+      "doc_id": "14473",
+      "reporter": "James Beatty",
+      "date": "11/26/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14473"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:27.988457"
+}

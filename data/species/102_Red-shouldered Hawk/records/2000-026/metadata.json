@@ -1,0 +1,33 @@
+{
+  "acc_no": "2000-026",
+  "year": "2000",
+  "location": "South Platte Greenway Gravel Pits (north section)",
+  "county": "Adams",
+  "observers": "Tony Leukering, Karleen Schofield, Ric Olson",
+  "comments": "",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "2722",
+      "reporter": "Tony Leukering",
+      "date": "1/1/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2722"
+    },
+    {
+      "doc_id": "2723",
+      "reporter": "Karleen Schofield",
+      "date": "1/3/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2723"
+    },
+    {
+      "doc_id": "2724",
+      "reporter": "Ric Olson",
+      "date": "1/8/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2724"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:51.079390"
+}

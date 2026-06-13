@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-181",
+  "year": "2006",
+  "location": "Neegronda Reservoir",
+  "county": "Kiowa",
+  "observers": "Brandon Percival",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "Semo, L.  The 48th Report of the CBRC. Colorado Birds 42(4), 270-278.",
+  "documentations": [
+    {
+      "doc_id": "790",
+      "reporter": "Brandon K Percival",
+      "date": "11/1/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=790"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:28.695214"
+}

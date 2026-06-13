@@ -1,0 +1,19 @@
+{
+  "acc_no": "17-84-42",
+  "year": "1984",
+  "location": "Clifton",
+  "county": "Mesa",
+  "observers": "Rich Levad",
+  "comments": "",
+  "citations": "Gent, P.  1984 Report of the CBRC. CFO Journal 19(4), 82-87.",
+  "documentations": [
+    {
+      "doc_id": "13312",
+      "reporter": "Rich Levad",
+      "date": "5/4/1984",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13312"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:49.570871"
+}

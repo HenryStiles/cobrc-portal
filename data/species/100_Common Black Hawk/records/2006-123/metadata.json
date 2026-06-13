@@ -1,0 +1,40 @@
+{
+  "acc_no": "2006-123",
+  "year": "2006",
+  "location": "Canon City",
+  "county": "Fremont",
+  "observers": "Bill Maynard, Andrew Spencer, Nathan Pieplow, Peter Gent",
+  "comments": "Age: adult;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "541",
+      "reporter": "Bill Maynard",
+      "date": "9/10/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=541"
+    },
+    {
+      "doc_id": "542",
+      "reporter": "Andrew Spencer",
+      "date": "9/12/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=542"
+    },
+    {
+      "doc_id": "545",
+      "reporter": "Peter Gent",
+      "date": "9/12/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=545"
+    },
+    {
+      "doc_id": "650",
+      "reporter": "Nathan Pieplow",
+      "date": "10/12/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=650"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:05.127819"
+}

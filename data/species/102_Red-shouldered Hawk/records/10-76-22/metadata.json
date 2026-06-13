@@ -1,0 +1,19 @@
+{
+  "acc_no": "10-76-22",
+  "year": "1976",
+  "location": "South Republican SWA",
+  "county": "Yuma",
+  "observers": "Mike Moulton",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "13556",
+      "reporter": "Mike Moulton",
+      "date": "2/15/1976",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13556"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:34.512915"
+}

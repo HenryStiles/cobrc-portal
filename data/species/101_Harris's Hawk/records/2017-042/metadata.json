@@ -1,0 +1,54 @@
+{
+  "acc_no": "2017-042",
+  "year": "2017",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Joe Mammoser, Robert Beauchamp, Steven Mlodinow, Aaron Yappert, Walter Wehtje, Bill Schmoker",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "9620",
+      "reporter": "Joe Mammoser",
+      "date": "12/10/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=9620"
+    },
+    {
+      "doc_id": "10629",
+      "reporter": "Robert Beauchamp",
+      "date": "12/12/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=10629"
+    },
+    {
+      "doc_id": "9627",
+      "reporter": "Steven Mlodinow",
+      "date": "12/12/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=9627"
+    },
+    {
+      "doc_id": "9622",
+      "reporter": "Aaron Yappert",
+      "date": "12/12/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=9622"
+    },
+    {
+      "doc_id": "9628",
+      "reporter": "WALTER WEHTJE",
+      "date": "12/15/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=9628"
+    },
+    {
+      "doc_id": "10647",
+      "reporter": "Bill Schmoker",
+      "date": "1/28/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=10647"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:18.613104"
+}

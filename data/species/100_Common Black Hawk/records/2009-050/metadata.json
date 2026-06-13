@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-050",
+  "year": "2009",
+  "location": "Hotchkiss Federal Fish Hatchery",
+  "county": "Delta",
+  "observers": "Jason Beason",
+  "comments": "Age: adult;",
+  "citations": "Semo, L. and Faulkner, D.  The 53rd Report of the CBRC. Colorado Birds 44(1), 31-42.",
+  "documentations": [
+    {
+      "doc_id": "1253",
+      "reporter": "Jason Beason",
+      "date": "6/12/2009",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1253"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:08.595340"
+}

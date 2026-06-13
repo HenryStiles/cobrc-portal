@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-125",
+  "year": "2005",
+  "location": "Marston Reservoir",
+  "county": "Denver",
+  "observers": "Andrew Spencer",
+  "comments": "Age: 4 adults, 1 juv;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "230",
+      "reporter": "Andrew Spencer",
+      "date": "11/17/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=230"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:44.593160"
+}

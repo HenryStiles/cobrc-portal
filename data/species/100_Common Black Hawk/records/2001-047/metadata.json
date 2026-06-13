@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-047",
+  "year": "2001",
+  "location": "Trinidad Lake State Park",
+  "county": "Las Animas",
+  "observers": "Glenn Walbek, Tony Leukering, Alan Versaw",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "13725",
+      "reporter": "Glenn Walbek, Tony Leukering, Alan Versaw",
+      "date": "5/20/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13725"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:01.236630"
+}

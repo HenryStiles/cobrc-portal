@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-043",
+  "year": "2015",
+  "location": "Burlington",
+  "county": "Kit Carson",
+  "observers": "Riley Morris",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6248",
+      "reporter": "Riley Morris",
+      "date": "4/8/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6248"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:04.233439"
+}

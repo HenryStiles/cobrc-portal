@@ -1,0 +1,26 @@
+{
+  "acc_no": "2018-064",
+  "year": "2018",
+  "location": "Higbee Road at Vogel Canyon",
+  "county": "Otero",
+  "observers": "Kathy Mihm Dunning, Bill Maynard",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "11710",
+      "reporter": "Kathy Mihm Dunning",
+      "date": "8/4/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11710"
+    },
+    {
+      "doc_id": "11717",
+      "reporter": "Bill Maynard",
+      "date": "8/13/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11717"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:07.373790"
+}

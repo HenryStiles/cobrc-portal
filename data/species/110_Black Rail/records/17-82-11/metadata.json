@@ -1,0 +1,19 @@
+{
+  "acc_no": "17-82-11",
+  "year": "1982",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "David Palmer",
+  "comments": "",
+  "citations": "Gent, P.  1982 Report of the CBRC. CFO Journal 18(2), 51-57.",
+  "documentations": [
+    {
+      "doc_id": "13154",
+      "reporter": "David Palmer",
+      "date": "4/30/1982",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13154"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:41.136256"
+}

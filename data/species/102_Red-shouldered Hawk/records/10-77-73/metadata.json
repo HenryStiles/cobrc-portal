@@ -1,0 +1,19 @@
+{
+  "acc_no": "10-77-73",
+  "year": "1977",
+  "location": "Fort Collins",
+  "county": "Larimer & Weld",
+  "observers": "Brian Millsap",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "13560",
+      "reporter": "Brian Millsap",
+      "date": "9/2/1977",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13560"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:38.680898"
+}

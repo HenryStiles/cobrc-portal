@@ -1,0 +1,19 @@
+{
+  "acc_no": "10-94-17",
+  "year": "1994",
+  "location": "Waterton Canyon",
+  "county": "Jefferson",
+  "observers": "Joey Kellner, Steve Stachowiak, Joe Roller, J B Hayes, Mark Janos",
+  "comments": "",
+  "citations": "Prather, B.  1994 Report of the CBRC. CFO Journal 31(1), 23-31.",
+  "documentations": [
+    {
+      "doc_id": "14615",
+      "reporter": "Joey Kellner, Steve Stachowiak, Joe Roller, J B Hayes, Mark Janos",
+      "date": "12/17/1994",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14615"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:07.358788"
+}

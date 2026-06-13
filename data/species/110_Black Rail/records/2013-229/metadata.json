@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-229",
+  "year": "2013",
+  "location": "Holcim Wetlands",
+  "county": "Fremont",
+  "observers": "Mark Peterson",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2602",
+      "reporter": "Mark Peterson",
+      "date": "6/15/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2602"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:54.156777"
+}

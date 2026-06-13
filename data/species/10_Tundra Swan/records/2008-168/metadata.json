@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-168",
+  "year": "2008",
+  "location": "Glenwood Springs",
+  "county": "Garfield",
+  "observers": "Caroline Hecker",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1162",
+      "reporter": "Caroline Hecker",
+      "date": "12/31/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1162"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:54.423099"
+}

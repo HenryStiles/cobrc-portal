@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-041",
+  "year": "1998",
+  "location": "Two Buttes State Wildlife Area",
+  "county": "Baca",
+  "observers": "Brandon Percival",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "13159",
+      "reporter": "Brandon Percival",
+      "date": "5/24/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13159"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:51.481718"
+}

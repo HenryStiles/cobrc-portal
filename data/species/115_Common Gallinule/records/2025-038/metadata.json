@@ -1,0 +1,19 @@
+{
+  "acc_no": "2025-038",
+  "year": "2025",
+  "location": "Box Springs",
+  "county": "Crowley",
+  "observers": "Beth Payne",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16046",
+      "reporter": "Beth Payne",
+      "date": "9/2/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16046"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:15.202457"
+}

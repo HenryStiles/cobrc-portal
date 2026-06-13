@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-016",
+  "year": "2004",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Rachel Hopper, Bill Schmoker",
+  "comments": "",
+  "citations": "Semo, L.  The 41st Report of the CBRC. Colorado Birds 40(1), 26-44.",
+  "documentations": [
+    {
+      "doc_id": "14474",
+      "reporter": "Rachel Hopper, Bill Schmoker",
+      "date": "3/11/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14474"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:33.029549"
+}

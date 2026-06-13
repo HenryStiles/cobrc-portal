@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-199",
+  "year": "2002",
+  "location": "Standley Lake",
+  "county": "Jefferson",
+  "observers": "Andrew Spencer",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "511",
+      "reporter": "Andrew Spencer",
+      "date": "11/27/2002",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=511"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:26.723094"
+}

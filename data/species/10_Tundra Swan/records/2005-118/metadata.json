@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-118",
+  "year": "2005",
+  "location": "Standley Lake",
+  "county": "Jefferson",
+  "observers": "Doug Faulkner",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "216",
+      "reporter": "Doug Faulkner",
+      "date": "11/13/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=216"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:39.844750"
+}

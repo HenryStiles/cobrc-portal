@@ -1,0 +1,19 @@
+{
+  "acc_no": "2018-036",
+  "year": "2018",
+  "location": "North Gateway Park",
+  "county": "Prowers",
+  "observers": "Janeal W. Thompson",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176",
+  "documentations": [
+    {
+      "doc_id": "10659",
+      "reporter": "Janeal W. Thompson",
+      "date": "3/7/2018",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=10659"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:00.199051"
+}

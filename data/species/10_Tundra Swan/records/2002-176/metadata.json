@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-176",
+  "year": "2002",
+  "location": "Grand Lake Area",
+  "county": "Grand",
+  "observers": "Andrew Spencer",
+  "comments": "Age: juv;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "495",
+      "reporter": "Andrew Spencer",
+      "date": "2/23/2002",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=495"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:19.585549"
+}

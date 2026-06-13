@@ -1,0 +1,47 @@
+{
+  "acc_no": "2022-034",
+  "year": "2022",
+  "location": "Colorado Springs",
+  "county": "El Paso",
+  "observers": "Tanja Britton, Melvin Goff, Brandon K. Percival, John Drummond, Aaron Driscoll",
+  "comments": "",
+  "citations": "Gent, P.  The 84th Report of the CBRC. Colorado Birds 54(4), 194-203.",
+  "documentations": [
+    {
+      "doc_id": "12056",
+      "reporter": "Tanja Britton",
+      "date": "4/19/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12056"
+    },
+    {
+      "doc_id": "12050",
+      "reporter": "Melvin Goff",
+      "date": "4/19/2022",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12050"
+    },
+    {
+      "doc_id": "12049",
+      "reporter": "Brandon K. Percival",
+      "date": "4/19/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12049"
+    },
+    {
+      "doc_id": "12051",
+      "reporter": "John Drummond",
+      "date": "4/19/2022",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12051"
+    },
+    {
+      "doc_id": "12054",
+      "reporter": "Aaron Driscoll",
+      "date": "4/19/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12054"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:05.630377"
+}

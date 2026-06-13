@@ -1,0 +1,19 @@
+{
+  "acc_no": "17-78-55",
+  "year": "1978",
+  "location": "Durango",
+  "county": "La Plata",
+  "observers": "Howard Winkler, Elva Fox",
+  "comments": "",
+  "citations": "Chase, C.  1977-1980 Pt.1 Report of the CBRC. CFO Journal 15(1), 24-30.",
+  "documentations": [
+    {
+      "doc_id": "13150",
+      "reporter": "Howard Winkler, Elva Fox",
+      "date": "8/6/1978",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13150"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:26.975889"
+}

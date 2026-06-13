@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-83-5",
+  "year": "1982",
+  "location": "Walden Ponds/Sawhill Ponds Complex",
+  "county": "Boulder",
+  "observers": "Charlie Chase",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "14468",
+      "reporter": "Charlie Chase",
+      "date": "12/19/1982",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14468"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:17.813945"
+}

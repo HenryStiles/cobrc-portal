@@ -1,0 +1,33 @@
+{
+  "acc_no": "2019-030",
+  "year": "2019",
+  "location": "Wellington State Wildlife Area/Cobb Lake State Wildlife Area",
+  "county": "Larimer",
+  "observers": "Rachel Hopper, Andrew Bankert, Luke Pheneger",
+  "comments": "",
+  "citations": "The 82nd Report of the CBRC, 2022. Colorado Birds, 56(4), 283-294.",
+  "documentations": [
+    {
+      "doc_id": "11801",
+      "reporter": "Rachel Hopper",
+      "date": "4/29/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11801"
+    },
+    {
+      "doc_id": "13750",
+      "reporter": "Luke Pheneger",
+      "date": "5/5/2019",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13750"
+    },
+    {
+      "doc_id": "11829",
+      "reporter": "Andrew Bankert",
+      "date": "5/9/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11829"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:03.373907"
+}

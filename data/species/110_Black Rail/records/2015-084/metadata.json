@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-084",
+  "year": "2011",
+  "location": "Brett Gray Ranch",
+  "county": "Lincoln",
+  "observers": "Mark Peterson",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "3886",
+      "reporter": "Mark Peterson",
+      "date": "7/22/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3886"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:53.499392"
+}

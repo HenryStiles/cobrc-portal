@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-130",
+  "year": "2007",
+  "location": "Chatfield State Park",
+  "county": "Jefferson & Douglas",
+  "observers": "Andrew Spencer",
+  "comments": "15 adults, 3 juveniles",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "840",
+      "reporter": "Andrew Spencer",
+      "date": "11/24/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=840"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:52.207763"
+}

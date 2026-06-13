@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-314",
+  "year": "2013",
+  "location": "Walden Ponds/Sawhill Ponds Complex",
+  "county": "Boulder",
+  "observers": "Arthur Gest",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2762",
+      "reporter": "Arthur Gest",
+      "date": "12/1/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2762"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:58.412028"
+}

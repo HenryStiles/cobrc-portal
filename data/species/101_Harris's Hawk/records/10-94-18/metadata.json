@@ -1,0 +1,19 @@
+{
+  "acc_no": "10-94-18",
+  "year": "1994",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Bill Lisowsky",
+  "comments": "",
+  "citations": "Prather, B.  1994 Report of the CBRC. CFO Journal 31(1), 23-31.",
+  "documentations": [
+    {
+      "doc_id": "13185",
+      "reporter": "Bill Lisowsky",
+      "date": "12/19/1994",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13185"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:09.326202"
+}

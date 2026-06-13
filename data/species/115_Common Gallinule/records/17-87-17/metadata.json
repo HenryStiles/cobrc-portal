@@ -1,0 +1,19 @@
+{
+  "acc_no": "17-87-17",
+  "year": "1987",
+  "location": "Craig",
+  "county": "Moffat",
+  "observers": "Judy Ward",
+  "comments": "",
+  "citations": "Bunn, R.  1987 Report of the CBRC pt.1. CFO Journal 23(1), 13-18.",
+  "documentations": [
+    {
+      "doc_id": "13313",
+      "reporter": "Judy Ward",
+      "date": "4/27/1987",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13313"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:50.518661"
+}

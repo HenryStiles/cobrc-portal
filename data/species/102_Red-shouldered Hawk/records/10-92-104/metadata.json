@@ -1,0 +1,19 @@
+{
+  "acc_no": "10-92-104",
+  "year": "1992",
+  "location": "Pueblo",
+  "county": "Pueblo",
+  "observers": "Robert Dickson, Mark Janos",
+  "comments": "",
+  "citations": "Prather, B.  1992 Report of the CBRC. CFO Jornal 28(4), 157-168.",
+  "documentations": [
+    {
+      "doc_id": "13562",
+      "reporter": "Robert Dickson, Mark Janos",
+      "date": "1/7/1992",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13562"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:41.059410"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2019-015",
+  "year": "2019",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Robert Beauchamp",
+  "comments": "",
+  "citations": "Colorado Birds 56(3), 213-222, 2022",
+  "documentations": [
+    {
+      "doc_id": "11785",
+      "reporter": "Robert Beauchamp",
+      "date": "2/21/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11785"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:26.716925"
+}

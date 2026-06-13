@@ -1,0 +1,33 @@
+{
+  "acc_no": "2020-033",
+  "year": "2020",
+  "location": "Manitou Lake and Trout Creek",
+  "county": "Teller",
+  "observers": "Kevin Ash, Alan Ketcham, Rachel Hopper",
+  "comments": "Tony Leukering says this bird is in full juvenile plumage.",
+  "citations": "The 82nd Report of the CBRC, 2022. Colorado Birds, 56(4), 283-294.",
+  "documentations": [
+    {
+      "doc_id": "11909",
+      "reporter": "Kevin Ash",
+      "date": "9/11/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11909"
+    },
+    {
+      "doc_id": "11910",
+      "reporter": "Alan Ketcham",
+      "date": "9/11/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11910"
+    },
+    {
+      "doc_id": "11946",
+      "reporter": "Rachel Hopper",
+      "date": "9/12/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11946"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:18.483203"
+}

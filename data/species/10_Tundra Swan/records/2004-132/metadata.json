@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-132",
+  "year": "2004",
+  "location": "Left Hand Valley Reservoir area",
+  "county": "Boulder",
+  "observers": "Bill Schmoker",
+  "comments": "Age: 2 adults, juv;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "31",
+      "reporter": "Bill Schmoker",
+      "date": "11/24/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=31"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:37.040328"
+}

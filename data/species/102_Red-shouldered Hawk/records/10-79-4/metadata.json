@@ -1,0 +1,19 @@
+{
+  "acc_no": "10-79-4",
+  "year": "1978",
+  "location": "Chatfield State Park",
+  "county": "Jefferson",
+  "observers": "Hugh Kingery",
+  "comments": "",
+  "citations": "Chase, C.  1977-1980 Pt.2 Report of the CBRC. CFO Journal 15(2), 54-59.",
+  "documentations": [
+    {
+      "doc_id": "13561",
+      "reporter": "Hugh Kingery",
+      "date": "11/18/1978",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13561"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:39.998216"
+}

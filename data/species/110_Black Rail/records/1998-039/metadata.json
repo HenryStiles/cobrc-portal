@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-039",
+  "year": "1997",
+  "location": "Fort Lyon Canal",
+  "county": "Bent & Otero",
+  "observers": "Brandon Percival, Dave Leatherman",
+  "comments": "",
+  "citations": "Lisowsky, B., 1998 Report of the CBRC. Colorado Birds 34(3), 168-184.",
+  "documentations": [
+    {
+      "doc_id": "13190",
+      "reporter": "Brandon Percival, Dave Leatherman",
+      "date": "5/9/1997",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13190"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:48.468977"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-218",
+  "year": "2012",
+  "location": "University Park, Union and Academy",
+  "county": "El Paso",
+  "observers": "Esther Bergling",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1934",
+      "reporter": "Esther Bergling",
+      "date": "2/15/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1934"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:51.272450"
+}

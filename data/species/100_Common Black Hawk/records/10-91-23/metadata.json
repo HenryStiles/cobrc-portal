@@ -1,0 +1,19 @@
+{
+  "acc_no": "10-91-23",
+  "year": "1991",
+  "location": "Carrizo Canyon Picnic Area",
+  "county": "Baca",
+  "observers": "Rupert Higgins",
+  "comments": "",
+  "citations": "Prather, B.  1993 Report of the CBRC. CFO Journal 30(1), 20-30.",
+  "documentations": [
+    {
+      "doc_id": "13193",
+      "reporter": "Rupert Higgins",
+      "date": "6/15/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13193"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:59.258372"
+}
