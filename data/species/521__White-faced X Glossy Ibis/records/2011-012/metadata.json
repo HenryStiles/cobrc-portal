@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-012",
+  "year": "2011",
+  "location": "Beebe Draw",
+  "county": "Weld",
+  "observers": "Steve Mlodinow",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1716",
+      "reporter": "Steven Mlodinow",
+      "date": "5/30/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1716"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:51.394708"
+}

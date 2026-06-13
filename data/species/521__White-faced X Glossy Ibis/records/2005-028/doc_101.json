@@ -1,0 +1,42 @@
+{
+  "doc_id": "101",
+  "scraped_at": "2026-06-13T14:33:50.100218",
+  "species": "",
+  "acc_no": "",
+  "reporter_name": "",
+  "address": "",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "reporter_email": "",
+  "other_observers": "",
+  "species_name": "",
+  "first_date": "",
+  "last_date": "",
+  "duration": "",
+  "county": "",
+  "specific_location": "",
+  "number_of_birds": "",
+  "age": "",
+  "sex": "",
+  "plumage": "",
+  "description": "",
+  "photographer": "Photographer: Bill Schmoker, Bill Schmoker, Bill Schmoker",
+  "photos_text": "",
+  "uploads_text": "101_ewxv3.jpg\n101_ijsb2.jpg\n101_ufrs1.jpg",
+  "date_submitted": "",
+  "attachments": [
+    {
+      "filename": "101_ewxv3.jpg",
+      "url": "/RecordUploads/101/101_ewxv3.jpg"
+    },
+    {
+      "filename": "101_ijsb2.jpg",
+      "url": "/RecordUploads/101/101_ijsb2.jpg"
+    },
+    {
+      "filename": "101_ufrs1.jpg",
+      "url": "/RecordUploads/101/101_ufrs1.jpg"
+    }
+  ]
+}

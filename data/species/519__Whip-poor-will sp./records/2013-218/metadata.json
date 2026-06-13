@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-218",
+  "year": "2013",
+  "location": "Frenchman Creek State Wildlife Area",
+  "county": "Phillips",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176",
+  "documentations": [
+    {
+      "doc_id": "2586",
+      "reporter": "Steven Mlodinow",
+      "date": "9/18/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2586"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:43.891618"
+}

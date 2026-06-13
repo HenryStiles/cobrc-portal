@@ -1,0 +1,19 @@
+{
+  "acc_no": "2019-002",
+  "year": "2019",
+  "location": "Road KK, 1/4 mile east of Road 31.",
+  "county": "Prowers",
+  "observers": "Jill Smith",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "11812",
+      "reporter": "Jill Smith",
+      "date": "5/27/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11812"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:10.229435"
+}

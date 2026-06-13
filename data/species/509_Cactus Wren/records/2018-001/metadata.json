@@ -1,0 +1,19 @@
+{
+  "acc_no": "2018-001",
+  "year": "2018",
+  "location": "I25 and Woodmen Road",
+  "county": "El Paso",
+  "observers": "Kaye Lafreniere",
+  "comments": "",
+  "citations": "Colorado Birds 52(4):30-37",
+  "documentations": [
+    {
+      "doc_id": "11666",
+      "reporter": "Kaye Lafreniere",
+      "date": "3/22/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11666"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:07.148483"
+}

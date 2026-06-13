@@ -1,0 +1,33 @@
+{
+  "acc_no": "2018-003",
+  "year": "2018",
+  "location": "Mitchek Ranch",
+  "county": "Cheyenne",
+  "observers": "Glenn Walbek, Bill Maynard, Peter Gent",
+  "comments": "",
+  "citations": "Colorado Birds 52(4):30-37",
+  "documentations": [
+    {
+      "doc_id": "11681",
+      "reporter": "Glenn Walbek",
+      "date": "5/15/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11681"
+    },
+    {
+      "doc_id": "11685",
+      "reporter": "Bill Maynard",
+      "date": "5/17/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11685"
+    },
+    {
+      "doc_id": "11687",
+      "reporter": "Peter R. Gent",
+      "date": "5/17/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11687"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:01.736660"
+}

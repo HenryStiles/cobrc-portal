@@ -1,0 +1,68 @@
+{
+  "acc_no": "2018-061",
+  "year": "2018",
+  "location": "Idaho Creek Open Space",
+  "county": "Weld",
+  "observers": "Steven Mlodinow, Kevin Keirn, Sue Riffe, Brandon Percival, Cheryl Teuton, Tony Leukering, Peter R. Gent, Paul Hurtado",
+  "comments": "Bird was around well into 2019, and spent most of its time at Milavec Res in Firestone.",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "11781",
+      "reporter": "Steven Mlodinow",
+      "date": "12/11/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11781"
+    },
+    {
+      "doc_id": "11761",
+      "reporter": "Kevin Keirn",
+      "date": "12/11/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11761"
+    },
+    {
+      "doc_id": "11762",
+      "reporter": "Sue Riffe",
+      "date": "12/11/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11762"
+    },
+    {
+      "doc_id": "11776",
+      "reporter": "Brandon K. Percival",
+      "date": "12/12/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11776"
+    },
+    {
+      "doc_id": "11777",
+      "reporter": "Cheryl Teuton",
+      "date": "12/14/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11777"
+    },
+    {
+      "doc_id": "11766",
+      "reporter": "Tony Leukering",
+      "date": "12/14/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11766"
+    },
+    {
+      "doc_id": "11764",
+      "reporter": "Peter R. Gent",
+      "date": "12/17/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11764"
+    },
+    {
+      "doc_id": "11767",
+      "reporter": "Paul Hurtado",
+      "date": "12/22/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11767"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:41.520217"
+}

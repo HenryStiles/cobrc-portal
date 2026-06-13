@@ -1,0 +1,19 @@
+{
+  "acc_no": "2003-156",
+  "year": "2001",
+  "location": "Chatfield State Park",
+  "county": "Jefferson",
+  "observers": "Nathan Pieplow",
+  "comments": "",
+  "citations": "Semo, L. and Faulkner, D. The 56th Report of the CBRC. Colorado Birds 44(4), 240-254.",
+  "documentations": [
+    {
+      "doc_id": "1179",
+      "reporter": "Nathan Pieplow",
+      "date": "4/11/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1179"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:42.442197"
+}

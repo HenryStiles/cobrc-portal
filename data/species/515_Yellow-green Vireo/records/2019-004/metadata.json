@@ -1,0 +1,19 @@
+{
+  "acc_no": "2019-004",
+  "year": "2019",
+  "location": "Two Buttes State Wildlife Area",
+  "county": "Baca",
+  "observers": "Mark Peterson",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "11824",
+      "reporter": "Mark Peterson",
+      "date": "6/25/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11824"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:54.457851"
+}

@@ -1,0 +1,33 @@
+{
+  "acc_no": "2024-012",
+  "year": "2024",
+  "location": "SE of Yucca House National Monument",
+  "county": "Montezuma",
+  "observers": "Mike Thompson, Coen Dexter, Chris MacDonald",
+  "comments": "",
+  "citations": "Gent, P., 2025. 87th Report of the CBRC.  Colorado Birds, 59(1), 7-15.",
+  "documentations": [
+    {
+      "doc_id": "14289",
+      "reporter": "Mike Thompson",
+      "date": "3/30/2024",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14289"
+    },
+    {
+      "doc_id": "13837",
+      "reporter": "Coen Dexter",
+      "date": "3/30/2024",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13837"
+    },
+    {
+      "doc_id": "13817",
+      "reporter": "Chris MacDonald",
+      "date": "3/31/2024",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13817"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:11.385276"
+}

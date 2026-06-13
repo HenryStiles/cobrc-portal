@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-80-29",
+  "year": "1980",
+  "location": "Clear Springs Ranch (formerly Hanna Ranch)",
+  "county": "El Paso",
+  "observers": "Margaret Abbott",
+  "comments": "",
+  "citations": "Chase, C. 1981b. CBRC report 1977-1980 - Part 2. C.F.O. Journal 15:54-59.",
+  "documentations": [
+    {
+      "doc_id": "13292",
+      "reporter": "Margaret Abbott",
+      "date": "4/30/1980",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13292"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:46.791271"
+}

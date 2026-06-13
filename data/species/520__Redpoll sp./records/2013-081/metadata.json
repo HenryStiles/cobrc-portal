@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-081",
+  "year": "2013",
+  "location": "Silverthorne",
+  "county": "Summit",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "2365",
+      "reporter": "Steven Mlodinow",
+      "date": "1/27/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2365"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:57.444069"
+}

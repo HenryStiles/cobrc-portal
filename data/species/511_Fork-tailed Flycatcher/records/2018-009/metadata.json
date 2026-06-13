@@ -1,0 +1,47 @@
+{
+  "acc_no": "2018-009",
+  "year": "2018",
+  "location": "Prince Lakes, Erie and Thomas Reservoirs",
+  "county": "Boulder",
+  "observers": "Peter Gent, Sue Riffe, Brandon Percival, Kevin Keirn, Adam Vesely",
+  "comments": "",
+  "citations": "Colorado Birds 52(4):30-37",
+  "documentations": [
+    {
+      "doc_id": "11738",
+      "reporter": "Peter R. Gent",
+      "date": "10/21/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11738"
+    },
+    {
+      "doc_id": "11748",
+      "reporter": "Sue Riffe",
+      "date": "10/21/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11748"
+    },
+    {
+      "doc_id": "11739",
+      "reporter": "Brandon K. Percival",
+      "date": "10/22/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11739"
+    },
+    {
+      "doc_id": "11741",
+      "reporter": "Kevin Keirn",
+      "date": "10/22/2018",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11741"
+    },
+    {
+      "doc_id": "11752",
+      "reporter": "Adam Vesely",
+      "date": "10/23/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11752"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:15.773917"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2018-004",
+  "year": "2018",
+  "location": "Buckeye Road E of Rawhide Energy Station",
+  "county": "Larimer",
+  "observers": "James Fortune",
+  "comments": "",
+  "citations": "Colorado Birds 52(4):30-37",
+  "documentations": [
+    {
+      "doc_id": "11720",
+      "reporter": "James Fortune",
+      "date": "9/14/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11720"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:14.301619"
+}

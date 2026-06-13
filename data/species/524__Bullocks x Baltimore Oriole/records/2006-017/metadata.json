@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-017",
+  "year": "2006",
+  "location": "Lamar",
+  "county": "Prowers",
+  "observers": "Dorothy Russell",
+  "comments": "Age: adult; Plumage: ?; Sex: m;",
+  "citations": "Semo, L.  The 48th Report of the CBRC. Colorado Birds 42(4), 270-278.",
+  "documentations": [
+    {
+      "doc_id": "381",
+      "reporter": "Dorothy Russell",
+      "date": "2/20/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=381"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:00.701529"
+}

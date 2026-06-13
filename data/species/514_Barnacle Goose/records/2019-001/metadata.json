@@ -1,0 +1,33 @@
+{
+  "acc_no": "2019-001",
+  "year": "2019",
+  "location": "Milavec Res.",
+  "county": "Weld",
+  "observers": "Mark Miller, Peter Gent, Brandon Percival",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "11772",
+      "reporter": "Mark Miller",
+      "date": "1/6/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11772"
+    },
+    {
+      "doc_id": "11773",
+      "reporter": "Peter R. Gent",
+      "date": "1/6/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11773"
+    },
+    {
+      "doc_id": "11775",
+      "reporter": "Brandon K. Percival",
+      "date": "1/16/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11775"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:03.423882"
+}
