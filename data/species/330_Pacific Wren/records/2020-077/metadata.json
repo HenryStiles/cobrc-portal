@@ -1,0 +1,26 @@
+{
+  "acc_no": "2020-077",
+  "year": "2020",
+  "location": "Rocky Mountain National Park (Larimer section)",
+  "county": "Larimer",
+  "observers": "Sue Riffe, Rachel Hopper",
+  "comments": "",
+  "citations": "The 83rd Report of the Colorado Bird Records Committee,  Peter R. Gent, Colorado Birds, 57(2), 61-70, 2023.",
+  "documentations": [
+    {
+      "doc_id": "11904",
+      "reporter": "Sue Riffe",
+      "date": "7/6/2020",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11904"
+    },
+    {
+      "doc_id": "11957",
+      "reporter": "Rachel Hopper",
+      "date": "7/21/2020",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11957"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:03.548177"
+}

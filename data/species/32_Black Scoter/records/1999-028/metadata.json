@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-028",
+  "year": "1999",
+  "location": "Big Johnson Reservoir",
+  "county": "El Paso",
+  "observers": "Mark Janos, Tony Leukering",
+  "comments": "",
+  "citations": "Lisowsky, B.  1999 Report of the CBRC. CFO Journal 35(1):23-39.",
+  "documentations": [
+    {
+      "doc_id": "13638",
+      "reporter": "Mark Janos, Tony Leukering",
+      "date": "11/11/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13638"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:48.163033"
+}

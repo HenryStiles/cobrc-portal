@@ -1,0 +1,33 @@
+{
+  "acc_no": "2018-057",
+  "year": "2018",
+  "location": "Rocky Mountain National Park (Larimer section)",
+  "county": "Larimer",
+  "observers": "William Rowe, Arthur Bezuidenhout",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "11701",
+      "reporter": "William Rowe",
+      "date": "6/22/2018",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11701"
+    },
+    {
+      "doc_id": "11696",
+      "reporter": "Arthur Bezuidenhout",
+      "date": "6/27/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11696"
+    },
+    {
+      "doc_id": "11697",
+      "reporter": "Arthur Bezuidenhout",
+      "date": "6/27/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11697"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:54.851125"
+}

@@ -1,0 +1,26 @@
+{
+  "acc_no": "2018-034",
+  "year": "2018",
+  "location": "McCabe Creek outlet to San Juan River",
+  "county": "Archuleta",
+  "observers": "Kathy Mihm Dunning, Jason St. Pierre",
+  "comments": "",
+  "citations": "Colorado Birds 56(3), 213-222, 2022",
+  "documentations": [
+    {
+      "doc_id": "10656",
+      "reporter": "Kathy Mihm Dunning",
+      "date": "2/16/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=10656"
+    },
+    {
+      "doc_id": "10650",
+      "reporter": "Jason St. Pierre",
+      "date": "2/17/2018",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=10650"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:20.983642"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-76-110",
+  "year": "1976",
+  "location": "Clover Basin Res.",
+  "county": "Boulder",
+  "observers": "Jack Reddall, Tom VanZandt",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "13627",
+      "reporter": "Jack Reddall, Tom VanZandt",
+      "date": "11/6/1976",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13627"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:30.912446"
+}

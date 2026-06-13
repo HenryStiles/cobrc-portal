@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-104",
+  "year": "2011",
+  "location": "Wild Basin",
+  "county": "Boulder",
+  "observers": "Maggie Boswell",
+  "comments": "Age: adult; Sex: m;",
+  "citations": "Faulkner, D. The 64th Report of the CBRC. Colorado Birds 46(4), 255-267.",
+  "documentations": [
+    {
+      "doc_id": "1733",
+      "reporter": "Maggie Boswell",
+      "date": "7/25/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1733"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:16.969159"
+}

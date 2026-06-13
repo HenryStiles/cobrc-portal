@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-100",
+  "year": "2016",
+  "location": "Van's Marsh",
+  "county": "Bent",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "7503",
+      "reporter": "Steven Mlodinow",
+      "date": "11/12/2016",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=7503"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:51.125550"
+}

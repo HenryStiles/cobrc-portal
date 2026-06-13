@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-052",
+  "year": "2008",
+  "location": "Lamar",
+  "county": "Prowers",
+  "observers": "Brian Gibbons",
+  "comments": "",
+  "citations": "Semo, L. and Faulkner, D.  The 52nd Report of the CBRC. Colorado Birds 43(4), 268-281.",
+  "documentations": [
+    {
+      "doc_id": "971",
+      "reporter": "Brian Gibbons",
+      "date": "5/6/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=971"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:22.778799"
+}

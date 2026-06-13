@@ -1,0 +1,19 @@
+{
+  "acc_no": "2017-006",
+  "year": "2017",
+  "location": "Durango",
+  "county": "La Plata",
+  "observers": "Jason St Pierre",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176.",
+  "documentations": [
+    {
+      "doc_id": "8535",
+      "reporter": "Jason St Pierre",
+      "date": "1/24/2017",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8535"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:47.116638"
+}

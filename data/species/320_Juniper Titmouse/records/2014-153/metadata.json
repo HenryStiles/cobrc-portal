@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-153",
+  "year": "2014",
+  "location": "Not Specified",
+  "county": "Jefferson",
+  "observers": "Norm Lewis",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176",
+  "documentations": [
+    {
+      "doc_id": "5150",
+      "reporter": "Norm Lewis",
+      "date": "10/7/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5150"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:40.722440"
+}

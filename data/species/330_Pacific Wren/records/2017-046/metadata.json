@@ -1,0 +1,19 @@
+{
+  "acc_no": "2017-046",
+  "year": "2017",
+  "location": "Wild Basin",
+  "county": "Boulder",
+  "observers": "Kathy Mihm Dunning",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "8590",
+      "reporter": "Kathy Mihm Dunning",
+      "date": "7/14/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8590"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:47.968279"
+}

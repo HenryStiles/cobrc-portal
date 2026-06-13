@@ -1,0 +1,19 @@
+{
+  "acc_no": "2018-019",
+  "year": "2018",
+  "location": "Chico Basin Ranch",
+  "county": "Pueblo",
+  "observers": "Bill Maynard",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "11725",
+      "reporter": "Bill Maynard",
+      "date": "9/21/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11725"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:53.681192"
+}

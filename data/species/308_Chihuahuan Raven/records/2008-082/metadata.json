@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-082",
+  "year": "2008",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Thomas Hall",
+  "comments": "",
+  "citations": "Semo, L.  The 51st Report of the CBRC. Colorado Birds 43(3), 193-204.",
+  "documentations": [
+    {
+      "doc_id": "990",
+      "reporter": "Thomas Hall",
+      "date": "5/28/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=990"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:55.365428"
+}

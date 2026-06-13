@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-015",
+  "year": "2013",
+  "location": "Prewitt Reservoir State Wildlife Area",
+  "county": "Logan",
+  "observers": "David Dowell",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2815",
+      "reporter": "David Dowell",
+      "date": "11/16/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2815"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:48.770926"
+}

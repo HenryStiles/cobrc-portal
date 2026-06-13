@@ -1,0 +1,19 @@
+{
+  "acc_no": "42-77-17",
+  "year": "1977",
+  "location": "Pueblo",
+  "county": "Pueblo",
+  "observers": "Edward Blatnick",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "14203",
+      "reporter": "Edward Blatnick",
+      "date": "3/26/1977",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14203"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:20.032048"
+}

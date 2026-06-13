@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-76-100",
+  "year": "1976",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Van Remsen, Jack Reddall",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "13609",
+      "reporter": "Van Remsen, Jack Reddall",
+      "date": "10/12/1976",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13609"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:28.205445"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "42-76-39",
+  "year": "1976",
+  "location": "South Republican SWA",
+  "county": "Yuma",
+  "observers": "Jack Reddall",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "14200",
+      "reporter": "Jack Reddall",
+      "date": "5/6/1976",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14200"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:17.974744"
+}

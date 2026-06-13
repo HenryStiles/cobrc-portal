@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-019",
+  "year": "1997",
+  "location": "Big Johnson Reservoir",
+  "county": "El Paso",
+  "observers": "B B Hahn, Mark Janos",
+  "comments": "",
+  "citations": "Janos, M.  1997 Report of the CBRC.  J. of the CFO 33(4), 241-252.",
+  "documentations": [
+    {
+      "doc_id": "13635",
+      "reporter": "B B Hahn, Mark Janos",
+      "date": "11/8/1997",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13635"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:43.994406"
+}

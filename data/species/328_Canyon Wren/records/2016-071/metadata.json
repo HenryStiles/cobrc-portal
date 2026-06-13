@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-071",
+  "year": "2016",
+  "location": "Denver",
+  "county": "Denver",
+  "observers": "Julia Auckland",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "7472",
+      "reporter": "Julia Auckland",
+      "date": "9/14/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=7472"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:56.252983"
+}

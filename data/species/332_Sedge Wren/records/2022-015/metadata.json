@@ -1,0 +1,19 @@
+{
+  "acc_no": "2022-015",
+  "year": "2022",
+  "location": "White Rocks area trail",
+  "county": "Boulder",
+  "observers": "Kevin Rutherford",
+  "comments": "Very nice photos of this bird, which was seen by many observers later in the day, including myself Peter Gent.",
+  "citations": "Gent, P.  The 84th Report of the CBRC. Colorado Birds 54(4), 194-203.",
+  "documentations": [
+    {
+      "doc_id": "13076",
+      "reporter": "Kevin Rutherford",
+      "date": "10/23/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13076"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:59.070070"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-156",
+  "year": "2008",
+  "location": "Cemetary on north side of town.",
+  "county": "Kit Carson",
+  "observers": "Gregg Goodrich",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "880",
+      "reporter": "Gregg Goodrich",
+      "date": "2/2/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=880"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:55.907942"
+}

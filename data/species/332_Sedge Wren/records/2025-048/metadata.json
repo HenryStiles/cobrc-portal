@@ -1,0 +1,19 @@
+{
+  "acc_no": "2025-048",
+  "year": "2025",
+  "location": "Willow Springs Open Space",
+  "county": "Arapahoe",
+  "observers": "Kevin Williams",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16160",
+      "reporter": "Kevin Williams",
+      "date": "11/5/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16160"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:03.821909"
+}

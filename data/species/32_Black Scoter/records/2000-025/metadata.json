@@ -1,0 +1,19 @@
+{
+  "acc_no": "2000-025",
+  "year": "1998",
+  "location": "Walden Ponds/Sawhill Ponds Complex",
+  "county": "Boulder",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "Leukering, T. & Wood, C.  2000 Report of the CBRC. Colorado Birds 36(2):82-113.",
+  "documentations": [
+    {
+      "doc_id": "13619",
+      "reporter": "Tony Leukering",
+      "date": "11/28/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13619"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:47.272957"
+}

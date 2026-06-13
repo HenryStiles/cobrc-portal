@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-78-1",
+  "year": "1977",
+  "location": "Fairmont Lake",
+  "county": "Jefferson",
+  "observers": "Judy Ward, Robert Andrews",
+  "comments": "",
+  "citations": "Chase, C.  1977-80 pt.2 Report of the CBRC. CFO Journal 15(2), 54-59.",
+  "documentations": [
+    {
+      "doc_id": "13628",
+      "reporter": "Judy Ward, Robert Andrews",
+      "date": "10/28/1977",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13628"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:33.127105"
+}

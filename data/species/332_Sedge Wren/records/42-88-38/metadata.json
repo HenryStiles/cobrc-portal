@@ -1,0 +1,19 @@
+{
+  "acc_no": "42-88-38",
+  "year": "1988",
+  "location": "Arapaho National Wildlife Refuge",
+  "county": "Jackson",
+  "observers": "William Howe",
+  "comments": "",
+  "citations": "Gent, P. and Nelson, D.  1988 Report of the CBRC. CFO Journal 26(4), 137-142.",
+  "documentations": [
+    {
+      "doc_id": "14205",
+      "reporter": "William Howe",
+      "date": "6/15/1988",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14205"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:22.037710"
+}

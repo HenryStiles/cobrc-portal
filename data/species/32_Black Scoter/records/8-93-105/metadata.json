@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-93-105",
+  "year": "1993",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Brandon Percival",
+  "comments": "",
+  "citations": "Prather, B.  1993 Report of the CBRC. CFO Journal 30(1), 20-30.",
+  "documentations": [
+    {
+      "doc_id": "13632",
+      "reporter": "Brandon Percival",
+      "date": "10/17/1993",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13632"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:36.796687"
+}

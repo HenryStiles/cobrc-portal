@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-95-19",
+  "year": "1995",
+  "location": "Lake Meredith",
+  "county": "Crowley",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "13633",
+      "reporter": "Mark Janos",
+      "date": "12/3/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13633"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:42.150079"
+}

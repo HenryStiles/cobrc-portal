@@ -1,0 +1,19 @@
+{
+  "acc_no": "2022-047",
+  "year": "2022",
+  "location": "Colorado Springs",
+  "county": "El Paso",
+  "observers": "Tanja Britton",
+  "comments": "",
+  "citations": "Gent, P.  The 84th Report of the CBRC. Colorado Birds 54(4), 194-203.",
+  "documentations": [
+    {
+      "doc_id": "12041",
+      "reporter": "Tanja Britton",
+      "date": "2/25/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12041"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:10.188230"
+}

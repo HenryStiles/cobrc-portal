@@ -1,0 +1,19 @@
+{
+  "acc_no": "42-75-139",
+  "year": "1969",
+  "location": "Lower Latham Reservoir",
+  "county": "Weld",
+  "observers": "Bob Andrews",
+  "comments": "",
+  "citations": "Reddall, J.  1975 Report of the CBRC. CFO Journal 37:5-19.",
+  "documentations": [
+    {
+      "doc_id": "14199",
+      "reporter": "Bob Andrews",
+      "date": "5/25/1969",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14199"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:14.395322"
+}

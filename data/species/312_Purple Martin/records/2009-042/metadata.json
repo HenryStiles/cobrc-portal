@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-042",
+  "year": "2009",
+  "location": "Chico Basin Ranch",
+  "county": "Pueblo",
+  "observers": "Brian Gibbons",
+  "comments": "",
+  "citations": "Semo, L. and Faulkner, D.  The 54th Report of the CBRC. Colorado Birds 44(2), 89-105.",
+  "documentations": [
+    {
+      "doc_id": "1233",
+      "reporter": "Brian Gibbons",
+      "date": "5/21/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1233"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:23.379842"
+}

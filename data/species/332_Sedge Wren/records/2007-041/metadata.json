@@ -1,0 +1,26 @@
+{
+  "acc_no": "2007-041",
+  "year": "2007",
+  "location": "Lagerman Reservoir and the Swede Lakes",
+  "county": "Boulder",
+  "observers": "Scott Rashid, Bill Schmoker",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "738",
+      "reporter": "Scott Rashid",
+      "date": "6/5/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=738"
+    },
+    {
+      "doc_id": "876",
+      "reporter": "Bill Schmoker",
+      "date": "6/12/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=876"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:47.742502"
+}

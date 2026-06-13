@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-026",
+  "year": "2013",
+  "location": "Thompson Ranch (private)",
+  "county": "Lincoln",
+  "observers": "Glenn Walbek",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2830",
+      "reporter": "Glenn Walbek",
+      "date": "10/4/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2830"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:28.940840"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2003-134",
+  "year": "2003",
+  "location": "Paradox Valley",
+  "county": "Montrose",
+  "observers": "Andrew Spencer",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "525",
+      "reporter": "Andrew Spencer",
+      "date": "4/24/2003",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=525"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:51.889883"
+}

@@ -1,0 +1,54 @@
+{
+  "acc_no": "2015-082",
+  "year": "2015",
+  "location": "Wild Basin",
+  "county": "Boulder",
+  "observers": "Michael Britten, Andrew Bankert, Peter R. Gent, William Rowe, Kathy Mihm Dunning, Alec Hopping",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6295",
+      "reporter": "Michael Britten",
+      "date": "6/20/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6295"
+    },
+    {
+      "doc_id": "6314",
+      "reporter": "Andrew Bankert",
+      "date": "7/3/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6314"
+    },
+    {
+      "doc_id": "6298",
+      "reporter": "Peter R. Gent",
+      "date": "7/4/2015",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6298"
+    },
+    {
+      "doc_id": "6320",
+      "reporter": "William Rowe",
+      "date": "7/7/2015",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6320"
+    },
+    {
+      "doc_id": "6296",
+      "reporter": "Kathy Mihm Dunning",
+      "date": "7/9/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6296"
+    },
+    {
+      "doc_id": "6297",
+      "reporter": "Alec Hopping",
+      "date": "7/10/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6297"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:36.112042"
+}

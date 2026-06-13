@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-305",
+  "year": "2013",
+  "location": "Silverton",
+  "county": "San Juan",
+  "observers": "Michael King",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2605",
+      "reporter": "Michael King",
+      "date": "5/18/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2605"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:55.150792"
+}

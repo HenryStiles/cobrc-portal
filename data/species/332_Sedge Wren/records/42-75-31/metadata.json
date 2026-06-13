@@ -1,0 +1,19 @@
+{
+  "acc_no": "42-75-31",
+  "year": "1975",
+  "location": "Pueblo",
+  "county": "Pueblo",
+  "observers": "Jerry Ligon, Thompson Marsh, Ralph Sargent",
+  "comments": "",
+  "citations": "Reddall, J.  1975 Report of the CBRC. CFO Journal 37:5-19.",
+  "documentations": [
+    {
+      "doc_id": "14198",
+      "reporter": "Jerry Ligon, Thompson Marsh, Ralph Sargent",
+      "date": "4/5/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14198"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:16.696668"
+}

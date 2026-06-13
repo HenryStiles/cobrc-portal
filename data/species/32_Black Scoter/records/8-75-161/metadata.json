@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-75-161",
+  "year": "1975",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Robert Andrews",
+  "comments": "Adult Male.",
+  "citations": "Reddall, J. 1976. CFO Official Records Committee 1975 Report. C.F.O. Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "13607",
+      "reporter": "Robert Andrews",
+      "date": "11/15/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13607"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:25.775987"
+}

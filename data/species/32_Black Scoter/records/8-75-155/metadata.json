@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-75-155",
+  "year": "1975",
+  "location": "Kendrick Lakes",
+  "county": "Jefferson",
+  "observers": "Harold Holt",
+  "comments": "Adult female or immature.",
+  "citations": "Reddall, J. 1976. CFO Official Records Committee 1975 Report. C.F.O. Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "13606",
+      "reporter": "Harold Holt",
+      "date": "11/16/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13606"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:27.182221"
+}

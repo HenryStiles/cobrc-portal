@@ -1,0 +1,26 @@
+{
+  "acc_no": "2017-059",
+  "year": "2017",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Nancy Gobris, Bill Maynard",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "10652",
+      "reporter": "Nancy Gobris",
+      "date": "9/23/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=10652"
+    },
+    {
+      "doc_id": "9603",
+      "reporter": "Bill Maynard",
+      "date": "9/23/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=9603"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:49.843110"
+}

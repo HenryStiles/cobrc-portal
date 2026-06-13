@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-153",
+  "year": "2015",
+  "location": "Pastorius State Wildlife Area",
+  "county": "La Plata",
+  "observers": "D. Bradford Macurda Jr.",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "6323",
+      "reporter": "D. Bradford Macurda Jr.",
+      "date": "9/8/2015",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6323"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:53.103289"
+}

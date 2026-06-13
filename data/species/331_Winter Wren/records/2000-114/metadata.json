@@ -1,0 +1,19 @@
+{
+  "acc_no": "2000-114",
+  "year": "2000",
+  "location": "Brainard Lake area",
+  "county": "Boulder",
+  "observers": "Linda Andes-Georges",
+  "comments": "",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "14333",
+      "reporter": "Linda Andes-Georges",
+      "date": "6/21/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14333"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:14.073772"
+}

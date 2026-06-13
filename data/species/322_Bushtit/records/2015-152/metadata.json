@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-152",
+  "year": "2015",
+  "location": "Aurora",
+  "county": "Arapahoe",
+  "observers": "Casey Donovan",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "6293",
+      "reporter": "Casey Donovan",
+      "date": "6/29/2015",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6293"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:56.062486"
+}

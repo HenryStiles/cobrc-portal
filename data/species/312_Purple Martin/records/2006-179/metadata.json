@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-179",
+  "year": "2006",
+  "location": "Lamar",
+  "county": "Prowers",
+  "observers": "Larry Semo",
+  "comments": "Age: SY ; Sex: males;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "798",
+      "reporter": "Larry Semo",
+      "date": "6/4/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=798"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:21.229952"
+}

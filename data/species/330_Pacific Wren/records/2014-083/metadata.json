@@ -1,0 +1,26 @@
+{
+  "acc_no": "2014-083",
+  "year": "2014",
+  "location": "Telluride",
+  "county": "San Miguel",
+  "observers": "Derek and Jeannette Lovitch, Coen Dexter",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "4036",
+      "reporter": "Derek and Jeannette Lovitch",
+      "date": "7/13/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4036"
+    },
+    {
+      "doc_id": "7516",
+      "reporter": "Coen Dexter",
+      "date": "7/14/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=7516"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:31.027066"
+}

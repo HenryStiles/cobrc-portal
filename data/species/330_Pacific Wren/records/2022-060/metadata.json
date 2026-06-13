@@ -1,0 +1,19 @@
+{
+  "acc_no": "2022-060",
+  "year": "2022",
+  "location": "Genessee Mountain Park",
+  "county": "Jefferson",
+  "observers": "Tim Mitzen",
+  "comments": "",
+  "citations": "Gent, P.  85th Report of the CBRC. Colorado Birds 58(1), 7-14.",
+  "documentations": [
+    {
+      "doc_id": "13296",
+      "reporter": "Tim Mitzen",
+      "date": "12/18/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13296"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:11.719669"
+}

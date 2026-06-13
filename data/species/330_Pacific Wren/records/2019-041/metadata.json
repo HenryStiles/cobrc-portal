@@ -1,0 +1,19 @@
+{
+  "acc_no": "2019-041",
+  "year": "2019",
+  "location": "Colorado Springs",
+  "county": "El Paso",
+  "observers": "Kara Carragher",
+  "comments": "",
+  "citations": "The 82nd Report of the CBRC, 2022. Colorado Birds, 56(4), 283-294.",
+  "documentations": [
+    {
+      "doc_id": "11851",
+      "reporter": "Kara Carragher",
+      "date": "12/14/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11851"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:00.729852"
+}

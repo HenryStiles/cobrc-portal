@@ -1,0 +1,19 @@
+{
+  "acc_no": "42-91-52",
+  "year": "1991",
+  "location": "Colorado City and Rye",
+  "county": "Pueblo",
+  "observers": "Robert Dickson, Mark Janos",
+  "comments": "",
+  "citations": "Nelson, D.  1991 Report of the CBRC. CFO Journal 27(2), 49-56.",
+  "documentations": [
+    {
+      "doc_id": "14206",
+      "reporter": "Robert Dickson, Mark Janos",
+      "date": "10/16/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14206"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:23.208607"
+}

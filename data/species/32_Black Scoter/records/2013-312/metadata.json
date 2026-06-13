@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-312",
+  "year": "2013",
+  "location": "Lathrop State Park",
+  "county": "Huerfano",
+  "observers": "Polly Wren Neldner",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2608",
+      "reporter": "Polly Wren Neldner",
+      "date": "10/26/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2608"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:53.106831"
+}

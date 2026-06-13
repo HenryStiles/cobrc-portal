@@ -1,0 +1,26 @@
+{
+  "acc_no": "2016-010",
+  "year": "2015",
+  "location": "",
+  "county": "Pueblo",
+  "observers": "Dan Maynard",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "6397",
+      "reporter": "Dan Maynard",
+      "date": "12/19/2015",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6397"
+    },
+    {
+      "doc_id": "6395",
+      "reporter": "Dan Maynard",
+      "date": "12/19/2015",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6395"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:56.403310"
+}

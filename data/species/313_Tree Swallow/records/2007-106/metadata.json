@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-106",
+  "year": "2007",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Gregg Goodrich",
+  "comments": "Age: adult; Plumage: male;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "867",
+      "reporter": "Gregg Goodrich",
+      "date": "12/16/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=867"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:55.623834"
+}

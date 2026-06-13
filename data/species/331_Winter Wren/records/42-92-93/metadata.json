@@ -1,0 +1,19 @@
+{
+  "acc_no": "42-92-93",
+  "year": "1992",
+  "location": "Unaweep Canyon",
+  "county": "Mesa",
+  "observers": "Coen Dexter",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "14331",
+      "reporter": "Coen Dexter",
+      "date": "1/25/1992",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14331"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:11.964781"
+}

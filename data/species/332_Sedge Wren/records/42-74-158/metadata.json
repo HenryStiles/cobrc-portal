@@ -1,0 +1,19 @@
+{
+  "acc_no": "42-74-158",
+  "year": "1974",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Bob Andrews, Steve Larson",
+  "comments": "",
+  "citations": "Reddall, J.  1975a Report of the CBRC. CFO Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "14197",
+      "reporter": "Bob Andrews, Steve Larson",
+      "date": "11/9/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14197"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:15.468520"
+}

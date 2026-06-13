@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-191",
+  "year": "2012",
+  "location": "Kinney State Wildlife Area",
+  "county": "Lincoln",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2187",
+      "reporter": "Steven Mlodinow",
+      "date": "10/21/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2187"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:46.021804"
+}

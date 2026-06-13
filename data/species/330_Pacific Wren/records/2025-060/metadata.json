@@ -1,0 +1,19 @@
+{
+  "acc_no": "2025-060",
+  "year": "2025",
+  "location": "South Republican SWA",
+  "county": "Yuma",
+  "observers": "Archer Silverman",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16311",
+      "reporter": "Archer Silverman",
+      "date": "12/27/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16311"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:14.895362"
+}

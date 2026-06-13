@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-088",
+  "year": "2005",
+  "location": "Two Buttes State Wildlife Area",
+  "county": "Baca",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "Semo, L. and Faulkner, D. The 56th Report of the CBRC. Colorado Birds 44(4), 240-254.",
+  "documentations": [
+    {
+      "doc_id": "1479",
+      "reporter": "Tony Leukering",
+      "date": "1/2/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1479"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:17.912954"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "42-84-16",
+  "year": "1984",
+  "location": "Billy Creek State Wildlife Area",
+  "county": "Ouray",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "14330",
+      "reporter": "Mark Janos",
+      "date": "2/28/1984",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14330"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:10.966230"
+}
