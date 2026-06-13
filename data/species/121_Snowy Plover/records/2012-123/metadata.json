@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-123",
+  "year": "2012",
+  "location": "Littleton",
+  "county": "Douglas",
+  "observers": "Glenn Walbek",
+  "comments": "",
+  "citations": "Faulkner, Doug. July 2013. The 67th Report of the Colorado Bird Records Committee: Colorado Birds 47(3):178-186",
+  "documentations": [
+    {
+      "doc_id": "2094",
+      "reporter": "Glenn Walbek",
+      "date": "9/12/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2094"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:36.507926"
+}

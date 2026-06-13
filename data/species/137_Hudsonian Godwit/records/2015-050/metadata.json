@@ -1,0 +1,26 @@
+{
+  "acc_no": "2015-050",
+  "year": "2015",
+  "location": "Not Specified",
+  "county": "Bent",
+  "observers": "John Drummond, Brandon K. Percival",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6259",
+      "reporter": "John Drummond",
+      "date": "5/4/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6259"
+    },
+    {
+      "doc_id": "6256",
+      "reporter": "Brandon K. Percival",
+      "date": "5/4/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6256"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:04.262089"
+}

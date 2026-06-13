@@ -1,0 +1,19 @@
+{
+  "acc_no": "19-86-31",
+  "year": "1986",
+  "location": "Nelson Reservoir",
+  "county": "Weld",
+  "observers": "Bill Prather, Ann Means",
+  "comments": "",
+  "citations": "Bunn, R.  1986 Report of the CBRC. CFO Journal 22(3), 85-90.",
+  "documentations": [
+    {
+      "doc_id": "14019",
+      "reporter": "Bill Prather, Ann Means",
+      "date": "5/24/1986",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14019"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:15.909388"
+}

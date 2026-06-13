@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-037",
+  "year": "2013",
+  "location": "Beebe Draw",
+  "county": "Weld",
+  "observers": "David Dowell",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2844",
+      "reporter": "David Dowell",
+      "date": "5/23/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2844"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:02.754907"
+}

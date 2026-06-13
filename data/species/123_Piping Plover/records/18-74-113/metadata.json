@@ -1,0 +1,19 @@
+{
+  "acc_no": "18-74-113",
+  "year": "1974",
+  "location": "Jackson Reservoir",
+  "county": "Morgan",
+  "observers": "Jack Reddall",
+  "comments": "",
+  "citations": "Reddall, J.  1975a Report of the CBRC. CFO Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "13542",
+      "reporter": "Jack Reddall",
+      "date": "9/29/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13542"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:31.884016"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "18-75-59",
+  "year": "1975",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Ken & Kathryn Whipple",
+  "comments": "",
+  "citations": "Reddall, J.  1975 Report of the CBRC. CFO Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "13545",
+      "reporter": "Ken & Kathryn Whipple",
+      "date": "5/17/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13545"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:35.778873"
+}

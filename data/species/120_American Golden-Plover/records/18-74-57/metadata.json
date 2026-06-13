@@ -1,0 +1,19 @@
+{
+  "acc_no": "18-74-57",
+  "year": "1974",
+  "location": "Cope",
+  "county": "Washington",
+  "observers": "Steve Larson, Bob Spencer",
+  "comments": "",
+  "citations": "Reddall, J.  1975(a) Report of the CBRC.  CFO Journal, 23, 17-34.",
+  "documentations": [
+    {
+      "doc_id": "14426",
+      "reporter": "Steve Larson, Bob Spencer",
+      "date": "5/12/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14426"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:15.405265"
+}

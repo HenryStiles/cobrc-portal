@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-051",
+  "year": "2016",
+  "location": "Blanca Wetlands",
+  "county": "Alamosa",
+  "observers": "Sam Fason",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "6452",
+      "reporter": "Sam Fason",
+      "date": "7/20/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6452"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:32.358630"
+}

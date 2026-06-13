@@ -1,0 +1,19 @@
+{
+  "acc_no": "2000-169",
+  "year": "2000",
+  "location": "Vega State Park and Reservoir",
+  "county": "Mesa",
+  "observers": "Mike Henwood",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2658",
+      "reporter": "Mike Henwood",
+      "date": "10/14/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2658"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:45.475811"
+}

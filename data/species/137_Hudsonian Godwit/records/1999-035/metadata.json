@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-035",
+  "year": "1994",
+  "location": "Neesopah Reservoir",
+  "county": "Kiowa",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Incorrect date listed in Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "14032",
+      "reporter": "Mark Janos",
+      "date": "5/13/1994",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14032"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:43.358497"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "18-75-60",
+  "year": "1975",
+  "location": "Union Reservoir",
+  "county": "Weld",
+  "observers": "Bayard Cobb, Steve Larson",
+  "comments": "",
+  "citations": "Reddall, J.  1975b Report of the CBRC. CFO Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "13547",
+      "reporter": "Bayard Cobb, Steve Larson",
+      "date": "5/15/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13547"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:34.408154"
+}

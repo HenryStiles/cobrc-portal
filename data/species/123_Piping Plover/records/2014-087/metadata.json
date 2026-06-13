@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-087",
+  "year": "2003",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Randall Siebert",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "4043",
+      "reporter": "Randall Siebert",
+      "date": "8/9/2003",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4043"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:48.118615"
+}

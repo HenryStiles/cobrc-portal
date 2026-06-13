@@ -1,0 +1,19 @@
+{
+  "acc_no": "18-78-20",
+  "year": "1974",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Jack Reddall",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "13524",
+      "reporter": "Jack Reddall",
+      "date": "8/29/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13524"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:29.552245"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2026-030",
+  "year": "2023",
+  "location": "",
+  "county": "Weld",
+  "observers": "Sierra Focht",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16517",
+      "reporter": "Sierra Focht",
+      "date": "4/12/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16517"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:09.029003"
+}

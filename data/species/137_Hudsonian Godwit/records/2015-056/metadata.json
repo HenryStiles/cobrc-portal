@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-056",
+  "year": "2015",
+  "location": "Beebe Draw",
+  "county": "Weld",
+  "observers": "Dean E  Shoup",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6261",
+      "reporter": "Dean E  Shoup",
+      "date": "5/8/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6261"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:08.028967"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-295",
+  "year": "2013",
+  "location": "Holyoke",
+  "county": "Phillips",
+  "observers": "Roger Linfield",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "7497",
+      "reporter": "Roger Linfield",
+      "date": "5/15/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=7497"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:51.008039"
+}

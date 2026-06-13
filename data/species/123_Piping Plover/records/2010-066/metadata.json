@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-066",
+  "year": "2006",
+  "location": "Red Lion State Wildlife Area",
+  "county": "Logan",
+  "observers": "Tony Leukering",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Semo, L. and Faulkner, D. The 57th Report of the CBRC. Colorado Birds 45(1), 30-41.",
+  "documentations": [
+    {
+      "doc_id": "914",
+      "reporter": "Tony Leukering",
+      "date": "5/5/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=914"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:49.685113"
+}

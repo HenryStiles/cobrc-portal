@@ -1,0 +1,19 @@
+{
+  "acc_no": "18-77-20",
+  "year": "1977",
+  "location": "South Republican SWA",
+  "county": "Yuma",
+  "observers": "Mike Moulton, Julie Pinkham, Mark Janos, Jeff Sherman",
+  "comments": "",
+  "citations": "Andrews, R.  1976-77 Report of the CBRC. Western Birds 10:57-70.",
+  "documentations": [
+    {
+      "doc_id": "13550",
+      "reporter": "Mike Moulton, Julie Pinkham, Mark Janos, Jeff Sherman",
+      "date": "4/23/1977",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13550"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:38.809053"
+}

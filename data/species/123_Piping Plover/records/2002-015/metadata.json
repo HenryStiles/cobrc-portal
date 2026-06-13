@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-015",
+  "year": "2001",
+  "location": "South Republican SWA",
+  "county": "Yuma",
+  "observers": "Doug Faulkner",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "13719",
+      "reporter": "Doug Faulkner",
+      "date": "4/17/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13719"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:45.322762"
+}

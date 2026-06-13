@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-055",
+  "year": "2015",
+  "location": "Big Johnson Reservoir",
+  "county": "El Paso",
+  "observers": "Brandon K. Percival",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "6263",
+      "reporter": "Brandon K. Percival",
+      "date": "5/3/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6263"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:37.570701"
+}

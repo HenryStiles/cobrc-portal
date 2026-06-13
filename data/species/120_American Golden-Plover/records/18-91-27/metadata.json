@@ -1,0 +1,26 @@
+{
+  "acc_no": "18-91-27",
+  "year": "1991",
+  "location": "Clifton",
+  "county": "Mesa",
+  "observers": "Rich Levad, Coen Dexter, Brenda Wright",
+  "comments": "",
+  "citations": "Nelson, D.  1991 Report of the CBRC.  CFO Journal, 27, 49-56.",
+  "documentations": [
+    {
+      "doc_id": "14429",
+      "reporter": "Rich Levad, Coen Dexter",
+      "date": "11/12/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14429"
+    },
+    {
+      "doc_id": "14649",
+      "reporter": "Brenda Wright, Coen Dexter",
+      "date": "11/12/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14649"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:18.401068"
+}

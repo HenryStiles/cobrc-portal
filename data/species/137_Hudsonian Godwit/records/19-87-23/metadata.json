@@ -1,0 +1,19 @@
+{
+  "acc_no": "19-87-23",
+  "year": "1987",
+  "location": "Severance area",
+  "county": "Weld",
+  "observers": "Dave Leatherman",
+  "comments": "",
+  "citations": "Bunn, R.  1987 Report of the CBRC pt.1. CFO Journal 23(1), 13-18.",
+  "documentations": [
+    {
+      "doc_id": "14021",
+      "reporter": "Dave Leatherman",
+      "date": "5/5/1987",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14021"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:34.661519"
+}

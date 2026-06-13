@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-004",
+  "year": "2004",
+  "location": "John Martin Reservoir State Park",
+  "county": "Bent",
+  "observers": "Paul Lehman",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "14080",
+      "reporter": "Paul Lehman",
+      "date": "5/17/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14080"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:52.296057"
+}

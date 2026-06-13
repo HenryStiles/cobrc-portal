@@ -1,0 +1,19 @@
+{
+  "acc_no": "19-80-32",
+  "year": "1980",
+  "location": "Mile High Duck Club Lakes",
+  "county": "Adams",
+  "observers": "Brian Post",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "14017",
+      "reporter": "Brian Post",
+      "date": "5/5/1980",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14017"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:13.479123"
+}

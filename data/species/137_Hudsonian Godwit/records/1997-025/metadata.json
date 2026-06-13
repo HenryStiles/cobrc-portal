@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-025",
+  "year": "1996",
+  "location": "Duck Lake",
+  "county": "Larimer",
+  "observers": "David Ely",
+  "comments": "",
+  "citations": "Janos, M.  1997 Report of the CBRC.  J. of the CFO 33(4), 241-252.",
+  "documentations": [
+    {
+      "doc_id": "14029",
+      "reporter": "David Ely",
+      "date": "5/2/1996",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14029"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:44.207267"
+}

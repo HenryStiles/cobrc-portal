@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-034",
+  "year": "1999",
+  "location": "Beebe Draw",
+  "county": "Weld",
+  "observers": "BB Hahn",
+  "comments": "",
+  "citations": "Colorado Birds July 2005 Vol. 37. No. 3",
+  "documentations": [
+    {
+      "doc_id": "2780",
+      "reporter": "BB Hahn",
+      "date": "9/13/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2780"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:21.073362"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-026",
+  "year": "2016",
+  "location": "Lake Holbrook",
+  "county": "Otero",
+  "observers": "Brandon K. Percival",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6415",
+      "reporter": "Brandon K. Percival",
+      "date": "4/19/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6415"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:10.101234"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-016",
+  "year": "2005",
+  "location": "Lake Cheraw",
+  "county": "Otero",
+  "observers": "Brandon K Percival",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "342",
+      "reporter": "Brandon K Percival",
+      "date": "4/2/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=342"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:31.639841"
+}

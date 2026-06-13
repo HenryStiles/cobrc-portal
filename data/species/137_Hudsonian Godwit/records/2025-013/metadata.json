@@ -1,0 +1,19 @@
+{
+  "acc_no": "2025-013",
+  "year": "2025",
+  "location": "Pastorius Reservoir",
+  "county": "La Plata",
+  "observers": "Kurt Hillman",
+  "comments": "",
+  "citations": "The 89th Report of the CBRC, Peter R. Gent, Colorado Birds 60(1), 323-332, 2026.",
+  "documentations": [
+    {
+      "doc_id": "14841",
+      "reporter": "Kurt Hillman",
+      "date": "5/10/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14841"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:33.477613"
+}

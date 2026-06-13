@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-298",
+  "year": "2013",
+  "location": "Macintosh lake East end",
+  "county": "Boulder",
+  "observers": "Clem Dabrowski",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2423",
+      "reporter": "Clem Dabrowski",
+      "date": "4/10/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2423"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:47.011848"
+}

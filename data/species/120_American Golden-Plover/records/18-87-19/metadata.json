@@ -1,0 +1,19 @@
+{
+  "acc_no": "18-87-19",
+  "year": "1983",
+  "location": "Fruitgrowers Reservoir (Hart's Basin)",
+  "county": "Delta",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Bunn, R.  1987 pt.1 Report of the CBRC.  CFO Journal, 23, 13-18.",
+  "documentations": [
+    {
+      "doc_id": "14428",
+      "reporter": "Mark Janos",
+      "date": "10/7/1983",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14428"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:17.359592"
+}

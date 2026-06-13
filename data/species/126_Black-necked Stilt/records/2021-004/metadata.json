@@ -1,0 +1,19 @@
+{
+  "acc_no": "2021-004",
+  "year": "2021",
+  "location": "Wrights Reservoir",
+  "county": "Teller",
+  "observers": "Scott Shaum, Scott Shaum",
+  "comments": "",
+  "citations": "Accepted by the Chairman and not published.",
+  "documentations": [
+    {
+      "doc_id": "11970",
+      "reporter": "Scott Shaum",
+      "date": "5/7/2021",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11970"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:44.524777"
+}

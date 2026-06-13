@@ -1,0 +1,19 @@
+{
+  "acc_no": "18-74-154",
+  "year": "1974",
+  "location": "Rocky Ford",
+  "county": "Otero",
+  "observers": "Steve Larson",
+  "comments": "",
+  "citations": "Reddall, J.  1975a Report of the CBRC. CFO Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "13543",
+      "reporter": "Steve Larson",
+      "date": "9/21/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13543"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:30.949992"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "1882-002",
+  "year": "1882",
+  "location": "Denver",
+  "county": "Denver",
+  "observers": "D. Stone",
+  "comments": "Two collected: Specimens Field MNH #406960, San Diego NHM #20936.",
+  "citations": "Jewett, S., An Unrecorded Eskimo Curlew from Colorado. The Condor, 44, 74, 1942.",
+  "documentations": [
+    {
+      "doc_id": "13211",
+      "reporter": "D. Stone",
+      "date": "4/29/1882",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13211"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:45.938781"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "19-82-12",
+  "year": "1982",
+  "location": "Lake Meredith",
+  "county": "Crowley",
+  "observers": "Richard Bunn, Rosie & Jim Watts",
+  "comments": "",
+  "citations": "Gent, P.  1982 Report of the CBRC. CFO Journal 18(2), 51-57.",
+  "documentations": [
+    {
+      "doc_id": "14018",
+      "reporter": "Richard Bunn, Rosie & Jim Watts",
+      "date": "5/1/1982",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14018"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:14.616032"
+}

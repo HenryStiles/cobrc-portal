@@ -1,0 +1,40 @@
+{
+  "acc_no": "2006-090",
+  "year": "2006",
+  "location": "Duck Lake",
+  "county": "Larimer",
+  "observers": "Cole Wild, Nick Komar, Nathan Pieplow, Rachel Hopper",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "423",
+      "reporter": "Nicholas Komar",
+      "date": "5/27/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=423"
+    },
+    {
+      "doc_id": "429",
+      "reporter": "C W",
+      "date": "5/27/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=429"
+    },
+    {
+      "doc_id": "729",
+      "reporter": "Rachel Hopper",
+      "date": "5/29/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=729"
+    },
+    {
+      "doc_id": "426",
+      "reporter": "Nathan Pieplow",
+      "date": "5/29/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=426"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:53.148134"
+}

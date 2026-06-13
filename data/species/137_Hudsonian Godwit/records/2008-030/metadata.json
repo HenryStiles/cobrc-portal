@@ -1,0 +1,54 @@
+{
+  "acc_no": "2008-030",
+  "year": "2008",
+  "location": "Union Reservoir",
+  "county": "Weld",
+  "observers": "Andrew Spencer, Bill Kaempfer, Nick Komar, Nathan Pieplow, Brandon Percival, Doug Faulkner",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "Semo, L.  The 50th Report of the CBRC. Colorado Birds 43(2), 123-135.",
+  "documentations": [
+    {
+      "doc_id": "939",
+      "reporter": "Bill Kaempfer",
+      "date": "4/16/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=939"
+    },
+    {
+      "doc_id": "943",
+      "reporter": "Andrew Spencer",
+      "date": "4/16/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=943"
+    },
+    {
+      "doc_id": "1118",
+      "reporter": "Nicholas Komar",
+      "date": "4/16/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1118"
+    },
+    {
+      "doc_id": "941",
+      "reporter": "Nathan Pieplow",
+      "date": "4/17/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=941"
+    },
+    {
+      "doc_id": "942",
+      "reporter": "Doug Faulkner",
+      "date": "4/18/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=942"
+    },
+    {
+      "doc_id": "944",
+      "reporter": "Brandon K Percival",
+      "date": "4/18/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=944"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:56.153634"
+}

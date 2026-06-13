@@ -1,0 +1,26 @@
+{
+  "acc_no": "2021-021",
+  "year": "2021",
+  "location": "Lagerman Reservoir and the Swede Lakes",
+  "county": "Boulder",
+  "observers": "Eric DeFonso, Peter Gent",
+  "comments": "",
+  "citations": "The 83rd Report of the Colorado Bird Records Committee,  Peter R. Gent, Colorado Birds, 57(2), 61-70, 2023.",
+  "documentations": [
+    {
+      "doc_id": "11964",
+      "reporter": "Eric DeFonso",
+      "date": "5/3/2021",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11964"
+    },
+    {
+      "doc_id": "11965",
+      "reporter": "Peter R. Gent",
+      "date": "5/3/2021",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11965"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:19.734532"
+}

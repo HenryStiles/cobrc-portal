@@ -1,0 +1,19 @@
+{
+  "acc_no": "18-89-11",
+  "year": "1989",
+  "location": "Lake Cheraw",
+  "county": "Otero",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Nelson, D.  1989 Report of the CBRC. CFO Journal 25, 119-125.",
+  "documentations": [
+    {
+      "doc_id": "13553",
+      "reporter": "Mark Janos",
+      "date": "5/14/1989",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13553"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:41.399212"
+}

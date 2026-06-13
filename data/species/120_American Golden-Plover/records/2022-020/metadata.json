@@ -1,0 +1,19 @@
+{
+  "acc_no": "2022-020",
+  "year": "2022",
+  "location": "Bassam Park",
+  "county": "Chaffee",
+  "observers": "Greg Mihalik",
+  "comments": "First documented Chaffee County record.",
+  "citations": "Gent, P.  The 84th Report of the CBRC. Colorado Birds 54(4), 194-203.",
+  "documentations": [
+    {
+      "doc_id": "12075",
+      "reporter": "Greg Mihalik",
+      "date": "5/24/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12075"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:23.456255"
+}

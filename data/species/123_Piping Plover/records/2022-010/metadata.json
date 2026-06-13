@@ -1,0 +1,19 @@
+{
+  "acc_no": "2022-010",
+  "year": "2022",
+  "location": "Big Johnson Reservoir",
+  "county": "El Paso",
+  "observers": "Kara Laszczyk",
+  "comments": "",
+  "citations": "Gent, P.  The 84th Report of the CBRC. Colorado Birds 54(4), 194-203.",
+  "documentations": [
+    {
+      "doc_id": "12059",
+      "reporter": "Kara Laszczyk",
+      "date": "5/4/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12059"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:52.706159"
+}

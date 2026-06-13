@@ -1,0 +1,19 @@
+{
+  "acc_no": "18-75-127",
+  "year": "1975",
+  "location": "Jumbo Reservoir State Wildlife Area",
+  "county": "Sedgwick",
+  "observers": "Van Remsen",
+  "comments": "",
+  "citations": "Reddall, J.  1975b Report of the CBRC. CFO Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "13548",
+      "reporter": "Van Remsen",
+      "date": "9/7/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13548"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:36.730113"
+}

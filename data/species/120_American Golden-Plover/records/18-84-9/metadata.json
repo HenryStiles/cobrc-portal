@@ -1,0 +1,19 @@
+{
+  "acc_no": "18-84-9",
+  "year": "1983",
+  "location": "Grand Junction",
+  "county": "Mesa",
+  "observers": "Ron Lambeth",
+  "comments": "",
+  "citations": "Gent, P.  1984 Report of the CBRC.  CFO Journal, 19, 82-87.",
+  "documentations": [
+    {
+      "doc_id": "14427",
+      "reporter": "Ron Lambeth",
+      "date": "9/21/1983",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14427"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:16.431412"
+}
