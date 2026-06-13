@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-042",
+  "year": "1999",
+  "location": "Weld Co Rds 61 & 74",
+  "county": "Weld",
+  "observers": "Bill Lisowsky",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "13931",
+      "reporter": "Bill Lisowsky",
+      "date": "5/20/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13931"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:52.688451"
+}

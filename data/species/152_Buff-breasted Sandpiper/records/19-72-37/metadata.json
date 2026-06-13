@@ -1,0 +1,19 @@
+{
+  "acc_no": "19-72-37",
+  "year": "1972",
+  "location": "Big Johnson Reservoir",
+  "county": "El Paso",
+  "observers": "Michael Schultz",
+  "comments": "",
+  "citations": "Reddall, J. 1974. Reports from the CFO Official Records Committee. Colorado Field Ornithologist 19:11-41.",
+  "documentations": [
+    {
+      "doc_id": "14723",
+      "reporter": "Michael Schultz",
+      "date": "8/22/1972",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14723"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:06.181065"
+}

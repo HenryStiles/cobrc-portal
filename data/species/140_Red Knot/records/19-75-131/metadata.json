@@ -1,0 +1,19 @@
+{
+  "acc_no": "19-75-131",
+  "year": "1975",
+  "location": "Neegronda Reservoir",
+  "county": "Kiowa",
+  "observers": "Tom Gatz",
+  "comments": "",
+  "citations": "Reddall, J. 1976. CFO Official Records Committee 1975 Report. C.F.O. Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "13864",
+      "reporter": "Tom Gatz",
+      "date": "8/30/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13864"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:14.443152"
+}

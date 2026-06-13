@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-087",
+  "year": "2007",
+  "location": "CR 23 0.4m S of CR 10.",
+  "county": "Sedgwick",
+  "observers": "Andrew Spencer",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "823",
+      "reporter": "Andrew Spencer",
+      "date": "6/9/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=823"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:36.427354"
+}

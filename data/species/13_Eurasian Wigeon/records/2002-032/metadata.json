@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-032",
+  "year": "2002",
+  "location": "Wiley Pond",
+  "county": "Prowers",
+  "observers": "Dave Leatherman",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  The 38th Report of the CBRC. Colorado Birds 38(4), 168-183.",
+  "documentations": [
+    {
+      "doc_id": "16400",
+      "reporter": "Dave Leatherman",
+      "date": "3/21/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16400"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:51.813811"
+}

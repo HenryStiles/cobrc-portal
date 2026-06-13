@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-78-2",
+  "year": "1967",
+  "location": "Nelson Reservoir",
+  "county": "Larimer",
+  "observers": "Mike Szmyczak",
+  "comments": "",
+  "citations": "Chase, C.  1977-1980 Pt.2 Report of the CBRC. CFO Journal 15(2), 54-59.",
+  "documentations": [
+    {
+      "doc_id": "16377",
+      "reporter": "Mike Szmyczak",
+      "date": "4/8/1967",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16377"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:18.584811"
+}

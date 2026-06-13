@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-054",
+  "year": "2008",
+  "location": "Paradox Valley",
+  "county": "Montrose",
+  "observers": "Andrew Spencer",
+  "comments": "",
+  "citations": "Semo, L. and Faulkner, D.  The 54th Report of the CBRC. Colorado Birds 44(2), 89-105.",
+  "documentations": [
+    {
+      "doc_id": "977",
+      "reporter": "Andrew Spencer",
+      "date": "5/7/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=977"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:28.105686"
+}

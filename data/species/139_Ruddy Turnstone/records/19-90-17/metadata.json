@@ -1,0 +1,19 @@
+{
+  "acc_no": "19-90-17",
+  "year": "1990",
+  "location": "Neesopah Reservoir",
+  "county": "Kiowa",
+  "observers": "Duane Nelson",
+  "comments": "",
+  "citations": "Nelson, D.  1990 Report of the CBRC. CFO Journal 26(3), 91-97.",
+  "documentations": [
+    {
+      "doc_id": "13879",
+      "reporter": "Duane Nelson",
+      "date": "7/31/1990",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13879"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:07.306947"
+}

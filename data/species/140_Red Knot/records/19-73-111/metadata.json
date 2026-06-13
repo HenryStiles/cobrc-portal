@@ -1,0 +1,19 @@
+{
+  "acc_no": "19-73-111",
+  "year": "1973",
+  "location": "Tower Rd 1.5 ml S of Barr Lake",
+  "county": "Adams",
+  "observers": "Lois Webster",
+  "comments": "",
+  "citations": "Reddall, J. 1974. Reports from the CFO Official Records Committee. Colorado Field Ornithologist 19:11-41.",
+  "documentations": [
+    {
+      "doc_id": "13861",
+      "reporter": "Lois Webster",
+      "date": "9/3/1973",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13861"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:08.728672"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2018-079",
+  "year": "2018",
+  "location": "Cortez",
+  "county": "Montezuma",
+  "observers": "Erik Hendrickson",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176.",
+  "documentations": [
+    {
+      "doc_id": "11782",
+      "reporter": "Erik Hendrickson",
+      "date": "10/16/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11782"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:33.966724"
+}

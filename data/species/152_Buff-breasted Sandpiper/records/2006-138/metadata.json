@@ -1,0 +1,26 @@
+{
+  "acc_no": "2006-138",
+  "year": "2006",
+  "location": "Jackson Reservoir",
+  "county": "Morgan",
+  "observers": "Bill Maynard, Brandon Percival",
+  "comments": "Age: juv; Plumage: juvenal;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "568",
+      "reporter": "Bill Maynard",
+      "date": "10/1/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=568"
+    },
+    {
+      "doc_id": "573",
+      "reporter": "Brandon K Percival",
+      "date": "10/1/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=573"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:21.053451"
+}

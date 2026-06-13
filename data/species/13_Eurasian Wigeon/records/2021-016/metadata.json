@@ -1,0 +1,19 @@
+{
+  "acc_no": "2021-016",
+  "year": "2021",
+  "location": "Valco Ponds",
+  "county": "Pueblo",
+  "observers": "Brandon K. Percival",
+  "comments": "",
+  "citations": "The 83rd Report of the Colorado Bird Records Committee,  Peter R. Gent, Colorado Birds, 57(2), 61-70, 2023.",
+  "documentations": [
+    {
+      "doc_id": "12018",
+      "reporter": "Brandon K. Percival",
+      "date": "12/18/2021",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12018"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:54.407362"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2022-021",
+  "year": "2022",
+  "location": "Lagerman Reservoir and the Swede Lakes",
+  "county": "Boulder",
+  "observers": "Peter  Gent",
+  "comments": "First documented Boulder County record.",
+  "citations": "Gent, P.  The 84th Report of the CBRC. Colorado Birds 54(4), 194-203.",
+  "documentations": [
+    {
+      "doc_id": "12081",
+      "reporter": "Peter  Gent",
+      "date": "9/10/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12081"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:40.095651"
+}

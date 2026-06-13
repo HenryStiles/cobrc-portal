@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-197",
+  "year": "2010",
+  "location": "Grand Junction",
+  "county": "Mesa",
+  "observers": "Robert Bradley",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2198",
+      "reporter": "Robert Bradley",
+      "date": "3/15/2010",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2198"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:40.726154"
+}

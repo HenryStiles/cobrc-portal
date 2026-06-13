@@ -1,0 +1,19 @@
+{
+  "acc_no": "19-89-15",
+  "year": "1989",
+  "location": "Chatfield State Park",
+  "county": "Jefferson & Douglas",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Nelson, D.  1989 Report of the CBRC. CFO Journal 25(4), 119-125.",
+  "documentations": [
+    {
+      "doc_id": "14733",
+      "reporter": "Mark Janos",
+      "date": "9/3/1989",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14733"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:05.737392"
+}

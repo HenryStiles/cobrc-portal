@@ -1,0 +1,26 @@
+{
+  "acc_no": "2016-019",
+  "year": "2016",
+  "location": "Pastorius State Wildlife Area",
+  "county": "La Plata",
+  "observers": "Riley Morris, Jason St Pierre",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "6404",
+      "reporter": "Riley Morris",
+      "date": "3/3/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6404"
+    },
+    {
+      "doc_id": "6405",
+      "reporter": "Jason St Pierre",
+      "date": "3/5/2016",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6405"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:57.859976"
+}

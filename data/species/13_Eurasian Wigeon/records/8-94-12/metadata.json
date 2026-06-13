@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-94-12",
+  "year": "1994",
+  "location": "Brighton",
+  "county": "Adams",
+  "observers": "Joe TenBrink, Karleen Schofield",
+  "comments": "",
+  "citations": "Prather, B.  1994 Report of the CBRC. CFO Journal 31(1), 23-31.",
+  "documentations": [
+    {
+      "doc_id": "16393",
+      "reporter": "Joe TenBrink, Karleen Schofield",
+      "date": "3/18/1994",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16393"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:41.983644"
+}

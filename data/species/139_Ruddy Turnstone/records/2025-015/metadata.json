@@ -1,0 +1,33 @@
+{
+  "acc_no": "2025-015",
+  "year": "2025",
+  "location": "Lagerman Reservoir and the Swede Lakes",
+  "county": "Boulder",
+  "observers": "Ellen Harris, Leslie Sutton, Winston Liu",
+  "comments": "First documented occurrence in Boulder County.",
+  "citations": "The 89th Report of the CBRC, Peter R. Gent, Colorado Birds 60(1), 323-332, 2026.",
+  "documentations": [
+    {
+      "doc_id": "14845",
+      "reporter": "Ellen Harris",
+      "date": "5/21/2025",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14845"
+    },
+    {
+      "doc_id": "16428",
+      "reporter": "Winston Liu",
+      "date": "5/21/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16428"
+    },
+    {
+      "doc_id": "14843",
+      "reporter": "Leslie Sutton",
+      "date": "5/21/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14843"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:30.499757"
+}

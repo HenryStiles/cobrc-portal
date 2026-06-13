@@ -1,0 +1,26 @@
+{
+  "acc_no": "2005-012",
+  "year": "2005",
+  "location": "Pueblo City Park",
+  "county": "Pueblo",
+  "observers": "Brandon K Percival, Tony Leukering",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "83",
+      "reporter": "Brandon K Percival",
+      "date": "2/19/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=83"
+    },
+    {
+      "doc_id": "281",
+      "reporter": "Tony Leukering",
+      "date": "2/26/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=281"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:58.791762"
+}

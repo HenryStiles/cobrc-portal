@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-044",
+  "year": "1999",
+  "location": "Lower Latham Reservoir",
+  "county": "Weld",
+  "observers": "John Vanderpoel",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "13933",
+      "reporter": "John Vanderpoel",
+      "date": "9/5/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13933"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:54.935484"
+}

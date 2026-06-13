@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-91-17",
+  "year": "1989",
+  "location": "Monte Vista National Wildlife Refuge",
+  "county": "Rio Grande",
+  "observers": "Mark Nikas",
+  "comments": "",
+  "citations": "Nelson, D.  1991 Report of the CBRC. CFO Journal 27(2), 49-56.",
+  "documentations": [
+    {
+      "doc_id": "16387",
+      "reporter": "Mark Nikas",
+      "date": "3/25/1989",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16387"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:32.190303"
+}

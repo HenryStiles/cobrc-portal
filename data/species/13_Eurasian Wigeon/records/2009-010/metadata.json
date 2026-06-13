@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-010",
+  "year": "2009",
+  "location": "Fossil Creek Reservoir",
+  "county": "Larimer",
+  "observers": "Cole Wild",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Semo, L. and Faulkner, D.  The 53rd Report of the CBRC. Colorado Birds 44(1), 31-42.",
+  "documentations": [
+    {
+      "doc_id": "1200",
+      "reporter": "C W",
+      "date": "3/4/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1200"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:39.930081"
+}

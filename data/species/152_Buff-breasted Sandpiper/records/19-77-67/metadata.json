@@ -1,0 +1,19 @@
+{
+  "acc_no": "19-77-67",
+  "year": "1977",
+  "location": "Jackson Reservoir",
+  "county": "Morgan",
+  "observers": "Jack Reddall, Bob Andrews",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "14727",
+      "reporter": "Jack Reddall, Bob Andrews",
+      "date": "9/4/1977",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14727"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:12.390886"
+}

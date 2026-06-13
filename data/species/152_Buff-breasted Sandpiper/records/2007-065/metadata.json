@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-065",
+  "year": "2007",
+  "location": "Blue Lake (Adobe Creek Reservoir)",
+  "county": "Bent",
+  "observers": "Bill Maynard",
+  "comments": "Age: juv; Plumage: juvenal;",
+  "citations": "Semo, L.  The 50th Report of the CBRC. Colorado Birds 43(2), 123-135.",
+  "documentations": [
+    {
+      "doc_id": "857",
+      "reporter": "Bill Maynard",
+      "date": "9/13/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=857"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:23.766257"
+}

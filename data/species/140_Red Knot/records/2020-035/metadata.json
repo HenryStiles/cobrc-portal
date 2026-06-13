@@ -1,0 +1,19 @@
+{
+  "acc_no": "2020-035",
+  "year": "2020",
+  "location": "Harriman Lake and Henry's Lake",
+  "county": "Jefferson",
+  "observers": "Ric Olson",
+  "comments": "Tony Leukering says the fringes on the wing coverts show these are not adult birds.",
+  "citations": "The 82nd Report of the CBRC, 2022. Colorado Birds, 56(4), 283-294.",
+  "documentations": [
+    {
+      "doc_id": "11918",
+      "reporter": "Ric Olson",
+      "date": "9/9/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11918"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:47.806774"
+}

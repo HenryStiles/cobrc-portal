@@ -1,0 +1,26 @@
+{
+  "acc_no": "2014-041",
+  "year": "2014",
+  "location": "Walker Pit",
+  "county": "Douglas",
+  "observers": "Hugh Kingery, Kris Petersen",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "3847",
+      "reporter": "Hugh Kingery",
+      "date": "3/15/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3847"
+    },
+    {
+      "doc_id": "4050",
+      "reporter": "Kris Petersen",
+      "date": "3/16/2014",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4050"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:54.548291"
+}

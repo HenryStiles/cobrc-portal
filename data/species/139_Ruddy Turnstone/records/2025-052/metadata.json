@@ -1,0 +1,26 @@
+{
+  "acc_no": "2025-052",
+  "year": "2025",
+  "location": "Lake Meredith",
+  "county": "Crowley",
+  "observers": "Beth Payne, Diane Roberts",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16179",
+      "reporter": "Beth Payne",
+      "date": "5/23/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16179"
+    },
+    {
+      "doc_id": "16180",
+      "reporter": "Diane Roberts",
+      "date": "5/23/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16180"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:33.018914"
+}

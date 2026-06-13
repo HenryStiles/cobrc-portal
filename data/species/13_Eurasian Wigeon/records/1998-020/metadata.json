@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-020",
+  "year": "1997",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Dave Leatherman, David Ely, Ric Olson, Stephen Dinsmore",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "16395",
+      "reporter": "Dave Leatherman, David Ely, Ric Olson, Stephen Dinsmore",
+      "date": "10/19/1997",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16395"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:44.352296"
+}

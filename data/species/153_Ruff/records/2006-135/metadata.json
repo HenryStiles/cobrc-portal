@@ -1,0 +1,26 @@
+{
+  "acc_no": "2006-135",
+  "year": "2006",
+  "location": "Evilsizer Lake area",
+  "county": "Lincoln",
+  "observers": "Bill Maynard, Brian Gibbons",
+  "comments": "Age: juv.; Plumage: juvenal; Sex: f?;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "566",
+      "reporter": "Bill Maynard",
+      "date": "9/27/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=566"
+    },
+    {
+      "doc_id": "607",
+      "reporter": "Brian Gibbons",
+      "date": "9/27/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=607"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:56.081946"
+}

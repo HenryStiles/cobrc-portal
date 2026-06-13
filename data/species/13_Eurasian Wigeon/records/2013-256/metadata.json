@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-256",
+  "year": "2013",
+  "location": "SE of Kersey",
+  "county": "Weld",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2661",
+      "reporter": "Steven Mlodinow",
+      "date": "3/20/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2661"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:52.375199"
+}

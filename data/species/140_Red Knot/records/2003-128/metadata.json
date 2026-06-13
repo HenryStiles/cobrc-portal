@@ -1,0 +1,26 @@
+{
+  "acc_no": "2003-128",
+  "year": "2003",
+  "location": "Jackson Reservoir",
+  "county": "Morgan",
+  "observers": "Bill Schmoker, Roger Linfield",
+  "comments": "Age: 1 ad, 1 juv; Plumage: basic, juvenal;",
+  "citations": "Leukering, T. and Semo, L.  The 39th Report of the CBRC. Colorado Birds 39(3), 131-141.",
+  "documentations": [
+    {
+      "doc_id": "6",
+      "reporter": "Bill Schmoker",
+      "date": "9/18/2003",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6"
+    },
+    {
+      "doc_id": "52",
+      "reporter": "Roger Linfield",
+      "date": "9/19/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=52"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:30.522907"
+}

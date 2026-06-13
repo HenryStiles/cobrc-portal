@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-109",
+  "year": "2001",
+  "location": "Spinney Mountain State Park",
+  "county": "Park",
+  "observers": "Bill Schmoker",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16399",
+      "reporter": "Bill Schmoker",
+      "date": "11/4/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16399"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:50.793894"
+}

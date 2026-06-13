@@ -1,0 +1,19 @@
+{
+  "acc_no": "2022-036",
+  "year": "2022",
+  "location": "Stewart's Pond",
+  "county": "Weld",
+  "observers": "David Dowell",
+  "comments": "3rd state record, and the first in spring.",
+  "citations": "Gent, P.  The 84th Report of the CBRC. Colorado Birds 54(4), 194-203.",
+  "documentations": [
+    {
+      "doc_id": "12069",
+      "reporter": "David Dowell",
+      "date": "5/27/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12069"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:35.046614"
+}

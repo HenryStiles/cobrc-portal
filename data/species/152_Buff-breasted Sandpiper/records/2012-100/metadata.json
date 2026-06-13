@@ -1,0 +1,47 @@
+{
+  "acc_no": "2012-100",
+  "year": "2012",
+  "location": "Jackson Reservoir",
+  "county": "Morgan",
+  "observers": "Doug Faulkner, Steven Mlodinow, John Drummond, Nicholas Komar",
+  "comments": "",
+  "citations": "Faulkner, Doug. July 2013. The 67th Report of the Colorado Bird Records Committee: Colorado Birds 47(3):178-186",
+  "documentations": [
+    {
+      "doc_id": "2217",
+      "reporter": "Doug Faulkner",
+      "date": "8/21/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2217"
+    },
+    {
+      "doc_id": "2066",
+      "reporter": "Steven Mlodinow",
+      "date": "8/23/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2066"
+    },
+    {
+      "doc_id": "2062",
+      "reporter": "John Drummond",
+      "date": "8/29/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2062"
+    },
+    {
+      "doc_id": "2068",
+      "reporter": "Steven Mlodinow",
+      "date": "8/31/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2068"
+    },
+    {
+      "doc_id": "2162",
+      "reporter": "Nicholas Komar",
+      "date": "9/3/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2162"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:27.702013"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-200",
+  "year": "2014",
+  "location": "Not Specified",
+  "county": "Boulder",
+  "observers": "Linda Andes-Georges",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "4028",
+      "reporter": "Linda Andes-Georges",
+      "date": "6/28/2014",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4028"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:46.971046"
+}

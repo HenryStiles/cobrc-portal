@@ -1,0 +1,19 @@
+{
+  "acc_no": "19-77-6",
+  "year": "1976",
+  "location": "Union Reservoir",
+  "county": "Weld",
+  "observers": "Peter Moulton",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "13916",
+      "reporter": "Peter Moulton",
+      "date": "5/23/1976",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13916"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:17.745302"
+}

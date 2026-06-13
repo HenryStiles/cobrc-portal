@@ -1,0 +1,19 @@
+{
+  "acc_no": "2020-045",
+  "year": "2020",
+  "location": "Manitou Lake and Trout Creek",
+  "county": "Teller",
+  "observers": "Scott Shaum",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176",
+  "documentations": [
+    {
+      "doc_id": "11937",
+      "reporter": "Scott Shaum",
+      "date": "10/26/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11937"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:07.923193"
+}

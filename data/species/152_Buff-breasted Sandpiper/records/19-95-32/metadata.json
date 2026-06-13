@@ -1,0 +1,19 @@
+{
+  "acc_no": "19-95-32",
+  "year": "1994",
+  "location": "Jackson Reservoir",
+  "county": "Morgan",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "14738",
+      "reporter": "Tony Leukering",
+      "date": "9/5/1994",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14738"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:09.682257"
+}

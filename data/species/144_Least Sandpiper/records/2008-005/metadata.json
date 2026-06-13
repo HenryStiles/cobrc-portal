@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-005",
+  "year": "2007",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Nick Komar",
+  "comments": "",
+  "citations": "Semo, L.  The 50th Report of the CBRC. Colorado Birds 43(2), 123-135.",
+  "documentations": [
+    {
+      "doc_id": "865",
+      "reporter": "Nicholas Komar",
+      "date": "1/6/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=865"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:51.665921"
+}

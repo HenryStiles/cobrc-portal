@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-210",
+  "year": "2013",
+  "location": "Jackson Reservoir",
+  "county": "Morgan",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2576",
+      "reporter": "Steven Mlodinow",
+      "date": "9/13/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2576"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:38.706788"
+}

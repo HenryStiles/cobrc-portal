@@ -1,0 +1,61 @@
+{
+  "acc_no": "2008-042",
+  "year": "2008",
+  "location": "Boulder Reservoir",
+  "county": "Boulder",
+  "observers": "Bill Kaempfer, Bill Schmoker, David Waltman, Doug Faulkner, Nathan Pieplow, Nick Komar, Peter Gent, Rachel Hopper, Tom Wilberding",
+  "comments": "Age: adult; Plumage: faeder; Sex: m;",
+  "citations": "Semo, L. and Faulkner, D.  The 52nd Report of the CBRC. Colorado Birds 43(4), 268-281.",
+  "documentations": [
+    {
+      "doc_id": "957",
+      "reporter": "Bill Kaempfer",
+      "date": "5/1/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=957"
+    },
+    {
+      "doc_id": "958",
+      "reporter": "Doug Faulkner",
+      "date": "5/1/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=958"
+    },
+    {
+      "doc_id": "959",
+      "reporter": "Nathan Pieplow",
+      "date": "5/1/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=959"
+    },
+    {
+      "doc_id": "967",
+      "reporter": "Bill Schmoker",
+      "date": "5/1/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=967"
+    },
+    {
+      "doc_id": "987",
+      "reporter": "Rachel Hopper",
+      "date": "5/1/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=987"
+    },
+    {
+      "doc_id": "1013",
+      "reporter": "Peter Gent",
+      "date": "5/1/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1013"
+    },
+    {
+      "doc_id": "1117",
+      "reporter": "Nicholas Komar",
+      "date": "5/1/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1117"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:58.615275"
+}

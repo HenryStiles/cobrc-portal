@@ -1,0 +1,19 @@
+{
+  "acc_no": "2023-033",
+  "year": "2023",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Luke Pheneger",
+  "comments": "",
+  "citations": "Gent, P.  The 86th Report of the CBRC.  Colorado Birds 58(3), 125-132.",
+  "documentations": [
+    {
+      "doc_id": "13431",
+      "reporter": "Luke Pheneger",
+      "date": "9/9/2023",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13431"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:41.644411"
+}

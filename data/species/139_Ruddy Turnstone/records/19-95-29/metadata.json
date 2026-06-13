@@ -1,0 +1,19 @@
+{
+  "acc_no": "19-95-29",
+  "year": "1995",
+  "location": "Clear Springs Ranch (formerly Hanna Ranch)",
+  "county": "El Paso",
+  "observers": "Alan Versaw, Mark Janos",
+  "comments": "",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "13889",
+      "reporter": "Alan Versaw, Mark Janos",
+      "date": "9/9/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13889"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:14.259854"
+}

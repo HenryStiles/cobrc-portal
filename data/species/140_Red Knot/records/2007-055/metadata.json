@@ -1,0 +1,26 @@
+{
+  "acc_no": "2007-055",
+  "year": "2007",
+  "location": "Orlando and Clark Reservoirs",
+  "county": "Huerfano",
+  "observers": "David Silverman, Brandon Percival",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "779",
+      "reporter": "David Silverman",
+      "date": "9/9/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=779"
+    },
+    {
+      "doc_id": "781",
+      "reporter": "Brandon K Percival",
+      "date": "9/12/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=781"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:40.123063"
+}

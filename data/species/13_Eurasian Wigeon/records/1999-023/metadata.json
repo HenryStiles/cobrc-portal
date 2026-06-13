@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-023",
+  "year": "1999",
+  "location": "Fruitgrowers Reservoir (Hart's Basin)",
+  "county": "Delta",
+  "observers": "Evelyn Horn",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "16396",
+      "reporter": "Evelyn Horn",
+      "date": "2/11/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16396"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:45.982012"
+}

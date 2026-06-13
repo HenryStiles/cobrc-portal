@@ -1,0 +1,19 @@
+{
+  "acc_no": "2026-032",
+  "year": "2026",
+  "location": "Smith Reservoir State Wildlife Reservoir",
+  "county": "Costilla",
+  "observers": "John J. Rawinski",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16528",
+      "reporter": "John J. Rawinski",
+      "date": "5/26/2026",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16528"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:31.121795"
+}

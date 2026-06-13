@@ -1,0 +1,19 @@
+{
+  "acc_no": "19-84-33",
+  "year": "1984",
+  "location": "Fruitgrowers Reservoir (Hart's Basin)",
+  "county": "Delta",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Gent P.  1984 Report of the CBRC. CFO Journal 19(4), 82-87.",
+  "documentations": [
+    {
+      "doc_id": "13917",
+      "reporter": "Mark Janos",
+      "date": "9/19/1984",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13917"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:20.773819"
+}

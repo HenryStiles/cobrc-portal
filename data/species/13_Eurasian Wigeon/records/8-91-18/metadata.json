@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-91-18",
+  "year": "1991",
+  "location": "Sloan's Lake",
+  "county": "Denver",
+  "observers": "Dick Schottler",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16388",
+      "reporter": "Dick Schottler",
+      "date": "10/29/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16388"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:34.302105"
+}

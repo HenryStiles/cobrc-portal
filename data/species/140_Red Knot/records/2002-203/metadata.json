@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-203",
+  "year": "2002",
+  "location": "Blue Lake (Adobe Creek Reservoir)",
+  "county": "Bent",
+  "observers": "Duane Nelson",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  The 37th Report of the CBRC. Colorado Birds 38(2), 73-88.",
+  "documentations": [
+    {
+      "doc_id": "13873",
+      "reporter": "Duane Nelson",
+      "date": "3/24/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13873"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:28.536027"
+}

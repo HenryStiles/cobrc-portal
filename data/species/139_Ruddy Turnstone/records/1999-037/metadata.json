@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-037",
+  "year": "1999",
+  "location": "Lower Latham Reservoir",
+  "county": "Weld",
+  "observers": "Dick Maxfield",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "13894",
+      "reporter": "Dick Maxfield",
+      "date": "8/10/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13894"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:19.965813"
+}

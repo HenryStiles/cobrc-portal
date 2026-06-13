@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-047",
+  "year": "1998",
+  "location": "Jackson Reservoir",
+  "county": "Morgan",
+  "observers": "Ric Olson",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "13893",
+      "reporter": "Ric Olson",
+      "date": "9/11/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13893"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:18.917456"
+}

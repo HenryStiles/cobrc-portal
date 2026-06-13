@@ -1,0 +1,26 @@
+{
+  "acc_no": "2000-036",
+  "year": "2000",
+  "location": "John Martin Reservoir State Park",
+  "county": "Bent",
+  "observers": "Ric Olson, Mark Janos",
+  "comments": "2nd Colorado state record.",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "2702",
+      "reporter": "Ric Olson",
+      "date": "10/4/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2702"
+    },
+    {
+      "doc_id": "2703",
+      "reporter": "Mark Janos",
+      "date": "10/4/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2703"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:33.408326"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-021",
+  "year": "2011",
+  "location": "San Luis Lakes",
+  "county": "Alamosa",
+  "observers": "Ted Floyd",
+  "comments": "Age: adult;",
+  "citations": "Faulkner, D. The 62nd Report of the CBRC. Colorado Birds 46(2), 106-120.",
+  "documentations": [
+    {
+      "doc_id": "1623",
+      "reporter": "Ted Floyd",
+      "date": "3/27/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1623"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:34.785904"
+}

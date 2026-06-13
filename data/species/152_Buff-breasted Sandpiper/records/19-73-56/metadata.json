@@ -1,0 +1,19 @@
+{
+  "acc_no": "19-73-56",
+  "year": "1973",
+  "location": "Idalia",
+  "county": "Yuma",
+  "observers": "John Cooper",
+  "comments": "",
+  "citations": "Reddall, J. 1974. Reports from the CFO Official Records Committee. Colorado Field Ornithologist 19:11-41.",
+  "documentations": [
+    {
+      "doc_id": "14724",
+      "reporter": "John Cooper",
+      "date": "5/11/1973",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14724"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:07.928104"
+}

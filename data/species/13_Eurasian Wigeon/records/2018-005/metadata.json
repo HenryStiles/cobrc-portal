@@ -1,0 +1,19 @@
+{
+  "acc_no": "2018-005",
+  "year": "2018",
+  "location": "Canon City",
+  "county": "Fremont",
+  "observers": "Bill Maynard",
+  "comments": "",
+  "citations": "Colorado Birds 56(3), 213-222, 2022",
+  "documentations": [
+    {
+      "doc_id": "10640",
+      "reporter": "Bill Maynard",
+      "date": "1/5/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=10640"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:16.359816"
+}

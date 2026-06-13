@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-73-9",
+  "year": "1970",
+  "location": "Walsenburg",
+  "county": "Huerfano",
+  "observers": "Dave Griffiths",
+  "comments": "Shot by hunter on small pond southwest of Walsenburg.",
+  "citations": "Reddall, J. 1974. Reports from the CFO Official Records Committee. Colorado Field Ornithologist 19:11-41.",
+  "documentations": [
+    {
+      "doc_id": "16374",
+      "reporter": "Dave Griffiths",
+      "date": "10/24/1970",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16374"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:19.468131"
+}

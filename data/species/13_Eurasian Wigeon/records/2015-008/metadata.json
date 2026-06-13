@@ -1,0 +1,26 @@
+{
+  "acc_no": "2015-008",
+  "year": "2015",
+  "location": "Canon City",
+  "county": "Fremont",
+  "observers": "John Drummond, Brandon K. Percival",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "5210",
+      "reporter": "John Drummond",
+      "date": "1/25/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5210"
+    },
+    {
+      "doc_id": "5202",
+      "reporter": "Brandon K. Percival",
+      "date": "1/25/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5202"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:55.698472"
+}

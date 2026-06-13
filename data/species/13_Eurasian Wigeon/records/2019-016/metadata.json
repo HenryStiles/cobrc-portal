@@ -1,0 +1,19 @@
+{
+  "acc_no": "2019-016",
+  "year": "2019",
+  "location": "Orlando and Clark Reservoirs",
+  "county": "Huerfano",
+  "observers": "Brandon K. Percival",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176.",
+  "documentations": [
+    {
+      "doc_id": "11805",
+      "reporter": "Brandon K. Percival",
+      "date": "3/24/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11805"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:52.178349"
+}

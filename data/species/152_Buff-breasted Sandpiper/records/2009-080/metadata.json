@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-080",
+  "year": "2009",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Brandon Percival",
+  "comments": "Age: juv.; Plumage: juvenal;",
+  "citations": "Semo, L.  The 55th Report of the CBRC. Colorado Birds 44(3), 180-185.",
+  "documentations": [
+    {
+      "doc_id": "1308",
+      "reporter": "Brandon K Percival",
+      "date": "8/30/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1308"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:24.330182"
+}

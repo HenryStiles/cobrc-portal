@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-045",
+  "year": "1999",
+  "location": "Fossil Creek Reservoir",
+  "county": "Larimer",
+  "observers": "Paul Sweet",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "13934",
+      "reporter": "Paul Sweet",
+      "date": "10/9/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13934"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:57.052481"
+}

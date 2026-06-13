@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-017",
+  "year": "2007",
+  "location": "Pastorius State Wildlife Area",
+  "county": "La Plata",
+  "observers": "Heather Morris",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "681",
+      "reporter": "Heather Morris",
+      "date": "4/6/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=681"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:05.082529"
+}

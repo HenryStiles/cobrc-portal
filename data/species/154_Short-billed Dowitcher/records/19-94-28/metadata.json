@@ -1,0 +1,19 @@
+{
+  "acc_no": "19-94-28",
+  "year": "1994",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Bob Righter",
+  "comments": "",
+  "citations": "Prather, B.  1994 Report of the CBRC. CFO Journal 31(1), 23-31.",
+  "documentations": [
+    {
+      "doc_id": "13925",
+      "reporter": "Bob Righter",
+      "date": "9/14/1994",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13925"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:35.667765"
+}

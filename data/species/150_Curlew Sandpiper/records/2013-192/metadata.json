@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-192",
+  "year": "2013",
+  "location": "Jackson Reservoir",
+  "county": "Morgan",
+  "observers": "John Drummond",
+  "comments": "",
+  "citations": "Faulkner, D. The 71st Report of the CBRC, Colorado Birds 49(2), 53-57.",
+  "documentations": [
+    {
+      "doc_id": "2555",
+      "reporter": "John Drummond",
+      "date": "8/30/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2555"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:02.387847"
+}

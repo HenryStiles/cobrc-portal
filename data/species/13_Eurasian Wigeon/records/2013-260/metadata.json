@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-260",
+  "year": "2013",
+  "location": "Riverfront trail at 29 Road",
+  "county": "Mesa",
+  "observers": "Jackson Trappett",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2710",
+      "reporter": "Jackson Trappett",
+      "date": "4/27/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2710"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:53.559725"
+}

@@ -1,0 +1,26 @@
+{
+  "acc_no": "2010-139",
+  "year": "2010",
+  "location": "Fossil Creek Reservoir",
+  "county": "Larimer",
+  "observers": "Cole Wild, Bruce Cyganowski",
+  "comments": "",
+  "citations": "Faulkner, D. and Semo, L. The 59th Report of the CBRC. Colorado Birds 45(3), 174-180.",
+  "documentations": [
+    {
+      "doc_id": "1550",
+      "reporter": "C W",
+      "date": "11/5/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1550"
+    },
+    {
+      "doc_id": "4067",
+      "reporter": "Cyganowski, Bruce",
+      "date": "11/6/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4067"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:41.376132"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "18-82-19",
+  "year": "1982",
+  "location": "Nelson Reservoir",
+  "county": "Weld",
+  "observers": "Vivian Gilbert",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "13876",
+      "reporter": "Vivian Gilbert",
+      "date": "5/15/1982",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13876"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:03.629177"
+}

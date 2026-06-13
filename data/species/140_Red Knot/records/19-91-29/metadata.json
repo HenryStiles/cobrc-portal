@@ -1,0 +1,19 @@
+{
+  "acc_no": "19-91-29",
+  "year": "1991",
+  "location": "Neenoshe Reservoir",
+  "county": "Kiowa",
+  "observers": "Duane Nelson",
+  "comments": "",
+  "citations": "Nelson, D.  1991 Report of the CBRC. CFO Journal 27(2), 49-56.",
+  "documentations": [
+    {
+      "doc_id": "13867",
+      "reporter": "Duane Nelson",
+      "date": "7/24/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13867"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:17.838651"
+}

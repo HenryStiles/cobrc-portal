@@ -1,0 +1,40 @@
+{
+  "acc_no": "2002-108",
+  "year": "2002",
+  "location": "Pueblo City Park",
+  "county": "Pueblo",
+  "observers": "Roger Linfield, Donna Emmons, Gerald Ziarno, Glenn Walbek",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Faulkner, D. The 65th Report of the CBRC. Colorado Birds 47(1), 28-37.",
+  "documentations": [
+    {
+      "doc_id": "49",
+      "reporter": "Roger Linfield",
+      "date": "10/24/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=49"
+    },
+    {
+      "doc_id": "4062",
+      "reporter": "Gerald Ziarno",
+      "date": "10/28/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4062"
+    },
+    {
+      "doc_id": "16401",
+      "reporter": "Donna Emmons",
+      "date": "10/28/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16401"
+    },
+    {
+      "doc_id": "4078",
+      "reporter": "Walbek, Glenn",
+      "date": "12/14/2002",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4078"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:53.009011"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2025-033",
+  "year": "2025",
+  "location": "Smith Reservoir State Wildlife Reservoir",
+  "county": "Costilla",
+  "observers": "Jesse Casias",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "15961",
+      "reporter": "Jesse Casias",
+      "date": "7/24/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15961"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:34.984657"
+}

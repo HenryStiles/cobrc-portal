@@ -1,0 +1,19 @@
+{
+  "acc_no": "2003-018",
+  "year": "2002",
+  "location": "Lake Meredith",
+  "county": "Crowley",
+  "observers": "Stan Oswald, Rachel Hopper, Larry Semo, Tony Leukering, Peter Gent",
+  "comments": "video",
+  "citations": "Semo, L.  The 42nd Report of the CBRC. Colorado Birds 40(3), 133-156.",
+  "documentations": [
+    {
+      "doc_id": "13764",
+      "reporter": "Stan Oswald, Rachel Hopper, Larry Semo, Tony Leukering, Peter Gent",
+      "date": "10/5/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13764"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:53.849935"
+}

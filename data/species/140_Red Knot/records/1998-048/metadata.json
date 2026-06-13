@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-048",
+  "year": "1998",
+  "location": "Prewitt Reservoir State Wildlife Area",
+  "county": "Washington",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "13872",
+      "reporter": "Tony Leukering",
+      "date": "9/19/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13872"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:23.518127"
+}

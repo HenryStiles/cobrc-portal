@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-017",
+  "year": "2004",
+  "location": "Wellington State Wildlife Area/Cobb Lake State Wildlife Area",
+  "county": "Larimer",
+  "observers": "Rachel Hopper",
+  "comments": "",
+  "citations": "Semo, L.  The 41st Report of the CBRC. Colorado Birds 40(1), 26-44.",
+  "documentations": [
+    {
+      "doc_id": "16402",
+      "reporter": "Rachel Hopper",
+      "date": "3/24/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16402"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:57.362765"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-054",
+  "year": "2007",
+  "location": "Blue Lake (Adobe Creek Reservoir)",
+  "county": "Bent",
+  "observers": "Bill Maynard",
+  "comments": "Age: juv; Plumage: juvenal;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "773",
+      "reporter": "Bill Maynard",
+      "date": "9/2/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=773"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:39.112124"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "19-89-14",
+  "year": "1989",
+  "location": "Lake Meredith",
+  "county": "Crowley",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Nelson, D.  1989 Report of the CBRC. CFO Journal 25(4), 119-125.",
+  "documentations": [
+    {
+      "doc_id": "13866",
+      "reporter": "Mark Janos",
+      "date": "8/27/1989",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13866"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:16.543341"
+}

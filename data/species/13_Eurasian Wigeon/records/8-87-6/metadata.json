@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-87-6",
+  "year": "1987",
+  "location": "Greeley",
+  "county": "Weld",
+  "observers": "Jerry Cairo",
+  "comments": "",
+  "citations": "Bunn, R.  1987 Report of the CBRC pt.1. CFO Journal 23(1), 13-18.",
+  "documentations": [
+    {
+      "doc_id": "16384",
+      "reporter": "Jerry Cairo",
+      "date": "3/23/1987",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16384"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:30.139828"
+}

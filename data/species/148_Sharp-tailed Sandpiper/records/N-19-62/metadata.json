@@ -1,0 +1,19 @@
+{
+  "acc_no": "N-19-62",
+  "year": "1975",
+  "location": "Prince Lakes, Erie and Thomas Reservoirs",
+  "county": "Boulder",
+  "observers": "Bruce Webb, Jeanne Conry, Robert Andrews, Harold Holt, Archibald McCallum, Jack Reddall",
+  "comments": "First state record for Colorado.",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.  A Sharp-tailed Sandpiper in Colorado , with notes on plumage and behavior, by Bruce Webb and Jeanne Conry.  Western Birds, Vol 10, 86-91, 1979",
+  "documentations": [
+    {
+      "doc_id": "13164",
+      "reporter": "Robert Andrews, Harold Holt, Archibald McCallum, Jack Reddall",
+      "date": "10/26/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13164"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:30.447840"
+}

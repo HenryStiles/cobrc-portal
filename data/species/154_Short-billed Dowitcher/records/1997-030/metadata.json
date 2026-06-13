@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-030",
+  "year": "1995",
+  "location": "Fruitgrowers Reservoir (Hart's Basin)",
+  "county": "Delta",
+  "observers": "Rich Levad, Mark Janos",
+  "comments": "",
+  "citations": "Janos, M.  1997 Report of the CBRC.  J. of the CFO 33(4), 241-252.",
+  "documentations": [
+    {
+      "doc_id": "13926",
+      "reporter": "Rich Levad, Mark Janos",
+      "date": "8/18/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13926"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:37.056495"
+}

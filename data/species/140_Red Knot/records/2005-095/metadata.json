@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-095",
+  "year": "2005",
+  "location": "Lake Meredith",
+  "county": "Crowley",
+  "observers": "Andrew Spencer",
+  "comments": "Age: ad; Plumage: basic;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "196",
+      "reporter": "Andrew Spencer",
+      "date": "9/17/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=196"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:37.668711"
+}

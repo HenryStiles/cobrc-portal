@@ -1,0 +1,19 @@
+{
+  "acc_no": "19-72-16",
+  "year": "1972",
+  "location": "Lake Henry",
+  "county": "Crowley",
+  "observers": "Van Truan, Michael Schultz",
+  "comments": "",
+  "citations": "Reddall, J. 1973b. Reports from the CFO Official Records Committee. Colorado Field Ornithologist 16:19-26.",
+  "documentations": [
+    {
+      "doc_id": "13860",
+      "reporter": "Van Truan, Michael Schultz",
+      "date": "5/13/1972",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13860"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:07.443712"
+}

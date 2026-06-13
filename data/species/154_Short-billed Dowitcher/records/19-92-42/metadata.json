@@ -1,0 +1,19 @@
+{
+  "acc_no": "19-92-42",
+  "year": "1992",
+  "location": "Arapaho National Wildlife Refuge",
+  "county": "Jackson",
+  "observers": "Bob Righter",
+  "comments": "",
+  "citations": "Prather, B.  1992 Report of the CBRC. CFO Jornal 28(4), 157-168.",
+  "documentations": [
+    {
+      "doc_id": "13921",
+      "reporter": "Bob Righter",
+      "date": "9/9/1992",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13921"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:27.672569"
+}

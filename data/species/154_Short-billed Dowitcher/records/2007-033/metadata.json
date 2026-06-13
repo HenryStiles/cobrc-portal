@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-033",
+  "year": "2007",
+  "location": "Chico Basin Ranch",
+  "county": "Pueblo",
+  "observers": "Bill Maynard",
+  "comments": "",
+  "citations": "Semo, L. and Faulkner, D.  The 52nd Report of the CBRC. Colorado Birds 43(4), 268-281.",
+  "documentations": [
+    {
+      "doc_id": "717",
+      "reporter": "Bill Maynard",
+      "date": "5/7/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=717"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:02.599360"
+}

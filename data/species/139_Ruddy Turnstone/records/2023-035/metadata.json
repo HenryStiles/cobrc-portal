@@ -1,0 +1,19 @@
+{
+  "acc_no": "2023-035",
+  "year": "2023",
+  "location": "Narraguinnep Reservoir",
+  "county": "Montezuma",
+  "observers": "Coen Dexter",
+  "comments": "",
+  "citations": "Gent, P.  The 86th Report of the CBRC.  Colorado Birds 58(3), 125-132.",
+  "documentations": [
+    {
+      "doc_id": "2402",
+      "reporter": "Coen Dexter",
+      "date": "9/2/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2402"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:28.632881"
+}

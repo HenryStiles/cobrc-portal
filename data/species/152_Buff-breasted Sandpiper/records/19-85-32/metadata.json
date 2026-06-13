@@ -1,0 +1,19 @@
+{
+  "acc_no": "19-85-32",
+  "year": "1985",
+  "location": "Pueblo",
+  "county": "Pueblo",
+  "observers": "Bill Maynard, David Blue",
+  "comments": "",
+  "citations": "Gent, P.  1985 Report of the CBRC. CFO Journal 20(3-4), 44-50.",
+  "documentations": [
+    {
+      "doc_id": "14731",
+      "reporter": "Bill Maynard, David Blue",
+      "date": "9/2/1985",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14731"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:03.500381"
+}

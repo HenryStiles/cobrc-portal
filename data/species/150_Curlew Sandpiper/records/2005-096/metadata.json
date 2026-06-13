@@ -1,0 +1,40 @@
+{
+  "acc_no": "2005-096",
+  "year": "2005",
+  "location": "Prewitt Reservoir State Wildlife Area",
+  "county": "Washington",
+  "observers": "Joey Kellner, Andrew Spencer, Peter Gent, Kara Lewantowicz",
+  "comments": "Age: juv; Plumage: juvenal;",
+  "citations": "Semo, L.  The 42nd Report of the CBRC. Colorado Birds 40(3), 133-156.",
+  "documentations": [
+    {
+      "doc_id": "172",
+      "reporter": "Joey Kellner",
+      "date": "9/18/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=172"
+    },
+    {
+      "doc_id": "13720",
+      "reporter": "Kara Lewantowicz",
+      "date": "9/18/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13720"
+    },
+    {
+      "doc_id": "184",
+      "reporter": "Andrew Spencer",
+      "date": "9/19/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=184"
+    },
+    {
+      "doc_id": "198",
+      "reporter": "Peter Gent",
+      "date": "9/19/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=198"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:27.350288"
+}

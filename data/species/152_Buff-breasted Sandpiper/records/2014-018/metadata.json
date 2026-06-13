@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-018",
+  "year": "2013",
+  "location": "Jackson Reservoir",
+  "county": "Morgan",
+  "observers": "David Dowell",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2817",
+      "reporter": "David Dowell",
+      "date": "8/21/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2817"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:37.229722"
+}

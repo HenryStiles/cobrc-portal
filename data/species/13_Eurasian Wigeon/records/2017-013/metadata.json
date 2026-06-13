@@ -1,0 +1,19 @@
+{
+  "acc_no": "2017-013",
+  "year": "2017",
+  "location": "La Salle",
+  "county": "Weld",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "8554",
+      "reporter": "Steven Mlodinow",
+      "date": "3/14/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8554"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:15.251672"
+}

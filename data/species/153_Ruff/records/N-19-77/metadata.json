@@ -1,0 +1,19 @@
+{
+  "acc_no": "N-19-77",
+  "year": "1977",
+  "location": "CRs 6 & 61",
+  "county": "Weld",
+  "observers": "Jack Reddall, Robert Andrews, Mildred Snyder",
+  "comments": "Old Acc. No. N-19-77 First Colorado state record.",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "13165",
+      "reporter": "Jack Reddall, Robert Andrews, Mildred Snyder",
+      "date": "5/30/1977",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13165"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:52.755973"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "19-74-114",
+  "year": "1974",
+  "location": "Jackson Reservoir",
+  "county": "Morgan",
+  "observers": "Jack Reddall, Bob Andrews",
+  "comments": "",
+  "citations": "Reddall, J. 1975. Reports from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "13863",
+      "reporter": "Jack Reddall, Bob Andrews",
+      "date": "9/29/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13863"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:13.032117"
+}

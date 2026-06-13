@@ -1,0 +1,19 @@
+{
+  "acc_no": "2025-053",
+  "year": "2025",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Joel Zigman",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16178",
+      "reporter": "Joel Zigman",
+      "date": "11/28/2025",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16178"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:08.460164"
+}

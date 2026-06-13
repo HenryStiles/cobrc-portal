@@ -1,0 +1,19 @@
+{
+  "acc_no": "19-74-101",
+  "year": "1974",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Bob Andrews",
+  "comments": "Record is mislabeled as 19-74-71 in the report.",
+  "citations": "Reddall, J. 1975. Reports from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "14725",
+      "reporter": "Bob Andrews",
+      "date": "9/6/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14725"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:09.039275"
+}

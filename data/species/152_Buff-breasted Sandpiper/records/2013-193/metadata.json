@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-193",
+  "year": "2013",
+  "location": "Jackson Reservoir",
+  "county": "Morgan",
+  "observers": "John Drummond",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2556",
+      "reporter": "John Drummond",
+      "date": "8/30/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2556"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:38.109425"
+}

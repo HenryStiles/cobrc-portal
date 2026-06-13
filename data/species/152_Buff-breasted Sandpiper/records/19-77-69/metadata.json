@@ -1,0 +1,19 @@
+{
+  "acc_no": "19-77-69",
+  "year": "1977",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Thompson Marsh",
+  "comments": "",
+  "citations": "Chase, C.  1977-1980 Pt.2 Report of the CBRC. CFO Journal 15(2), 54-59.",
+  "documentations": [
+    {
+      "doc_id": "14728",
+      "reporter": "Thompson Marsh",
+      "date": "9/7/1977",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14728"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:13.927825"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-83-12",
+  "year": "1983",
+  "location": "Pueblo",
+  "county": "Pueblo",
+  "observers": "Bill Maynard, Rosie & Jim Watts",
+  "comments": "",
+  "citations": "Gent, P.  1983 Report of the CBRC. CFO Journal 19(1-2), 28-33.",
+  "documentations": [
+    {
+      "doc_id": "16380",
+      "reporter": "Bill Maynard, Rosie & Jim Watts",
+      "date": "4/10/1983",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16380"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:24.295322"
+}
