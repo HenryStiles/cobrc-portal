@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-74-50",
+  "year": "1974",
+  "location": "Cottonwood Canyon",
+  "county": "Baca",
+  "observers": "Hugh Kingery",
+  "comments": "",
+  "citations": "Reddall, J. 1975. Records from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "14339",
+      "reporter": "Hugh Kingery",
+      "date": "5/12/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14339"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:50.483412"
+}

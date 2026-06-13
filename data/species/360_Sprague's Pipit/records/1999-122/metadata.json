@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-122",
+  "year": "1999",
+  "location": "Julesburg",
+  "county": "Sedgwick",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "13364",
+      "reporter": "Tony Leukering",
+      "date": "10/18/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13364"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:54.828068"
+}

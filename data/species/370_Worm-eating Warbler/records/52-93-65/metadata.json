@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-93-65",
+  "year": "1993",
+  "location": "Lamar Community College",
+  "county": "Prowers",
+  "observers": "Brandon Percival, Mark Janos",
+  "comments": "",
+  "citations": "Prather, B.  1993 Report of the CBRC, CFO Journal 30, 20-30.",
+  "documentations": [
+    {
+      "doc_id": "14225",
+      "reporter": "Brandon Percival, Mark Janos",
+      "date": "5/1/1993",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14225"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:06.390273"
+}

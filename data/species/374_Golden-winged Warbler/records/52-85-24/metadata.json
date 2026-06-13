@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-85-24",
+  "year": "1985",
+  "location": "South Republican SWA",
+  "county": "Yuma",
+  "observers": "Jack Merchant",
+  "comments": "",
+  "citations": "Gent, P.  1985 Report of the CBRC. CFO Journal 20(3-4), 44-50.",
+  "documentations": [
+    {
+      "doc_id": "14340",
+      "reporter": "Jack Merchant",
+      "date": "5/12/1985",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14340"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:59.813659"
+}

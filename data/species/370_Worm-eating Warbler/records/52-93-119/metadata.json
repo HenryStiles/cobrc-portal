@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-93-119",
+  "year": "1988",
+  "location": "La Junta",
+  "county": "Otero",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Prather, B.  1993 Report of the CBRC.  CFO Journal 30, 20-30.",
+  "documentations": [
+    {
+      "doc_id": "14226",
+      "reporter": "Mark Janos",
+      "date": "5/10/1988",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14226"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:02.343655"
+}

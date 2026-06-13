@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-195",
+  "year": "2010",
+  "location": "Denver",
+  "county": "Denver",
+  "observers": "Sharon Pfeifer",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2746",
+      "reporter": "Sharon Pfeifer",
+      "date": "12/7/2010",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2746"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:15.323632"
+}

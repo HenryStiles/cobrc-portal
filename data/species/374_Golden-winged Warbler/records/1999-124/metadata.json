@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-124",
+  "year": "1999",
+  "location": "Wheat Ridge Greenbelt",
+  "county": "Jefferson",
+  "observers": "Todd Dilley, Van Remsen",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "14366",
+      "reporter": "Todd Dilley, Van Remsen",
+      "date": "9/14/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14366"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:21.751048"
+}

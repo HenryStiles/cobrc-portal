@@ -1,0 +1,26 @@
+{
+  "acc_no": "2013-162",
+  "year": "2013",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Brandon K Percival, Bill Maynard",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2489",
+      "reporter": "Brandon K Percival",
+      "date": "6/1/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2489"
+    },
+    {
+      "doc_id": "2510",
+      "reporter": "Bill Maynard",
+      "date": "6/1/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2510"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:37.954940"
+}

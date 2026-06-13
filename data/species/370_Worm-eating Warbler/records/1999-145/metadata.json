@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-145",
+  "year": "1999",
+  "location": "Fort Lyon Wildlife Area",
+  "county": "Bent",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "14240",
+      "reporter": "Mark Janos",
+      "date": "4/24/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14240"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:18.418786"
+}

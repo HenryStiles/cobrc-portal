@@ -1,0 +1,19 @@
+{
+  "acc_no": "2003-032",
+  "year": "2003",
+  "location": "Road G near Sand Canyon",
+  "county": "Baca",
+  "observers": "Michael Patten",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  The 39th Report of the CBRC. Colorado Birds 39(3), 131-141.",
+  "documentations": [
+    {
+      "doc_id": "13683",
+      "reporter": "Michael Patten",
+      "date": "4/27/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13683"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:55.838048"
+}

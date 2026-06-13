@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-070",
+  "year": "2007",
+  "location": "Hale area",
+  "county": "Yuma",
+  "observers": "Larry Semo",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "794",
+      "reporter": "Larry Semo",
+      "date": "10/13/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=794"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:02.176965"
+}

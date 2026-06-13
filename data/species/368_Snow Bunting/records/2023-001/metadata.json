@@ -1,0 +1,19 @@
+{
+  "acc_no": "2023-001",
+  "year": "2023",
+  "location": "S and 8 Roads.",
+  "county": "Mesa",
+  "observers": "Linda Chittum",
+  "comments": "",
+  "citations": "Gent, P.  85th Report of the CBRC. Colorado Birds 58(1), 7-14.",
+  "documentations": [
+    {
+      "doc_id": "13091",
+      "reporter": "Linda Chittum",
+      "date": "1/18/2023",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13091"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:07.368298"
+}

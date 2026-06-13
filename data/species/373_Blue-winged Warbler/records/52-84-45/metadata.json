@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-84-45",
+  "year": "1984",
+  "location": "Limon",
+  "county": "Lincoln",
+  "observers": "Ruth Kuenning",
+  "comments": "",
+  "citations": "Gent, P.  1984 Report of the CBRC. CFO Journal 19(4), 82-87.",
+  "documentations": [
+    {
+      "doc_id": "14391",
+      "reporter": "Ruth Kuenning",
+      "date": "5/20/1984",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14391"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:13.829416"
+}

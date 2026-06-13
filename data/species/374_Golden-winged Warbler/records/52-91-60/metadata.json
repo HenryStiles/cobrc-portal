@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-91-60",
+  "year": "1991",
+  "location": "Wheat Ridge Greenbelt",
+  "county": "Jefferson",
+  "observers": "Duane Nelson, Bob Spencer",
+  "comments": "",
+  "citations": "Nelson, D.  1991 Report of the CBRC. CFO Journal 27(2), 49-56.",
+  "documentations": [
+    {
+      "doc_id": "14356",
+      "reporter": "Duane Nelson, Bob Spencer",
+      "date": "8/20/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14356"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:05.560647"
+}

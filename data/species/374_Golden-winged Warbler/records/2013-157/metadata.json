@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-157",
+  "year": "2013",
+  "location": "Wray",
+  "county": "Yuma",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2480",
+      "reporter": "Steven Mlodinow",
+      "date": "5/25/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2480"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:35.620828"
+}

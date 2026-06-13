@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-099",
+  "year": "2006",
+  "location": "Pueblo Mountain Park",
+  "county": "Pueblo",
+  "observers": "Mymm Ackley, Bill Maynard",
+  "comments": "Age: adult; Sex: f;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "457",
+      "reporter": "Bill Maynard",
+      "date": "6/15/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=457"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:25.730439"
+}

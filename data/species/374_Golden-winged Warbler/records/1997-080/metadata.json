@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-080",
+  "year": "1997",
+  "location": "Lake Henry",
+  "county": "Crowley",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Janos, M.  1997 Report of the CBRC. J. Colorado Field Ornithologists, 33, 241-252.",
+  "documentations": [
+    {
+      "doc_id": "14412",
+      "reporter": "Mark Janos",
+      "date": "5/11/1997",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14412"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:14.994766"
+}

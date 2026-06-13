@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-89-39",
+  "year": "1989",
+  "location": "Lyons",
+  "county": "Boulder",
+  "observers": "John Prather, Ann Means",
+  "comments": "",
+  "citations": "Nelson, D.  1989 Report of the CBRC. CFO Journal 25(4), 119-125.",
+  "documentations": [
+    {
+      "doc_id": "14401",
+      "reporter": "John Prather, Ann Means",
+      "date": "5/5/1989",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14401"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:16.302435"
+}

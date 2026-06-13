@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-74-132",
+  "year": "1974",
+  "location": "CU South Campus Ponds",
+  "county": "Boulder",
+  "observers": "Bruce Bosley, Narca DeWeskin, Steve Larson",
+  "comments": "Adult female or immature.",
+  "citations": "Reddall, J. 1975. Records from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "14343",
+      "reporter": "Bruce Bosley, Narca DeWeskin, Steve Larson",
+      "date": "9/28/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14343"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:53.286085"
+}

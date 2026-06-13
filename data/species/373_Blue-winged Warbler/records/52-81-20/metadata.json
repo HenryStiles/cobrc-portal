@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-81-20",
+  "year": "1981",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Larry Halsey",
+  "comments": "",
+  "citations": "Chase, C.  1980-1981 Report of the CBRC.  CFO Journal 16, 46-52.",
+  "documentations": [
+    {
+      "doc_id": "14387",
+      "reporter": "Larry Halsey",
+      "date": "6/15/1981",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14387"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:10.824077"
+}

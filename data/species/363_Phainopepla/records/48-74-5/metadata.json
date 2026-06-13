@@ -1,0 +1,19 @@
+{
+  "acc_no": "48-74-5",
+  "year": "1973",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Allen Crockett",
+  "comments": "Probable immature.",
+  "citations": "Reddall, J. 1975. Records from the CFO Official Records Committee. C.F.O. Journal 23:17-34.  Hubbard, J., A. Crockett and P. Hansley, 1975. Second record for the Phainopepla in Colorado. Western Birds, 6:28.",
+  "documentations": [
+    {
+      "doc_id": "13320",
+      "reporter": "Allen Crockett",
+      "date": "12/15/1973",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13320"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:15.665727"
+}

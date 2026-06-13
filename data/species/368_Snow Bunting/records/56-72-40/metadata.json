@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-72-40",
+  "year": "1972",
+  "location": "Lower Poudre Canyon",
+  "county": "Larimer",
+  "observers": "David Bolton",
+  "comments": "",
+  "citations": "Reddall, J.  1973b Report of the CBRC. CFO Journal 16:19-26.",
+  "documentations": [
+    {
+      "doc_id": "13386",
+      "reporter": "David Bolton",
+      "date": "12/31/1972",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13386"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:51.746373"
+}

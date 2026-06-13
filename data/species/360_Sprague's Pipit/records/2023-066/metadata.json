@@ -1,0 +1,19 @@
+{
+  "acc_no": "2023-066",
+  "year": "2023",
+  "location": "Spring Valley State Land Trust",
+  "county": "Kit Carson",
+  "observers": "Luke Pheneger",
+  "comments": "",
+  "citations": "Gent, P., 2025. 87th Report of the CBRC.  Colorado Birds, 59(1), 7-15.",
+  "documentations": [
+    {
+      "doc_id": "13663",
+      "reporter": "Luke Pheneger",
+      "date": "10/14/2023",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13663"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:03.605946"
+}

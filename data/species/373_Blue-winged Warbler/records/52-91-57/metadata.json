@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-91-57",
+  "year": "1991",
+  "location": "Castlewood Canyon State Park",
+  "county": "Douglas",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Nelson, D.  1991 Report of the CBRC. CFO Journal 27(2), 49-56.",
+  "documentations": [
+    {
+      "doc_id": "14403",
+      "reporter": "Mark Janos",
+      "date": "6/11/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14403"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:34.641356"
+}

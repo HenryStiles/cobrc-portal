@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-103",
+  "year": "2005",
+  "location": "Sand Draw State Wildlife Area",
+  "county": "Sedgwick",
+  "observers": "Steve Larson",
+  "comments": "",
+  "citations": "Semo, L.  The 50th Report of the CBRC. Colorado Birds 43(2), 123-135.",
+  "documentations": [
+    {
+      "doc_id": "276",
+      "reporter": "Steve Larson",
+      "date": "10/8/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=276"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:06.284124"
+}

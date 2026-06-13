@@ -1,0 +1,19 @@
+{
+  "acc_no": "2018-011",
+  "year": "2018",
+  "location": "Shadow Mountain Lake spillway.",
+  "county": "Grand",
+  "observers": "Burke Angstman",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "11757",
+      "reporter": "Burke Angstman",
+      "date": "11/27/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11757"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:03.592074"
+}

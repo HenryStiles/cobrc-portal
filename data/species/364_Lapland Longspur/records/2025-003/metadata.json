@@ -1,0 +1,19 @@
+{
+  "acc_no": "2025-003",
+  "year": "2025",
+  "location": "Pastorius State Wildlife Area",
+  "county": "La Plata",
+  "observers": "Kristi Streiffert",
+  "comments": "",
+  "citations": "The 89th Report of the CBRC, Peter R. Gent, Colorado Birds 60(1), 323-332, 2026.",
+  "documentations": [
+    {
+      "doc_id": "14792",
+      "reporter": "Kristi Streiffert",
+      "date": "4/11/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14792"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:20.005073"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-112",
+  "year": "1998",
+  "location": "Lamar Community College",
+  "county": "Prowers",
+  "observers": "Brandon Percival",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "14416",
+      "reporter": "Brandon Percival",
+      "date": "5/20/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14416"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:03.979710"
+}

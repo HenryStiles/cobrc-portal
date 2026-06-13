@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-008",
+  "year": "2005",
+  "location": "Hale area",
+  "county": "Yuma",
+  "observers": "Andrew Spencer, Glenn Walbek",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "468",
+      "reporter": "Andrew Spencer",
+      "date": "10/2/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=468"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:58.558979"
+}

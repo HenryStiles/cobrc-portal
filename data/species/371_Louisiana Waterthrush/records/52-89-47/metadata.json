@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-89-47",
+  "year": "1989",
+  "location": "Burchfield State Wildlife Area",
+  "county": "Baca",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Nelson, D.  1989 Report of the CBRC. CFO Journal 25(4), 119-125.",
+  "documentations": [
+    {
+      "doc_id": "13270",
+      "reporter": "Mark Janos",
+      "date": "9/6/1989",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13270"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:50.400260"
+}

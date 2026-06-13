@@ -1,0 +1,19 @@
+{
+  "acc_no": "2026-013",
+  "year": "2026",
+  "location": "Sitting on the post here: 40.693914,-106.152285",
+  "county": "Jackson",
+  "observers": "Joe Kipper",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16479",
+      "reporter": "Joe Kipper",
+      "date": "2/22/2026",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16479"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:12.596281"
+}

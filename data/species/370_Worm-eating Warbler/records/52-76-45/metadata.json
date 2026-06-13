@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-76-45",
+  "year": "1976",
+  "location": "Boulder Creek (downtown section)",
+  "county": "Boulder",
+  "observers": "Mike Moulton",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "14218",
+      "reporter": "Mike Moulton",
+      "date": "5/8/1976",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14218"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:42.972705"
+}

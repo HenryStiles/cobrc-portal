@@ -1,0 +1,19 @@
+{
+  "acc_no": "48-89-36",
+  "year": "1989",
+  "location": "Penrose",
+  "county": "Fremont",
+  "observers": "Sylvia Wheelock, Rosie Watts, Jim Watts, Mark Janos, Peter Gent",
+  "comments": "",
+  "citations": "Nelson, D.  1989 Report of the CBRC. CFO Journal 25(4), 119-125.",
+  "documentations": [
+    {
+      "doc_id": "14668",
+      "reporter": "Sylvia Wheelock, Rosie Watts, Jim Watts, Mark Janos, Peter Gent",
+      "date": "9/8/1989",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14668"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:20.699184"
+}

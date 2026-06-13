@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-131",
+  "year": "2015",
+  "location": "WCR 37 & 114",
+  "county": "Weld",
+  "observers": "Rachel Hopper",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "6374",
+      "reporter": "Rachel Hopper",
+      "date": "10/14/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6374"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:09.597096"
+}

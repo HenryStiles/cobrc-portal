@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-163",
+  "year": "2008",
+  "location": "Antero Reservoir",
+  "county": "Park",
+  "observers": "John Drummond",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "5166",
+      "reporter": "John Drummond",
+      "date": "10/31/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5166"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:01.080918"
+}

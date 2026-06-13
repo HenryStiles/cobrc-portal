@@ -1,0 +1,33 @@
+{
+  "acc_no": "2020-013",
+  "year": "2020",
+  "location": "Spring Creek Trail",
+  "county": "Larimer",
+  "observers": "Jessie Reese, Rachel Hopper, Joe Mammoser",
+  "comments": "",
+  "citations": "The 82nd Report of the CBRC, 2022. Colorado Birds, 56(4), 283-294.",
+  "documentations": [
+    {
+      "doc_id": "11870",
+      "reporter": "Jessie Reese",
+      "date": "4/22/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11870"
+    },
+    {
+      "doc_id": "11876",
+      "reporter": "Rachel Hopper",
+      "date": "4/22/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11876"
+    },
+    {
+      "doc_id": "11871",
+      "reporter": "Joe Mammoser",
+      "date": "4/23/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11871"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:03.356040"
+}

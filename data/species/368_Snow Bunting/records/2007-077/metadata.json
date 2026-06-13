@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-077",
+  "year": "2007",
+  "location": "near Wellington",
+  "county": "Larimer",
+  "observers": "Rachel Hopper",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "637",
+      "reporter": "Rachel Hopper",
+      "date": "1/15/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=637"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:00.517557"
+}

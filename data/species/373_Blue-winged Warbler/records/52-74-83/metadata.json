@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-74-83",
+  "year": "1970",
+  "location": "Spring Creek Trail",
+  "county": "Larimer",
+  "observers": "Chandler Robbins",
+  "comments": "",
+  "citations": "Reddall, J. 1975. Records from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "14378",
+      "reporter": "Chandler Robbins",
+      "date": "6/19/1970",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14378"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:55.619699"
+}

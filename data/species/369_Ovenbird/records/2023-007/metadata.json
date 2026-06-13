@@ -1,0 +1,19 @@
+{
+  "acc_no": "2023-007",
+  "year": "2023",
+  "location": "Poncha  Springs",
+  "county": "Chaffee",
+  "observers": "Sally Waterhouse",
+  "comments": "",
+  "citations": "Gent, P.  85th Report of the CBRC. Colorado Birds 58(1), 7-14.",
+  "documentations": [
+    {
+      "doc_id": "13316",
+      "reporter": "Sally Waterhouse",
+      "date": "5/22/2023",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13316"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:09.264261"
+}

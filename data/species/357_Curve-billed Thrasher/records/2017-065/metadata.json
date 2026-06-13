@@ -1,0 +1,19 @@
+{
+  "acc_no": "2017-065",
+  "year": "2017",
+  "location": "Montrose",
+  "county": "Montrose",
+  "observers": "Melissa Siders",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "9608",
+      "reporter": "Melissa Siders",
+      "date": "10/8/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=9608"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:11.716358"
+}

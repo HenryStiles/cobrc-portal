@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-161",
+  "year": "2011",
+  "location": "Private Residence along Crystal R., Carbondale",
+  "county": "Pitkin",
+  "observers": "Tom McConnell",
+  "comments": "",
+  "citations": "Faulkner, D. The 62nd Report of the CBRC. Colorado Birds 46(2), 106-120.",
+  "documentations": [
+    {
+      "doc_id": "1540",
+      "reporter": "Thomas Mcconnell",
+      "date": "12/5/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1540"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:07.918752"
+}

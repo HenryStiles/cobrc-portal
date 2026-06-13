@@ -1,0 +1,19 @@
+{
+  "acc_no": "48-78-72",
+  "year": "1978",
+  "location": "Durango",
+  "county": "La Plata",
+  "observers": "Florence Whiteman, Elva Fox",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "13322",
+      "reporter": "Florence Whiteman, Elva Fox",
+      "date": "9/24/1978",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13322"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:17.833824"
+}

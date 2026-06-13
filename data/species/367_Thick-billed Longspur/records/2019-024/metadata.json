@@ -1,0 +1,19 @@
+{
+  "acc_no": "2019-024",
+  "year": "2019",
+  "location": "Manitou Lake and Trout Creek",
+  "county": "Teller",
+  "observers": "David Tonnessen",
+  "comments": "",
+  "citations": "Colorado Birds 56(3), 213-222, 2022",
+  "documentations": [
+    {
+      "doc_id": "11839",
+      "reporter": "David Tonnessen",
+      "date": "10/12/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11839"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:47.185470"
+}

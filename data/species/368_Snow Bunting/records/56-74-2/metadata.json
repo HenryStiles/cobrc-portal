@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-74-2",
+  "year": "1974",
+  "location": "Robert F. Clement Park",
+  "county": "Jefferson",
+  "observers": "Arch McCallum",
+  "comments": "",
+  "citations": "Reddall, J.  1975a Report of the CBRC. CFO Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "13387",
+      "reporter": "Arch McCallum",
+      "date": "1/3/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13387"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:54.456174"
+}

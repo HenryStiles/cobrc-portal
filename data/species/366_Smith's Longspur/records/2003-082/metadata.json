@@ -1,0 +1,19 @@
+{
+  "acc_no": "2003-082",
+  "year": "2003",
+  "location": "Neenoshe Reservoir",
+  "county": "Kiowa",
+  "observers": "Bill Schmoker, Joe Mammoser, Steve Mammoser, Glenn Walbek",
+  "comments": "",
+  "citations": "Semo, L.  The 44th Report of the CBRC. Colorado Birds 41(4), 241-258.",
+  "documentations": [
+    {
+      "doc_id": "13766",
+      "reporter": "Bill Schmoker, Joe Mammoser, Steve Mammoser, Glenn Walbek",
+      "date": "10/11/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13766"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:04.564692"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-82-55",
+  "year": "1982",
+  "location": "Colorado Springs",
+  "county": "El Paso",
+  "observers": "Bill Maynard",
+  "comments": "",
+  "citations": "Gent, P.  1982 Report of the CBRC. CFO Journal 18(2), 51-57.",
+  "documentations": [
+    {
+      "doc_id": "14389",
+      "reporter": "Bill Maynard",
+      "date": "11/6/1982",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14389"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:12.918878"
+}

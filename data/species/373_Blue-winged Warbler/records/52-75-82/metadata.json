@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-75-82",
+  "year": "1975",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Peter Moulton, Bruce Bosley, Narca DeWoskin",
+  "comments": "",
+  "citations": "Reddall, J. 1976. CFO Official Records Committee 1975 Report. C.F.O. Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "14380",
+      "reporter": "Peter Moulton, Bruce Bosley, Narca DeWoskin",
+      "date": "5/3/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14380"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:57.675068"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2018-084",
+  "year": "2018",
+  "location": "KCR 52 just N of KCR M",
+  "county": "Kit Carson",
+  "observers": "Mark Peterson",
+  "comments": "",
+  "citations": "Colorado Birds 56(3), 213-222, 2022",
+  "documentations": [
+    {
+      "doc_id": "11899",
+      "reporter": "Mark Peterson",
+      "date": "1/11/2018",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11899"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:10.635587"
+}

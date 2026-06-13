@@ -1,0 +1,19 @@
+{
+  "acc_no": "N-52-43",
+  "year": "1970",
+  "location": "Waterton Canyon",
+  "county": "Jefferson",
+  "observers": "Edward Knittle, Willis Royall, Hugh Kingery",
+  "comments": "Singing.",
+  "citations": "Reddall, J. 1974. Reports from the CFO Official Records Committee. Colorado Field Ornithologist 21/22:28-34.",
+  "documentations": [
+    {
+      "doc_id": "14377",
+      "reporter": "Edward Knittle, Willis Royall, Hugh Kingery",
+      "date": "5/9/1970",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14377"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:54.355927"
+}

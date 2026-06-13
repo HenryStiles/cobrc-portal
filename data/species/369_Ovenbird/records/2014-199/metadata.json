@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-199",
+  "year": "2014",
+  "location": "Not Specified",
+  "county": "Douglas",
+  "observers": "Clint Jones",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "4024",
+      "reporter": "Clint Jones",
+      "date": "6/24/2014",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4024"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:08.718699"
+}

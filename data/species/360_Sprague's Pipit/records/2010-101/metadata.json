@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-101",
+  "year": "2010",
+  "location": "Davidson Mesa",
+  "county": "Boulder",
+  "observers": "Peter Gent, Christian Nunes",
+  "comments": "",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1496",
+      "reporter": "Peter Gent",
+      "date": "9/29/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1496"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:05.006304"
+}

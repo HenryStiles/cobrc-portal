@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-130",
+  "year": "2010",
+  "location": "South Republican SWA",
+  "county": "Yuma",
+  "observers": "Brandon Percival",
+  "comments": "",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1590",
+      "reporter": "Brandon K Percival",
+      "date": "10/10/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1590"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:06.189740"
+}

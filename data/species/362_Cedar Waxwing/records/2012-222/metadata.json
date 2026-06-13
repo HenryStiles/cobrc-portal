@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-222",
+  "year": "2012",
+  "location": "39 degrees, 54', 1.5\" North 105 degrees, 20\", 39\" West",
+  "county": "Jefferson",
+  "observers": "Jan Justicewaddington",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1992",
+      "reporter": "Jan Justicewaddington",
+      "date": "5/18/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1992"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:18.024415"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-058",
+  "year": "2011",
+  "location": "Colorado River State Park (James M. Robb)",
+  "county": "Mesa",
+  "observers": "Riley Morris",
+  "comments": "Age: adult; Sex: m;",
+  "citations": "Faulkner, D. The 62nd Report of the CBRC. Colorado Birds 46(2), 106-120.",
+  "documentations": [
+    {
+      "doc_id": "1696",
+      "reporter": "Riley Morris",
+      "date": "5/21/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1696"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:30.808766"
+}

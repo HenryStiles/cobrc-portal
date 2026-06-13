@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-023",
+  "year": "2016",
+  "location": "",
+  "county": "Conejos",
+  "observers": "Tyler Stuart",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6410",
+      "reporter": "Tyler Stuart",
+      "date": "3/27/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6410"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:18.506484"
+}

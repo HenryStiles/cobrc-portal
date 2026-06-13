@@ -1,0 +1,26 @@
+{
+  "acc_no": "2010-100",
+  "year": "2010",
+  "location": "Vallecito Reservoir",
+  "county": "La Plata",
+  "observers": "Peter Derven, Susan Allerton",
+  "comments": "Age: immature; Plumage: 1st-winter; Sex: female;",
+  "citations": "Faulkner, D. and Semo, L. The 59th Report of the CBRC. Colorado Birds 45(3), 174-180.",
+  "documentations": [
+    {
+      "doc_id": "1491",
+      "reporter": "Peter Derven",
+      "date": "9/25/2010",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1491"
+    },
+    {
+      "doc_id": "1493",
+      "reporter": "Susan Allerton",
+      "date": "9/25/2010",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1493"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:42.510438"
+}

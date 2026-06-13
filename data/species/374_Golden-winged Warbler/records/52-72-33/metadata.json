@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-72-33",
+  "year": "1968",
+  "location": "Fort Morgan",
+  "county": "Morgan",
+  "observers": "Bob Andrews, Jack Reddall",
+  "comments": "Singing",
+  "citations": "Reddall, J. 1974. Reports from the CFO Official Records Committee. Colorado Field Ornithologist 19:11-41.",
+  "documentations": [
+    {
+      "doc_id": "14336",
+      "reporter": "Bob Andrews, Jack Reddall",
+      "date": "6/9/1968",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14336"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:47.757630"
+}

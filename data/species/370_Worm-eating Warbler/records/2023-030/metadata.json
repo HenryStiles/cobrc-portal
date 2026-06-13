@@ -1,0 +1,19 @@
+{
+  "acc_no": "2023-030",
+  "year": "2023",
+  "location": "Lake Hasty",
+  "county": "Bent",
+  "observers": "Luke Pheneger",
+  "comments": "",
+  "citations": "Gent, P.  The 86th Report of the CBRC.  Colorado Birds 58(3), 125-132.",
+  "documentations": [
+    {
+      "doc_id": "13441",
+      "reporter": "Luke Pheneger",
+      "date": "5/3/2023",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13441"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:38.097353"
+}

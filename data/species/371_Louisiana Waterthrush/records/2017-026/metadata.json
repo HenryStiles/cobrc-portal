@@ -1,0 +1,19 @@
+{
+  "acc_no": "2017-026",
+  "year": "2017",
+  "location": "Brett Gray Ranch",
+  "county": "Lincoln",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "8567",
+      "reporter": "Steven Mlodinow",
+      "date": "5/14/2017",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8567"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:02.759768"
+}

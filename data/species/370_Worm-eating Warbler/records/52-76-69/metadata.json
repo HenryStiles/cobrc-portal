@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-76-69",
+  "year": "1976",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Ridi VanZandt",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds 10, 57-70. Written as 52-76-79 in this report.",
+  "documentations": [
+    {
+      "doc_id": "14220",
+      "reporter": "Ridi VanZandt",
+      "date": "5/20/1976",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14220"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:44.032873"
+}

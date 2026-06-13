@@ -1,0 +1,19 @@
+{
+  "acc_no": "46-76-51",
+  "year": "1976",
+  "location": "Estes Park",
+  "county": "Larimer",
+  "observers": "Warner Reeser",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "13360",
+      "reporter": "Warner Reeser",
+      "date": "4/28/1976",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13360"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:49.288302"
+}

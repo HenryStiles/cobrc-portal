@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-91-59",
+  "year": "1990",
+  "location": "Bear Creek Canyon Park",
+  "county": "El Paso",
+  "observers": "Toni Brevillier",
+  "comments": "",
+  "citations": "Nelson, D.  1991 Report of the CBRC. CFO Journal 27(2), 49-56.",
+  "documentations": [
+    {
+      "doc_id": "14355",
+      "reporter": "Toni Brevillier",
+      "date": "6/6/1990",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14355"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:02.690090"
+}

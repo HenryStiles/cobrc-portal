@@ -1,0 +1,26 @@
+{
+  "acc_no": "2015-118",
+  "year": "2015",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Bill Maynard, Melvin Goff",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "6357",
+      "reporter": "Bill Maynard",
+      "date": "10/14/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6357"
+    },
+    {
+      "doc_id": "6358",
+      "reporter": "Melvin Goff",
+      "date": "10/20/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6358"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:10.565724"
+}

@@ -1,0 +1,89 @@
+{
+  "acc_no": "2008-033",
+  "year": "2008",
+  "location": "Longmont",
+  "county": "Boulder",
+  "observers": "Mark Miller, Andrew Spencer, Bill Kaempfer, Bill Maynard, Bill Schmoker, Brandon Percival, Gregg Goodrich, Nathan Pieplow, Rachel Hopper, Thomas Lechleitner, Walter Szeliga",
+  "comments": "Age: adult;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "948",
+      "reporter": "Mark Miller",
+      "date": "4/25/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=948"
+    },
+    {
+      "doc_id": "949",
+      "reporter": "Nathan Pieplow",
+      "date": "4/26/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=949"
+    },
+    {
+      "doc_id": "951",
+      "reporter": "Bill Kaempfer",
+      "date": "4/26/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=951"
+    },
+    {
+      "doc_id": "952",
+      "reporter": "Bill Maynard",
+      "date": "4/26/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=952"
+    },
+    {
+      "doc_id": "953",
+      "reporter": "Andrew Spencer",
+      "date": "4/26/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=953"
+    },
+    {
+      "doc_id": "955",
+      "reporter": "Rachel Hopper",
+      "date": "4/26/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=955"
+    },
+    {
+      "doc_id": "965",
+      "reporter": "Bill Schmoker",
+      "date": "4/26/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=965"
+    },
+    {
+      "doc_id": "968",
+      "reporter": "Thomas Lechleitner",
+      "date": "4/26/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=968"
+    },
+    {
+      "doc_id": "972",
+      "reporter": "Gregg Goodrich",
+      "date": "4/26/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=972"
+    },
+    {
+      "doc_id": "945",
+      "reporter": "Brandon K Percival",
+      "date": "4/26/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=945"
+    },
+    {
+      "doc_id": "946",
+      "reporter": "Walter Szeliga",
+      "date": "4/26/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=946"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:52.404748"
+}

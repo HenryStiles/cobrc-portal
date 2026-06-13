@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-132",
+  "year": "1998",
+  "location": "Bear Creek Canyon Park",
+  "county": "El Paso",
+  "observers": "John Maynard",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "14237",
+      "reporter": "John Maynard",
+      "date": "5/1/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14237"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:15.024088"
+}

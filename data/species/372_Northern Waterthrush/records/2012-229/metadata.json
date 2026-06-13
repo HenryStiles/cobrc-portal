@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-229",
+  "year": "2012",
+  "location": "Area 92 of Blanca Wetlands",
+  "county": "Alamosa",
+  "observers": "Polly Neldner",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2058",
+      "reporter": "Polly Neldner",
+      "date": "8/17/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2058"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:25.964034"
+}

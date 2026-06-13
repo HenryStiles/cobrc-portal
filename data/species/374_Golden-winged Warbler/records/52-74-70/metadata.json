@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-74-70",
+  "year": "1974",
+  "location": "Rocky Mountain National Park (Larimer section)",
+  "county": "Larimer",
+  "observers": "Van Truan, Rusty Muller",
+  "comments": "",
+  "citations": "Reddall, J. 1975. Records from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "14342",
+      "reporter": "Van Truan, Rusty Muller",
+      "date": "7/4/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14342"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:52.287993"
+}

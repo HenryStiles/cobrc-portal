@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-76-40",
+  "year": "1976",
+  "location": "Two Buttes State Wildlife Area",
+  "county": "Baca",
+  "observers": "Jack Reddall, Paul Julian",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "14382",
+      "reporter": "Jack Reddall, Paul Julian",
+      "date": "5/5/1976",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14382"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:01.775269"
+}

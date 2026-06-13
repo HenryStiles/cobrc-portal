@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-058",
+  "year": "2001",
+  "location": "Red Rocks Park",
+  "county": "Jefferson",
+  "observers": "Nancy Gobris, Karleen Schofield",
+  "comments": "video",
+  "citations": "Leukering, T. and Semo, L.  2001 pt.1 Report of the CBRC. Colorado Birds 37(3), 138-155.",
+  "documentations": [
+    {
+      "doc_id": "14369",
+      "reporter": "Nancy Gobris, Karleen Schofield",
+      "date": "6/5/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14369"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:25.458089"
+}

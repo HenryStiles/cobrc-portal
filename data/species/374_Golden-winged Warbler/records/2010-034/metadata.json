@@ -1,0 +1,26 @@
+{
+  "acc_no": "2010-034",
+  "year": "2010",
+  "location": "Durango",
+  "county": "La Plata",
+  "observers": "Riley Morris, Susan Allerton",
+  "comments": "Age: adult; Plumage: alternate; Sex: f;",
+  "citations": "Semo, L. and Faulkner, D. The 57th Report of the CBRC. Colorado Birds 45(1), 30-41.",
+  "documentations": [
+    {
+      "doc_id": "1417",
+      "reporter": "Riley Morris",
+      "date": "5/20/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1417"
+    },
+    {
+      "doc_id": "1422",
+      "reporter": "Susan Allerton",
+      "date": "5/20/2010",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1422"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:27.396885"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-80-40",
+  "year": "1980",
+  "location": "Red Rocks Park",
+  "county": "Jefferson",
+  "observers": "Joseph Krieg",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "14351",
+      "reporter": "Joseph Krieg",
+      "date": "5/15/1980",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14351"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:58.816480"
+}

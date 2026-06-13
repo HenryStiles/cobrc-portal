@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-110",
+  "year": "2010",
+  "location": "Bayfield",
+  "county": "Archuleta",
+  "observers": "Susan Allerton",
+  "comments": "",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1539",
+      "reporter": "Susan Allerton",
+      "date": "6/1/2010",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1539"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:08.199374"
+}

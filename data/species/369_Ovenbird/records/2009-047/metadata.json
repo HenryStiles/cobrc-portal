@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-047",
+  "year": "2009",
+  "location": "Pastorius State Wildlife Area",
+  "county": "La Plata",
+  "observers": "Heather Morris",
+  "comments": "",
+  "citations": "Semo, L. and Faulkner, D.  The 53rd Report of the CBRC. Colorado Birds 44(1), 31-42.",
+  "documentations": [
+    {
+      "doc_id": "1244",
+      "reporter": "Heather Morris",
+      "date": "5/30/2009",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1244"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:07.668492"
+}

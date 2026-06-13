@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-141",
+  "year": "2011",
+  "location": "Hale area",
+  "county": "Yuma",
+  "observers": "Steve Mlodinow",
+  "comments": "",
+  "citations": "Faulkner, D. The 63rd Report of the CBRC. Colorado Birds 46(3), 188-197.",
+  "documentations": [
+    {
+      "doc_id": "1810",
+      "reporter": "Steven Mlodinow",
+      "date": "10/15/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1810"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:08.986650"
+}

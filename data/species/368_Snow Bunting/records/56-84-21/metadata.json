@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-84-21",
+  "year": "1984",
+  "location": "Caribou Ranch Open Space",
+  "county": "Boulder",
+  "observers": "Dave Hallock",
+  "comments": "",
+  "citations": "Gent, P.  1984 Report of the CBRC. CFO Journal 19(4), 82-87.",
+  "documentations": [
+    {
+      "doc_id": "13390",
+      "reporter": "Dave Hallock",
+      "date": "1/26/1984",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13390"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:57.883661"
+}

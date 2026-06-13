@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-201",
+  "year": "2006",
+  "location": "Rist Canyon",
+  "county": "Larimer",
+  "observers": "C W",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "401",
+      "reporter": "C W",
+      "date": "4/11/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=401"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:25.734553"
+}

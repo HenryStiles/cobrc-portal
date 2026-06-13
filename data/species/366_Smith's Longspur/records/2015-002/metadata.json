@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-002",
+  "year": "2014",
+  "location": "Medicine Bow Curve",
+  "county": "Larimer",
+  "observers": "Jeremiah Trimble",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "5192",
+      "reporter": "Jeremiah Trimble",
+      "date": "9/27/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5192"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:09.701568"
+}

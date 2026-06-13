@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-147",
+  "year": "1999",
+  "location": "Two Buttes State Wildlife Area",
+  "county": "Prowers",
+  "observers": "Lisa & John Rawinski",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "14242",
+      "reporter": "Lisa & John Rawinski",
+      "date": "5/8/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14242"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:20.248232"
+}
