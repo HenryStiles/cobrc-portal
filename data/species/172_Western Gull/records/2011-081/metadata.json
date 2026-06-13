@@ -1,0 +1,54 @@
+{
+  "acc_no": "2011-081",
+  "year": "2011",
+  "location": "Chatfield State Park",
+  "county": "Douglas & Arapahoe",
+  "observers": "Glenn Walbek,  David Alcock, Peter Gent, Bill Maynard, Brandon Percival, Nathan Pieplow",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1683",
+      "reporter": "David Alcock",
+      "date": "6/1/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1683"
+    },
+    {
+      "doc_id": "1684",
+      "reporter": "Bill Maynard",
+      "date": "6/1/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1684"
+    },
+    {
+      "doc_id": "1700",
+      "reporter": "Peter Gent",
+      "date": "6/1/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1700"
+    },
+    {
+      "doc_id": "1723",
+      "reporter": "Glenn Walbek",
+      "date": "6/1/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1723"
+    },
+    {
+      "doc_id": "1814",
+      "reporter": "Brandon K Percival",
+      "date": "6/2/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1814"
+    },
+    {
+      "doc_id": "1698",
+      "reporter": "Nathan Pieplow",
+      "date": "6/3/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1698"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:32.160170"
+}

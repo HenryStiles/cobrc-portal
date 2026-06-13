@@ -1,0 +1,19 @@
+{
+  "acc_no": "2019-014",
+  "year": "2019",
+  "location": "Aurora Reservoir",
+  "county": "Arapahoe",
+  "observers": "Cheryl Teuton",
+  "comments": "",
+  "citations": "Colorado Birds 56(3), 213-222, 2022",
+  "documentations": [
+    {
+      "doc_id": "11784",
+      "reporter": "Cheryl Teuton",
+      "date": "2/20/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11784"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:18.895093"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-064",
+  "year": "2015",
+  "location": "Timnath Reservoir",
+  "county": "Larimer",
+  "observers": "Kevin Keirn",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6274",
+      "reporter": "Kevin Keirn",
+      "date": "5/28/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6274"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:22.033207"
+}

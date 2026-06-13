@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-004",
+  "year": "2001",
+  "location": "Jackson Reservoir",
+  "county": "Morgan",
+  "observers": "Chris Wood",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16330",
+      "reporter": "Chris Wood",
+      "date": "8/3/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16330"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:32.851898"
+}

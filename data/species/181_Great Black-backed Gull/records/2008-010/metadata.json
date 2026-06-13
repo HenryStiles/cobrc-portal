@@ -1,0 +1,47 @@
+{
+  "acc_no": "2008-010",
+  "year": "2008",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Brandon K Percival",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "Faulkner, D. and Semo, L. The 59th Report of the CBRC. Colorado Birds 45(3), 174-180.",
+  "documentations": [
+    {
+      "doc_id": "888",
+      "reporter": "Brandon K Percival",
+      "date": "1/30/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=888"
+    },
+    {
+      "doc_id": "896",
+      "reporter": "Brandon K Percival",
+      "date": "2/10/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=896"
+    },
+    {
+      "doc_id": "897",
+      "reporter": "Brandon K Percival",
+      "date": "2/11/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=897"
+    },
+    {
+      "doc_id": "901",
+      "reporter": "Brandon K Percival",
+      "date": "2/21/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=901"
+    },
+    {
+      "doc_id": "907",
+      "reporter": "Brandon K Percival",
+      "date": "2/26/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=907"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:20.074571"
+}

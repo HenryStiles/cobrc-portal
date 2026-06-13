@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-063",
+  "year": "2016",
+  "location": "Pond near Jefferson and Como",
+  "county": "Park",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "6464",
+      "reporter": "Steven Mlodinow",
+      "date": "5/26/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6464"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:31.188094"
+}

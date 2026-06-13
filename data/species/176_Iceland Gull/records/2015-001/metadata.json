@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-001",
+  "year": "2014",
+  "location": "Larimer County Landfill",
+  "county": "Larimer",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "5190",
+      "reporter": "Steven Mlodinow",
+      "date": "12/1/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5190"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:32.483448"
+}

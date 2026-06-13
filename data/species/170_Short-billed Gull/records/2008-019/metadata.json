@@ -1,0 +1,26 @@
+{
+  "acc_no": "2008-019",
+  "year": "2008",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Brandon K Percival",
+  "comments": "Age: immature; Plumage: formative;",
+  "citations": "Faulkner, D. and Semo, L. The 59th Report of the CBRC. Colorado Birds 45(3), 174-180.",
+  "documentations": [
+    {
+      "doc_id": "920",
+      "reporter": "Brandon K Percival",
+      "date": "2/29/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=920"
+    },
+    {
+      "doc_id": "921",
+      "reporter": "Brandon K Percival",
+      "date": "2/29/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=921"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:38.010529"
+}

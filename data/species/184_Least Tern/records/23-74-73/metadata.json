@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-74-73",
+  "year": "1974",
+  "location": "Rocky Ford",
+  "county": "Otero",
+  "observers": "Stan Oswald, Jack Reddall, Dave Griffiths",
+  "comments": "",
+  "citations": "Reddall, J.  1975a Report of the CBRC. CFO Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "13530",
+      "reporter": "Stan Oswald, Jack Reddall, Dave Griffiths",
+      "date": "6/27/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13530"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:58.672049"
+}

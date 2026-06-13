@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-003",
+  "year": "2014",
+  "location": "Boulder Reservoir",
+  "county": "Boulder",
+  "observers": "David Dowell",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "5193",
+      "reporter": "David Dowell",
+      "date": "12/1/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5193"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:30.821814"
+}

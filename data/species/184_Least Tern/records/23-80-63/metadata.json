@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-80-63",
+  "year": "1980",
+  "location": "Loveland",
+  "county": "Larimer",
+  "observers": "Mark Lockwood",
+  "comments": "",
+  "citations": "Chase, C.  1980-81 Report of the CBRC. CFO Journal 16:46-52.",
+  "documentations": [
+    {
+      "doc_id": "13535",
+      "reporter": "Mark Lockwood",
+      "date": "8/17/1980",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13535"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:06.292838"
+}

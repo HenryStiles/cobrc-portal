@@ -1,0 +1,33 @@
+{
+  "acc_no": "2006-158",
+  "year": "2006",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Brandon Percival, Bill Maynard, Tony Leukering",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "641",
+      "reporter": "Brandon K Percival",
+      "date": "11/10/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=641"
+    },
+    {
+      "doc_id": "603",
+      "reporter": "Bill Maynard",
+      "date": "12/3/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=603"
+    },
+    {
+      "doc_id": "609",
+      "reporter": "Tony Leukering",
+      "date": "12/15/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=609"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:12.920216"
+}

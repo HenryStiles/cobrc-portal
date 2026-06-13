@@ -1,0 +1,26 @@
+{
+  "acc_no": "2000-066",
+  "year": "2000",
+  "location": "Chatfield State Park",
+  "county": "Douglas",
+  "observers": "Dick Schottler, Karleen Schofield",
+  "comments": "",
+  "citations": "Leukering, T.  The 40th Report of the CBRC. Colorado Birds 39(4), 168-176.",
+  "documentations": [
+    {
+      "doc_id": "2671",
+      "reporter": "Dick Schottler",
+      "date": "10/8/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2671"
+    },
+    {
+      "doc_id": "2670",
+      "reporter": "Karleen Schofield",
+      "date": "10/9/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2670"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:49.022659"
+}

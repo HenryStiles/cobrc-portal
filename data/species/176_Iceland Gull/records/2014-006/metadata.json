@@ -1,0 +1,33 @@
+{
+  "acc_no": "2014-006",
+  "year": "2014",
+  "location": "Aurora Reservoir",
+  "county": "Arapahoe",
+  "observers": "Steven Mlodinow, Mark Minner-Lee, Nicholas Komar",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "2805",
+      "reporter": "Steven Mlodinow",
+      "date": "1/3/2014",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2805"
+    },
+    {
+      "doc_id": "4051",
+      "reporter": "Mark Minner-Lee",
+      "date": "1/6/2014",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4051"
+    },
+    {
+      "doc_id": "2801",
+      "reporter": "Nicholas Komar",
+      "date": "1/11/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2801"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:25.290128"
+}

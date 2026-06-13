@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-93-7",
+  "year": "1992",
+  "location": "1 ml E of Mack",
+  "county": "Mesa",
+  "observers": "Rich Levad",
+  "comments": "",
+  "citations": "Prather, B.  1993 Report of the CBRC. CFO Journal 30(1), 20-30.",
+  "documentations": [
+    {
+      "doc_id": "16422",
+      "reporter": "Rich Levad",
+      "date": "11/15/1992",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16422"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:53.132901"
+}

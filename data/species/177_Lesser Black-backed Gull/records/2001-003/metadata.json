@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-003",
+  "year": "2000",
+  "location": "Boulder Reservoir",
+  "county": "Boulder",
+  "observers": "Bill Tweit",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16294",
+      "reporter": "Bill Tweit",
+      "date": "3/7/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16294"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:25.308272"
+}

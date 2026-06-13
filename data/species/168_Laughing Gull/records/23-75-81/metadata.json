@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-75-81",
+  "year": "1975",
+  "location": "Jumbo Reservoir State Wildlife Area",
+  "county": "Sedgwick",
+  "observers": "Narca DeWoskin, John Butler",
+  "comments": "",
+  "citations": "Reddall, J. 1976. CFO Official Records Committee 1975 Report. C.F.O. Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "16306",
+      "reporter": "Narca DeWoskin, John Butler",
+      "date": "6/8/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16306"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:53.921334"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-267",
+  "year": "2013",
+  "location": "Windsor Reservoir",
+  "county": "Weld",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2751",
+      "reporter": "Steven Mlodinow",
+      "date": "11/13/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2751"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:59.432640"
+}

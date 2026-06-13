@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-163",
+  "year": "2010",
+  "location": "Prewitt Reservoir State Wildlife Area",
+  "county": "Washington",
+  "observers": "Thomas Wilberding",
+  "comments": "Age: 2nd-cycle; Plumage: basic;",
+  "citations": "Faulkner, D. and Semo, L. The 59th Report of the CBRC. Colorado Birds 45(3), 174-180.",
+  "documentations": [
+    {
+      "doc_id": "1545",
+      "reporter": "Thomas Wilberding",
+      "date": "12/14/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1545"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:47.893204"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-95-37",
+  "year": "1995",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Jack Reddall",
+  "comments": "",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "16320",
+      "reporter": "Jack Reddall",
+      "date": "8/31/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16320"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:23.803286"
+}

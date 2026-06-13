@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-95-105",
+  "year": "1995",
+  "location": "Neenoshe Reservoir",
+  "county": "Kiowa",
+  "observers": "Drew Smith",
+  "comments": "",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "16321",
+      "reporter": "Drew Smith",
+      "date": "5/24/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16321"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:22.476286"
+}

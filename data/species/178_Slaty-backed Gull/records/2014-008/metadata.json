@@ -1,0 +1,33 @@
+{
+  "acc_no": "2014-008",
+  "year": "2014",
+  "location": "Aurora Reservoir",
+  "county": "Arapahoe",
+  "observers": "David Dowell, Kris Petersen, Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2814",
+      "reporter": "David Dowell",
+      "date": "12/15/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2814"
+    },
+    {
+      "doc_id": "4101",
+      "reporter": "Kris Petersen",
+      "date": "12/16/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4101"
+    },
+    {
+      "doc_id": "2806",
+      "reporter": "Steven Mlodinow",
+      "date": "1/3/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2806"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:36.897271"
+}

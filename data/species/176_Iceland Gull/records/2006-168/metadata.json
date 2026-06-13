@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-168",
+  "year": "2006",
+  "location": "Lake Loveland",
+  "county": "Larimer",
+  "observers": "Nick Komar",
+  "comments": "Age: juv.; Plumage: 1st-cycle;",
+  "citations": "Faulkner, D. and Semo, L. The 58th Report of the CBRC. Colorado Birds 45(2), 92-101.",
+  "documentations": [
+    {
+      "doc_id": "680",
+      "reporter": "Nicholas Komar",
+      "date": "12/14/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=680"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:26.010954"
+}

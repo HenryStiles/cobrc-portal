@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-89-20",
+  "year": "1989",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Jack Reddall, Mark Janos",
+  "comments": "Photos by L. Sanders & H. Holt",
+  "citations": "Nelson, D..  1989 Report of the CBRC. CFO Jornal 25(4), 119-125.",
+  "documentations": [
+    {
+      "doc_id": "16504",
+      "reporter": "Jack Reddall, Mark Janos",
+      "date": "4/11/1989",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16504"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:49.385770"
+}

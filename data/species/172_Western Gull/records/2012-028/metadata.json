@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-028",
+  "year": "2012",
+  "location": "Prewitt Reservoir State Wildlife Area",
+  "county": "Morgan",
+  "observers": "Steve Mlodinow",
+  "comments": "Age: immature; Plumage: 3rd cycle;",
+  "citations": "Faulkner, D. The 65th Report of the CBRC. Colorado Birds 47(1), 28-37.",
+  "documentations": [
+    {
+      "doc_id": "1949",
+      "reporter": "Steven Mlodinow",
+      "date": "3/17/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1949"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:43.121390"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-75-68",
+  "year": "1975",
+  "location": "Lake Holbrook",
+  "county": "Otero",
+  "observers": "Van Truan",
+  "comments": "",
+  "citations": "Reddall, J. 1976. CFO Official Records Committee 1975 Report. C.F.O. Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "16305",
+      "reporter": "Van Truan",
+      "date": "5/10/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16305"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:52.724403"
+}

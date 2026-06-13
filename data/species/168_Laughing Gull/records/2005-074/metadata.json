@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-074",
+  "year": "2005",
+  "location": "Colorado City and Rye",
+  "county": "Pueblo",
+  "observers": "David Silverman",
+  "comments": "Age: immature; Plumage: 2nd cycle;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "142",
+      "reporter": "David Silverman",
+      "date": "7/11/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=142"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:38.667431"
+}

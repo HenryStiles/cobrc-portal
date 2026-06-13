@@ -1,0 +1,26 @@
+{
+  "acc_no": "2009-114",
+  "year": "2009",
+  "location": "Valmont Reservoir complex",
+  "county": "Boulder",
+  "observers": "Ted Floyd, Bill Schmoker",
+  "comments": "Age: immature; Plumage: 1st Cycle;",
+  "citations": "Faulkner, D. and Semo, L. The 59th Report of the CBRC. Colorado Birds 45(3), 174-180.",
+  "documentations": [
+    {
+      "doc_id": "1357",
+      "reporter": "Ted Floyd",
+      "date": "12/25/2009",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1357"
+    },
+    {
+      "doc_id": "1371",
+      "reporter": "Bill Schmoker",
+      "date": "1/8/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1371"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:33.886685"
+}

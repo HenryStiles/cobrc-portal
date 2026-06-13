@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-093",
+  "year": "2013",
+  "location": "Broomfield",
+  "county": "Broomfield",
+  "observers": "Luis Matheus",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2390",
+      "reporter": "Luis Matheus",
+      "date": "1/26/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2390"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:15.397088"
+}

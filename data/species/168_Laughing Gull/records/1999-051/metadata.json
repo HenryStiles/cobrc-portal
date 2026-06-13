@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-051",
+  "year": "1999",
+  "location": "Walsh",
+  "county": "Baca",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "16326",
+      "reporter": "Tony Leukering",
+      "date": "5/9/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16326"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:28.529930"
+}

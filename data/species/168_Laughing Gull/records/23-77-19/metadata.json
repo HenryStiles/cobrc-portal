@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-77-19",
+  "year": "1977",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Thompson Marsh",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "16310",
+      "reporter": "Thompson Marsh",
+      "date": "4/17/1977",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16310"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:58.365668"
+}

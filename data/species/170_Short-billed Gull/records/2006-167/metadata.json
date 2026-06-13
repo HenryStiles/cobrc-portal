@@ -1,0 +1,47 @@
+{
+  "acc_no": "2006-167",
+  "year": "2006",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Bill Maynard, Brandon Percival, Tony Leukering",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "Semo, L.  The 48th Report of the CBRC. Colorado Birds 42(4), 270-278.",
+  "documentations": [
+    {
+      "doc_id": "604",
+      "reporter": "Bill Maynard",
+      "date": "12/4/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=604"
+    },
+    {
+      "doc_id": "692",
+      "reporter": "Brandon K Percival",
+      "date": "12/13/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=692"
+    },
+    {
+      "doc_id": "608",
+      "reporter": "Tony Leukering",
+      "date": "12/17/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=608"
+    },
+    {
+      "doc_id": "627",
+      "reporter": "Bill Maynard",
+      "date": "12/23/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=627"
+    },
+    {
+      "doc_id": "685",
+      "reporter": "Brandon K Percival",
+      "date": "12/23/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=685"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:31.001051"
+}

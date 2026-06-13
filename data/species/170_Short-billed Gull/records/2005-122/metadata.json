@@ -1,0 +1,40 @@
+{
+  "acc_no": "2005-122",
+  "year": "2005",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Brandon K Percival",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "79",
+      "reporter": "Brandon K Percival",
+      "date": "2/10/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=79"
+    },
+    {
+      "doc_id": "248",
+      "reporter": "Brandon K Percival",
+      "date": "11/13/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=248"
+    },
+    {
+      "doc_id": "356",
+      "reporter": "Brandon K Percival",
+      "date": "2/4/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=356"
+    },
+    {
+      "doc_id": "376",
+      "reporter": "Brandon K Percival",
+      "date": "3/2/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=376"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:22.061758"
+}

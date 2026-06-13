@@ -1,0 +1,26 @@
+{
+  "acc_no": "1999-171",
+  "year": "1999",
+  "location": "Valco Ponds",
+  "county": "Pueblo",
+  "observers": "Ric Olson, Dave Quesenberry, Mark Janos, Brandon Percival, Peter Gent, Tony Leukering",
+  "comments": "video by T. Dilley",
+  "citations": "Lisowsky, B.  1999 Report of the CBRC. J of the CFO 35(1), 23-39.",
+  "documentations": [
+    {
+      "doc_id": "14038",
+      "reporter": "Ric Olson, David Quesenberry, Mark Janos",
+      "date": "1/9/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14038"
+    },
+    {
+      "doc_id": "14039",
+      "reporter": "Brandon Percival, Peter Gent, Tony Leukering",
+      "date": "1/9/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14039"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:16.680795"
+}

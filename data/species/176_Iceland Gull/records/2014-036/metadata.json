@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-036",
+  "year": "2014",
+  "location": "Woods Lake State Wildlife Area",
+  "county": "Weld",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2843",
+      "reporter": "Steven Mlodinow",
+      "date": "2/19/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2843"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:29.772165"
+}

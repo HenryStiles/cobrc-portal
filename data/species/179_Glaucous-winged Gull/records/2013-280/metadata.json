@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-280",
+  "year": "2013",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2775",
+      "reporter": "Steven Mlodinow",
+      "date": "12/11/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2775"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:00.566326"
+}

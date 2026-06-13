@@ -1,0 +1,19 @@
+{
+  "acc_no": "N-23-75",
+  "year": "1976",
+  "location": "Lake Sangraco",
+  "county": "Adams",
+  "observers": "Winston Brockner, Bob Andrews, Jack Reddall, Harold Holt",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "16254",
+      "reporter": "Winston Brockner, Bob Andrews, Jack Reddall, Harold Holt",
+      "date": "12/13/1976",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16254"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:27.162712"
+}

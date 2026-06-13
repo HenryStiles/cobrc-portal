@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-049",
+  "year": "2012",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Tom Bunker",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "Faulkner, Doug. April 2013. The 66th Report of the Colorado Bird Records Committee: Colorado Birds 47(2):86-93",
+  "documentations": [
+    {
+      "doc_id": "1972",
+      "reporter": "Tom Bunker",
+      "date": "4/20/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1972"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:52.108774"
+}

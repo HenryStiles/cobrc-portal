@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-92-82",
+  "year": "1990",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Jack Reddall",
+  "comments": "",
+  "citations": "Prather, B.  1992 Report of the CBRC. CFO Jornal 28(4), 157-168.",
+  "documentations": [
+    {
+      "doc_id": "16506",
+      "reporter": "Jack Reddall",
+      "date": "5/1/1990",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16506"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:50.701707"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-77-58",
+  "year": "1977",
+  "location": "Prewitt Reservoir State Wildlife Area",
+  "county": "Washington",
+  "observers": "Joann Pettinicchio",
+  "comments": "",
+  "citations": "Chase, C.  1977-89 pt2 Report of the CBRC. CFO Journal 15:54-59.",
+  "documentations": [
+    {
+      "doc_id": "13531",
+      "reporter": "Joann Pettinicchio",
+      "date": "7/17/1977",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13531"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:00.150503"
+}

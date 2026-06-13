@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-129",
+  "year": "2002",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Andrew Spencer",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "934",
+      "reporter": "Andrew Spencer",
+      "date": "2/26/2002",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=934"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:58.743718"
+}

@@ -1,0 +1,33 @@
+{
+  "acc_no": "2022-038",
+  "year": "2022",
+  "location": "Boyd Lake State Park",
+  "county": "Larimer",
+  "observers": "Josh Bruening, Adrian Lakin, Sue Riffe",
+  "comments": "3rd state record.",
+  "citations": "Gent, P.  The 84th Report of the CBRC. Colorado Birds 54(4), 194-203.",
+  "documentations": [
+    {
+      "doc_id": "12040",
+      "reporter": "Josh Bruening",
+      "date": "3/20/2022",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12040"
+    },
+    {
+      "doc_id": "12039",
+      "reporter": "Adrian Lakin",
+      "date": "3/20/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12039"
+    },
+    {
+      "doc_id": "12042",
+      "reporter": "Sue Riffe",
+      "date": "3/26/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12042"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:08.005526"
+}

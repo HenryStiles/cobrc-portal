@@ -1,0 +1,19 @@
+{
+  "acc_no": "2020-029",
+  "year": "2020",
+  "location": "Fountain Creek Regional Park",
+  "county": "El Paso",
+  "observers": "Deborah Barnes",
+  "comments": "Tony Leukering says this species only moults on the wintering grounds, so this is a juvenile bird.",
+  "citations": "The 82nd Report of the CBRC, 2022. Colorado Birds, 56(4), 283-294.",
+  "documentations": [
+    {
+      "doc_id": "11914",
+      "reporter": "Deborah Barnes",
+      "date": "10/17/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11914"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:34.288677"
+}

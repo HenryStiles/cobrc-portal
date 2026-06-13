@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-057",
+  "year": "1999",
+  "location": "Union Reservoir",
+  "county": "Weld",
+  "observers": "John Vanderpoel, Tony Leukering",
+  "comments": "video",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "16432",
+      "reporter": "John Vanderpoel, Tony Leukering",
+      "date": "11/18/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16432"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:02.454952"
+}

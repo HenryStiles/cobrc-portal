@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-91-37",
+  "year": "1991",
+  "location": "Blue Lake (Adobe Creek Reservoir)",
+  "county": "Kiowa & Bent",
+  "observers": "Duane Nelson",
+  "comments": "",
+  "citations": "Nelson, D.  1991 Report of the CBRC. CFO Journal 27(2), 49-56.",
+  "documentations": [
+    {
+      "doc_id": "14620",
+      "reporter": "Duane Nelson",
+      "date": "6/12/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14620"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:39.878600"
+}

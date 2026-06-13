@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-81-7",
+  "year": "1981",
+  "location": "Union Reservoir",
+  "county": "Weld",
+  "observers": "Mark Holmgren, Timms Fowler, Michael Middleton",
+  "comments": "",
+  "citations": "Gent, P.  1982 Report of the CBRC. CFO Journal 18(2), 51-57.",
+  "documentations": [
+    {
+      "doc_id": "16416",
+      "reporter": "Mark Holmgren, Timms Fowler, Michael Middleton",
+      "date": "4/28/1981",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16416"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:45.963955"
+}

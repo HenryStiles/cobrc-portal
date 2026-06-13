@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-060",
+  "year": "1998",
+  "location": "Union Reservoir",
+  "county": "Weld",
+  "observers": "Paul Sweet",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "16430",
+      "reporter": "Paul Sweet",
+      "date": "12/5/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16430"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:00.504197"
+}

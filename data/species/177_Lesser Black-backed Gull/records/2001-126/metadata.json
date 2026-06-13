@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-126",
+  "year": "2001",
+  "location": "Prince Lakes, Erie and Thomas Reservoirs",
+  "county": "Boulder",
+  "observers": "Bill Schmoker",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  2001 pt.2 of the CBRC. Colorado Birds 38(1), 14-21.",
+  "documentations": [
+    {
+      "doc_id": "16300",
+      "reporter": "Bill Schmoker",
+      "date": "12/1/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16300"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:35.437463"
+}

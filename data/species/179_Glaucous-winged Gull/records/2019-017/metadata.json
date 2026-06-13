@@ -1,0 +1,19 @@
+{
+  "acc_no": "2019-017",
+  "year": "2019",
+  "location": "Larimer County Landfill",
+  "county": "Larimer",
+  "observers": "Paul Hurtado",
+  "comments": "",
+  "citations": "Colorado Birds 56(3), 213-222, 2022.",
+  "documentations": [
+    {
+      "doc_id": "11769",
+      "reporter": "Paul Hurtado",
+      "date": "1/2/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11769"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:15.063273"
+}

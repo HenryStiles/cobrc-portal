@@ -1,0 +1,26 @@
+{
+  "acc_no": "2004-138",
+  "year": "2004",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Kevin Keirn, Nick Komar",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "165",
+      "reporter": "Kevin Keirn",
+      "date": "12/31/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=165"
+    },
+    {
+      "doc_id": "249",
+      "reporter": "Nicholas Komar",
+      "date": "12/31/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=249"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:16.085117"
+}

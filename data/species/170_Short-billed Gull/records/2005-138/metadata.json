@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-138",
+  "year": "2005",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Glenn Walbek",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "251",
+      "reporter": "Glenn Walbek",
+      "date": "12/12/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=251"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:26.383810"
+}

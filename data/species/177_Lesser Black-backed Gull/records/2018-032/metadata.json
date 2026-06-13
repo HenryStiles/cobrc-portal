@@ -1,0 +1,19 @@
+{
+  "acc_no": "2018-032",
+  "year": "2018",
+  "location": "Navajo State Park",
+  "county": "Archuleta",
+  "observers": "Jason St. Pierre",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176.",
+  "documentations": [
+    {
+      "doc_id": "10651",
+      "reporter": "Jason St. Pierre",
+      "date": "2/3/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=10651"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:41.886415"
+}

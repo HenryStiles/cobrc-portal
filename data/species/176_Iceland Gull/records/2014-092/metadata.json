@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-092",
+  "year": "2010",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Bruce Cyganowski",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "4056",
+      "reporter": "Bruce Cyganowski",
+      "date": "12/11/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4056"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:02.411974"
+}

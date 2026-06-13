@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-027",
+  "year": "2015",
+  "location": "Black Hollow Reservoir",
+  "county": "Weld",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6225",
+      "reporter": "Steven Mlodinow",
+      "date": "3/11/2015",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6225"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:09.550991"
+}

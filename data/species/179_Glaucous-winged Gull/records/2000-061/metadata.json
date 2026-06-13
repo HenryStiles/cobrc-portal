@@ -1,0 +1,26 @@
+{
+  "acc_no": "2000-061",
+  "year": "2000",
+  "location": "Horseshoe Lake",
+  "county": "Larimer",
+  "observers": "Joe Mammoser, Bill Lisowsky",
+  "comments": "",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "3894",
+      "reporter": "Joe Mammoser",
+      "date": "3/9/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3894"
+    },
+    {
+      "doc_id": "3895",
+      "reporter": "Bill Lisowsky",
+      "date": "3/22/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3895"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:55.351234"
+}

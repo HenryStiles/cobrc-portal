@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-144",
+  "year": "2001",
+  "location": "Jim Hamm Nature Area",
+  "county": "Boulder",
+  "observers": "Karleen Schofield",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  2001 pt.2 of the CBRC. Colorado Birds 38(1), 14-21.",
+  "documentations": [
+    {
+      "doc_id": "16437",
+      "reporter": "Karleen Schofield",
+      "date": "3/5/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16437"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:06.974256"
+}

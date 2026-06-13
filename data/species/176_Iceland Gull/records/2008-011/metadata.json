@@ -1,0 +1,26 @@
+{
+  "acc_no": "2008-011",
+  "year": "2008",
+  "location": "Valmont Reservoir complex",
+  "county": "Boulder",
+  "observers": "Brandon Percival, Bill Schmoker",
+  "comments": "Age: juv.; Plumage: 1st-cycle;",
+  "citations": "Faulkner, D. and Semo, L. The 58th Report of the CBRC. Colorado Birds 45(2), 92-101.",
+  "documentations": [
+    {
+      "doc_id": "885",
+      "reporter": "Bill Schmoker",
+      "date": "2/2/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=885"
+    },
+    {
+      "doc_id": "898",
+      "reporter": "Brandon K Percival",
+      "date": "2/2/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=898"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:38.709684"
+}

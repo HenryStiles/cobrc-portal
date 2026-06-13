@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-152",
+  "year": "2008",
+  "location": "John Martin Reservoir State Park",
+  "county": "Bent",
+  "observers": "Bill Kaempfer",
+  "comments": "Age: 1st-cycle; Plumage: basic;",
+  "citations": "Semo, L. and Faulkner, D.  The 53rd Report of the CBRC. Colorado Birds 44(1), 31-42.",
+  "documentations": [
+    {
+      "doc_id": "1204",
+      "reporter": "Bill Kaempfer",
+      "date": "9/8/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1204"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:44.782142"
+}

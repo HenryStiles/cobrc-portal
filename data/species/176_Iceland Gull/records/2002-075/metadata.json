@@ -1,0 +1,26 @@
+{
+  "acc_no": "2002-075",
+  "year": "2000",
+  "location": "Prince Lakes, Erie and Thomas Reservoirs",
+  "county": "Boulder & Weld",
+  "observers": "John Vanderpoel, Tony Leukering",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2669",
+      "reporter": "John Vanderpoel",
+      "date": "4/9/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2669"
+    },
+    {
+      "doc_id": "293",
+      "reporter": "Tony Leukering",
+      "date": "4/18/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=293"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:20.870584"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-95-44",
+  "year": "1995",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Mark Janos, Bob Righter, Shawneen Finnegan, Paul Lehman, Bill Prather",
+  "comments": "",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "15996",
+      "reporter": "Mark Janos, Bob Righter, Shawneen Finnegan, Paul Lehman, Bill Prather",
+      "date": "10/17/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15996"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:55.892040"
+}

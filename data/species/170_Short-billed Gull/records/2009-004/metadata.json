@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-004",
+  "year": "2009",
+  "location": "Valmont Reservoir complex",
+  "county": "Boulder",
+  "observers": "Ted Floyd",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "Faulkner, D. and Semo, L. The 59th Report of the CBRC. Colorado Birds 45(3), 174-180.",
+  "documentations": [
+    {
+      "doc_id": "1177",
+      "reporter": "Ted Floyd",
+      "date": "1/17/2009",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1177"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:51.489146"
+}

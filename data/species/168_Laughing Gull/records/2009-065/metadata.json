@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-065",
+  "year": "2009",
+  "location": "Prewitt Reservoir State Wildlife Area",
+  "county": "Washington",
+  "observers": "Doug Faulkner",
+  "comments": "Age: 1st-cycle; Plumage: basic;",
+  "citations": "Semo, L. and Faulkner, D.  The 53rd Report of the CBRC. Colorado Birds 44(1), 31-42.",
+  "documentations": [
+    {
+      "doc_id": "1294",
+      "reporter": "Doug Faulkner",
+      "date": "9/27/2009",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1294"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:47.214147"
+}

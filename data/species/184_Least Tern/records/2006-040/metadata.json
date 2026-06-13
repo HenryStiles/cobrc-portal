@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-040",
+  "year": "2006",
+  "location": "Chico Basin Ranch",
+  "county": "Pueblo",
+  "observers": "Brandon Percival",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "408",
+      "reporter": "Brandon K Percival",
+      "date": "4/25/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=408"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:17.087109"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-80-17",
+  "year": "1980",
+  "location": "Sloan's Lake",
+  "county": "Denver",
+  "observers": "Mark Holmgren, Bob Andrews, Charlie Chase",
+  "comments": "",
+  "citations": "Chase, C.  1981 Report of the CBRC. CFO Journal 17(4), 75-82.",
+  "documentations": [
+    {
+      "doc_id": "16415",
+      "reporter": "Mark Holmgren, Bob Andrews, Charlie Chase",
+      "date": "3/7/1980",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16415"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:44.225681"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-084",
+  "year": "2008",
+  "location": "Duck Lake",
+  "county": "Larimer",
+  "observers": "Nick Komar",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "Semo, L.  The 51st Report of the CBRC. Colorado Birds 43(3), 193-204.",
+  "documentations": [
+    {
+      "doc_id": "1012",
+      "reporter": "Nicholas Komar",
+      "date": "6/3/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1012"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:43.549392"
+}

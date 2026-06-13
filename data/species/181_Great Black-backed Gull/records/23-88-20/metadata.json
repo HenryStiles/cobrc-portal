@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-88-20",
+  "year": "1988",
+  "location": "Teller Lake #5 and Culver Ponds",
+  "county": "Boulder",
+  "observers": "Peter Gent",
+  "comments": "",
+  "citations": "Gent, P. and Nelson, D.  1988 Report of the CBRC. CFO Journal 26(4), 137-142.",
+  "documentations": [
+    {
+      "doc_id": "15984",
+      "reporter": "Peter Gent",
+      "date": "3/12/1988",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15984"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:47.060926"
+}

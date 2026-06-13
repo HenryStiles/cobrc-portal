@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-176",
+  "year": "2001",
+  "location": "South Republican SWA",
+  "county": "Yuma",
+  "observers": "Andrew Spencer",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "Semo, L.  The 48th Report of the CBRC. Colorado Birds 42(4), 270-278.",
+  "documentations": [
+    {
+      "doc_id": "550",
+      "reporter": "Andrew Spencer",
+      "date": "12/2/2001",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=550"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:10.060374"
+}

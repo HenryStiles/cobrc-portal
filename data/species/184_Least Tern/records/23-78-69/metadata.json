@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-78-69",
+  "year": "1978",
+  "location": "Red Lion State Wildlife Area",
+  "county": "Logan",
+  "observers": "William Lybarger",
+  "comments": "",
+  "citations": "Chase, C.  1977-80 pt2 Report of the CBRC. CFO Journal 15:54-59.",
+  "documentations": [
+    {
+      "doc_id": "13532",
+      "reporter": "William Lybarger",
+      "date": "5/27/1978",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13532"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:01.217046"
+}

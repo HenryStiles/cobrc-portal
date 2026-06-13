@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-121",
+  "year": "2015",
+  "location": "Boulder Reservoir",
+  "county": "Boulder",
+  "observers": "Peter Burke",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176",
+  "documentations": [
+    {
+      "doc_id": "6363",
+      "reporter": "Peter Burke",
+      "date": "11/11/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6363"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:29.631818"
+}

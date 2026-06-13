@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-85-13",
+  "year": "1985",
+  "location": "Blue Lake (Adobe Creek Reservoir)",
+  "county": "Kiowa & Bent",
+  "observers": "Bill Maynard",
+  "comments": "",
+  "citations": "Gent, P.  1985 Report of the CBRC. CFO Journal 20(3-4), 44-50.",
+  "documentations": [
+    {
+      "doc_id": "13536",
+      "reporter": "Bill Maynard",
+      "date": "6/17/1985",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13536"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:07.380154"
+}

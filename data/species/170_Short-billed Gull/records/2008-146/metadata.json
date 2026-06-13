@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-146",
+  "year": "2008",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Tony Leukering",
+  "comments": "Age: immature; Plumage: formative;",
+  "citations": "Faulkner, D. and Semo, L. The 59th Report of the CBRC. Colorado Birds 45(3), 174-180.",
+  "documentations": [
+    {
+      "doc_id": "1141",
+      "reporter": "Tony Leukering",
+      "date": "12/18/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1141"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:47.207565"
+}

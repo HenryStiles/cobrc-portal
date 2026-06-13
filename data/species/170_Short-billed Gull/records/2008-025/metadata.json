@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-025",
+  "year": "2008",
+  "location": "Horseshoe Lake",
+  "county": "Larimer",
+  "observers": "Nick Komar",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "Faulkner, D. and Semo, L. The 59th Report of the CBRC. Colorado Birds 45(3), 174-180.",
+  "documentations": [
+    {
+      "doc_id": "933",
+      "reporter": "Nicholas Komar",
+      "date": "3/20/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=933"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:40.072090"
+}

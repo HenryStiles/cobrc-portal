@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-181",
+  "year": "2001",
+  "location": "South Republican SWA",
+  "county": "Yuma",
+  "observers": "Larry Semo",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "14441",
+      "reporter": "Larry Semo",
+      "date": "7/1/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14441"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:51.073441"
+}

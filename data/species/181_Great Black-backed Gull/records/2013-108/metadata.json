@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-108",
+  "year": "2011",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Cynthia Madsen",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2414",
+      "reporter": "Cynthia Madsen",
+      "date": "1/23/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2414"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:36.104484"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-92-4",
+  "year": "1992",
+  "location": "Neenoshe Reservoir",
+  "county": "Kiowa",
+  "observers": "Duane Nelson",
+  "comments": "",
+  "citations": "Prather, B.  1992 Report of the CBRC. CFO Jornal 28(4), 157-168.",
+  "documentations": [
+    {
+      "doc_id": "14435",
+      "reporter": "Duane Nelson",
+      "date": "6/9/1992",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14435"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:41.343580"
+}

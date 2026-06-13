@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-223",
+  "year": "2011",
+  "location": "Chatfield State Park",
+  "county": "Douglas",
+  "observers": "Doug Faulkner",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1832",
+      "reporter": "Doug Faulkner",
+      "date": "10/30/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1832"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:48.550480"
+}

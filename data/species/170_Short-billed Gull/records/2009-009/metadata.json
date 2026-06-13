@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-009",
+  "year": "2009",
+  "location": "Jumbo Reservoir State Wildlife Area",
+  "county": "Sedgwick",
+  "observers": "Cole Wild",
+  "comments": "Age: immature; Plumage: formative;",
+  "citations": "Faulkner, D. and Semo, L. The 59th Report of the CBRC. Colorado Birds 45(3), 174-180.",
+  "documentations": [
+    {
+      "doc_id": "1203",
+      "reporter": "C W",
+      "date": "2/25/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1203"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:52.092450"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-006",
+  "year": "2009",
+  "location": "McIntosh Lake",
+  "county": "Boulder",
+  "observers": "Robert Zilly",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "Faulkner, D. and Semo, L. The 59th Report of the CBRC. Colorado Birds 45(3), 174-180.",
+  "documentations": [
+    {
+      "doc_id": "1183",
+      "reporter": "Robert Zilly",
+      "date": "2/2/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1183"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:29.824952"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-75-41",
+  "year": "1975",
+  "location": "Sloan's Lake",
+  "county": "Denver",
+  "observers": "Bruce Webb, John Cooper, Van Remsen",
+  "comments": "",
+  "citations": "Reddall, J. 1976. CFO Official Records Committee 1975 Report. C.F.O. Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "16304",
+      "reporter": "Bruce Webb, John Cooper, Van Remsen",
+      "date": "5/5/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16304"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:51.636217"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-002",
+  "year": "2005",
+  "location": "Thomas Reservoir along 119th St.",
+  "county": "Boulder",
+  "observers": "Bill Kaempfer",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "28",
+      "reporter": "Bill Kaempfer",
+      "date": "1/17/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=28"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:18.554646"
+}

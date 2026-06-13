@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-061",
+  "year": "1998",
+  "location": "Lake Loveland",
+  "county": "Larimer",
+  "observers": "Paul Sweet",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "16269",
+      "reporter": "Paul Sweet",
+      "date": "12/13/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16269"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:48.095515"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-003",
+  "year": "2010",
+  "location": "Valmont Reservoir complex",
+  "county": "Boulder",
+  "observers": "Bill Schmoker",
+  "comments": "Age: juv.; Plumage: 2nd-cycle;",
+  "citations": "Faulkner, D. and Semo, L. The 58th Report of the CBRC. Colorado Birds 45(2), 92-101.",
+  "documentations": [
+    {
+      "doc_id": "1372",
+      "reporter": "Bill Schmoker",
+      "date": "1/8/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1372"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:24.140236"
+}

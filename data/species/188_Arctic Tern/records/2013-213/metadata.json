@@ -1,0 +1,26 @@
+{
+  "acc_no": "2013-213",
+  "year": "2013",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Glenn Walbek, David Dowell",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2581",
+      "reporter": "Glenn Walbek",
+      "date": "9/21/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2581"
+    },
+    {
+      "doc_id": "2769",
+      "reporter": "David Dowell",
+      "date": "9/23/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2769"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:11.899481"
+}

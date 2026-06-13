@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-120",
+  "year": "2016",
+  "location": "Boulder Reservoir",
+  "county": "Boulder",
+  "observers": "Jack Bushong",
+  "comments": "",
+  "citations": "Gent, P.  The 84th Report of the CBRC. Colorado Birds 54(4), 194-203.",
+  "documentations": [
+    {
+      "doc_id": "6407",
+      "reporter": "Jack Bushong",
+      "date": "3/12/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6407"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:40.703290"
+}

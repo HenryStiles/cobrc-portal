@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-003",
+  "year": "2008",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Bill Maynard",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "Faulkner, D. and Semo, L. The 59th Report of the CBRC. Colorado Birds 45(3), 174-180.",
+  "documentations": [
+    {
+      "doc_id": "860",
+      "reporter": "Bill Maynard",
+      "date": "1/2/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=860"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:37.175579"
+}

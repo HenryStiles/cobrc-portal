@@ -1,0 +1,47 @@
+{
+  "acc_no": "2015-108",
+  "year": "2015",
+  "location": "Chatfield State Park (Douglas Portion)",
+  "county": "Douglas",
+  "observers": "Glenn Walbek, Tom Behnfield, Bruce Cyganowski, Scott Somershoe, J. V. Remsen, Jr.",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "6338",
+      "reporter": "Glenn Walbek",
+      "date": "10/2/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6338"
+    },
+    {
+      "doc_id": "6336",
+      "reporter": "Tom Behnfield",
+      "date": "10/2/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6336"
+    },
+    {
+      "doc_id": "6337",
+      "reporter": "Bruce Cyganowski",
+      "date": "10/3/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6337"
+    },
+    {
+      "doc_id": "7494",
+      "reporter": "Scott Somershoe",
+      "date": "10/3/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=7494"
+    },
+    {
+      "doc_id": "6355",
+      "reporter": "J. V. Remsen, Jr.",
+      "date": "10/4/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6355"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:23.166995"
+}

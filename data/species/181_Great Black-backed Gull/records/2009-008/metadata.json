@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-008",
+  "year": "2009",
+  "location": "Jumbo Reservoir State Wildlife Area",
+  "county": "Logan",
+  "observers": "Rachel Hopper",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "Faulkner, D. and Semo, L. The 59th Report of the CBRC. Colorado Birds 45(3), 174-180.",
+  "documentations": [
+    {
+      "doc_id": "1208",
+      "reporter": "Rachel Hopper",
+      "date": "2/17/2009",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1208"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:31.611281"
+}

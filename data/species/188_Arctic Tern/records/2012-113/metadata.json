@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-113",
+  "year": "2012",
+  "location": "Colorado City and Rye",
+  "county": "Pueblo",
+  "observers": "David Silverman",
+  "comments": "",
+  "citations": "Faulkner, Doug. July 2013. The 67th Report of the Colorado Bird Records Committee: Colorado Birds 47(3):178-186",
+  "documentations": [
+    {
+      "doc_id": "2078",
+      "reporter": "David Silverman",
+      "date": "9/13/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2078"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:09.695759"
+}

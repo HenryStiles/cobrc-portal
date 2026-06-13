@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-004",
+  "year": "2015",
+  "location": "Aurora Reservoir",
+  "county": "Arapahoe",
+  "observers": "David Dowell",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6383",
+      "reporter": "David Dowell",
+      "date": "1/13/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6383"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:08.378747"
+}

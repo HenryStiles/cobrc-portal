@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-85-1",
+  "year": "1985",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Judy Ward",
+  "comments": "",
+  "citations": "Gent, P.  1985 Report of the CBRC. CFO Journal 20(3-4), 44-50.",
+  "documentations": [
+    {
+      "doc_id": "16417",
+      "reporter": "Judy Ward",
+      "date": "1/29/1985",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16417"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:48.496708"
+}

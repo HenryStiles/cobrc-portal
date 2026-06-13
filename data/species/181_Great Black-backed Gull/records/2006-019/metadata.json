@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-019",
+  "year": "2006",
+  "location": "Neegronda Reservoir",
+  "county": "Kiowa",
+  "observers": "Andrew Spencer",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "516",
+      "reporter": "Andrew Spencer",
+      "date": "2/25/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=516"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:11.889587"
+}

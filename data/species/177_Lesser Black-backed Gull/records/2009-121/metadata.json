@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-121",
+  "year": "2009",
+  "location": "Fruita",
+  "county": "Mesa",
+  "observers": "Jacob Cooper",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1189",
+      "reporter": "Jacob Cooper",
+      "date": "2/24/2009",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1189"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:38.853833"
+}

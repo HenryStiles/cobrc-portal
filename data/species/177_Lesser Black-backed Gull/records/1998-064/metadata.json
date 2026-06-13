@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-064",
+  "year": "1998",
+  "location": "Rocky Ford",
+  "county": "Otero",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "16273",
+      "reporter": "Tony Leukering",
+      "date": "12/21/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16273"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:51.619890"
+}

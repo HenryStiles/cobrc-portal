@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-065",
+  "year": "1999",
+  "location": "Horseshoe Lake",
+  "county": "Larimer",
+  "observers": "Stephen Dinsmore",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "16281",
+      "reporter": "Stephen Dinsmore",
+      "date": "4/18/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16281"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:56.623997"
+}

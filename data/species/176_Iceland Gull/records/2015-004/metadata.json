@@ -1,0 +1,26 @@
+{
+  "acc_no": "2015-004",
+  "year": "2014",
+  "location": "Lagerman Reservoir and the Swede Lakes",
+  "county": "Boulder",
+  "observers": "David Dowell, Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "5195",
+      "reporter": "David Dowell",
+      "date": "12/17/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5195"
+    },
+    {
+      "doc_id": "5200",
+      "reporter": "Steven Mlodinow",
+      "date": "12/21/2014",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5200"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:35.056287"
+}

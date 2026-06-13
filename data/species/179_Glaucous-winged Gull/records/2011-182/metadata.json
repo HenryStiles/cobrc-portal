@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-182",
+  "year": "2011",
+  "location": "Aurora Reservoir",
+  "county": "Arapahoe",
+  "observers": "Steve Mlodinow",
+  "comments": "Age: imm.; Plumage: 1st cycle;",
+  "citations": "Faulkner, D. The 64th Report of the CBRC. Colorado Birds 46(4), 255-267.",
+  "documentations": [
+    {
+      "doc_id": "1908",
+      "reporter": "Steven Mlodinow",
+      "date": "12/31/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1908"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:05.446508"
+}

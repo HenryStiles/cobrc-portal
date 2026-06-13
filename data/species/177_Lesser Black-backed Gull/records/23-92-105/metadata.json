@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-92-105",
+  "year": "1992",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Van Truan, Mark Janos",
+  "comments": "",
+  "citations": "Prather, B.  1992 Report of the CBRC. CFO Jornal 28(4), 157-168.",
+  "documentations": [
+    {
+      "doc_id": "16261",
+      "reporter": "Van Truan, Mark Janos",
+      "date": "1/11/1992",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16261"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:33.219669"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2025-057",
+  "year": "2025",
+  "location": "Aurora Reservoir",
+  "county": "Arapahoe",
+  "observers": "Cole Sage",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16162",
+      "reporter": "Cole Sage",
+      "date": "11/6/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16162"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:21.514311"
+}

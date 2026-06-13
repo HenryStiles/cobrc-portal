@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-141",
+  "year": "2008",
+  "location": "John Martin Reservoir State Park",
+  "county": "Bent",
+  "observers": "Tony Leukering",
+  "comments": "Age: immature; Plumage: formative;",
+  "citations": "Faulkner, D. and Semo, L. The 59th Report of the CBRC. Colorado Birds 45(3), 174-180.",
+  "documentations": [
+    {
+      "doc_id": "1137",
+      "reporter": "Tony Leukering",
+      "date": "12/16/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1137"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:45.436959"
+}

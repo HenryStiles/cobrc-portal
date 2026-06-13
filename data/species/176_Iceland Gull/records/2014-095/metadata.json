@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-095",
+  "year": "2013",
+  "location": "Walden Ponds/Sawhill Ponds Complex",
+  "county": "Boulder",
+  "observers": "peter burke",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "4059",
+      "reporter": "peter burke",
+      "date": "12/31/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4059"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:23.980524"
+}

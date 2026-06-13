@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-048",
+  "year": "2007",
+  "location": "Jackson County Road 30",
+  "county": "Jackson",
+  "observers": "Eric DeFonso",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "Semo, L. and Faulkner, D. The 57th Report of the CBRC. Colorado Birds 45(1), 30-41.",
+  "documentations": [
+    {
+      "doc_id": "937",
+      "reporter": "Eric Defonso",
+      "date": "6/7/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=937"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:19.106468"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-107",
+  "year": "2005",
+  "location": "Chatfield State Park",
+  "county": "Jefferson & Douglas",
+  "observers": "Andrew Spencer",
+  "comments": "Age: immature; Plumage: 1st cycle;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "188",
+      "reporter": "Andrew Spencer",
+      "date": "10/9/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=188"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:39.769291"
+}

@@ -1,0 +1,26 @@
+{
+  "acc_no": "2011-146",
+  "year": "2011",
+  "location": "Boulder Reservoir",
+  "county": "Boulder",
+  "observers": "Nathan Pieplow, Doug Faulkner",
+  "comments": "Age: juvenile;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1816",
+      "reporter": "Nathan Pieplow",
+      "date": "10/20/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1816"
+    },
+    {
+      "doc_id": "1822",
+      "reporter": "Doug Faulkner",
+      "date": "10/29/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1822"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:07.690911"
+}

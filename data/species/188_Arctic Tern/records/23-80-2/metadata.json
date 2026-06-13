@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-80-2",
+  "year": "1979",
+  "location": "Union Reservoir",
+  "county": "Weld",
+  "observers": "Peter Gent, Peter Moulton, Charles Chase",
+  "comments": "",
+  "citations": "Chase, C.  1977-1980 Pt.2 Report of the CBRC. CFO Journal 15(2), 54-59.",
+  "documentations": [
+    {
+      "doc_id": "14432",
+      "reporter": "Peter Gent, Peter Moulton, Charles Chase",
+      "date": "9/11/1979",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14432"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:36.732102"
+}

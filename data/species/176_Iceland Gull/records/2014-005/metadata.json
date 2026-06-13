@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-005",
+  "year": "2013",
+  "location": "Lake Loveland",
+  "county": "Larimer",
+  "observers": "Nicholas Komar",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2800",
+      "reporter": "Nicholas Komar",
+      "date": "12/30/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2800"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:21.986017"
+}

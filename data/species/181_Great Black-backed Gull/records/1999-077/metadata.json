@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-077",
+  "year": "1999",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Greg Lasley, Tony Leukering",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "16005",
+      "reporter": "Greg Lasley, Tony Leukering",
+      "date": "11/8/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16005"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:21.656075"
+}

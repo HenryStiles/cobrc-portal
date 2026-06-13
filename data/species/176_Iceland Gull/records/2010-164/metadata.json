@@ -1,0 +1,26 @@
+{
+  "acc_no": "2010-164",
+  "year": "2010",
+  "location": "Namacqua Road Pond",
+  "county": "Larimer",
+  "observers": "Nicholas Komar, Glenn Walbek",
+  "comments": "Age: juv.; Plumage: 1st-cycle;",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1536",
+      "reporter": "Nicholas Komar",
+      "date": "12/5/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1536"
+    },
+    {
+      "doc_id": "1542",
+      "reporter": "Glenn Walbek",
+      "date": "12/9/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1542"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:58.579532"
+}

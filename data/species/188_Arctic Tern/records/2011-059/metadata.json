@@ -1,0 +1,33 @@
+{
+  "acc_no": "2011-059",
+  "year": "2011",
+  "location": "Chico Basin Ranch",
+  "county": "Pueblo & Weld",
+  "observers": "Bill Maynard, John Drummond, Steve Mlodinow",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "Faulkner, D. The 64th Report of the CBRC. Colorado Birds 46(4), 255-267.",
+  "documentations": [
+    {
+      "doc_id": "1664",
+      "reporter": "Bill Maynard",
+      "date": "5/24/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1664"
+    },
+    {
+      "doc_id": "1681",
+      "reporter": "John Drummond",
+      "date": "5/25/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1681"
+    },
+    {
+      "doc_id": "1691",
+      "reporter": "Steven Mlodinow",
+      "date": "5/26/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1691"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:01.927248"
+}

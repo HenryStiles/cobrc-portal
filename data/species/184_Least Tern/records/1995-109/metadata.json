@@ -1,0 +1,19 @@
+{
+  "acc_no": "1995-109",
+  "year": "1995",
+  "location": "Confluence Park",
+  "county": "Delta",
+  "observers": "Kim Potter",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "13527",
+      "reporter": "Kim Potter",
+      "date": "4/30/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13527"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:13.105393"
+}

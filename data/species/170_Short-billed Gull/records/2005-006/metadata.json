@@ -1,0 +1,33 @@
+{
+  "acc_no": "2005-006",
+  "year": "2005",
+  "location": "Crown Hill Park/Lake/Cemetery",
+  "county": "Jefferson",
+  "observers": "Larry Semo, Tony Leukering",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "Semo, L.  The 48th Report of the CBRC. Colorado Birds 42(4), 270-278.",
+  "documentations": [
+    {
+      "doc_id": "63",
+      "reporter": "Tony Leukering",
+      "date": "2/5/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=63"
+    },
+    {
+      "doc_id": "65",
+      "reporter": "Larry Semo",
+      "date": "2/5/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=65"
+    },
+    {
+      "doc_id": "344",
+      "reporter": "Brandon K Percival",
+      "date": "3/4/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=344"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:19.158550"
+}

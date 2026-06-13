@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-73-116",
+  "year": "1969",
+  "location": "Pueblo",
+  "county": "Pueblo",
+  "observers": "Dave Griffiths",
+  "comments": "",
+  "citations": "Reddall, J.  1974a Report of the CBRC. CFO Journal 19:11-41.",
+  "documentations": [
+    {
+      "doc_id": "13528",
+      "reporter": "Dave Griffiths",
+      "date": "8/17/1969",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13528"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:56.862934"
+}

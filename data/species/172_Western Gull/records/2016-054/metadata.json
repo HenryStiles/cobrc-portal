@@ -1,0 +1,26 @@
+{
+  "acc_no": "2016-054",
+  "year": "2016",
+  "location": "Blanca Wetlands",
+  "county": "Alamosa",
+  "observers": "David Dowell, Sam Fason",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "8546",
+      "reporter": "David Dowell",
+      "date": "7/16/2016",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8546"
+    },
+    {
+      "doc_id": "6454",
+      "reporter": "Sam Fason",
+      "date": "7/20/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6454"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:51.114939"
+}

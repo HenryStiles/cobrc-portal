@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-93-5",
+  "year": "1993",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Prather, B.  1993 Report of the CBRC. CFO Journal 30(1), 20-30.",
+  "documentations": [
+    {
+      "doc_id": "16263",
+      "reporter": "Mark Janos",
+      "date": "2/7/1993",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16263"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:38.167666"
+}

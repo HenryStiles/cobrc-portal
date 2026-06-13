@@ -1,0 +1,26 @@
+{
+  "acc_no": "2013-235",
+  "year": "2013",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Brandon Percival, Robb Hinds",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2551",
+      "reporter": "Brandon Percival",
+      "date": "9/1/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2551"
+    },
+    {
+      "doc_id": "2708",
+      "reporter": "Robb Hinds",
+      "date": "10/26/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2708"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:07.187330"
+}

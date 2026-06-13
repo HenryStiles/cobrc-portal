@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-92-52",
+  "year": "1991",
+  "location": "Union Reservoir",
+  "county": "Weld",
+  "observers": "John Prather",
+  "comments": "",
+  "citations": "Prather, B.  1992 Report of the CBRC. CFO Journal 28(4), 157-168.",
+  "documentations": [
+    {
+      "doc_id": "16421",
+      "reporter": "John Prather",
+      "date": "4/28/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16421"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:51.944443"
+}

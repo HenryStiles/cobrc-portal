@@ -1,0 +1,40 @@
+{
+  "acc_no": "2007-003",
+  "year": "2007",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Brandon Percival, Bill Maynard",
+  "comments": "Age: juv.; Plumage: 1st-cycle;",
+  "citations": "Faulkner, D. and Semo, L. The 58th Report of the CBRC. Colorado Birds 45(2), 92-101.",
+  "documentations": [
+    {
+      "doc_id": "652",
+      "reporter": "Bill Maynard",
+      "date": "1/14/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=652"
+    },
+    {
+      "doc_id": "688",
+      "reporter": "Brandon K Percival",
+      "date": "1/14/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=688"
+    },
+    {
+      "doc_id": "691",
+      "reporter": "Brandon K Percival",
+      "date": "1/22/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=691"
+    },
+    {
+      "doc_id": "687",
+      "reporter": "Brandon K Percival",
+      "date": "2/18/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=687"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:28.927517"
+}

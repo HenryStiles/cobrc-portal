@@ -1,0 +1,33 @@
+{
+  "acc_no": "2013-043",
+  "year": "2013",
+  "location": "Teller Lake #5",
+  "county": "Boulder",
+  "observers": "David Dowell, Glenn Walbek, Norm Lewis",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2763",
+      "reporter": "David Dowell",
+      "date": "2/1/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2763"
+    },
+    {
+      "doc_id": "2301",
+      "reporter": "Glenn Walbek",
+      "date": "2/2/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2301"
+    },
+    {
+      "doc_id": "2308",
+      "reporter": "Norm Lewis",
+      "date": "2/2/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2308"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:16.416115"
+}

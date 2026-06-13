@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-76-79",
+  "year": "1976",
+  "location": "Pueblo",
+  "county": "Pueblo",
+  "observers": "Dave Griffiths",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "16309",
+      "reporter": "Dave Griffiths",
+      "date": "6/7/1976",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16309"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:56.271328"
+}

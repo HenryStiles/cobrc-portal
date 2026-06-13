@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-058",
+  "year": "1999",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "John Vanderpoel, Peter Gent, Sharon Dooley, Tony Leukering",
+  "comments": "video",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "16433",
+      "reporter": "John Vanderpoel, Peter Gent, Sharon Dooley, Tony Leukering",
+      "date": "11/20/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16433"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:03.694640"
+}

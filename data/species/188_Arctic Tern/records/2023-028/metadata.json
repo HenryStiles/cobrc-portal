@@ -1,0 +1,19 @@
+{
+  "acc_no": "2023-028",
+  "year": "2023",
+  "location": "Lake Hasty",
+  "county": "Bent",
+  "observers": "Michael Lester",
+  "comments": "",
+  "citations": "Gent, P.  85th Report of the CBRC. Colorado Birds 58(1), 7-14.",
+  "documentations": [
+    {
+      "doc_id": "13353",
+      "reporter": "Michael Lester",
+      "date": "5/28/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13353"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:37.204240"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2018-041",
+  "year": "2018",
+  "location": "Saguache",
+  "county": "Saguache",
+  "observers": "Richard Trotter",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176.",
+  "documentations": [
+    {
+      "doc_id": "11671",
+      "reporter": "Richard Trotter",
+      "date": "4/16/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11671"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:47.036012"
+}

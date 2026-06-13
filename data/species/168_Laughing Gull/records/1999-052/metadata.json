@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-052",
+  "year": "1999",
+  "location": "Blue Lake (Adobe Creek Reservoir)",
+  "county": "Bent",
+  "observers": "Brandon Percival",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "16327",
+      "reporter": "Brandon Percival",
+      "date": "7/6/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16327"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:29.962539"
+}

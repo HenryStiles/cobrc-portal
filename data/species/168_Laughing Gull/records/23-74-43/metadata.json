@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-74-43",
+  "year": "1974",
+  "location": "Lake Henry",
+  "county": "Crowley",
+  "observers": "David Griffiths, Jack Reddall",
+  "comments": "Two adults.",
+  "citations": "Reddall, J. 1975. Reports from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "16302",
+      "reporter": "David Griffiths, Jack Reddall",
+      "date": "5/27/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16302"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:49.544405"
+}

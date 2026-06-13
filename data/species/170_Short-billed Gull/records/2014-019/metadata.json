@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-019",
+  "year": "2008",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2818",
+      "reporter": "Tony Leukering",
+      "date": "9/27/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2818"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:43.000475"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2017-078",
+  "year": "2017",
+  "location": "Aurora Reservoir",
+  "county": "Arapahoe",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "8542",
+      "reporter": "Steven Mlodinow",
+      "date": "1/15/2017",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8542"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:11.716640"
+}

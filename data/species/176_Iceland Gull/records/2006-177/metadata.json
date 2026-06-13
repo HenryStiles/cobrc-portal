@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-177",
+  "year": "2000",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Tony Leukering",
+  "comments": "Age: juv.; Plumage: 1st cycle;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "292",
+      "reporter": "Tony Leukering",
+      "date": "3/18/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=292"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:20.230955"
+}

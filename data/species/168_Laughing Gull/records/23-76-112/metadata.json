@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-76-112",
+  "year": "1976",
+  "location": "Union Reservoir",
+  "county": "Weld",
+  "observers": "Jack Reddall",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "16308",
+      "reporter": "Jack Reddall",
+      "date": "10/23/1976",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16308"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:57.284417"
+}

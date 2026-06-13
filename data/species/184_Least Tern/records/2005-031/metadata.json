@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-031",
+  "year": "2005",
+  "location": "Pastorius State Wildlife Area",
+  "county": "La Plata",
+  "observers": "Jim Beatty",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "204",
+      "reporter": "James Beatty",
+      "date": "4/25/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=204"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:16.572678"
+}

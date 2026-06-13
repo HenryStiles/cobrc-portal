@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-063",
+  "year": "1998",
+  "location": "Canon City",
+  "county": "Fremont",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "16272",
+      "reporter": "Tony Leukering",
+      "date": "12/20/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16272"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:50.480439"
+}

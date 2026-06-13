@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-068",
+  "year": "1998",
+  "location": "Chatfield State Park (Douglas Portion)",
+  "county": "Douglas",
+  "observers": "Joey Kellner",
+  "comments": "",
+  "citations": "Lisowsky, B.  1998 Report of the CBRC. CFO Journal 34(3), 168-184.",
+  "documentations": [
+    {
+      "doc_id": "13540",
+      "reporter": "Joey Kellner",
+      "date": "7/8/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13540"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:14.050810"
+}

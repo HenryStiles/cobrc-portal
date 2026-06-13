@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-204",
+  "year": "2001",
+  "location": "Chatfield State Park",
+  "county": "Jefferson & Douglas",
+  "observers": "Andrew Spencer",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "470",
+      "reporter": "Andrew Spencer",
+      "date": "11/23/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=470"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:09.493499"
+}

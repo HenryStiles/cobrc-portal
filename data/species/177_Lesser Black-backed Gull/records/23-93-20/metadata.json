@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-93-20",
+  "year": "1993",
+  "location": "Baseline Reservoir",
+  "county": "Boulder",
+  "observers": "David Ely, Steven Feldstein",
+  "comments": "",
+  "citations": "Prather, B.  1993 Report of the CBRC. CFO Journal 30(1), 20-30.",
+  "documentations": [
+    {
+      "doc_id": "16265",
+      "reporter": "David Ely, Steven Feldstein",
+      "date": "2/20/1993",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16265"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:39.538922"
+}

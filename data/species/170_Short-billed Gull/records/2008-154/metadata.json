@@ -1,0 +1,26 @@
+{
+  "acc_no": "2008-154",
+  "year": "2008",
+  "location": "Prospect Lake",
+  "county": "El Paso",
+  "observers": "Bill Maynard, Larry Semo",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "Faulkner, D. and Semo, L. The 59th Report of the CBRC. Colorado Birds 45(3), 174-180.",
+  "documentations": [
+    {
+      "doc_id": "1147",
+      "reporter": "Bill Maynard",
+      "date": "12/26/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1147"
+    },
+    {
+      "doc_id": "1449",
+      "reporter": "Larry Semo",
+      "date": "12/28/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1449"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:48.771159"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-030",
+  "year": "2014",
+  "location": "De Weese Reservoir",
+  "county": "Custer",
+  "observers": "Rich Miller",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6268",
+      "reporter": "Rich Miller",
+      "date": "5/22/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6268"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:09.581136"
+}

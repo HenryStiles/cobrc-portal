@@ -1,0 +1,26 @@
+{
+  "acc_no": "2005-010",
+  "year": "2005",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Tony Leukering, Doug Faulkner",
+  "comments": "",
+  "citations": "Semo, L.  The 44th Report of the CBRC. Colorado Birds 41(4), 241-258.",
+  "documentations": [
+    {
+      "doc_id": "73",
+      "reporter": "Tony Leukering",
+      "date": "2/12/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=73"
+    },
+    {
+      "doc_id": "160",
+      "reporter": "Doug Faulkner",
+      "date": "2/12/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=160"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:04.847870"
+}

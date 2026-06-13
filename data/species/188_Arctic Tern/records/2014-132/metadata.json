@@ -1,0 +1,26 @@
+{
+  "acc_no": "2014-132",
+  "year": "2014",
+  "location": "Big Johnson Reservoir",
+  "county": "El Paso",
+  "observers": "Bill Maynard",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "5118",
+      "reporter": "Bill Maynard",
+      "date": "9/5/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5118"
+    },
+    {
+      "doc_id": "5119",
+      "reporter": "Bill Maynard",
+      "date": "9/9/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5119"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:14.850442"
+}

@@ -1,0 +1,26 @@
+{
+  "acc_no": "2006-131",
+  "year": "2006",
+  "location": "Colorado City and Rye",
+  "county": "Pueblo",
+  "observers": "Brandon Percival, David Silverman",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "558",
+      "reporter": "Brandon K Percival",
+      "date": "9/22/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=558"
+    },
+    {
+      "doc_id": "563",
+      "reporter": "David Silverman",
+      "date": "9/22/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=563"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:58.907348"
+}

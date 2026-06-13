@@ -1,0 +1,19 @@
+{
+  "acc_no": "2022-006",
+  "year": "2022",
+  "location": "Pastorius State Wildlife Area",
+  "county": "La Plata",
+  "observers": "Kristi Streiffert",
+  "comments": "",
+  "citations": "The 83rd Report of the Colorado Bird Records Committee,  Peter R. Gent, Colorado Birds, 57(2), 61-70, 2023.",
+  "documentations": [
+    {
+      "doc_id": "12044",
+      "reporter": "Kristi Streiffert",
+      "date": "4/1/2022",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12044"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:43.016359"
+}

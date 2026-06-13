@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-82-72",
+  "year": "1981",
+  "location": "Antero Reservoir",
+  "county": "Park",
+  "observers": "Charlie Chase, Peter Gent",
+  "comments": "",
+  "citations": "Chase, C.  1981 Report of the CBRC. CFO Journal 17(4), 75-82.",
+  "documentations": [
+    {
+      "doc_id": "16503",
+      "reporter": "Charlie Chase, Peter Gent",
+      "date": "7/24/1981",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16503"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:46.534184"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-076",
+  "year": "1999",
+  "location": "Neenoshe Reservoir",
+  "county": "Kiowa",
+  "observers": "Brandon Percival",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "16003",
+      "reporter": "Brandon Percival",
+      "date": "2/18/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16003"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:20.721266"
+}

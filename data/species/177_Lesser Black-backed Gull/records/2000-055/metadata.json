@@ -1,0 +1,26 @@
+{
+  "acc_no": "2000-055",
+  "year": "2000",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Doug Faulkner, Tony Leukering",
+  "comments": "",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "2740",
+      "reporter": "Doug Faulkner",
+      "date": "10/8/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2740"
+    },
+    {
+      "doc_id": "2739",
+      "reporter": "Tony Leukering",
+      "date": "11/3/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2739"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:29.770069"
+}

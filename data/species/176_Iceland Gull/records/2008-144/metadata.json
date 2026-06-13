@@ -1,0 +1,40 @@
+{
+  "acc_no": "2008-144",
+  "year": "2008",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Tony Leukering, Paul Hurtado, Bill Schmoker, Cole Wild",
+  "comments": "Age: juv.; Plumage: 1st-cycle;",
+  "citations": "Faulkner, D. and Semo, L. The 58th Report of the CBRC. Colorado Birds 45(2), 92-101.",
+  "documentations": [
+    {
+      "doc_id": "1143",
+      "reporter": "Tony Leukering",
+      "date": "12/18/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1143"
+    },
+    {
+      "doc_id": "1146",
+      "reporter": "Paul Hurtado",
+      "date": "12/24/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1146"
+    },
+    {
+      "doc_id": "1186",
+      "reporter": "Bill Schmoker",
+      "date": "1/3/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1186"
+    },
+    {
+      "doc_id": "1201",
+      "reporter": "C W",
+      "date": "1/4/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1201"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:46.150265"
+}

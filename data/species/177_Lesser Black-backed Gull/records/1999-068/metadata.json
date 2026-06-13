@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-068",
+  "year": "1999",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Doug Faulkner, Tony Leukering",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "16284",
+      "reporter": "Doug Faulkner, Tony Leukering",
+      "date": "12/4/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16284"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:16.430100"
+}

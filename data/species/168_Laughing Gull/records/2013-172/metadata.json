@@ -1,0 +1,40 @@
+{
+  "acc_no": "2013-172",
+  "year": "2013",
+  "location": "Big Johnson Reservoir",
+  "county": "El Paso",
+  "observers": "John Drummond, Bill Kaempfer, Bill Maynard, Brandon K Percival",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2504",
+      "reporter": "John Drummond",
+      "date": "6/27/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2504"
+    },
+    {
+      "doc_id": "2508",
+      "reporter": "Bill Kaempfer",
+      "date": "6/30/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2508"
+    },
+    {
+      "doc_id": "2530",
+      "reporter": "Bill Maynard",
+      "date": "7/4/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2530"
+    },
+    {
+      "doc_id": "2515",
+      "reporter": "Brandon K Percival",
+      "date": "7/7/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2515"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:59.136033"
+}

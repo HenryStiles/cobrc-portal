@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-239",
+  "year": "2013",
+  "location": "Timnath Reservoir",
+  "county": "Larimer",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2610",
+      "reporter": "Steven Mlodinow",
+      "date": "10/5/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2610"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:48.444677"
+}

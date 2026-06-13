@@ -1,0 +1,61 @@
+{
+  "acc_no": "2008-107",
+  "year": "2008",
+  "location": "Lake Holbrook",
+  "county": "Otero & Crowley",
+  "observers": "Brandon Percival, Andrew Spencer, Bill Maynard, Glenn Walbek, Joey Kellner, Nathan Pieplow",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "Semo, L.  The 50th Report of the CBRC. Colorado Birds 43(2), 123-135.",
+  "documentations": [
+    {
+      "doc_id": "1072",
+      "reporter": "Nathan Pieplow",
+      "date": "9/12/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1072"
+    },
+    {
+      "doc_id": "1073",
+      "reporter": "Bill Maynard",
+      "date": "9/12/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1073"
+    },
+    {
+      "doc_id": "1074",
+      "reporter": "Brandon K Percival",
+      "date": "9/12/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1074"
+    },
+    {
+      "doc_id": "1075",
+      "reporter": "Andrew Spencer",
+      "date": "9/12/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1075"
+    },
+    {
+      "doc_id": "1076",
+      "reporter": "Glenn Walbek",
+      "date": "9/12/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1076"
+    },
+    {
+      "doc_id": "1078",
+      "reporter": "Joey Kellner",
+      "date": "9/12/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1078"
+    },
+    {
+      "doc_id": "1190",
+      "reporter": "Bill Schmoker",
+      "date": "9/13/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1190"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:48.109647"
+}

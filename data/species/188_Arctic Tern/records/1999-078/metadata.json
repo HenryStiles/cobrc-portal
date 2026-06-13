@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-078",
+  "year": "1999",
+  "location": "Union Reservoir",
+  "county": "Weld",
+  "observers": "Doug Faulkner, Tony Leukering",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "14438",
+      "reporter": "Doug Faulkner, Tony Leukering",
+      "date": "10/5/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14438"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:45.612814"
+}

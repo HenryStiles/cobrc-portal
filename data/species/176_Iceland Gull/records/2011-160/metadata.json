@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-160",
+  "year": "2011",
+  "location": "Timnath Reservoir",
+  "county": "Weld",
+  "observers": "Steve Mlodinow",
+  "comments": "Age: juv.; Plumage: 1st-cycle;",
+  "citations": "Faulkner, D. The 64th Report of the CBRC. Colorado Birds 46(4), 255-267.",
+  "documentations": [
+    {
+      "doc_id": "1871",
+      "reporter": "Steven Mlodinow",
+      "date": "11/13/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1871"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:03.430073"
+}
