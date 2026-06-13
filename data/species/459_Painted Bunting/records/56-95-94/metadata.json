@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-95-94",
+  "year": "1995",
+  "location": "Glen Haven Rd, W of Drake",
+  "county": "Larimer",
+  "observers": "Miriam Mohr",
+  "comments": "",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "13962",
+      "reporter": "Miriam Mohr",
+      "date": "6/8/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13962"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:49.809834"
+}

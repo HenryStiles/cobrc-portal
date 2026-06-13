@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-070",
+  "year": "2005",
+  "location": "Salida",
+  "county": "Chaffee",
+  "observers": "Nancy Vickery",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "136",
+      "reporter": "Nancy Vickery",
+      "date": "6/21/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=136"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:27.570737"
+}

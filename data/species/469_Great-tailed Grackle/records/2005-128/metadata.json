@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-128",
+  "year": "2005",
+  "location": "Lake George",
+  "county": "Park",
+  "observers": "Nicholas Komar",
+  "comments": "",
+  "citations": "Semo, L.  The 44th Report of the CBRC. Colorado Birds 41(4), 241-258.",
+  "documentations": [
+    {
+      "doc_id": "238",
+      "reporter": "Nicholas Komar",
+      "date": "11/23/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=238"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:23.323378"
+}

@@ -1,0 +1,33 @@
+{
+  "acc_no": "2005-109",
+  "year": "2005",
+  "location": "Hoy Mountain",
+  "county": "Moffat",
+  "observers": "Lisa Edwards, Brandon Percival, Andrew Spencer",
+  "comments": "Age: adult;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "189",
+      "reporter": "Andrew Spencer",
+      "date": "10/22/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=189"
+    },
+    {
+      "doc_id": "193",
+      "reporter": "Lisa Edwards",
+      "date": "10/22/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=193"
+    },
+    {
+      "doc_id": "350",
+      "reporter": "Brandon K Percival",
+      "date": "10/22/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=350"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:54.368894"
+}

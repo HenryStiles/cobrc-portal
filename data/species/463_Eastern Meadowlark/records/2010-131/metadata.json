@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-131",
+  "year": "2010",
+  "location": "Colorado City and Rye",
+  "county": "Pueblo",
+  "observers": "Dave Silverman",
+  "comments": "",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1500",
+      "reporter": "David Silverman",
+      "date": "10/17/2010",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1500"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:08.417236"
+}

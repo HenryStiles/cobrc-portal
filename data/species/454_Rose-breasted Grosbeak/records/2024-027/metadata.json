@@ -1,0 +1,19 @@
+{
+  "acc_no": "2024-027",
+  "year": "2024",
+  "location": "Broomfield",
+  "county": "Broomfield",
+  "observers": "Gerrianne Hudson",
+  "comments": "",
+  "citations": "Gent, P., 2025. 87th Report of the CBRC.  Colorado Birds, 59(1), 7-15.",
+  "documentations": [
+    {
+      "doc_id": "14130",
+      "reporter": "Gerrianne Hudson",
+      "date": "6/11/2024",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14130"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:43.770542"
+}

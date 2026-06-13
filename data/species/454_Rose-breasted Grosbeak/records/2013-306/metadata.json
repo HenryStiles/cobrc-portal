@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-306",
+  "year": "2013",
+  "location": "12885 C.R. 195",
+  "county": "Chaffee",
+  "observers": "J Marsh",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2520",
+      "reporter": "J Marsh",
+      "date": "6/3/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2520"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:39.498585"
+}

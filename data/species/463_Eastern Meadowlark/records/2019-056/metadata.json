@@ -1,0 +1,19 @@
+{
+  "acc_no": "2019-056",
+  "year": "2019",
+  "location": "South Republican SWA",
+  "county": "Yuma",
+  "observers": "David Dowell",
+  "comments": "The recorded song helped a lot.",
+  "citations": "The 82nd Report of the CBRC, 2022. Colorado Birds, 56(4), 283-294.",
+  "documentations": [
+    {
+      "doc_id": "11866",
+      "reporter": "David Dowell",
+      "date": "5/12/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11866"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:17.300479"
+}

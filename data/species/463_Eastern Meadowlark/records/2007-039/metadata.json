@@ -1,0 +1,26 @@
+{
+  "acc_no": "2007-039",
+  "year": "2007",
+  "location": "Southwest Loveland lakes",
+  "county": "Larimer",
+  "observers": "Gregg Goodrich, Andrew Spencer",
+  "comments": "Age: adult; Plumage: basic; Sex: unk;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "732",
+      "reporter": "Gregg Goodrich",
+      "date": "5/28/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=732"
+    },
+    {
+      "doc_id": "848",
+      "reporter": "Andrew Spencer",
+      "date": "6/3/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=848"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:04.442978"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-104",
+  "year": "2006",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Walbek, Glenn",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "4082",
+      "reporter": "Walbek, Glenn",
+      "date": "5/18/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4082"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:07.399336"
+}

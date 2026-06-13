@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-011",
+  "year": "2011",
+  "location": "Lone Pine pasture on Meadow Springs Ranch",
+  "county": "Larimer",
+  "observers": "Erin Youngberg",
+  "comments": "Age: adult; Sex: m,f;",
+  "citations": "Faulkner, D. The 64th Report of the CBRC. Colorado Birds 46(4), 255-267.",
+  "documentations": [
+    {
+      "doc_id": "1734",
+      "reporter": "Erin Youngberg",
+      "date": "8/4/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1734"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:12.224642"
+}

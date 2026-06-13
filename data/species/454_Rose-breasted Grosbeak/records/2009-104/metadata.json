@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-104",
+  "year": "2009",
+  "location": "Grand Junction",
+  "county": "Mesa",
+  "observers": "Nic Korte",
+  "comments": "Age: imm.; Plumage: basic; Sex: m;",
+  "citations": "Semo, L. and Faulkner, D. The 57th Report of the CBRC. Colorado Birds 45(1), 30-41.",
+  "documentations": [
+    {
+      "doc_id": "1346",
+      "reporter": "Nic Korte",
+      "date": "11/17/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1346"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:31.609435"
+}

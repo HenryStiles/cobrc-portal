@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-042",
+  "year": "2007",
+  "location": "Rio Blanco Lake & Piceance State Wildlife Area",
+  "county": "Rio Blanco",
+  "observers": "Doug Faulkner",
+  "comments": "Age: adult; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "743",
+      "reporter": "Doug Faulkner",
+      "date": "6/8/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=743"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:24.684764"
+}

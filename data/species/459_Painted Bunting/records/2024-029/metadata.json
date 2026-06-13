@@ -1,0 +1,19 @@
+{
+  "acc_no": "2024-029",
+  "year": "2024",
+  "location": "Black Canyon of the Gunnison National Park",
+  "county": "Montrose",
+  "observers": "Carol Comeau",
+  "comments": "",
+  "citations": "Gent, P., The 88th Report of the CBRC. Colorado Birds 59(3), 192-197.",
+  "documentations": [
+    {
+      "doc_id": "14244",
+      "reporter": "Carol Comeau",
+      "date": "9/14/2024",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14244"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:52.742990"
+}

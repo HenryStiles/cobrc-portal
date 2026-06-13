@@ -1,0 +1,19 @@
+{
+  "acc_no": "54-88-42",
+  "year": "1988",
+  "location": "Hudson BBS route east of Platteville.",
+  "county": "Weld",
+  "observers": "William Howe",
+  "comments": "",
+  "citations": "Gent, P. and Nelson, D.  1988 Report of the CBRC. CFO Journal 26(4), 137-142.",
+  "documentations": [
+    {
+      "doc_id": "13146",
+      "reporter": "William Howe",
+      "date": "6/12/1988",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13146"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:59.578494"
+}

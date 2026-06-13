@@ -1,0 +1,19 @@
+{
+  "acc_no": "2023-056",
+  "year": "2023",
+  "location": "Melody Tempel Grove",
+  "county": "Bent",
+  "observers": "Josh Lefever",
+  "comments": "",
+  "citations": "Gent, P.  The 86th Report of the CBRC.  Colorado Birds 58(3), 125-132.",
+  "documentations": [
+    {
+      "doc_id": "13518",
+      "reporter": "Josh Lefever",
+      "date": "5/6/2023",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13518"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:38.897134"
+}

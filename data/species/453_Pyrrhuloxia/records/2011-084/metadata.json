@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-084",
+  "year": "2011",
+  "location": "Alamosa",
+  "county": "Alamosa",
+  "observers": "John Rawinski",
+  "comments": "Age: adult; Sex: f;",
+  "citations": "Faulkner, D. The 62nd Report of the CBRC. Colorado Birds 46(2), 106-120.",
+  "documentations": [
+    {
+      "doc_id": "1724",
+      "reporter": "John Rawinski",
+      "date": "6/8/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1724"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:28.438461"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-92-92",
+  "year": "1992",
+  "location": "Hale area",
+  "county": "Yuma",
+  "observers": "Peter Gent",
+  "comments": "",
+  "citations": "Prather, B.  1992 Report of the CBRC. CFO Journal 28(4), 157-168.",
+  "documentations": [
+    {
+      "doc_id": "13959",
+      "reporter": "Peter Gent",
+      "date": "5/10/1992",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13959"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:47.175143"
+}

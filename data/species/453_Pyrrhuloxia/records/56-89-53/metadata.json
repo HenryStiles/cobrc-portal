@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-89-53",
+  "year": "1989",
+  "location": "Holly area",
+  "county": "Prowers",
+  "observers": "Kendal Knaus, Mark Janos, Duane Nelson",
+  "comments": "Photo by D. Nelson",
+  "citations": "Nelson, D.  1989 Report of the CBRC. CFO Journal 25(4), 119-125.",
+  "documentations": [
+    {
+      "doc_id": "14667",
+      "reporter": "Kendal Knaus, Mark Janos, Duane Nelson",
+      "date": "12/17/1989",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14667"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:23.365174"
+}

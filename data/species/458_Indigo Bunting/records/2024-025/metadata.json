@@ -1,0 +1,19 @@
+{
+  "acc_no": "2024-025",
+  "year": "2024",
+  "location": "The Ranch subdivision (Hermosa area, north of Durango)",
+  "county": "La Plata",
+  "observers": "Emily and Chris MacDonald",
+  "comments": "",
+  "citations": "Gent, P., 2025. 87th Report of the CBRC.  Colorado Birds, 59(1), 7-15.",
+  "documentations": [
+    {
+      "doc_id": "14054",
+      "reporter": "Emily and Chris MacDonald",
+      "date": "7/5/2024",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14054"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:26.083954"
+}

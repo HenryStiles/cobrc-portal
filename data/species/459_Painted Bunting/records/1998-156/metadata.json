@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-156",
+  "year": "1998",
+  "location": "Delta",
+  "county": "Delta",
+  "observers": "Michael & Shirley Zubowicz",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "13966",
+      "reporter": "Michael & Shirley Zubowicz",
+      "date": "3/23/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13966"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:53.452385"
+}

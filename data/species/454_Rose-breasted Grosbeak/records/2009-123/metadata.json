@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-123",
+  "year": "2009",
+  "location": "Westcliffe and Silver Cliff",
+  "county": "Custer",
+  "observers": "Steve Linderer",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1229",
+      "reporter": "Steve Linderer",
+      "date": "5/16/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1229"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:29.918242"
+}

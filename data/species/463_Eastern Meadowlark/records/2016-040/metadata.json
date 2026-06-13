@@ -1,0 +1,26 @@
+{
+  "acc_no": "2016-040",
+  "year": "2016",
+  "location": "Rocky Mountain Arsenal National Wildlife Refuge",
+  "county": "Adams",
+  "observers": "Steven Rash, Kathy Mihm Dunning",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "6438",
+      "reporter": "Steven Rash",
+      "date": "6/8/2016",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6438"
+    },
+    {
+      "doc_id": "6439",
+      "reporter": "Kathy Mihm Dunning",
+      "date": "6/12/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6439"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:13.582968"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-168",
+  "year": "2005",
+  "location": "north side of West 57th Street about 1/4 mile west of Highway 287",
+  "county": "Larimer",
+  "observers": "Nicholas Komar",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "75",
+      "reporter": "Nicholas Komar",
+      "date": "2/12/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=75"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:00.735009"
+}

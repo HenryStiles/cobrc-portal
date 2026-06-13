@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-74-36",
+  "year": "1974",
+  "location": "Two Buttes State Wildlife Area",
+  "county": "Baca",
+  "observers": "Hugh Kingery, Paul Julian, Doug Stotz",
+  "comments": "Probable immature male.",
+  "citations": "Reddall, J. 1975. Reports from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "13954",
+      "reporter": "Hugh Kingery, Paul Julian, Doug Stotz",
+      "date": "5/10/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13954"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:42.330162"
+}

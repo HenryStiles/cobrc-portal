@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-164",
+  "year": "1999",
+  "location": "Durango",
+  "county": "La Plata",
+  "observers": "Diana Robillard",
+  "comments": "photos by K. Stransky",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "13101",
+      "reporter": "Diana Robillard",
+      "date": "4/29/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13101"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:27.510709"
+}

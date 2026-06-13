@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-111",
+  "year": "2006",
+  "location": "Hoy Mountain",
+  "county": "Moffat",
+  "observers": "Andrew Spencer",
+  "comments": "Age: adult;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "515",
+      "reporter": "Andrew Spencer",
+      "date": "7/21/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=515"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:57.114133"
+}

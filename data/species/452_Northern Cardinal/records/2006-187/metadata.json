@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-187",
+  "year": "2006",
+  "location": "Aurora",
+  "county": "Arapahoe",
+  "observers": "Lori Giesecke",
+  "comments": "",
+  "citations": "Semo, L. and Faulkner, D.  The 53rd Report of the CBRC. Colorado Birds 44(1), 31-42.",
+  "documentations": [
+    {
+      "doc_id": "1110",
+      "reporter": "Lori Giesecke",
+      "date": "1/15/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1110"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:28.390020"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-132",
+  "year": "2015",
+  "location": "Gardens on Sprinkcreek",
+  "county": "Larimer",
+  "observers": "Rachel Hopper",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "6375",
+      "reporter": "Rachel Hopper",
+      "date": "12/19/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6375"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:26.806167"
+}

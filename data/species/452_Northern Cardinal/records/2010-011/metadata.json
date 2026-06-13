@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-011",
+  "year": "2010",
+  "location": "Pueblo",
+  "county": "Pueblo",
+  "observers": "Brandon K. Percival",
+  "comments": "",
+  "citations": "Semo, L. and Faulkner, D. The 57th Report of the CBRC. Colorado Birds 45(1), 30-41.",
+  "documentations": [
+    {
+      "doc_id": "1384",
+      "reporter": "Brandon K Percival",
+      "date": "1/31/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1384"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:33.002911"
+}

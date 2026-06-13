@@ -1,0 +1,19 @@
+{
+  "acc_no": "2019-055",
+  "year": "2019",
+  "location": "Audubon Nature Center",
+  "county": "Jefferson",
+  "observers": "Natalie Vande Vuss",
+  "comments": "",
+  "citations": "The 82nd Report of the CBRC, 2022. Colorado Birds, 56(4), 283-294.",
+  "documentations": [
+    {
+      "doc_id": "11823",
+      "reporter": "Natalie Vande Vuss",
+      "date": "7/29/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11823"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:51.965250"
+}

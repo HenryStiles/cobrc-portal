@@ -1,0 +1,26 @@
+{
+  "acc_no": "2003-036",
+  "year": "2003",
+  "location": "Cottonwood Canyon",
+  "county": "Baca",
+  "observers": "Paul Mackenzie, Cindy & Leslie Lieurance",
+  "comments": "Age: adult; Sex: m;",
+  "citations": "Leukering, T. and Semo, L.  The 39th Report of the CBRC. Colorado Birds 39(3), 131-141.",
+  "documentations": [
+    {
+      "doc_id": "7",
+      "reporter": "Chris Wood",
+      "date": "5/25/2003",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=7"
+    },
+    {
+      "doc_id": "13975",
+      "reporter": "Paul Mackenzie, Cindy & Leslie Lieurance",
+      "date": "5/25/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13975"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:03.168391"
+}

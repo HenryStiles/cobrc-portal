@@ -1,0 +1,19 @@
+{
+  "acc_no": "54-92-15",
+  "year": "1992",
+  "location": "Hammett SWA",
+  "county": "Prowers",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Prather, B.  1992 Report of the CBRC. CFO Journal 28(4), 157-168.",
+  "documentations": [
+    {
+      "doc_id": "13147",
+      "reporter": "Mark Janos",
+      "date": "7/26/1992",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13147"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:00.577320"
+}

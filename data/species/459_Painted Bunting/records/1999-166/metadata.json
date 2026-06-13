@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-166",
+  "year": "1999",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Mike Carter",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "13968",
+      "reporter": "Mike Carter",
+      "date": "4/21/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13968"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:55.303743"
+}

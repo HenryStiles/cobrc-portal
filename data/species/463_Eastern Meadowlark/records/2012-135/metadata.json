@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-135",
+  "year": "2012",
+  "location": "Wray",
+  "county": "Yuma",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Faulkner, Doug. July 2013. The 67th Report of the Colorado Bird Records Committee: Colorado Birds 47(3):178-186",
+  "documentations": [
+    {
+      "doc_id": "2109",
+      "reporter": "Steven Mlodinow",
+      "date": "10/6/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2109"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:11.771724"
+}

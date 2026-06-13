@@ -1,0 +1,19 @@
+{
+  "acc_no": "2020-001",
+  "year": "2020",
+  "location": "Chatfield State Park (Douglas Portion)",
+  "county": "Douglas",
+  "observers": "Ken Wat",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176",
+  "documentations": [
+    {
+      "doc_id": "11852",
+      "reporter": "Ken Wat",
+      "date": "1/5/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11852"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:00.757472"
+}

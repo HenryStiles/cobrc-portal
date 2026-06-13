@@ -1,0 +1,26 @@
+{
+  "acc_no": "13-91-24",
+  "year": "1991",
+  "location": "Hoy Mountain",
+  "county": "Moffat",
+  "observers": "Peter Gent, Dan Bridges, Duane Nelson",
+  "comments": "",
+  "citations": "Nelson, D.  1991 Report of the CBRC. CFO Journal 27(2), 49-56.",
+  "documentations": [
+    {
+      "doc_id": "13161",
+      "reporter": "Peter Gent, Dan Bridges",
+      "date": "9/28/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13161"
+    },
+    {
+      "doc_id": "14622",
+      "reporter": "Duane Nelson",
+      "date": "9/28/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14622"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:51.891433"
+}

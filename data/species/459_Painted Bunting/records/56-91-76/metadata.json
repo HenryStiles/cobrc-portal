@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-91-76",
+  "year": "1991",
+  "location": "South Republican SWA",
+  "county": "Yuma",
+  "observers": "Joe TenBrink",
+  "comments": "",
+  "citations": "Nelson, D.  1991 Report of the CBRC. CFO Journal 27(2), 49-56.",
+  "documentations": [
+    {
+      "doc_id": "13958",
+      "reporter": "Joe TenBrink",
+      "date": "5/12/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13958"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:46.070894"
+}

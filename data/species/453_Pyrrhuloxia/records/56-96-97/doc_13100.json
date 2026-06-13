@@ -1,0 +1,38 @@
+{
+  "doc_id": "13100",
+  "scraped_at": "2026-06-13T14:35:26.461217",
+  "species": "Pyrrhuloxia",
+  "acc_no": "56-96-97",
+  "reporter_name": "Dick Schottler, Peter Gent",
+  "address": "",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "reporter_email": "",
+  "other_observers": "",
+  "species_name": "Pyrrhuloxia",
+  "first_date": "8/12/1996 9:15:00 AM",
+  "last_date": "8/16/1996 10:05:00 AM",
+  "duration": "",
+  "county": "Park",
+  "specific_location": "Grant",
+  "number_of_birds": "1",
+  "age": "Unknown",
+  "sex": "Unknown",
+  "plumage": "Other/Unknown",
+  "description": "",
+  "photographer": "Photographer: Dick Schottler, Peter Gent , Dick Schottler, Peter Gent",
+  "photos_text": "Photos | PDF",
+  "uploads_text": "13100_doc-1.pdf\n13100_doc-2.pdf",
+  "date_submitted": "1/25/2023 3:09:00 PM",
+  "attachments": [
+    {
+      "filename": "13100_doc-1.pdf",
+      "url": "/RecordUploads/13100/13100_doc-1.pdf"
+    },
+    {
+      "filename": "13100_doc-2.pdf",
+      "url": "/RecordUploads/13100/13100_doc-2.pdf"
+    }
+  ]
+}

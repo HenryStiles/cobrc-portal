@@ -1,0 +1,19 @@
+{
+  "acc_no": "1988-002",
+  "year": "1988",
+  "location": "Hoy Mountain",
+  "county": "Moffat",
+  "observers": "R. Hernbrode",
+  "comments": "Collected: Specimen DMNH #39566. 4 seen on 9/26-27/1990 and 2 collected: Specimens DMNH #41920 and #42054.",
+  "citations": "Braun, C. E., et al., Western North American Naturalist, 63(1), 105\u2013107, 2003.",
+  "documentations": [
+    {
+      "doc_id": "13209",
+      "reporter": "R. Hernbrode",
+      "date": "10/24/1988",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13209"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:51.001069"
+}

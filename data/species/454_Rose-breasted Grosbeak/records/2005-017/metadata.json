@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-017",
+  "year": "2005",
+  "location": "Paonia",
+  "county": "Delta",
+  "observers": "Jason Beason",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "252",
+      "reporter": "Jason Beason",
+      "date": "4/11/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=252"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:27.375192"
+}

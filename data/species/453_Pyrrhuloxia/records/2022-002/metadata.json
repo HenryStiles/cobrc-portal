@@ -1,0 +1,61 @@
+{
+  "acc_no": "2022-002",
+  "year": "2022",
+  "location": "Denver",
+  "county": "Denver",
+  "observers": "Taylor Smith, Andrea Poland, Brian Genge, John Salisbury, Finley Baker, Meredith Denton-Hedrick, Sue Riffe",
+  "comments": "",
+  "citations": "The 83rd Report of the Colorado Bird Records Committee,  Peter R. Gent, Colorado Birds, 57(2), 61-70, 2023.",
+  "documentations": [
+    {
+      "doc_id": "12011",
+      "reporter": "Taylor Smith",
+      "date": "2/11/2022",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12011"
+    },
+    {
+      "doc_id": "12007",
+      "reporter": "Andrea Poland",
+      "date": "2/12/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12007"
+    },
+    {
+      "doc_id": "12008",
+      "reporter": "Brian Genge",
+      "date": "2/12/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12008"
+    },
+    {
+      "doc_id": "12009",
+      "reporter": "John Salisbury",
+      "date": "2/12/2022",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12009"
+    },
+    {
+      "doc_id": "12006",
+      "reporter": "Finley Baker",
+      "date": "2/12/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12006"
+    },
+    {
+      "doc_id": "12012",
+      "reporter": "Meredith Denton-Hedrick",
+      "date": "2/12/2022",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12012"
+    },
+    {
+      "doc_id": "12015",
+      "reporter": "Sue Riffe",
+      "date": "2/14/2022",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12015"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:30.619628"
+}

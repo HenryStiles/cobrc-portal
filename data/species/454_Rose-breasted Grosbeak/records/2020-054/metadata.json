@@ -1,0 +1,19 @@
+{
+  "acc_no": "2020-054",
+  "year": "2020",
+  "location": "Pueblo West",
+  "county": "Pueblo",
+  "observers": "Marcia Faust",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176",
+  "documentations": [
+    {
+      "doc_id": "11897",
+      "reporter": "Marcia Faust",
+      "date": "5/22/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11897"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:41.481714"
+}

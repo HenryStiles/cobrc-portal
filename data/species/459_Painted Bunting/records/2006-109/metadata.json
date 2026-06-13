@@ -1,0 +1,26 @@
+{
+  "acc_no": "2006-109",
+  "year": "2006",
+  "location": "Cottonwood Canyon",
+  "county": "Las Animas",
+  "observers": "Andrew Spencer, Cole Wild",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "498",
+      "reporter": "C W",
+      "date": "7/18/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=498"
+    },
+    {
+      "doc_id": "519",
+      "reporter": "Andrew Spencer",
+      "date": "7/18/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=519"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:09.592406"
+}

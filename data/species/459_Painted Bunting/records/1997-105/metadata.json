@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-105",
+  "year": "1997",
+  "location": "John Martin Reservoir State Park",
+  "county": "Bent",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "13965",
+      "reporter": "Mark Janos",
+      "date": "5/17/1997",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13965"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:52.530494"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-148",
+  "year": "2015",
+  "location": "Animas River",
+  "county": "La Plata",
+  "observers": "Elizabeth Wolff",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "6252",
+      "reporter": "Elizabeth Wolff",
+      "date": "4/30/2015",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6252"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:40.577063"
+}

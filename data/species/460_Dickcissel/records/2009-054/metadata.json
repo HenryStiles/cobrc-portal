@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-054",
+  "year": "2009",
+  "location": "12 miles south of Durango",
+  "county": "La Plata",
+  "observers": "Richard Donley",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Semo, L. and Faulkner, D.  The 53rd Report of the CBRC. Colorado Birds 44(1), 31-42.",
+  "documentations": [
+    {
+      "doc_id": "1261",
+      "reporter": "Richard Donley",
+      "date": "6/28/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1261"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:10.064882"
+}

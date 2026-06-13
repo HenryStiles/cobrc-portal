@@ -1,0 +1,19 @@
+{
+  "acc_no": "56-96-98",
+  "year": "1996",
+  "location": "Fort Lyon Wildlife Area",
+  "county": "Bent",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Janos, M.  1996 Report of the CBRC.  J. of the CFO 32(3), 173-187.",
+  "documentations": [
+    {
+      "doc_id": "13964",
+      "reporter": "Mark Janos",
+      "date": "5/12/1996",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13964"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:51.678144"
+}

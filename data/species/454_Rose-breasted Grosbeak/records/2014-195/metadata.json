@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-195",
+  "year": "2014",
+  "location": "Not Specified",
+  "county": "Arapahoe",
+  "observers": "Mary O'Connor",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "3969",
+      "reporter": "Mary O'Connor",
+      "date": "5/30/2014",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3969"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:40.035652"
+}
