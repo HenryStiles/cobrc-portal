@@ -1,0 +1,19 @@
+{
+  "acc_no": "28-93-108",
+  "year": "1993",
+  "location": "Near Beulah",
+  "county": "Pueblo",
+  "observers": "Brandon Percival",
+  "comments": "",
+  "citations": "Prather, B.  1993 Report of the CBRC. C.F.O. Journal 30, 20-30.",
+  "documentations": [
+    {
+      "doc_id": "13595",
+      "reporter": "Brandon Percival",
+      "date": "5/8/1993",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13595"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:14.090100"
+}

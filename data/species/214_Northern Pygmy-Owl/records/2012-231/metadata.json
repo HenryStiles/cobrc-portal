@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-231",
+  "year": "2012",
+  "location": "6399 Hwy 36",
+  "county": "Larimer",
+  "observers": "Ray Sperger",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2153",
+      "reporter": "Ray Sperger",
+      "date": "10/20/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2153"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:55.733227"
+}

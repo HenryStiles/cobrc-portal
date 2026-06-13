@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-162",
+  "year": "2005",
+  "location": "Julesburg State Wildlife Area",
+  "county": "Sedgwick",
+  "observers": "Steve Larson",
+  "comments": "Age: adult;",
+  "citations": "Semo, L. and Faulkner, D. The 56th Report of the CBRC. Colorado Birds 44(4), 240-254.",
+  "documentations": [
+    {
+      "doc_id": "1019",
+      "reporter": "Steve Larson",
+      "date": "6/5/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1019"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:50.035766"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "1963-002",
+  "year": "1963",
+  "location": "Laramie River Road",
+  "county": "Larimer",
+  "observers": "Paul Baldwin, James Koplin",
+  "comments": "Collected a juvenile female.",
+  "citations": "Baldwin P. and Koplin, J., The Boreal Owl as a Pleistocene Relict in Colorado. Condor, 68, 299-300, 1966.",
+  "documentations": [
+    {
+      "doc_id": "13249",
+      "reporter": "Paul Baldwin, James Koplin",
+      "date": "8/14/1963",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13249"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:33.849123"
+}

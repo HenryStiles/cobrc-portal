@@ -1,0 +1,19 @@
+{
+  "acc_no": "2021-003",
+  "year": "2021",
+  "location": "Evergreen area",
+  "county": "Jefferson",
+  "observers": "Veronica Malinowski",
+  "comments": "",
+  "citations": "Accepted by the Chairman and not published.",
+  "documentations": [
+    {
+      "doc_id": "11990",
+      "reporter": "Veronica Malinowski",
+      "date": "9/23/2021",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11990"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:56.332632"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2022-005",
+  "year": "2022",
+  "location": "Pawnee National Grasslands (western section)",
+  "county": "Weld",
+  "observers": "Adrian Lakin",
+  "comments": "",
+  "citations": "The 83rd Report of the Colorado Bird Records Committee,  Peter R. Gent, Colorado Birds, 57(2), 61-70, 2023.",
+  "documentations": [
+    {
+      "doc_id": "12030",
+      "reporter": "Adrian Lakin",
+      "date": "2/20/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12030"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:38.243060"
+}

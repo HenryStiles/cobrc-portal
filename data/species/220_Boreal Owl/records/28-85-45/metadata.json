@@ -1,0 +1,19 @@
+{
+  "acc_no": "28-85-45",
+  "year": "1984",
+  "location": "Slumgullion Pass",
+  "county": "Hinsdale",
+  "observers": "John Rawinski",
+  "comments": "",
+  "citations": "Gent, P.  1985 Report of the CBRC.  CFO Journal, 20(3-4), 44-50.",
+  "documentations": [
+    {
+      "doc_id": "13787",
+      "reporter": "John Rawinski",
+      "date": "9/9/1984",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13787"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:47.886167"
+}

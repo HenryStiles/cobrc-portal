@@ -1,0 +1,19 @@
+{
+  "acc_no": "28-78-53",
+  "year": "1977",
+  "location": "Grand Lake Area",
+  "county": "Grand",
+  "observers": "Dennis Stafford, David Jasper, Robert Haines",
+  "comments": "",
+  "citations": "Chase, C.  1977-1980 pt2 Report of the CBRC.  CFO Journal 15, 54-59.",
+  "documentations": [
+    {
+      "doc_id": "13779",
+      "reporter": "Dennis Stafford, David Jasper, Robert Haines",
+      "date": "12/2/1977",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13779"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:37.235717"
+}

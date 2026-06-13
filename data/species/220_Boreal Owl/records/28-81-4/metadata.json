@@ -1,0 +1,19 @@
+{
+  "acc_no": "28-81-4",
+  "year": "1980",
+  "location": "Cameron Pass and upper Poudre Canyon",
+  "county": "Larimer",
+  "observers": "Ron Ryder",
+  "comments": "",
+  "citations": "Chase, C.  198-1981 Report of the CBRC.  CFO Journal 16(3), 46-52.",
+  "documentations": [
+    {
+      "doc_id": "13782",
+      "reporter": "Ron Ryder",
+      "date": "12/29/1980",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13782"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:41.253390"
+}

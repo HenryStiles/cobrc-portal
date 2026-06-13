@@ -1,0 +1,26 @@
+{
+  "acc_no": "2012-034",
+  "year": "2012",
+  "location": "near Prospect Valley",
+  "county": "Weld",
+  "observers": "Steve Mlodinow, Bill Schmoker",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1956",
+      "reporter": "Steven Mlodinow",
+      "date": "3/25/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1956"
+    },
+    {
+      "doc_id": "1982",
+      "reporter": "Bill Schmoker",
+      "date": "3/25/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1982"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:53.491672"
+}

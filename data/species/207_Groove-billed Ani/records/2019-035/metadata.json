@@ -1,0 +1,40 @@
+{
+  "acc_no": "2019-035",
+  "year": "2019",
+  "location": "Sand Creek",
+  "county": "Denver",
+  "observers": "Rachel Hopper, Alyssa Herrin, Tony Leukering, Brandon Percival",
+  "comments": "",
+  "citations": "The 82nd Report of the CBRC, 2022. Colorado Birds, 56(4), 283-294.",
+  "documentations": [
+    {
+      "doc_id": "11836",
+      "reporter": "Rachel Hopper",
+      "date": "9/8/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11836"
+    },
+    {
+      "doc_id": "11831",
+      "reporter": "Alyssa Herrin",
+      "date": "9/8/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11831"
+    },
+    {
+      "doc_id": "11832",
+      "reporter": "Tony Leukering",
+      "date": "9/8/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11832"
+    },
+    {
+      "doc_id": "11833",
+      "reporter": "Brandon K. Percival",
+      "date": "9/10/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11833"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:17.104390"
+}

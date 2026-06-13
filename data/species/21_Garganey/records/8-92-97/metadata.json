@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-92-97",
+  "year": "1992",
+  "location": "Sombrero Marsh",
+  "county": "Boulder",
+  "observers": "Peter Gent, Steve Stachowiak",
+  "comments": "",
+  "citations": "Prather, B.  1992 Report of the CBRC. CFO Jornal 28(4), 157-168.",
+  "documentations": [
+    {
+      "doc_id": "13125",
+      "reporter": "Peter Gent, Steve Stachowiak",
+      "date": "3/28/1992",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13125"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:27.133789"
+}

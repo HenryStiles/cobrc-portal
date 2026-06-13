@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-016",
+  "year": "2015",
+  "location": "Nucla",
+  "county": "Montrose",
+  "observers": "Kathy Mihm Dunning",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6402",
+      "reporter": "Kathy Mihm Dunning",
+      "date": "7/25/2015",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6402"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:41.277963"
+}

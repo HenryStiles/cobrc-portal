@@ -1,0 +1,19 @@
+{
+  "acc_no": "28-90-30",
+  "year": "1990",
+  "location": "Paradox Valley",
+  "county": "Montrose",
+  "observers": "Heather Musclow",
+  "comments": "",
+  "citations": "Nelson, D.  1990 Report of the CBRC. CFO Journal 26(3), 91-97.",
+  "documentations": [
+    {
+      "doc_id": "13246",
+      "reporter": "Heather Musclow",
+      "date": "5/25/1990",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13246"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:11.974557"
+}

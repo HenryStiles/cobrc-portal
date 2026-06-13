@@ -1,0 +1,26 @@
+{
+  "acc_no": "2010-085",
+  "year": "2010",
+  "location": "Crow Valley Campground",
+  "county": "Weld",
+  "observers": "Nicholas Komar, C W",
+  "comments": "Age: adult;",
+  "citations": "Semo, L. and Faulkner, D. The 56th Report of the CBRC. Colorado Birds 44(4), 240-254.",
+  "documentations": [
+    {
+      "doc_id": "1456",
+      "reporter": "Nicholas Komar",
+      "date": "6/15/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1456"
+    },
+    {
+      "doc_id": "1577",
+      "reporter": "C W",
+      "date": "6/15/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1577"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:51.647177"
+}

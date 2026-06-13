@@ -1,0 +1,19 @@
+{
+  "acc_no": "2003-045",
+  "year": "2003",
+  "location": "Neenoshe Reservoir",
+  "county": "Kiowa",
+  "observers": "Ric Olson, Rachel Hopper",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  The 39th Report of the CBRC. Colorado Birds 39(3), 131-141.",
+  "documentations": [
+    {
+      "doc_id": "14493",
+      "reporter": "Ric Olson, Rachel Hopper",
+      "date": "5/3/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14493"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:09.591424"
+}

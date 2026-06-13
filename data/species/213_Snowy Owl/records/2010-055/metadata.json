@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-055",
+  "year": "1967",
+  "location": "Red Lion State Wildlife Area",
+  "county": "Sedgwick",
+  "observers": "CSU",
+  "comments": "Age: adult; Sex: male;",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1156",
+      "reporter": "Andrew Spencer",
+      "date": "2/9/1967",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1156"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:31.770617"
+}

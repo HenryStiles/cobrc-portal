@@ -1,0 +1,19 @@
+{
+  "acc_no": "2017-070",
+  "year": "2017",
+  "location": "Fort Morgan",
+  "county": "Morgan",
+  "observers": "David Dowell",
+  "comments": "",
+  "citations": "Accepted by the Chairman and not published.",
+  "documentations": [
+    {
+      "doc_id": "10653",
+      "reporter": "David Dowell",
+      "date": "11/25/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=10653"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:00.198562"
+}

@@ -1,0 +1,26 @@
+{
+  "acc_no": "2005-064",
+  "year": "2005",
+  "location": "South Republican SWA",
+  "county": "Yuma",
+  "observers": "Nathan Pieplow, Larry Semo",
+  "comments": "",
+  "citations": "Semo, L.  The 44th Report of the CBRC. Colorado Birds 41(4), 241-258.",
+  "documentations": [
+    {
+      "doc_id": "275",
+      "reporter": "Nathan Pieplow",
+      "date": "6/6/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=275"
+    },
+    {
+      "doc_id": "178",
+      "reporter": "Larry Semo",
+      "date": "7/9/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=178"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:50.568126"
+}

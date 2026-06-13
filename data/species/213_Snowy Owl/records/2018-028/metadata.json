@@ -1,0 +1,19 @@
+{
+  "acc_no": "2018-028",
+  "year": "2018",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Bill Maynard",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176",
+  "documentations": [
+    {
+      "doc_id": "10641",
+      "reporter": "Bill Maynard",
+      "date": "1/8/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=10641"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:03.567159"
+}

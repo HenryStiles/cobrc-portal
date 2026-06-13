@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-070",
+  "year": "2012",
+  "location": "26.5 Rd S of Hwy 50",
+  "county": "Bent",
+  "observers": "Jane Stulp",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2091",
+      "reporter": "Jane Stulp",
+      "date": "2/4/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2091"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:50.122690"
+}

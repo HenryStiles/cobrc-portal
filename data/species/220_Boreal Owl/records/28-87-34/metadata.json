@@ -1,0 +1,19 @@
+{
+  "acc_no": "28-87-34",
+  "year": "1987",
+  "location": "Breckenridge",
+  "county": "Summit",
+  "observers": "Mark Masteller",
+  "comments": "",
+  "citations": "Bunn, R.  1987 pt1 Report of the CBRC.  CFO Journal, 23(1), 13-18.",
+  "documentations": [
+    {
+      "doc_id": "13790",
+      "reporter": "Mark Masteller",
+      "date": "2/20/1987",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13790"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:53.328368"
+}

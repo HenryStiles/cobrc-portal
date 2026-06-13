@@ -1,0 +1,19 @@
+{
+  "acc_no": "2021-013",
+  "year": "2021",
+  "location": "I-76 E of Prewitt Res",
+  "county": "Washington",
+  "observers": "Phil Lyon",
+  "comments": "",
+  "citations": "The 83rd Report of the Colorado Bird Records Committee,  Peter R. Gent, Colorado Birds, 57(2), 61-70, 2023.",
+  "documentations": [
+    {
+      "doc_id": "12031",
+      "reporter": "Phil Lyon",
+      "date": "12/7/2021",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12031"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:07.305808"
+}

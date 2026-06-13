@@ -1,0 +1,33 @@
+{
+  "acc_no": "2010-005",
+  "year": "2010",
+  "location": "Peyton",
+  "county": "El Paso",
+  "observers": "Brandon Percival, Bill Schmoker, Cole Wild, Snook Cippoletti",
+  "comments": "Age: adult; Sex: male;",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1369",
+      "reporter": "Brandon K Percival",
+      "date": "1/11/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1369"
+    },
+    {
+      "doc_id": "1373",
+      "reporter": "Bill Schmoker",
+      "date": "1/11/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1373"
+    },
+    {
+      "doc_id": "1580",
+      "reporter": "C W",
+      "date": "1/11/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1580"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:48.856452"
+}

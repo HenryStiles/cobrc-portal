@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-078",
+  "year": "2015",
+  "location": "La Veta",
+  "county": "Huerfano",
+  "observers": "Polly Neldner",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6280",
+      "reporter": "Polly Neldner",
+      "date": "6/10/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6280"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:38.108749"
+}

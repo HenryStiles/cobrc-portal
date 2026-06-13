@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-079",
+  "year": "2010",
+  "location": "Mitchek Ranch near Flagler",
+  "county": "Cheyenne",
+  "observers": "Glenn Walbek",
+  "comments": "Age: adult; Plumage: female; Sex: f;",
+  "citations": "Semo, L. and Faulkner, D. The 57th Report of the CBRC. Colorado Birds 45(1), 30-41.",
+  "documentations": [
+    {
+      "doc_id": "1467",
+      "reporter": "Glenn Walbek",
+      "date": "5/6/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1467"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:35.379814"
+}

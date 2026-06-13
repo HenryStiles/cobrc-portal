@@ -1,0 +1,19 @@
+{
+  "acc_no": "28-76-90",
+  "year": "1976",
+  "location": "Silverthorne",
+  "county": "Summit",
+  "observers": "Urling and Hugh Kingery",
+  "comments": "",
+  "citations": "Andrews, R., CFO Records Committee report 1976-1977. Western Birds 10, 57-70, 1979.",
+  "documentations": [
+    {
+      "doc_id": "13243",
+      "reporter": "Urling and Hugh Kingery",
+      "date": "9/5/1976",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13243"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:08.944596"
+}

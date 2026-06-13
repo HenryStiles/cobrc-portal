@@ -1,0 +1,26 @@
+{
+  "acc_no": "2002-006",
+  "year": "2002",
+  "location": "Greeley",
+  "county": "Weld",
+  "observers": "Rachel Kolokiff, Roger Linfield, Ann Molison, Debra Sparn, Joan Glabach, Donna Emmons, Tamie Bulow, Paula Hansley",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  The 37th Report of the CBRC. Colorado Birds 38(2), 73-88.",
+  "documentations": [
+    {
+      "doc_id": "14630",
+      "reporter": "Rachel Kolokoff, Ann Molison, Debra Sparn, Joan Glabach, Donna Emmons, Tamie Bulow, Paula Hansley",
+      "date": "2/16/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14630"
+    },
+    {
+      "doc_id": "40",
+      "reporter": "Roger Linfield",
+      "date": "2/17/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=40"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:43.872448"
+}

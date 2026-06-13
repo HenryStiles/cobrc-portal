@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-047",
+  "year": "1934",
+  "location": "Denver",
+  "county": "Denver",
+  "observers": "Kenny Maehler",
+  "comments": "Age: adult; Sex: f;",
+  "citations": "Semo, L. and Faulkner, D. The 57th Report of the CBRC. Colorado Birds 45(1), 30-41.",
+  "documentations": [
+    {
+      "doc_id": "1155",
+      "reporter": "Andrew Spencer",
+      "date": "10/17/1934",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1155"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:04.971990"
+}

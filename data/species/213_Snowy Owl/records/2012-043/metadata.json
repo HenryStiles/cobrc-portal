@@ -1,0 +1,26 @@
+{
+  "acc_no": "2012-043",
+  "year": "2012",
+  "location": "12 Rd N of LL Rd",
+  "county": "Prowers",
+  "observers": "Tony Leukering, Jane Stulp",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2005",
+      "reporter": "Jane Stulp",
+      "date": "1/28/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2005"
+    },
+    {
+      "doc_id": "1979",
+      "reporter": "Tony Leukering",
+      "date": "1/29/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1979"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:18.027171"
+}

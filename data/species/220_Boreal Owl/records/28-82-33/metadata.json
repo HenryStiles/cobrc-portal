@@ -1,0 +1,19 @@
+{
+  "acc_no": "28-82-33",
+  "year": "1982",
+  "location": "Cameron Pass and upper Poudre Canyon",
+  "county": "Larimer",
+  "observers": "David Palmer, Tom Nicholls",
+  "comments": "",
+  "citations": "Gent, P.  1982 Report of the CBRC.  CFO Journal, 18(2), 51-57.",
+  "documentations": [
+    {
+      "doc_id": "13784",
+      "reporter": "David Palmer, Tom Nicholls",
+      "date": "6/5/1982",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13784"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:44.545300"
+}

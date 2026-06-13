@@ -1,0 +1,19 @@
+{
+  "acc_no": "28-74-3",
+  "year": "1973",
+  "location": "Columbine West",
+  "county": "Jefferson",
+  "observers": "Carolyn Spengler",
+  "comments": "",
+  "citations": "Reddall, J. 1975. Reports from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "14612",
+      "reporter": "Carolyn Spengler",
+      "date": "12/29/1973",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14612"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:34.126132"
+}

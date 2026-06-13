@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-086",
+  "year": "2008",
+  "location": "Nucla",
+  "county": "Montrose",
+  "observers": "Andrew Spencer",
+  "comments": "Age: adult; Plumage: female; Sex: f;",
+  "citations": "Semo, L.  The 51st Report of the CBRC. Colorado Birds 43(3), 193-204.",
+  "documentations": [
+    {
+      "doc_id": "1089",
+      "reporter": "Andrew Spencer",
+      "date": "6/8/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1089"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:33.974518"
+}

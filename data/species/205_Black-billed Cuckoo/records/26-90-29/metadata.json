@@ -1,0 +1,19 @@
+{
+  "acc_no": "26-90-29",
+  "year": "1990",
+  "location": "Jumbo Reservoir State Wildlife Area",
+  "county": "Sedgwick",
+  "observers": "Norm Erthal",
+  "comments": "",
+  "citations": "Nelson, D.  1990 Report of the CBRC. CFO Journal 26(3), 91-97.",
+  "documentations": [
+    {
+      "doc_id": "13796",
+      "reporter": "Norm Erthal",
+      "date": "8/7/1990",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13796"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:26.553614"
+}

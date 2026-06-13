@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-014",
+  "year": "2012",
+  "location": "Pawnee National Grasslands (western section)",
+  "county": "Weld",
+  "observers": "Thomas Hall",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1929",
+      "reporter": "Thomas Hall",
+      "date": "2/14/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1929"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:51.064998"
+}

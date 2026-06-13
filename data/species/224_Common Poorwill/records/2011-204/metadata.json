@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-204",
+  "year": "2011",
+  "location": "Backyard 616 South Shields St. Fort Collins, CO",
+  "county": "Larimer",
+  "observers": "Dan Loiz",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1638",
+      "reporter": "Dan Loiz",
+      "date": "4/24/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1638"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:05.399195"
+}

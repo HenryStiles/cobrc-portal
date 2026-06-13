@@ -1,0 +1,19 @@
+{
+  "acc_no": "28-79-15",
+  "year": "1979",
+  "location": "Mesa Verde National Park",
+  "county": "Montezuma",
+  "observers": "Bruce Webb",
+  "comments": "",
+  "citations": "Chase, C.  1977-1980 Pt.2 Report of the CBRC. CFO Journal 15(2), 54-59.",
+  "documentations": [
+    {
+      "doc_id": "13244",
+      "reporter": "Bruce Webb",
+      "date": "5/12/1979",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13244"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:09.990460"
+}

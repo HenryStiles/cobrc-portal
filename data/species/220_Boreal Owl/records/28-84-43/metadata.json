@@ -1,0 +1,33 @@
+{
+  "acc_no": "28-84-43",
+  "year": "1984",
+  "location": "Slumgullion Pass",
+  "county": "Hinsdale",
+  "observers": "John Rawinski",
+  "comments": "First photographed birds in the San Juan mountains.",
+  "citations": "Gent, P.  The 1984 Report of the CBRC.  CFO Journal, 19, 82-87.",
+  "documentations": [
+    {
+      "doc_id": "13774",
+      "reporter": "John Rawinski",
+      "date": "3/16/1984",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13774"
+    },
+    {
+      "doc_id": "13776",
+      "reporter": "John Rawinski",
+      "date": "3/16/1984",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13776"
+    },
+    {
+      "doc_id": "13775",
+      "reporter": "John Rawinski",
+      "date": "4/7/1984",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13775"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:45.957500"
+}

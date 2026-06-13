@@ -1,0 +1,33 @@
+{
+  "acc_no": "2014-129",
+  "year": "2014",
+  "location": "Nucla",
+  "county": "Montrose",
+  "observers": "Kathy Mihm Dunning, Mike Henwood, michael kiessig",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "4005",
+      "reporter": "Kathy Mihm Dunning",
+      "date": "6/8/2014",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4005"
+    },
+    {
+      "doc_id": "5113",
+      "reporter": "Mike Henwood",
+      "date": "6/11/2014",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5113"
+    },
+    {
+      "doc_id": "5134",
+      "reporter": "michael kiessig",
+      "date": "6/11/2014",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5134"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:40.152462"
+}

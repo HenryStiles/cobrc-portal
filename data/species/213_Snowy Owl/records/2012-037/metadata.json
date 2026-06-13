@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-037",
+  "year": "2012",
+  "location": "I-70 W of Bovina",
+  "county": "Lincoln",
+  "observers": "Robert Martinez",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1962",
+      "reporter": "Robert Martinez",
+      "date": "3/26/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1962"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:55.208252"
+}

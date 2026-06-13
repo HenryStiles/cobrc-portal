@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-90-11",
+  "year": "1990",
+  "location": "Jackson Reservoir",
+  "county": "Morgan",
+  "observers": "Peter Gent, Mark Janos",
+  "comments": "",
+  "citations": "Nelson, D.  1990 Report of the CBRC. CFO Journal 26(3), 91-97.",
+  "documentations": [
+    {
+      "doc_id": "13124",
+      "reporter": "Peter Gent, Mark Janos",
+      "date": "4/26/1990",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13124"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:26.263390"
+}

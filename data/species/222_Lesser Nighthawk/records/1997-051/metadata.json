@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-051",
+  "year": "1995",
+  "location": "Poudre River Trail (Ft. Collins section)",
+  "county": "Larimer",
+  "observers": "Dave Leatherman",
+  "comments": "",
+  "citations": "Janos, M.  1997 Report of the CBRC.  J. of the CFO 33(4), 241-252.",
+  "documentations": [
+    {
+      "doc_id": "14485",
+      "reporter": "Dave Leatherman",
+      "date": "9/10/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14485"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:01.621748"
+}

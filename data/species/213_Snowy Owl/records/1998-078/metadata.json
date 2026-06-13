@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-078",
+  "year": "1998",
+  "location": "Wiley Pond",
+  "county": "Prowers",
+  "observers": "Janeal Thompson, Ken Giesen, Mark Janos",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "14627",
+      "reporter": "Janeal Thompson, Ken Giesen, Mark Janos",
+      "date": "2/23/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14627"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:40.284521"
+}

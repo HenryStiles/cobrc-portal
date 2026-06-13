@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-209",
+  "year": "2013",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "John Breitsch",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2575",
+      "reporter": "John Breitsch",
+      "date": "9/14/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2575"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:35.505601"
+}

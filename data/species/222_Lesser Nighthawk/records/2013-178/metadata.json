@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-178",
+  "year": "2013",
+  "location": "Blue Lake (Adobe Creek Reservoir)",
+  "county": "Kiowa",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2523",
+      "reporter": "Steven Mlodinow",
+      "date": "6/22/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2523"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:38.828291"
+}

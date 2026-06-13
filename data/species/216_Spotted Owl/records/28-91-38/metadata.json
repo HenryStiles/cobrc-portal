@@ -1,0 +1,19 @@
+{
+  "acc_no": "28-91-38",
+  "year": "1991",
+  "location": "Mesa Verde National Park",
+  "county": "Montezuma",
+  "observers": "Dan Bridges",
+  "comments": "",
+  "citations": "Nelson, D.  1991 Report of the CBRC. CFO Journal 27(2), 49-56.",
+  "documentations": [
+    {
+      "doc_id": "13247",
+      "reporter": "Dan Bridges",
+      "date": "4/5/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13247"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:12.962566"
+}

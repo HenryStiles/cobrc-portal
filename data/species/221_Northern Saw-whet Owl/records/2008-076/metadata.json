@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-076",
+  "year": "2008",
+  "location": "Ball Reservoir",
+  "county": "Elbert",
+  "observers": "Lisa Edwards",
+  "comments": "Age: juvenile; Sex: ?;",
+  "citations": "Semo, L.  The 51st Report of the CBRC. Colorado Birds 43(3), 193-204.",
+  "documentations": [
+    {
+      "doc_id": "1034",
+      "reporter": "Lisa Edwards",
+      "date": "5/25/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1034"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:14.502518"
+}

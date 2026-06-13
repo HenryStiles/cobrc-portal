@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-202",
+  "year": "2014",
+  "location": "Colorado Springs",
+  "county": "El Paso",
+  "observers": "Joseph Craig",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "5111",
+      "reporter": "Joseph Craig",
+      "date": "9/6/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5111"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:06.723278"
+}

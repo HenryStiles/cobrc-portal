@@ -1,0 +1,26 @@
+{
+  "acc_no": "2019-036",
+  "year": "2019",
+  "location": "Van's Grove",
+  "county": "Bent",
+  "observers": "Brandon K. Percival, Tony Leukering",
+  "comments": "",
+  "citations": "The 82nd Report of the CBRC, 2022. Colorado Birds, 56(4), 283-294.",
+  "documentations": [
+    {
+      "doc_id": "11803",
+      "reporter": "Brandon K. Percival",
+      "date": "5/3/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11803"
+    },
+    {
+      "doc_id": "11800",
+      "reporter": "Tony Leukering",
+      "date": "5/4/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11800"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:00.693267"
+}

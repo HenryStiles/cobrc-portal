@@ -1,0 +1,19 @@
+{
+  "acc_no": "2003-117",
+  "year": "2003",
+  "location": "Chico Basin Ranch",
+  "county": "Pueblo",
+  "observers": "Bill Schmoker",
+  "comments": "Age: juv; Plumage: juvenal;",
+  "citations": "Leukering, T. and Semo, L.  The 39th Report of the CBRC. Colorado Birds 39(3), 131-141.",
+  "documentations": [
+    {
+      "doc_id": "3",
+      "reporter": "Bill Schmoker",
+      "date": "8/30/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:46.341884"
+}

@@ -1,0 +1,26 @@
+{
+  "acc_no": "2024-043",
+  "year": "2024",
+  "location": "",
+  "county": "Jefferson",
+  "observers": "Lorraine Lanning, Josh Bruening",
+  "comments": "",
+  "citations": "Gent, P., The 88th Report of the CBRC. Colorado Birds 59(3), 192-197.",
+  "documentations": [
+    {
+      "doc_id": "14272",
+      "reporter": "Lorraine Lanning",
+      "date": "10/10/2024",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14272"
+    },
+    {
+      "doc_id": "14273",
+      "reporter": "Josh Bruening",
+      "date": "10/10/2024",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14273"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:22.504666"
+}

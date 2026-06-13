@@ -1,0 +1,19 @@
+{
+  "acc_no": "28-87-33",
+  "year": "1987",
+  "location": "Mount Evans State Wildlife Area",
+  "county": "Clear Creek",
+  "observers": "Larry Sanders",
+  "comments": "",
+  "citations": "Bunn, R.  1987 pt1 Report of the CBRC.  CFO Journal, 23(1), 13-18.",
+  "documentations": [
+    {
+      "doc_id": "13789",
+      "reporter": "Larry Sanders",
+      "date": "4/25/1987",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13789"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:54.375375"
+}

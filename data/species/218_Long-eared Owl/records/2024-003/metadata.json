@@ -1,0 +1,19 @@
+{
+  "acc_no": "2024-003",
+  "year": "2024",
+  "location": "Pelican Hills",
+  "county": "Weld",
+  "observers": "David Schutt",
+  "comments": "",
+  "citations": "Gent, P., 2025. 87th Report of the CBRC.  Colorado Birds, 59(1), 7-15.",
+  "documentations": [
+    {
+      "doc_id": "13822",
+      "reporter": "David Schutt",
+      "date": "3/31/2024",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13822"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:51.296398"
+}

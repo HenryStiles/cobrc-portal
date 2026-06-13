@@ -1,0 +1,19 @@
+{
+  "acc_no": "2023-036",
+  "year": "2023",
+  "location": "West of Hwy 550",
+  "county": "La Plata",
+  "observers": "Kristi Streiffert",
+  "comments": "",
+  "citations": "Gent, P.  The 86th Report of the CBRC.  Colorado Birds 58(3), 125-132.",
+  "documentations": [
+    {
+      "doc_id": "13453",
+      "reporter": "Kristi Streiffert",
+      "date": "9/23/2023",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13453"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:01.649003"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-035",
+  "year": "2007",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Brandon Percival",
+  "comments": "Age: adult; Sex: ?;",
+  "citations": "Semo, L.  The 50th Report of the CBRC. Colorado Birds 43(2), 123-135.",
+  "documentations": [
+    {
+      "doc_id": "751",
+      "reporter": "Brandon K Percival",
+      "date": "5/12/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=751"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:13.365342"
+}

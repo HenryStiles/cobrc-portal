@@ -1,0 +1,26 @@
+{
+  "acc_no": "2006-108",
+  "year": "2006",
+  "location": "Dove Creek",
+  "county": "Dolores",
+  "observers": "Andrew Spencer, Cole Wild",
+  "comments": "Age: adult; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "466",
+      "reporter": "Andrew Spencer",
+      "date": "7/14/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=466"
+    },
+    {
+      "doc_id": "493",
+      "reporter": "C W",
+      "date": "7/14/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=493"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:10.626707"
+}

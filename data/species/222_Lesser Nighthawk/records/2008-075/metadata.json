@@ -1,0 +1,40 @@
+{
+  "acc_no": "2008-075",
+  "year": "2008",
+  "location": "Chico Basin Ranch",
+  "county": "Pueblo",
+  "observers": "Bill Maynard, Brian Gibbons, Brandon Percival, Glenn Walbek",
+  "comments": "Age: adult; Plumage: female; Sex: f;",
+  "citations": "Semo, L.  The 51st Report of the CBRC. Colorado Birds 43(3), 193-204.",
+  "documentations": [
+    {
+      "doc_id": "985",
+      "reporter": "Bill Maynard",
+      "date": "5/25/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=985"
+    },
+    {
+      "doc_id": "995",
+      "reporter": "Brian Gibbons",
+      "date": "5/25/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=995"
+    },
+    {
+      "doc_id": "996",
+      "reporter": "Bill Maynard",
+      "date": "5/28/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=996"
+    },
+    {
+      "doc_id": "992",
+      "reporter": "Brandon K Percival",
+      "date": "5/28/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=992"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:29.619325"
+}

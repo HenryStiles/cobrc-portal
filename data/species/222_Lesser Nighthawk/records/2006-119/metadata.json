@@ -1,0 +1,26 @@
+{
+  "acc_no": "2006-119",
+  "year": "2006",
+  "location": "Nucla",
+  "county": "Montrose",
+  "observers": "Andrew Spencer, Nathan Pieplow",
+  "comments": "Age: 3 juvs, 1 female; Plumage: juv & female; Sex: 3 juvs, 1 f;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "536",
+      "reporter": "Andrew Spencer",
+      "date": "9/2/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=536"
+    },
+    {
+      "doc_id": "539",
+      "reporter": "Nathan Pieplow",
+      "date": "9/2/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=539"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:12.035892"
+}

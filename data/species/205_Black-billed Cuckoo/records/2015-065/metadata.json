@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-065",
+  "year": "2015",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Brandon K. Percival",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6275",
+      "reporter": "Brandon K. Percival",
+      "date": "5/25/2015",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6275"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:37.561166"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "28-74-1",
+  "year": "1974",
+  "location": "SW of Denver",
+  "county": "Jefferson",
+  "observers": "Bertha Durfee",
+  "comments": "",
+  "citations": "Reddall, J. 1975. Reports from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "14611",
+      "reporter": "Bertha Durfee",
+      "date": "1/6/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14611"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:35.483312"
+}

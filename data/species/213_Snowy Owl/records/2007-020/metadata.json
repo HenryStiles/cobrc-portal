@@ -1,0 +1,26 @@
+{
+  "acc_no": "2007-020",
+  "year": "2007",
+  "location": "Blue Lake (Adobe Creek Reservoir)",
+  "county": "Bent & Kiowa",
+  "observers": "Bill Maynard, Brandon Percival",
+  "comments": "Age: juv.; Plumage: juvenal; Sex: m?;",
+  "citations": "Semo, L.  The 50th Report of the CBRC. Colorado Birds 43(2), 123-135.",
+  "documentations": [
+    {
+      "doc_id": "683",
+      "reporter": "Brandon K Percival",
+      "date": "4/7/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=683"
+    },
+    {
+      "doc_id": "694",
+      "reporter": "Bill Maynard",
+      "date": "4/7/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=694"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:45.677094"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "28-74-22",
+  "year": "1973",
+  "location": "Steamboat Springs",
+  "county": "Routt",
+  "observers": "Jerry Craig, Ron Ryder",
+  "comments": "Specimen found dead.",
+  "citations": "Reddall, J.  1975a Report of the CBRC.  CFO Journal, 23, 17-34.",
+  "documentations": [
+    {
+      "doc_id": "13777",
+      "reporter": "Jerry Craig, Ron Ryder",
+      "date": "6/15/1973",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13777"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:34.749391"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "28-82-54",
+  "year": "1982",
+  "location": "Gregory Canyon",
+  "county": "Boulder",
+  "observers": "Lee Johnson",
+  "comments": "",
+  "citations": "Chase, C.  1981 Report of the CBRC. CFO Journal 17(4), 75-82.",
+  "documentations": [
+    {
+      "doc_id": "13245",
+      "reporter": "Lee Johnson",
+      "date": "11/7/1982",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13245"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:11.003538"
+}

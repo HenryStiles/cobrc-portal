@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-033",
+  "year": "2012",
+  "location": "Red Lion State Wildlife Area",
+  "county": "Logan",
+  "observers": "Steve Mlodinow",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1957",
+      "reporter": "Steven Mlodinow",
+      "date": "3/25/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1957"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:51.606672"
+}

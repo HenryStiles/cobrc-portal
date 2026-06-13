@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-221",
+  "year": "2012",
+  "location": "Trinity Methodist Church",
+  "county": "Denver",
+  "observers": "Lynn Wilcockson",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "3846",
+      "reporter": "Lynn Wilcockson",
+      "date": "4/26/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3846"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:05.955113"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "29-95-54",
+  "year": "1995",
+  "location": "Poudre River Trail (Ft. Collins section)",
+  "county": "Larimer",
+  "observers": "Joe Mammoser",
+  "comments": "",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "14483",
+      "reporter": "Joe Mammoser",
+      "date": "6/1/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14483"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:58.926570"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2003-158",
+  "year": "2003",
+  "location": "Leadville",
+  "county": "Lake",
+  "observers": "Mike Schultz",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "13681",
+      "reporter": "Mike Schultz",
+      "date": "3/4/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13681"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:57.477949"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "1981-102",
+  "year": "1981",
+  "location": "Cameron Pass and upper Poudre Canyon",
+  "county": "Larimer",
+  "observers": "David Palmer, Ron Ryder",
+  "comments": "Found female on nest with 4 eggs.",
+  "citations": "Palmer, D. and Ryder, R., The first documented breeding of the Boreal Owl in Colorado. Condor, 86, 215-217, 1984.",
+  "documentations": [
+    {
+      "doc_id": "13250",
+      "reporter": "David Palmer, Ron Ryder",
+      "date": "4/17/1981",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13250"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:42.490822"
+}

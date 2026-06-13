@@ -1,0 +1,26 @@
+{
+  "acc_no": "2014-032",
+  "year": "2014",
+  "location": "W of Punkin Center",
+  "county": "Lincoln",
+  "observers": "Joey Kellner, Kathy Mihm Dunning",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2813",
+      "reporter": "Joey Kellner",
+      "date": "1/26/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2813"
+    },
+    {
+      "doc_id": "2810",
+      "reporter": "Kathy Mihm Dunning",
+      "date": "1/26/2014",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2810"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:57.214878"
+}

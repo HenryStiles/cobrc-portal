@@ -1,0 +1,19 @@
+{
+  "acc_no": "2025-032",
+  "year": "2025",
+  "location": "Tamarack Ranch SWA",
+  "county": "Logan",
+  "observers": "Tim Mitzen",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "15972",
+      "reporter": "Tim Mitzen",
+      "date": "7/6/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15972"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:14.715984"
+}

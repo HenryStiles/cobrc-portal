@@ -1,0 +1,19 @@
+{
+  "acc_no": "28-74-176",
+  "year": "1974",
+  "location": "Virginia Dale",
+  "county": "Larimer",
+  "observers": "William Shuster",
+  "comments": "",
+  "citations": "Reddall, J. 1975. Reports from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "14613",
+      "reporter": "William Shuster",
+      "date": "11/8/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14613"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:37.459901"
+}

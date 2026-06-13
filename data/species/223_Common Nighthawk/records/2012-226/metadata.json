@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-226",
+  "year": "2012",
+  "location": "6th St and Union Ave.",
+  "county": "Boulder",
+  "observers": "Lark Latch",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1999",
+      "reporter": "Lark Latch",
+      "date": "5/24/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1999"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:06.179143"
+}
