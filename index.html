@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colorado Bird Records Committee</title>
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Explore historical documentation, photos, and PDF records of rare bird sightings compiled by the Colorado Field Ornithologists (CFO).">
+    <meta name="author" content="Colorado Field Ornithologists">
+    <!-- FontAwesome for Premium Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <!-- App Container -->
+    <div class="app-container">
+        <!-- Header -->
+        <header class="app-header" id="app_header">
+            <div class="header-logo">
+                <img src="images/logo_icon_clipped.png" alt="CBRC Logo" class="logo-image">
+                <div class="logo-text">
+                    <h1>Colorado Bird Records Committee (clone)</h1>
+                    <p>Colorado Field Ornithologists</p>
+                </div>
+            </div>
+            <div class="header-stats" id="header_stats">
+                <div class="stat-badge">
+                    <span class="stat-label">Species</span>
+                    <span class="stat-value" id="stat_species_count">388</span>
+                </div>
+                <div class="stat-badge">
+                    <span class="stat-label">Sighting Records</span>
+                    <span class="stat-value" id="stat_records_count">4,794</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Workspace -->
+        <main class="app-main">
+            <!-- Sidebar: Search, Filters & Species List -->
+            <section class="sidebar-section">
+                <!-- Search & Filters Container -->
+                <div class="filter-panel card">
+                    <div class="input-wrapper">
+                        <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                        <input type="text" id="txt_search" placeholder="Search species, observers..." autocomplete="off">
+                    </div>
+                    <div class="filter-row">
+                        <div class="filter-group">
+                            <label for="sel_county">County</label>
+                            <select id="sel_county">
+                                <option value="all">All Counties</option>
+                            </select>
+                        </div>
+                        <div class="filter-group">
+                            <label for="sel_year">Year</label>
+                            <select id="sel_year">
+                                <option value="all">All Years</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Species Scroll Area -->
+                <div class="species-list-container card">
+                    <h2 class="section-title">Bird Species</h2>
+                    <ul class="species-list" id="lst_species">
+                        <!-- Filled dynamically by JavaScript -->
+                        <div class="loading-spinner">
+                            <i class="fa-solid fa-circle-notch fa-spin"></i> Loading summaries...
+                        </div>
+                    </ul>
+                </div>
+            </section>
+
+            <!-- Content Panel: Sighting Grid & Selection -->
+            <section class="content-section">
+                <!-- Species Welcome/Placeholder -->
+                <div class="placeholder-card card" id="div_placeholder">
+                    <i class="fa-solid fa-binoculars placeholder-icon"></i>
+                    <h2>Select a Species to Begin</h2>
+                    <p>Select a bird species from the sidebar to browse historical sightings, comments, and full documentations.</p>
+                </div>
+
+                <!-- Sighting Explorer (Hidden by default) -->
+                <div class="sighting-explorer" id="div_explorer" style="display: none;">
+                    <!-- Species Sighting Header -->
+                    <div class="species-header-card card">
+                        <div class="header-details">
+                            <h2 id="lbl_species_name">Black-bellied Whistling-Duck</h2>
+                            <p class="species-meta" id="lbl_species_meta">6 Records</p>
+                        </div>
+                    </div>
+
+                    <!-- Sightings Grid -->
+                    <div class="sightings-grid" id="grid_sightings">
+                        <!-- Filled dynamically by JavaScript -->
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- Sighting Details Modal Overlay -->
+    <div class="modal-overlay" id="modal_details">
+        <div class="modal-card card">
+            <!-- Modal Header -->
+            <div class="modal-header">
+                <div>
+                    <h2 id="lbl_modal_title">Sighting Record Details</h2>
+                    <p id="lbl_modal_subtitle">Accession Number: 8-91-14</p>
+                </div>
+                <button class="btn-close" id="btn_close_modal" aria-label="Close modal">
+                    <i class="fa-solid fa-xmark"></i>
+                </button>
+            </div>
+
+            <!-- Modal Content -->
+            <div class="modal-body">
+                <!-- Main Sighting Info -->
+                <div class="sighting-info-section">
+                    <div class="info-grid">
+                        <div class="info-item">
+                            <span class="info-label"><i class="fa-solid fa-calendar-day"></i> Year Sighted</span>
+                            <span class="info-value" id="lbl_modal_year">-</span>
+                        </div>
+                        <div class="info-item">
+                            <span class="info-label"><i class="fa-solid fa-map-location-dot"></i> Location</span>
+                            <span class="info-value" id="lbl_modal_location">-</span>
+                        </div>
+                        <div class="info-item">
+                            <span class="info-label"><i class="fa-solid fa-tree"></i> County</span>
+                            <span class="info-value" id="lbl_modal_county">-</span>
+                        </div>
+                        <div class="info-item">
+                            <span class="info-label"><i class="fa-solid fa-users"></i> Observers</span>
+                            <span class="info-value" id="lbl_modal_observers">-</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- dvMore section: Comments & Citations -->
+                <div class="comments-section" id="div_comments_section" style="display: none;">
+                    <div class="comments-card">
+                        <h3>CFO Committee Comments</h3>
+                        <p id="lbl_modal_comments">-</p>
+                    </div>
+                    <div class="comments-card">
+                        <h3>Publication Citations</h3>
+                        <p id="lbl_modal_citations">-</p>
+                    </div>
+                </div>
+
+                <!-- Documentation Tabs / Accordion -->
+                <div class="docs-section">
+                    <h3 class="section-title">Submitted Documentations</h3>
+                    
+                    <!-- Tabs Headers -->
+                    <div class="docs-tabs" id="tab_headers">
+                        <!-- Dynamically filled -->
+                    </div>
+                    
+                    <!-- Tabs Content -->
+                    <div class="docs-contents" id="tab_contents">
+                        <!-- Dynamically filled -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Image Lightbox Overlay -->
+    <div class="lightbox-overlay" id="lightbox_overlay">
+        <button class="btn-close-lightbox" id="btn_close_lightbox">
+            <i class="fa-solid fa-xmark"></i>
+        </button>
+        <img id="lightbox_img" src="" alt="Enlarged photo">
+        <p id="lightbox_caption" class="lightbox-caption"></p>
+    </div>
+
+    <!-- Scripts -->
+    <script src="index.js"></script>
+</body>
+</html>

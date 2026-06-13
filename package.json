@@ -1,0 +1,17 @@
+{
+  "name": "cobrc-portal",
+  "version": "1.0.0",
+  "description": "A modern static records explorer for Colorado rare bird sightings.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx http-server -p 8080"
+  },
+  "keywords": [
+    "cfo",
+    "cobrc",
+    "birding",
+    "sightings"
+  ],
+  "author": "Colorado Field Ornithologists",
+  "license": "ISC"
+}
