@@ -1,0 +1,33 @@
+{
+  "acc_no": "2018-045",
+  "year": "2018",
+  "location": "hedgerow near Riverside Cemetery, Lamar",
+  "county": "Prowers",
+  "observers": "David Leatherman, Brandon K. Percival, Tony Leukering",
+  "comments": "",
+  "citations": "Colorado Birds 56(3), 213-222, 2022",
+  "documentations": [
+    {
+      "doc_id": "11679",
+      "reporter": "David Leatherman",
+      "date": "5/6/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11679"
+    },
+    {
+      "doc_id": "11751",
+      "reporter": "Brandon K. Percival",
+      "date": "5/6/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11751"
+    },
+    {
+      "doc_id": "11678",
+      "reporter": "Tony Leukering",
+      "date": "5/6/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11678"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:59.118631"
+}

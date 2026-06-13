@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-201",
+  "year": "2001",
+  "location": "Neenoshe Reservoir",
+  "county": "Kiowa",
+  "observers": "Andrew Spencer",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "518",
+      "reporter": "Andrew Spencer",
+      "date": "5/11/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=518"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:00.360112"
+}

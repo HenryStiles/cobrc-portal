@@ -1,0 +1,26 @@
+{
+  "acc_no": "2018-012",
+  "year": "2018",
+  "location": "Pueblo City Park",
+  "county": "Pueblo",
+  "observers": "Brandon K. Percival, Paul Hurtado",
+  "comments": "The final date in Hurtado's report is incorrect. He only saw it on November 25.",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "11750",
+      "reporter": "Brandon K. Percival",
+      "date": "11/17/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11750"
+    },
+    {
+      "doc_id": "11770",
+      "reporter": "Paul Hurtado",
+      "date": "11/25/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11770"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:43.723418"
+}

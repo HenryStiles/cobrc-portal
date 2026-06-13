@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-140",
+  "year": "2015",
+  "location": "Eaton Cemetery",
+  "county": "Weld",
+  "observers": "David Leatherman",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "8544",
+      "reporter": "David Leatherman",
+      "date": "5/10/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8544"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:07.952129"
+}

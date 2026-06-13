@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-92-31",
+  "year": "1992",
+  "location": "Wheat Ridge Greenbelt",
+  "county": "Jefferson",
+  "observers": "William Schreier",
+  "comments": "",
+  "citations": "Prather, B.  1992 Report of the CBRC. CFO Journal 28(4), 157-168.",
+  "documentations": [
+    {
+      "doc_id": "16133",
+      "reporter": "William Schreier",
+      "date": "9/11/1992",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16133"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:48.366867"
+}

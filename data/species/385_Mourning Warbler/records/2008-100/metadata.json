@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-100",
+  "year": "2008",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Steve Stachowiak",
+  "comments": "Age: imm.; Plumage: basic; Sex: f;",
+  "citations": "Semo, L.  The 51st Report of the CBRC. Colorado Birds 43(3), 193-204.",
+  "documentations": [
+    {
+      "doc_id": "1062",
+      "reporter": "Steve Stachowiak",
+      "date": "9/5/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1062"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:09.685824"
+}

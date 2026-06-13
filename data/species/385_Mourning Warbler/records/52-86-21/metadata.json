@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-86-21",
+  "year": "1986",
+  "location": "South Republican SWA",
+  "county": "Yuma",
+  "observers": "Dan Bridges",
+  "comments": "",
+  "citations": "Bunn, R.  1986 Report of the CBRC. CFO Journal 22(3), 85-90.",
+  "documentations": [
+    {
+      "doc_id": "16132",
+      "reporter": "Dan Bridges",
+      "date": "5/25/1986",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16132"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:46.399412"
+}

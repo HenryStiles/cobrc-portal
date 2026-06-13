@@ -1,0 +1,26 @@
+{
+  "acc_no": "52-91-63",
+  "year": "1991",
+  "location": "Fountain Creek Regional Park",
+  "county": "El Paso",
+  "observers": "Robert Joyce, Ann Higgins, JoAnne Romero, George Maentz, Toni Brevillier",
+  "comments": "",
+  "citations": "Nelson, D.  1991 Report of the CBRC. CFO Journal 27(2), 49-56.",
+  "documentations": [
+    {
+      "doc_id": "14762",
+      "reporter": "Robert Joyce, Ann Higgins, JoAnne Romero, George Maentz",
+      "date": "11/15/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14762"
+    },
+    {
+      "doc_id": "14763",
+      "reporter": "Toni Brevillier",
+      "date": "11/24/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14763"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:23.982862"
+}

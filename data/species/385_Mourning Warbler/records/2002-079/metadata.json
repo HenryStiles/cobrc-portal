@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-079",
+  "year": "2002",
+  "location": "Durango",
+  "county": "La Plata",
+  "observers": "James Beatty",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  The 38th Report of the CBRC. Colorado Birds 38(4), 168-183.",
+  "documentations": [
+    {
+      "doc_id": "16149",
+      "reporter": "James Beatty",
+      "date": "9/12/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16149"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:04.990795"
+}

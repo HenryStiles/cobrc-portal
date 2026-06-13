@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-074",
+  "year": "2010",
+  "location": "Lamar",
+  "county": "Prowers",
+  "observers": "Jane Stulp",
+  "comments": "Age: 2nd-year; Plumage: alternate; Sex: m;",
+  "citations": "Semo, L. and Faulkner, D. The 57th Report of the CBRC. Colorado Birds 45(1), 30-41.",
+  "documentations": [
+    {
+      "doc_id": "1464",
+      "reporter": "Jane Stulp",
+      "date": "4/22/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1464"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:34.044920"
+}

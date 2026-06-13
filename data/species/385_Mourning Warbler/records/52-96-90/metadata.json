@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-96-90",
+  "year": "1996",
+  "location": "Last Chance",
+  "county": "Washington",
+  "observers": "Chris Wood",
+  "comments": "",
+  "citations": "Janos, M.  1996 Report of the CBRC.  J. of the CFO 32(3), 173-187.",
+  "documentations": [
+    {
+      "doc_id": "16139",
+      "reporter": "Chris Wood",
+      "date": "5/27/1996",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16139"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:54.424508"
+}

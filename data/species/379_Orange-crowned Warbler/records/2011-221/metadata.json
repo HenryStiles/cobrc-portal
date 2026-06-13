@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-221",
+  "year": "2011",
+  "location": "Bonny Reservoir, Foster Campground",
+  "county": "Yuma",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1818",
+      "reporter": "Steven Mlodinow",
+      "date": "10/3/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1818"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:25.539311"
+}

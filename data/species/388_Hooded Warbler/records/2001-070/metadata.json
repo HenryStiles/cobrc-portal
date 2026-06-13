@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-070",
+  "year": "2001",
+  "location": "Lone Dome State Wildlife Area",
+  "county": "Dolores",
+  "observers": "Pat O'Donnell, Pat O'Donnell",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  2001 pt.1 Report of the CBRC. Colorado Birds 37(3), 138-155.",
+  "documentations": [
+    {
+      "doc_id": "14552",
+      "reporter": "Pat O'Donnell",
+      "date": "6/9/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14552"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:52.341319"
+}

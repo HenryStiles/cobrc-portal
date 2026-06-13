@@ -1,0 +1,19 @@
+{
+  "acc_no": "2000-141",
+  "year": "2000",
+  "location": "Aiken Canyon",
+  "county": "El Paso",
+  "observers": "George Cresswell",
+  "comments": "",
+  "citations": "Leukering, T. and C. Wood.  2000 Report of the CBRC. J. Colorado Field Ornithologists, 36(2), 82-113.",
+  "documentations": [
+    {
+      "doc_id": "14551",
+      "reporter": "George Cresswell",
+      "date": "5/6/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14551"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:51.308906"
+}

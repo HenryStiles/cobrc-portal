@@ -1,0 +1,26 @@
+{
+  "acc_no": "2015-100",
+  "year": "2015",
+  "location": "Durango",
+  "county": "La Plata",
+  "observers": "Susan E. Allerton",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "6250",
+      "reporter": "Riley Morris",
+      "date": "4/23/2015",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6250"
+    },
+    {
+      "doc_id": "6301",
+      "reporter": "Susan E. Allerton",
+      "date": "4/24/2015",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6301"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:07.047627"
+}

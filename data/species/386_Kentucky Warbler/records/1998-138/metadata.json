@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-138",
+  "year": "1998",
+  "location": "Gregory Canyon",
+  "county": "Boulder",
+  "observers": "Ric Olson, Bill Tweit",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "14708",
+      "reporter": "Ric Olson, Bill Tweit",
+      "date": "6/7/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14708"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:55.968879"
+}

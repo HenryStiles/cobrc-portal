@@ -1,0 +1,26 @@
+{
+  "acc_no": "2008-055",
+  "year": "2008",
+  "location": "Yellow Jacket Canyon",
+  "county": "Montezuma",
+  "observers": "Nathan Pieplow",
+  "comments": "Age: adults; Plumage: alternate; Sex: m & f;",
+  "citations": "Semo, L. and Faulkner, D.  The 52nd Report of the CBRC. Colorado Birds 43(4), 268-281.",
+  "documentations": [
+    {
+      "doc_id": "1003",
+      "reporter": "Nathan Pieplow",
+      "date": "5/8/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1003"
+    },
+    {
+      "doc_id": "1004",
+      "reporter": "Nathan Pieplow",
+      "date": "5/8/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1004"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:58.469777"
+}

@@ -1,0 +1,26 @@
+{
+  "acc_no": "2010-058",
+  "year": "2010",
+  "location": "Lamar",
+  "county": "Prowers",
+  "observers": "Jane Stulp, Brandon Percival",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Semo, L. and Faulkner, D. The 57th Report of the CBRC. Colorado Birds 45(1), 30-41.",
+  "documentations": [
+    {
+      "doc_id": "1465",
+      "reporter": "Jane Stulp",
+      "date": "4/26/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1465"
+    },
+    {
+      "doc_id": "1452",
+      "reporter": "Brandon K Percival",
+      "date": "4/27/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1452"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:42.436444"
+}

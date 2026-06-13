@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-119",
+  "year": "2004",
+  "location": "Montrose",
+  "county": "Montrose",
+  "observers": "Connie Kogler",
+  "comments": "Age: adult; Plumage: basic; Sex: f;",
+  "citations": "Semo, L. and Faulkner, D. The 57th Report of the CBRC. Colorado Birds 45(1), 30-41.",
+  "documentations": [
+    {
+      "doc_id": "1367",
+      "reporter": "Connie Kogler",
+      "date": "11/20/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1367"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:01.129844"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-96-86",
+  "year": "1996",
+  "location": "Rocky Mountain National Park (Larimer section)",
+  "county": "Larimer",
+  "observers": "Charles Mills",
+  "comments": "",
+  "citations": "Janos, M.  1996 Report of the CBRC.  J. of the CFO 32(3), 173-187.",
+  "documentations": [
+    {
+      "doc_id": "14705",
+      "reporter": "Charles Mills",
+      "date": "6/11/1996",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14705"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:52.410047"
+}

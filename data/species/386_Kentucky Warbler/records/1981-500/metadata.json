@@ -1,0 +1,19 @@
+{
+  "acc_no": "1981-500",
+  "year": "1981",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Laurens Halsey",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176",
+  "documentations": [
+    {
+      "doc_id": "9617",
+      "reporter": "Laurens Halsey",
+      "date": "6/12/1981",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=9617"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:34.228721"
+}

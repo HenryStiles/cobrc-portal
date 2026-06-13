@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-80-19",
+  "year": "1979",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Michael Manson",
+  "comments": "",
+  "citations": "Gent, P.  1983 Report of the CBRC. CFO Journal 19(1-2), 28-33.",
+  "documentations": [
+    {
+      "doc_id": "14689",
+      "reporter": "Michael Manson",
+      "date": "5/16/1979",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14689"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:31.289674"
+}

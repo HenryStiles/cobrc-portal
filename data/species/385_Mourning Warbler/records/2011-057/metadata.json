@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-057",
+  "year": "2011",
+  "location": "Canon City Riverwalk",
+  "county": "Fremont",
+  "observers": "Brandon Percival",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Faulkner, D. The 62nd Report of the CBRC. Colorado Birds 46(2), 106-120.",
+  "documentations": [
+    {
+      "doc_id": "1679",
+      "reporter": "Brandon K Percival",
+      "date": "5/21/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1679"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:12.156661"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2003-034",
+  "year": "2003",
+  "location": "Fountain Creek Regional Park",
+  "county": "El Paso",
+  "observers": "Marie Cecile Lee",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "14716",
+      "reporter": "Marie Cecile Lee",
+      "date": "5/15/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14716"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:05.103520"
+}

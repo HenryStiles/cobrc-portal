@@ -1,0 +1,19 @@
+{
+  "acc_no": "2003-027",
+  "year": "2003",
+  "location": "Valco Ponds",
+  "county": "Pueblo",
+  "observers": "Mymm Ackley, SeEtta Moss, Brandon Percival",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  The 39th Report of the CBRC. Colorado Birds 39(3), 131-141.",
+  "documentations": [
+    {
+      "doc_id": "13682",
+      "reporter": "Mymm Ackley, SeEtta Moss, Brandon Percival",
+      "date": "4/13/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13682"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:51.659842"
+}

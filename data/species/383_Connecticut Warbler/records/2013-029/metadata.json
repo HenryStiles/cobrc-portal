@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-029",
+  "year": "2012",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Nancy Gobris",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2284",
+      "reporter": "Nancy Gobris",
+      "date": "9/10/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2284"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:17.201230"
+}

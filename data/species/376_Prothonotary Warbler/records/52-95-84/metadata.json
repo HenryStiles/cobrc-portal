@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-95-84",
+  "year": "1995",
+  "location": "Fountain Creek Regional Park",
+  "county": "El Paso",
+  "observers": "Brandon Percival",
+  "comments": "",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "16089",
+      "reporter": "Brandon Percival",
+      "date": "5/10/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16089"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:01.488832"
+}

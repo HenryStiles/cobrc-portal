@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-95-87",
+  "year": "1995",
+  "location": "Valco Ponds",
+  "county": "Pueblo",
+  "observers": "Pearle Sandstrom-Smith",
+  "comments": "",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "13286",
+      "reporter": "Pearle Sandstrom-Smith",
+      "date": "5/22/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13286"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:22.473527"
+}

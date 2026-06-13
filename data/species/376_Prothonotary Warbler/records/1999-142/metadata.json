@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-142",
+  "year": "1999",
+  "location": "Fountain Creek Regional Park",
+  "county": "El Paso",
+  "observers": "Lisa Sinke",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "16099",
+      "reporter": "Lisa Sinke",
+      "date": "5/15/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16099"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:10.606182"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-138",
+  "year": "2001",
+  "location": "San Miguel River",
+  "county": "Montrose",
+  "observers": "Coen Dexter",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  2001 pt.1 Report of the CBRC. Colorado Birds 37(3), 138-155.",
+  "documentations": [
+    {
+      "doc_id": "14713",
+      "reporter": "Coen Dexter",
+      "date": "5/30/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14713"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:00.906537"
+}

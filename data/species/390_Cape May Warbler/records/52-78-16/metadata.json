@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-78-16",
+  "year": "1977",
+  "location": "Bluebell Canyon",
+  "county": "Boulder",
+  "observers": "Bob Andrews",
+  "comments": "",
+  "citations": "Chase, C.  1977-1980 Pt.2 Report of the CBRC. CFO Journal 15(2), 54-59.",
+  "documentations": [
+    {
+      "doc_id": "14755",
+      "reporter": "Bob Andrews",
+      "date": "5/19/1977",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14755"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:17.558271"
+}

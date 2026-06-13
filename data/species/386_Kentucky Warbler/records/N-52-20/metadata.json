@@ -1,0 +1,19 @@
+{
+  "acc_no": "N-52-20",
+  "year": "1963",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Loiuse Hering",
+  "comments": "Singing, territorial male.",
+  "citations": "Reddall, J.  1974a Report of the CBRC. CFO Journal 19:11-41.",
+  "documentations": [
+    {
+      "doc_id": "14684",
+      "reporter": "Louise Hering",
+      "date": "5/31/1963",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14684"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:22.084328"
+}

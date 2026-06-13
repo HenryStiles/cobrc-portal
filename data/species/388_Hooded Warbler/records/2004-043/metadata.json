@@ -1,0 +1,26 @@
+{
+  "acc_no": "2004-043",
+  "year": "2004",
+  "location": "Lower Piedra Campground",
+  "county": "Archuleta",
+  "observers": "Bob Andrews, James Beatty",
+  "comments": "breeding established",
+  "citations": "Semo, L.  The 41st Report of the CBRC. Colorado Birds 40(1), 26-44.",
+  "documentations": [
+    {
+      "doc_id": "14554",
+      "reporter": "Bob Andrews",
+      "date": "7/27/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14554"
+    },
+    {
+      "doc_id": "90",
+      "reporter": "James Beatty",
+      "date": "8/2/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=90"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:54.332206"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-103",
+  "year": "1999",
+  "location": "Two Buttes State Wildlife Area",
+  "county": "Baca",
+  "observers": "Brandon K Percival",
+  "comments": "",
+  "citations": "Faulkner, D. The 71st Report of the CBRC, Colorado Birds 49(2), 53-57.",
+  "documentations": [
+    {
+      "doc_id": "2412",
+      "reporter": "Brandon K Percival",
+      "date": "5/4/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2412"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:11.681172"
+}

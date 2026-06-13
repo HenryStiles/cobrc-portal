@@ -1,0 +1,26 @@
+{
+  "acc_no": "2021-032",
+  "year": "2021",
+  "location": "Lathrop State Park",
+  "county": "Huerfano",
+  "observers": "Luke Pheneger, Brandon Percival",
+  "comments": "",
+  "citations": "The 83rd Report of the Colorado Bird Records Committee,  Peter R. Gent, Colorado Birds, 57(2), 61-70, 2023.",
+  "documentations": [
+    {
+      "doc_id": "13670",
+      "reporter": "Luke Pheneger",
+      "date": "11/21/2021",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13670"
+    },
+    {
+      "doc_id": "12028",
+      "reporter": "Brandon K. Percival",
+      "date": "12/1/2021",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12028"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:54.966438"
+}

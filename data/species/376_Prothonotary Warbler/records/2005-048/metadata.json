@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-048",
+  "year": "2005",
+  "location": "Melody Tempel Grove",
+  "county": "Bent",
+  "observers": "Bill Schmoker",
+  "comments": "",
+  "citations": "Faulkner, D. and Semo, L. The 58th Report of the CBRC. Colorado Birds 45(2), 92-101.",
+  "documentations": [
+    {
+      "doc_id": "306",
+      "reporter": "Bill Schmoker",
+      "date": "5/14/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=306"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:19.085688"
+}

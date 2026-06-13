@@ -1,0 +1,19 @@
+{
+  "acc_no": "2023-017",
+  "year": "2023",
+  "location": "Two Buttes Reservoir, below the dam",
+  "county": "Baca",
+  "observers": "Brandon Percival",
+  "comments": "",
+  "citations": "Gent, P.  85th Report of the CBRC. Colorado Birds 58(1), 7-14.",
+  "documentations": [
+    {
+      "doc_id": "13343",
+      "reporter": "Brandon Percival",
+      "date": "4/24/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13343"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:23.847631"
+}

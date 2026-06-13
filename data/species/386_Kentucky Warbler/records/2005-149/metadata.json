@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-149",
+  "year": "2005",
+  "location": "Westcliffe and Silver Cliff",
+  "county": "Custer",
+  "observers": "Janny Candelaria",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Semo, L. and Faulkner, D.  The 53rd Report of the CBRC. Colorado Birds 44(1), 31-42.",
+  "documentations": [
+    {
+      "doc_id": "1111",
+      "reporter": "Janny Candelaria",
+      "date": "5/5/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1111"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:07.066141"
+}

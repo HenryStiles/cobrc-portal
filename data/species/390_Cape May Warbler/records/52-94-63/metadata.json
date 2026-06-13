@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-94-63",
+  "year": "1993",
+  "location": "Golden",
+  "county": "Jefferson",
+  "observers": "Thomas Pool",
+  "comments": "",
+  "citations": "Prather, B.  1994 Report of the CBRC. CFO Journal 31(1), 23-31.",
+  "documentations": [
+    {
+      "doc_id": "14765",
+      "reporter": "Thomas Pool",
+      "date": "11/12/1993",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14765"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:27.999009"
+}

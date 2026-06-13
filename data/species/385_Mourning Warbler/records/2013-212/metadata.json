@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-212",
+  "year": "2013",
+  "location": "Jackson Reservoir",
+  "county": "Morgan",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2579",
+      "reporter": "Steven Mlodinow",
+      "date": "9/2/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2579"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:16.546607"
+}

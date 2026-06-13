@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-91-71",
+  "year": "1991",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Virginia Dionigi",
+  "comments": "",
+  "citations": "Prather, B.  1993 Report of the CBRC. CFO Journal 30(1), 20-30.",
+  "documentations": [
+    {
+      "doc_id": "16085",
+      "reporter": "Virginia Dionigi",
+      "date": "4/20/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16085"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:57.639567"
+}

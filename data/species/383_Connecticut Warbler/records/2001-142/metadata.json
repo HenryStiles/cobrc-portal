@@ -1,0 +1,26 @@
+{
+  "acc_no": "2001-142",
+  "year": "2001",
+  "location": "Prewitt Reservoir State Wildlife Area",
+  "county": "Washington & Logan",
+  "observers": "Andrew Spencer, Joey Kellner",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1149",
+      "reporter": "Andrew Spencer",
+      "date": "9/1/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1149"
+    },
+    {
+      "doc_id": "13739",
+      "reporter": "Joey Kellner, Andrew Spencer",
+      "date": "9/1/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13739"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:11.388417"
+}

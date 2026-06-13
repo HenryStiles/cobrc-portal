@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-031",
+  "year": "2008",
+  "location": "Rocking 7K Ranch",
+  "county": "Prowers",
+  "observers": "Nancy Stocker",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1011",
+      "reporter": "Nancy Stocker",
+      "date": "4/16/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1011"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:25.854765"
+}

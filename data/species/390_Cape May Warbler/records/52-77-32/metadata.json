@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-77-32",
+  "year": "1977",
+  "location": "Rocky Mountain National Park (Larimer section)",
+  "county": "Larimer",
+  "observers": "Paula Hansley",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "14753",
+      "reporter": "Paula Hansley",
+      "date": "5/6/1977",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14753"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:15.441265"
+}

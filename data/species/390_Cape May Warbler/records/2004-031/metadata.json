@@ -1,0 +1,33 @@
+{
+  "acc_no": "2004-031",
+  "year": "2004",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Lock Kilpatrick, Roger Linfield, Rachel Hopper",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "14771",
+      "reporter": "Loch Kilpatrick",
+      "date": "5/10/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14771"
+    },
+    {
+      "doc_id": "37",
+      "reporter": "Roger Linfield",
+      "date": "5/12/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=37"
+    },
+    {
+      "doc_id": "144",
+      "reporter": "Rachel Hopper",
+      "date": "5/15/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=144"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:36.331754"
+}

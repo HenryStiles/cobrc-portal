@@ -1,0 +1,33 @@
+{
+  "acc_no": "2013-152",
+  "year": "2013",
+  "location": "Chico Basin Ranch",
+  "county": "Pueblo",
+  "observers": "Brandon K Percival, Steven Mlodinow, John Drummond",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2477",
+      "reporter": "Brandon K Percival",
+      "date": "5/22/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2477"
+    },
+    {
+      "doc_id": "2482",
+      "reporter": "Steven Mlodinow",
+      "date": "5/22/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2482"
+    },
+    {
+      "doc_id": "2490",
+      "reporter": "John Drummond",
+      "date": "5/22/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2490"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:30.011437"
+}

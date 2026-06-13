@@ -1,0 +1,19 @@
+{
+  "acc_no": "2020-017",
+  "year": "2020",
+  "location": "Sands Lake State Wildlife Area",
+  "county": "Chaffee",
+  "observers": "Sally Waterhouse",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176",
+  "documentations": [
+    {
+      "doc_id": "11877",
+      "reporter": "Sally Waterhouse",
+      "date": "5/5/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11877"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:00.017780"
+}

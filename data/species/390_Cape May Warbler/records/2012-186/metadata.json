@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-186",
+  "year": "2012",
+  "location": "Kiowa Creek Sanctuary",
+  "county": "El Paso",
+  "observers": "Aaron Shipe",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2178",
+      "reporter": "Aaron Shipe",
+      "date": "10/2/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2178"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:52.445551"
+}

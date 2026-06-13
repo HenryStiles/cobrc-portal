@@ -1,0 +1,19 @@
+{
+  "acc_no": "1913-003",
+  "year": "1913",
+  "location": "Holly area",
+  "county": "Prowers",
+  "observers": "Frederick Lincoln",
+  "comments": "Adult female collected: Specimen DMNH #2806.",
+  "citations": "Lincoln, F., Notes on some Species New to the Colorado List of Birds. Auk, 35, 236-237, 1918.",
+  "documentations": [
+    {
+      "doc_id": "13215",
+      "reporter": "Frederick Lincoln",
+      "date": "5/12/1913",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13215"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:16.609997"
+}

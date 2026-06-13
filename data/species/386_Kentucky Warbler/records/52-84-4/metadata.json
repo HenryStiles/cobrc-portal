@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-84-4",
+  "year": "1983",
+  "location": "Ovid Woods",
+  "county": "Sedgwick",
+  "observers": "Steve Larson",
+  "comments": "",
+  "citations": "Gent, P.  1984 Report of the CBRC. CFO Journal 19(4), 82-87.",
+  "documentations": [
+    {
+      "doc_id": "14694",
+      "reporter": "Steve Larson",
+      "date": "4/22/1983",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14694"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:34.855272"
+}

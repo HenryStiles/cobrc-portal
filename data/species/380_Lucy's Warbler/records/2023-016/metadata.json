@@ -1,0 +1,33 @@
+{
+  "acc_no": "2023-016",
+  "year": "2023",
+  "location": "Marjorie Perry Nature Preserve",
+  "county": "Arapahoe",
+  "observers": "Joey Kellner, Max Miller, Cole Sage",
+  "comments": "",
+  "citations": "Gent, P.  85th Report of the CBRC. Colorado Birds 58(1), 7-14.",
+  "documentations": [
+    {
+      "doc_id": "13904",
+      "reporter": "Cole Sage",
+      "date": "4/16/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13904"
+    },
+    {
+      "doc_id": "13278",
+      "reporter": "Joey Kellner",
+      "date": "4/17/2023",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13278"
+    },
+    {
+      "doc_id": "13269",
+      "reporter": "Max Miller",
+      "date": "4/17/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13269"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:16.764451"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-92-16",
+  "year": "1992",
+  "location": "Fountain Creek Regional Park",
+  "county": "El Paso",
+  "observers": "Toni Brevillier, Mark Janos, Brandon Percival",
+  "comments": "",
+  "citations": "Prather, B.  1992 Report of the CBRC. CFO Journal 28(4), 157-168.",
+  "documentations": [
+    {
+      "doc_id": "13284",
+      "reporter": "Toni Brevillier, Mark Janos, Brandon Percival",
+      "date": "7/16/1992",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13284"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:20.382838"
+}

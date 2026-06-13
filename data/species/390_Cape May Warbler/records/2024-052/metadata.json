@@ -1,0 +1,19 @@
+{
+  "acc_no": "2024-052",
+  "year": "2024",
+  "location": "Cortez",
+  "county": "Montezuma",
+  "observers": "Coen Dexter",
+  "comments": "",
+  "citations": "Gent, P., The 88th Report of the CBRC. Colorado Birds 59(3), 192-197.",
+  "documentations": [
+    {
+      "doc_id": "14614",
+      "reporter": "Coen Dexter",
+      "date": "12/5/2024",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14614"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:56.113011"
+}

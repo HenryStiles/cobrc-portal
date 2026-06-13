@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-118",
+  "year": "2016",
+  "location": "Wheat Ridge Greenbelt",
+  "county": "Jefferson",
+  "observers": "Dick Schottler",
+  "comments": "",
+  "citations": "Gent, P.  The 84th Report of the CBRC. Colorado Birds 54(4), 194-203.",
+  "documentations": [
+    {
+      "doc_id": "13075",
+      "reporter": "Dick Schottler",
+      "date": "5/17/2016",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13075"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:10.611669"
+}

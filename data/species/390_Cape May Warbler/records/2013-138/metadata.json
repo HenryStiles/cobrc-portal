@@ -1,0 +1,33 @@
+{
+  "acc_no": "2013-138",
+  "year": "2013",
+  "location": "Two Buttes State Wildlife Area",
+  "county": "Baca",
+  "observers": "Ric Olson, Glenn Walbek, Brandon K Percival",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2475",
+      "reporter": "Ric Olson",
+      "date": "5/10/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2475"
+    },
+    {
+      "doc_id": "2559",
+      "reporter": "Glenn Walbek",
+      "date": "5/10/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2559"
+    },
+    {
+      "doc_id": "2455",
+      "reporter": "Brandon K Percival",
+      "date": "5/11/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2455"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:55.517321"
+}

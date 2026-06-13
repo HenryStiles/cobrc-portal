@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-124",
+  "year": "2009",
+  "location": "Fountain Creek Regional Park",
+  "county": "El Paso",
+  "observers": "Brandon K Percival",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1327",
+      "reporter": "Brandon K Percival",
+      "date": "9/20/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1327"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:22.557332"
+}

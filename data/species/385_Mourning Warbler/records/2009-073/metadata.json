@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-073",
+  "year": "2009",
+  "location": "Loveland",
+  "county": "Larimer",
+  "observers": "Eric Defonso",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Semo, L.  The 55th Report of the CBRC. Colorado Birds 44(3), 180-185.",
+  "documentations": [
+    {
+      "doc_id": "1322",
+      "reporter": "Eric Defonso",
+      "date": "5/14/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1322"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:11.006112"
+}

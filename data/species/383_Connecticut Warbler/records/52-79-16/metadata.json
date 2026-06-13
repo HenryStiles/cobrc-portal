@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-79-16",
+  "year": "1979",
+  "location": "Pawnee National Grasslands (western section)",
+  "county": "Weld",
+  "observers": "Mark Holmgren",
+  "comments": "",
+  "citations": "Chase, C.  1977-1980 Pt.2 Report of the CBRC. CFO Journal 15(2), 54-59.",
+  "documentations": [
+    {
+      "doc_id": "13273",
+      "reporter": "Mark Holmgren",
+      "date": "5/19/1979",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13273"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:03.525882"
+}

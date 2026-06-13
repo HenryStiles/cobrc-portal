@@ -1,0 +1,19 @@
+{
+  "acc_no": "2017-092",
+  "year": "2017",
+  "location": "Thompson Ranch",
+  "county": "Lincoln",
+  "observers": "Brandon K. Percival",
+  "comments": "",
+  "citations": "The 83rd Report of the Colorado Bird Records Committee,  Peter R. Gent, Colorado Birds, 57(2), 61-70, 2023.",
+  "documentations": [
+    {
+      "doc_id": "12020",
+      "reporter": "Brandon K. Percival",
+      "date": "10/3/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12020"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:19.751258"
+}

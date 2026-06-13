@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-101",
+  "year": "1997",
+  "location": "Fountain Creek Regional Park",
+  "county": "El Paso",
+  "observers": "Bill Maynard",
+  "comments": "",
+  "citations": "Janos, M.  1997 Report of the CBRC.  J. of the CFO 33(4), 241-252.",
+  "documentations": [
+    {
+      "doc_id": "16141",
+      "reporter": "Bill Maynard",
+      "date": "5/23/1997",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16141"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:55.479541"
+}

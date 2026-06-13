@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-85-11",
+  "year": "1985",
+  "location": "Bear Creek Canyon Park",
+  "county": "El Paso",
+  "observers": "David Romero, Rosie Watts, David Blue",
+  "comments": "",
+  "citations": "Gent, P.  1985 Report of the CBRC. CFO Journal 20(3-4), 44-50.",
+  "documentations": [
+    {
+      "doc_id": "14695",
+      "reporter": "David Romero, Rosie Watts, David Blue",
+      "date": "5/27/1985",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14695"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:39.586659"
+}

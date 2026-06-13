@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-87-68",
+  "year": "1987",
+  "location": "CU Campus",
+  "county": "Boulder",
+  "observers": "Peter Gent",
+  "comments": "",
+  "citations": "Bunn, R.  1987 Report of the CBRC, Part 2. CFO Journal 23(4), 114-120.",
+  "documentations": [
+    {
+      "doc_id": "14697",
+      "reporter": "Peter Gent",
+      "date": "5/30/1987",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14697"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:42.275873"
+}

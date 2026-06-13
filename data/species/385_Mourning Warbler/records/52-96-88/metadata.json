@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-96-88",
+  "year": "1990",
+  "location": "Kit Carson",
+  "county": "Cheyenne",
+  "observers": "Bob Righter",
+  "comments": "",
+  "citations": "Janos, M.  1996 Report of the CBRC.  J. of the CFO 32(3), 173-187.",
+  "documentations": [
+    {
+      "doc_id": "16137",
+      "reporter": "Bob Righter",
+      "date": "6/1/1990",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16137"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:47.405149"
+}

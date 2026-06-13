@@ -1,0 +1,26 @@
+{
+  "acc_no": "2010-039",
+  "year": "2010",
+  "location": "Walden Ponds/Sawhill Ponds Complex",
+  "county": "Boulder",
+  "observers": "Walter Szeliga, Jessie Oberbeck",
+  "comments": "Age: adult; Sex: m;",
+  "citations": "Faulkner, D. and Semo, L. The 59th Report of the CBRC. Colorado Birds 45(3), 174-180.",
+  "documentations": [
+    {
+      "doc_id": "1426",
+      "reporter": "Walter Szeliga",
+      "date": "5/22/2010",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1426"
+    },
+    {
+      "doc_id": "1428",
+      "reporter": "Jessi Oberbeck",
+      "date": "5/23/2010",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1428"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:16.412181"
+}

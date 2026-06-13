@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-80-26",
+  "year": "1975",
+  "location": "Air Force Academy",
+  "county": "El Paso",
+  "observers": "Camille Cummings, David Thomas, Dave Griffiths",
+  "comments": "",
+  "citations": "Chase, C.  1977-1980 Pt.2 Report of the CBRC. CFO Journal 15(2), 54-59.",
+  "documentations": [
+    {
+      "doc_id": "16128",
+      "reporter": "Camille Cummings, David Thomas, Dave Griffiths",
+      "date": "5/18/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16128"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:41.832782"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-145",
+  "year": "2013",
+  "location": "Brett Gray Ranch",
+  "county": "Lincoln",
+  "observers": "Brandon K Percival",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2468",
+      "reporter": "Brandon K Percival",
+      "date": "5/18/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2468"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:14.940157"
+}

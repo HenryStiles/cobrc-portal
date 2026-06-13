@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-76-43",
+  "year": "1976",
+  "location": "CU Campus",
+  "county": "Boulder",
+  "observers": "Narca Schor, Patti Echelmeyer, Bob Andrews",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "16076",
+      "reporter": "Narca Schor, Patti Echelmeyer, Bob Andrews",
+      "date": "5/8/1976",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16076"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:48.746493"
+}

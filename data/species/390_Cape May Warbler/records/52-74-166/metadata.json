@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-74-166",
+  "year": "1974",
+  "location": "Waterton Canyon",
+  "county": "Douglas",
+  "observers": "Mildred Snyder, Hugh Kingery",
+  "comments": "",
+  "citations": "Reddall, J. 1975. Records from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "14748",
+      "reporter": "Mildred Snyder, Hugh Kingery",
+      "date": "11/20/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14748"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:11.089757"
+}

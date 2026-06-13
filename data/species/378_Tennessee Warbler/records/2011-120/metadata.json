@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-120",
+  "year": "2011",
+  "location": "Durango",
+  "county": "La Plata",
+  "observers": "Susan Allerton",
+  "comments": "",
+  "citations": "Faulkner, D. The 63rd Report of the CBRC. Colorado Birds 46(3), 188-197.",
+  "documentations": [
+    {
+      "doc_id": "1771",
+      "reporter": "Susan Allerton",
+      "date": "9/16/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1771"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:24.424957"
+}

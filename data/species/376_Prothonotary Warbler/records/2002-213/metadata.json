@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-213",
+  "year": "2001",
+  "location": "Woodland Park",
+  "county": "Teller",
+  "observers": "James Hollingsworth",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  The 37th Report of the CBRC. Colorado Birds 38(2), 73-88.",
+  "documentations": [
+    {
+      "doc_id": "16106",
+      "reporter": "James Hollingsworth",
+      "date": "10/17/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16106"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:17.732078"
+}

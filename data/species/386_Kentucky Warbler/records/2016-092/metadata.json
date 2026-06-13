@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-092",
+  "year": "2016",
+  "location": "Brett Gray Ranch",
+  "county": "Lincoln",
+  "observers": "Glenn Walbek",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "7490",
+      "reporter": "Glenn Walbek",
+      "date": "9/9/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=7490"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:39.507022"
+}

@@ -1,0 +1,40 @@
+{
+  "acc_no": "2010-029",
+  "year": "2010",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Bill Maynard, Brandon Percival, Brian Gibbons, Peter Gent",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Semo, L. and Faulkner, D. The 57th Report of the CBRC. Colorado Birds 45(1), 30-41.",
+  "documentations": [
+    {
+      "doc_id": "1413",
+      "reporter": "Bill Maynard",
+      "date": "5/17/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1413"
+    },
+    {
+      "doc_id": "1415",
+      "reporter": "Peter Gent",
+      "date": "5/17/2010",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1415"
+    },
+    {
+      "doc_id": "1418",
+      "reporter": "Brandon K Percival",
+      "date": "5/17/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1418"
+    },
+    {
+      "doc_id": "1434",
+      "reporter": "Brian Gibbons",
+      "date": "5/17/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1434"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:13.342561"
+}

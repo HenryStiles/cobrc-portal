@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-111",
+  "year": "2001",
+  "location": "Pastorius State Wildlife Area",
+  "county": "La Plata",
+  "observers": "James Beatty, Susan Allerton",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  2001 pt.1 Report of the CBRC. Colorado Birds 37(3), 138-155.",
+  "documentations": [
+    {
+      "doc_id": "16105",
+      "reporter": "James Beatty, Susan Allerton",
+      "date": "10/3/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16105"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:16.715973"
+}

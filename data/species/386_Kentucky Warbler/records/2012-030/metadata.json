@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-030",
+  "year": "2006",
+  "location": "Last Chance",
+  "county": "Washington",
+  "observers": "Kathy Mihm Dunning",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1954",
+      "reporter": "Kathy Mihm Dunning",
+      "date": "5/14/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1954"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:24.869773"
+}

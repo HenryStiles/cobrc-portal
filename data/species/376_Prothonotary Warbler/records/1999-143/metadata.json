@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-143",
+  "year": "1999",
+  "location": "Prewitt Reservoir State Wildlife Area",
+  "county": "Washington",
+  "observers": "Todd Dilley",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "16101",
+      "reporter": "Todd Dilley",
+      "date": "9/8/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16101"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:11.410410"
+}

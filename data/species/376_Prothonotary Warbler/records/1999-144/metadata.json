@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-144",
+  "year": "1999",
+  "location": "Wheat Ridge Greenbelt",
+  "county": "Jefferson",
+  "observers": "Glenn Walbek",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "16102",
+      "reporter": "Glenn Walbek",
+      "date": "9/14/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16102"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:12.290913"
+}

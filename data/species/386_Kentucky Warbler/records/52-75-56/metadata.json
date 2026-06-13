@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-75-56",
+  "year": "1975",
+  "location": "Lyons Area",
+  "county": "Boulder",
+  "observers": "Allegra Collister",
+  "comments": "Old Acc. No. 52-75-56 Banded.",
+  "citations": "Reddall, J. 1976. CFO Official Records Committee 1975 Report. C.F.O. Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "14688",
+      "reporter": "Allegra Collister",
+      "date": "5/6/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14688"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:27.335379"
+}

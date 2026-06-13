@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-141",
+  "year": "1998",
+  "location": "Gregory Canyon",
+  "county": "Boulder",
+  "observers": "Peter Gent, Randy Siebert, Bill Tweit",
+  "comments": "mated pair female on nest",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "14550",
+      "reporter": "Peter Gent, Randy Siebert, Bill Tweit",
+      "date": "5/15/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14550"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:50.283950"
+}

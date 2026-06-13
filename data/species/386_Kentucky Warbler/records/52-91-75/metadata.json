@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-91-75",
+  "year": "1991",
+  "location": "Lake Henry",
+  "county": "Crowley",
+  "observers": "Dan Bridges",
+  "comments": "",
+  "citations": "Nelson, D.  1991 Report of the CBRC. CFO Journal 27(2), 49-56.",
+  "documentations": [
+    {
+      "doc_id": "14699",
+      "reporter": "Dan Bridges",
+      "date": "5/9/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14699"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:45.166801"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-144",
+  "year": "2007",
+  "location": "Last Chance",
+  "county": "Washington",
+  "observers": "Bill Maynard",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "723",
+      "reporter": "Bill Maynard",
+      "date": "5/27/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=723"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:22.002234"
+}

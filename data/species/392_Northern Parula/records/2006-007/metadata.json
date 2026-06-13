@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-007",
+  "year": "2006",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Bill Schmoker",
+  "comments": "Found dead",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "365",
+      "reporter": "Bill Schmoker",
+      "date": "1/15/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=365"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:44.164905"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-75-45",
+  "year": "1975",
+  "location": "Two Buttes State Wildlife Area",
+  "county": "Baca",
+  "observers": "Van Remsen, Steve Larson",
+  "comments": "",
+  "citations": "Reddall, J. 1976. CFO Official Records Committee 1975 Report. C.F.O. Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "14749",
+      "reporter": "Van Remsen, Steve Larson",
+      "date": "5/3/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14749"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:12.095150"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-139",
+  "year": "1997",
+  "location": "Lamar",
+  "county": "Prowers",
+  "observers": "Brandon Percival",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "13277",
+      "reporter": "Brandon Percival",
+      "date": "5/16/1997",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13277"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:09.632755"
+}

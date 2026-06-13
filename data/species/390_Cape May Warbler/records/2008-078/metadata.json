@@ -1,0 +1,26 @@
+{
+  "acc_no": "2008-078",
+  "year": "2008",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Bill Maynard, Brandon Percival",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Semo, L.  The 51st Report of the CBRC. Colorado Birds 43(3), 193-204.",
+  "documentations": [
+    {
+      "doc_id": "988",
+      "reporter": "Brandon K Percival",
+      "date": "5/27/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=988"
+    },
+    {
+      "doc_id": "998",
+      "reporter": "Bill Maynard",
+      "date": "5/27/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=998"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:40.461442"
+}

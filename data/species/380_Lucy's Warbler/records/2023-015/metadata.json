@@ -1,0 +1,33 @@
+{
+  "acc_no": "2023-015",
+  "year": "2023",
+  "location": "Fountain Creek Regional Park",
+  "county": "El Paso",
+  "observers": "Jessica Miller, Brandon K. Percival, Kara Laszczyk",
+  "comments": "",
+  "citations": "Gent, P.  85th Report of the CBRC. Colorado Birds 58(1), 7-14.",
+  "documentations": [
+    {
+      "doc_id": "13266",
+      "reporter": "Jessica Miller",
+      "date": "4/15/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13266"
+    },
+    {
+      "doc_id": "13382",
+      "reporter": "Kara Laszczyk",
+      "date": "4/15/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13382"
+    },
+    {
+      "doc_id": "13260",
+      "reporter": "Brandon K. Percival",
+      "date": "4/15/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13260"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:14.723877"
+}

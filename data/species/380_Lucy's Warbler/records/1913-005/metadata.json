@@ -1,0 +1,19 @@
+{
+  "acc_no": "1913-005",
+  "year": "1913",
+  "location": "Four Corners area",
+  "county": "Montezuma",
+  "observers": "H. Sheldon",
+  "comments": "Pair, nest and eggs collected: Specimens DMNH #3384, #3385.",
+  "citations": "Lincoln, F., Notes on some Species New to the Colorado List of Birds, Auk, 35, 236-237, 1918.",
+  "documentations": [
+    {
+      "doc_id": "13217",
+      "reporter": "H. Sheldon",
+      "date": "5/3/1913",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13217"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:50.112219"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-045",
+  "year": "2001",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Peter Gent",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16148",
+      "reporter": "Peter Gent",
+      "date": "5/14/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16148"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:01.849682"
+}

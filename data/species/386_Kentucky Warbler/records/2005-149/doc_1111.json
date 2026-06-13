@@ -1,0 +1,46 @@
+{
+  "doc_id": "1111",
+  "scraped_at": "2026-06-13T14:45:23.497103",
+  "species": "Kentucky Warbler",
+  "acc_no": "2005-149",
+  "reporter_name": "Janny Candelaria",
+  "address": "",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "reporter_email": "",
+  "other_observers": "Gene Candelaria;",
+  "species_name": "Kentucky Warbler",
+  "first_date": "5/5/2005",
+  "last_date": "",
+  "duration": "In hand",
+  "county": "Custer",
+  "specific_location": "108 South 2nd Street",
+  "number_of_birds": "1",
+  "age": "Unknown",
+  "sex": "Male",
+  "plumage": "Other/Unknown",
+  "description": "About 5-6 inches long. Olive back, yellow breast and chest, olive wings, yellow eye stripe and black below (but not across) the eye. Slightly darker cap. Apparent black band across chest is actually a split in the feathers. Probable point of impact.Behaviors: N/ACall: N/APlumage: Breeding",
+  "photographer": "Photographer: Janny Candelaria, Janny Candelaria",
+  "photos_text": "Photos |",
+  "uploads_text": "1111_abcd0KEWA, Westcliffe, Custer Co, CO, 5-4-05, Candelaria.jpg\n1111_abcd1KEWA, Westcliffe, Custer Co, CO b, 5-4-05, Candelaria.jpg",
+  "date_submitted": "10/20/2008 12:37:00 PM",
+  "attachments": [
+    {
+      "filename": "1111_abcd0KEWA, Westcliffe, Custer Co, CO, 5-4-05, Candelaria.jpg",
+      "url": "/RecordUploads/1111/1111_abcd0KEWA, Westcliffe, Custer Co, CO, 5-4-05, Candelaria.jpg"
+    },
+    {
+      "filename": "1111_abcd1KEWA, Westcliffe, Custer Co, CO b, 5-4-05, Candelaria.jpg",
+      "url": "/RecordUploads/1111/1111_abcd1KEWA, Westcliffe, Custer Co, CO b, 5-4-05, Candelaria.jpg"
+    },
+    {
+      "filename": "1111_abcd0KEWA,%20Westcliffe,%20Custer%20Co,%20CO,%205-4-05,%20Candelaria.jpg",
+      "url": "/RecordUploads/1111/1111_abcd0KEWA,%20Westcliffe,%20Custer%20Co,%20CO,%205-4-05,%20Candelaria.jpg"
+    },
+    {
+      "filename": "1111_abcd1KEWA,%20Westcliffe,%20Custer%20Co,%20CO%20b,%205-4-05,%20Candelaria.jpg",
+      "url": "/RecordUploads/1111/1111_abcd1KEWA,%20Westcliffe,%20Custer%20Co,%20CO%20b,%205-4-05,%20Candelaria.jpg"
+    }
+  ]
+}

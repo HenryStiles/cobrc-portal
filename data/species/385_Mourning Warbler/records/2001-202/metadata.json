@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-202",
+  "year": "2001",
+  "location": "Chico Basin Ranch",
+  "county": "Pueblo",
+  "observers": "Tony Leukering",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "613",
+      "reporter": "Tony Leukering",
+      "date": "5/19/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=613"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:02.866586"
+}

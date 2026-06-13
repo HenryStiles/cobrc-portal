@@ -1,0 +1,19 @@
+{
+  "acc_no": "1936-001",
+  "year": "1936",
+  "location": "Parker Regional Park",
+  "county": "Douglas",
+  "observers": "Alfred Bailey, Robert Niedrach",
+  "comments": "Collected: Specimen DMNH #15073",
+  "citations": "Bailey and Niedrach, Five species new to Colorado. Condor, 39, 132-133, 1937 and Birds of Colorado, Vol 2, pg 689, 1965.",
+  "documentations": [
+    {
+      "doc_id": "13256",
+      "reporter": "Alfred Bailey, Robert Niedrach",
+      "date": "9/2/1936",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13256"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:08.040861"
+}

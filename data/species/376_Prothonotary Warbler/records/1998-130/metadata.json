@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-130",
+  "year": "1998",
+  "location": "Fountain Creek Regional Park",
+  "county": "El Paso",
+  "observers": "BB Hahn",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "16097",
+      "reporter": "BB Hahn",
+      "date": "8/30/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16097"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:08.763426"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-032",
+  "year": "2001",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "6235",
+      "reporter": "Tony Leukering",
+      "date": "9/25/2001",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6235"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:03.422869"
+}

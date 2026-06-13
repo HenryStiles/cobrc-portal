@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-065",
+  "year": "2008",
+  "location": "Fountain Creek Regional Park",
+  "county": "El Paso",
+  "observers": "Scott Shaum",
+  "comments": "Age: adult; Plumage: alternate; Sex: f;",
+  "citations": "Semo, L.  The 51st Report of the CBRC. Colorado Birds 43(3), 193-204.",
+  "documentations": [
+    {
+      "doc_id": "1036",
+      "reporter": "Scott Shaum",
+      "date": "5/17/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1036"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:39.882054"
+}

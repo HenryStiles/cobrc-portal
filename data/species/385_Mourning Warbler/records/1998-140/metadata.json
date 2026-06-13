@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-140",
+  "year": "1998",
+  "location": "Pueblo",
+  "county": "Pueblo",
+  "observers": "David Silverman",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "16142",
+      "reporter": "David Silverman",
+      "date": "5/15/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16142"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:56.779322"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-153",
+  "year": "2008",
+  "location": "Lakewood",
+  "county": "Jefferson",
+  "observers": "Carla Blair",
+  "comments": "",
+  "citations": "Semo, L. and Faulkner, D.  The 52nd Report of the CBRC. Colorado Birds 43(4), 268-281.",
+  "documentations": [
+    {
+      "doc_id": "1181",
+      "reporter": "Carla Blair",
+      "date": "11/23/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1181"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:46.316934"
+}

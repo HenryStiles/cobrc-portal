@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-094",
+  "year": "1997",
+  "location": "Home Lake State Wildlife Area",
+  "county": "Rio Grande",
+  "observers": "Drew Smith, Pearle Sandstrom-Smith, Peter Gent, Hugh Kingery, Mark Janos",
+  "comments": "A well documented female.",
+  "citations": "Janos, M.  1997 Report of the CBRC.  J. of the CFO 33(4), 241-252.",
+  "documentations": [
+    {
+      "doc_id": "13205",
+      "reporter": "Drew Smith, Pearle Sandstrom-Smith, Peter Gent, Hugh Kingery, Mark Janos",
+      "date": "5/25/1997",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13205"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:09.695252"
+}

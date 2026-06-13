@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-214",
+  "year": "2013",
+  "location": "Pastorius State Wildlife Area",
+  "county": "La Plata",
+  "observers": "Susan Allerton",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2580",
+      "reporter": "Susan Allerton",
+      "date": "9/19/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2580"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:25.614218"
+}

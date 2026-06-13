@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-74-61",
+  "year": "1974",
+  "location": "South Republican SWA",
+  "county": "Yuma",
+  "observers": "Robert Spencer, Steve Larson, Bob Spencer, Steve Larson",
+  "comments": "",
+  "citations": "Reddall, J. 1975. Records from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "16072",
+      "reporter": "Bob Spencer, Steve Larson",
+      "date": "5/11/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16072"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:44.452425"
+}

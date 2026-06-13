@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-002",
+  "year": "2001",
+  "location": "Burlington",
+  "county": "Kit Carson",
+  "observers": "Chris Wood",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "14770",
+      "reporter": "Chris Wood",
+      "date": "5/13/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14770"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:35.478530"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2021-030",
+  "year": "2021",
+  "location": "Hale area",
+  "county": "Yuma",
+  "observers": "David Dowell",
+  "comments": "",
+  "citations": "The 83rd Report of the Colorado Bird Records Committee,  Peter R. Gent, Colorado Birds, 57(2), 61-70, 2023.",
+  "documentations": [
+    {
+      "doc_id": "11972",
+      "reporter": "David Dowell",
+      "date": "5/16/2021",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11972"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:51.087470"
+}

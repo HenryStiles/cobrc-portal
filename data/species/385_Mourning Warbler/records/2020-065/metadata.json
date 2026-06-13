@@ -1,0 +1,26 @@
+{
+  "acc_no": "2020-065",
+  "year": "2020",
+  "location": "Hale area",
+  "county": "Yuma",
+  "observers": "Jack Bushong, David Dowell",
+  "comments": "",
+  "citations": "The 82nd Report of the CBRC, 2022. Colorado Birds, 56(4), 283-294.",
+  "documentations": [
+    {
+      "doc_id": "11966",
+      "reporter": "David Dowell",
+      "date": "5/16/2000",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11966"
+    },
+    {
+      "doc_id": "11903",
+      "reporter": "Jack Bushong",
+      "date": "5/16/2020",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11903"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:03.036566"
+}

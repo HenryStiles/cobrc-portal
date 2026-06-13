@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-104",
+  "year": "2008",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Walter Szeliga",
+  "comments": "Age: imm.; Plumage: basic; Sex: ?;",
+  "citations": "Semo, L.  The 51st Report of the CBRC. Colorado Birds 43(3), 193-204.",
+  "documentations": [
+    {
+      "doc_id": "1077",
+      "reporter": "Walter Szeliga",
+      "date": "9/11/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1077"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:10.377901"
+}

@@ -1,0 +1,82 @@
+{
+  "acc_no": "2005-071",
+  "year": "2005",
+  "location": "Fort Collins City Park/Grandview Cemetery",
+  "county": "Larimer",
+  "observers": "Cole Wild, Tony Leukering, Doug Faulkner, Norm Lewis, Nathan Pieplow, Peter Gent, Thomas Heinrich, Larry Griffin, Bill Schmoker, Dave Leatherman",
+  "comments": "",
+  "citations": "Semo, L.  The 42nd Report of the CBRC. Colorado Birds 40(3), 133-156.",
+  "documentations": [
+    {
+      "doc_id": "13686",
+      "reporter": "Dave Leatherman",
+      "date": "6/18/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13686"
+    },
+    {
+      "doc_id": "155",
+      "reporter": "C W",
+      "date": "6/22/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=155"
+    },
+    {
+      "doc_id": "277",
+      "reporter": "Tony Leukering",
+      "date": "6/22/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=277"
+    },
+    {
+      "doc_id": "158",
+      "reporter": "Doug Faulkner",
+      "date": "6/23/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=158"
+    },
+    {
+      "doc_id": "163",
+      "reporter": "Norm Lewis",
+      "date": "6/23/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=163"
+    },
+    {
+      "doc_id": "338",
+      "reporter": "Nathan Pieplow",
+      "date": "6/24/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=338"
+    },
+    {
+      "doc_id": "137",
+      "reporter": "Thomas Heinrich",
+      "date": "6/24/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=137"
+    },
+    {
+      "doc_id": "154",
+      "reporter": "Peter Gent",
+      "date": "6/24/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=154"
+    },
+    {
+      "doc_id": "138",
+      "reporter": "Larry Griffin",
+      "date": "6/25/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=138"
+    },
+    {
+      "doc_id": "271",
+      "reporter": "Bill Schmoker",
+      "date": "7/1/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=271"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:01.152538"
+}

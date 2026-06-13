@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-96-85",
+  "year": "1996",
+  "location": "Flagler Reservoir State Wildlife Area",
+  "county": "Kit Carson",
+  "observers": "Bonnie Stout",
+  "comments": "",
+  "citations": "Janos, M.  1996 Report of the CBRC.  J. of the CFO 32(3), 173-187.",
+  "documentations": [
+    {
+      "doc_id": "14704",
+      "reporter": "Bonnie Stout",
+      "date": "5/7/1996",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14704"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:51.159313"
+}

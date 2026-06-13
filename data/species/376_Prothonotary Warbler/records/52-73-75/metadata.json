@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-73-75",
+  "year": "1973",
+  "location": "Pueblo",
+  "county": "Pueblo",
+  "observers": "David Silverman, Van Truan",
+  "comments": "",
+  "citations": "Reddall, J. 1974. Reports from the CFO Official Records Committee. Colorado Field Ornithologist 19:11-41.",
+  "documentations": [
+    {
+      "doc_id": "16070",
+      "reporter": "David Silverman, Van Truan",
+      "date": "5/3/1973",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16070"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:43.452859"
+}

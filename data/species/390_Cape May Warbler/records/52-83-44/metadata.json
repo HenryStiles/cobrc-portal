@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-83-44",
+  "year": "1983",
+  "location": "Prewitt Reservoir State Wildlife Area",
+  "county": "Washington",
+  "observers": "Laurens Halsey",
+  "comments": "",
+  "citations": "Gent, P.  1983 Report of the CBRC. CFO Journal 19(1-2), 28-33.",
+  "documentations": [
+    {
+      "doc_id": "14758",
+      "reporter": "Laurens Halsey",
+      "date": "5/20/1983",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14758"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:19.793156"
+}

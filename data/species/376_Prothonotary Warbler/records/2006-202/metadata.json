@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-202",
+  "year": "2006",
+  "location": "Melody Tempel Grove",
+  "county": "Bent",
+  "observers": "Brandon K Percival",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "407",
+      "reporter": "Brandon K Percival",
+      "date": "5/1/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=407"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:20.193334"
+}

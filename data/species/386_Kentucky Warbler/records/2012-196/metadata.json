@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-196",
+  "year": "2011",
+  "location": "USFS work station E of Pritchett",
+  "county": "Baca",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2197",
+      "reporter": "Tony Leukering",
+      "date": "5/31/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2197"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:35.380265"
+}

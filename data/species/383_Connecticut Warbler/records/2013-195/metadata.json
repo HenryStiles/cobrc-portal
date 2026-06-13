@@ -1,0 +1,26 @@
+{
+  "acc_no": "2013-195",
+  "year": "2013",
+  "location": "Prewitt Reservoir State Wildlife Area",
+  "county": "Washington",
+  "observers": "Glenn Walbek, Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2558",
+      "reporter": "Glenn Walbek",
+      "date": "9/2/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2558"
+    },
+    {
+      "doc_id": "2566",
+      "reporter": "Steven Mlodinow",
+      "date": "9/2/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2566"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:18.892944"
+}

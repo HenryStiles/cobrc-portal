@@ -1,0 +1,19 @@
+{
+  "acc_no": "2018-040",
+  "year": "2018",
+  "location": "Sinton Pond Open Space",
+  "county": "El Paso",
+  "observers": "Bill Maynard",
+  "comments": "",
+  "citations": "Colorado Birds 56(3), 213-222, 2022",
+  "documentations": [
+    {
+      "doc_id": "11672",
+      "reporter": "Bill Maynard",
+      "date": "4/14/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11672"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:11.481259"
+}

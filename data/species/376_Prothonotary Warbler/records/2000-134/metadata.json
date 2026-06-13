@@ -1,0 +1,19 @@
+{
+  "acc_no": "2000-134",
+  "year": "2000",
+  "location": "SE of Rds JJ & 16",
+  "county": "Bent",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "3935",
+      "reporter": "Mark Janos",
+      "date": "10/8/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3935"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:13.963546"
+}

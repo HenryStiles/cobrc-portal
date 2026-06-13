@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-142",
+  "year": "2010",
+  "location": "La Veta",
+  "county": "Huerfano",
+  "observers": "Polly Neldner",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1508",
+      "reporter": "Polly Neldner",
+      "date": "11/8/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1508"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:49.387295"
+}

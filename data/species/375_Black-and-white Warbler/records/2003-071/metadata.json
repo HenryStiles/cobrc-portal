@@ -1,0 +1,19 @@
+{
+  "acc_no": "2003-071",
+  "year": "2003",
+  "location": "Montrose",
+  "county": "Montrose",
+  "observers": "Ronda Woodward",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  The 39th Report of the CBRC. Colorado Birds 39(3), 131-141.",
+  "documentations": [
+    {
+      "doc_id": "14609",
+      "reporter": "Ronda Woodward",
+      "date": "9/1/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14609"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:24.315052"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-82-27",
+  "year": "1982",
+  "location": "CU Campus",
+  "county": "Boulder",
+  "observers": "Tim Manolis, Doug & Judy Ward, Peter Ostrenko",
+  "comments": "",
+  "citations": "Gent, P.  1982 Report of the CBRC. CFO Journal 18(2), 51-57.",
+  "documentations": [
+    {
+      "doc_id": "16131",
+      "reporter": "Tim Manolis, Doug & Judy Ward, Peter Ostrenko",
+      "date": "5/28/1982",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16131"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:44.526890"
+}

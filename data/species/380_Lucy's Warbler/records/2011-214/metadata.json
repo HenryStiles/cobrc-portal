@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-214",
+  "year": "2011",
+  "location": "Yellow Jacket Canyon",
+  "county": "Montezuma",
+  "observers": "Matt Newport",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1701",
+      "reporter": "Matt Newport",
+      "date": "6/3/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1701"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:59.196562"
+}

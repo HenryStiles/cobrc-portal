@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-74-33",
+  "year": "1974",
+  "location": "Avondale",
+  "county": "Pueblo",
+  "observers": "Dave Griffiths",
+  "comments": "",
+  "citations": "Reddall, J. 1975. Reports from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "14686",
+      "reporter": "Dave Griffiths",
+      "date": "5/9/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14686"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:26.088894"
+}
