@@ -1,0 +1,19 @@
+{
+  "acc_no": "21-75-64",
+  "year": "1975",
+  "location": "Monte Vista National Wildlife Refuge",
+  "county": "Rio Grande",
+  "observers": "Charles Bryant, William Johnson",
+  "comments": "",
+  "citations": "Reddall, J. 1976. CFO Official Records Committee 1975 Report. C.F.O. Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "16203",
+      "reporter": "Charles Bryant, William Johnson",
+      "date": "5/28/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16203"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:43.809650"
+}

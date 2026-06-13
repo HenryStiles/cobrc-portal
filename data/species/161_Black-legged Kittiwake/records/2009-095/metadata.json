@@ -1,0 +1,26 @@
+{
+  "acc_no": "2009-095",
+  "year": "2009",
+  "location": "Colorado Springs",
+  "county": "El Paso",
+  "observers": "Bill Kosar, Bill Maynard",
+  "comments": "Age: 2nd-cycle; Plumage: basic;",
+  "citations": "Semo, L. and Faulkner, D. The 57th Report of the CBRC. Colorado Birds 45(1), 30-41.",
+  "documentations": [
+    {
+      "doc_id": "1334",
+      "reporter": "Bill Kosar",
+      "date": "11/8/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1334"
+    },
+    {
+      "doc_id": "1330",
+      "reporter": "Bill Maynard",
+      "date": "11/9/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1330"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:20.744456"
+}

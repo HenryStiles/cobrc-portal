@@ -1,0 +1,26 @@
+{
+  "acc_no": "2006-151",
+  "year": "2006",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Glenn Walbek, Tony Leukering",
+  "comments": "Age: juv; Plumage: basic;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "673",
+      "reporter": "Glenn Walbek",
+      "date": "11/2/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=673"
+    },
+    {
+      "doc_id": "611",
+      "reporter": "Tony Leukering",
+      "date": "12/15/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=611"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:11.247438"
+}

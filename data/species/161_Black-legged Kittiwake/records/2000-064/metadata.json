@@ -1,0 +1,26 @@
+{
+  "acc_no": "2000-064",
+  "year": "2000",
+  "location": "John Martin Reservoir State Park",
+  "county": "Bent",
+  "observers": "Chris Wood, Ric Olson",
+  "comments": "",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "2727",
+      "reporter": "Chris Wood",
+      "date": "1/19/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2727"
+    },
+    {
+      "doc_id": "2726",
+      "reporter": "Ric Olson",
+      "date": "1/22/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2726"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:02.099873"
+}

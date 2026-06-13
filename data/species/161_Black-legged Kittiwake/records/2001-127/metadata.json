@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-127",
+  "year": "2001",
+  "location": "Chatfield State Park",
+  "county": "Jefferson",
+  "observers": "Bill Schmoker",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16069",
+      "reporter": "Bill Schmoker",
+      "date": "12/2/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16069"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:06.798991"
+}

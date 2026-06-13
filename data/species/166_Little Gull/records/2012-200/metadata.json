@@ -1,0 +1,26 @@
+{
+  "acc_no": "2012-200",
+  "year": "2012",
+  "location": "Windsor",
+  "county": "Weld",
+  "observers": "Nicholas Komar, Sean Walters",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2200",
+      "reporter": "Nicholas Komar",
+      "date": "12/2/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2200"
+    },
+    {
+      "doc_id": "2206",
+      "reporter": "Sean Walters",
+      "date": "12/2/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2206"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:53.163153"
+}

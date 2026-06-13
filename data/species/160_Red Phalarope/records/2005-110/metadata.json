@@ -1,0 +1,26 @@
+{
+  "acc_no": "2005-110",
+  "year": "2005",
+  "location": "Fruitgrowers Reservoir (Hart's Basin)",
+  "county": "Delta",
+  "observers": "Andrew Spencer, Nathan Pieplow",
+  "comments": "Age: juv; Plumage: basic;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "194",
+      "reporter": "Andrew Spencer",
+      "date": "10/14/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=194"
+    },
+    {
+      "doc_id": "537",
+      "reporter": "Nathan Pieplow",
+      "date": "10/14/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=537"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:19.810141"
+}

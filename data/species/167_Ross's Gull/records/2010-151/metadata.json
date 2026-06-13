@@ -1,0 +1,47 @@
+{
+  "acc_no": "2010-151",
+  "year": "2010",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Glenn Walbek, Peter Gent, Bill Maynard, Branon Percival, Bill Schmoker, Joe Roller",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1517",
+      "reporter": "Brandon K Percival",
+      "date": "11/19/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1517"
+    },
+    {
+      "doc_id": "1519",
+      "reporter": "Peter Gent",
+      "date": "11/19/2010",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1519"
+    },
+    {
+      "doc_id": "1522",
+      "reporter": "Glenn Walbek",
+      "date": "11/19/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1522"
+    },
+    {
+      "doc_id": "1534",
+      "reporter": "Bill Maynard",
+      "date": "11/23/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1534"
+    },
+    {
+      "doc_id": "1583",
+      "reporter": "Bill Schmoker",
+      "date": "11/23/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1583"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:52.324295"
+}

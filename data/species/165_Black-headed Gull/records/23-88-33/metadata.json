@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-88-33",
+  "year": "1988",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Steve Stachowiak, Jack Reddall, David Martin",
+  "comments": "Old Acc. No. 23-88-33 First Colorado state record.",
+  "citations": "Gent, P. and Nelson, D.  1988 Report of the CBRC. CFO Journal 26(4), 137-142.",
+  "documentations": [
+    {
+      "doc_id": "13181",
+      "reporter": "Steve Stachowiak, Jack Redall, David Martin",
+      "date": "10/8/1988",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13181"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:29.541419"
+}

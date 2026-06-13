@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-124",
+  "year": "2010",
+  "location": "Redlands Parkway South Pond",
+  "county": "Mesa",
+  "observers": "Robert Bradley",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1546",
+      "reporter": "Robert Bradley",
+      "date": "10/3/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1546"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:03.660084"
+}

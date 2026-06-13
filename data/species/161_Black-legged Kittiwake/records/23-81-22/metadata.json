@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-81-22",
+  "year": "1980",
+  "location": "Valmont Reservoir complex",
+  "county": "Boulder",
+  "observers": "Peter Gent",
+  "comments": "",
+  "citations": "Chase, C.  1980-1981 Report of the CBRC. CFO Journal 16(3), 46-52.",
+  "documentations": [
+    {
+      "doc_id": "16044",
+      "reporter": "Peter Gent",
+      "date": "12/6/1980",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16044"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:45.282502"
+}

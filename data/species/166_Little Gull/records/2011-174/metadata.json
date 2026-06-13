@@ -1,0 +1,33 @@
+{
+  "acc_no": "2011-174",
+  "year": "2011",
+  "location": "Union Reservoir",
+  "county": "Weld",
+  "observers": "Steve Mlodinow, Thomas Hall",
+  "comments": "Age: adult, imm;",
+  "citations": "Faulkner, D. The 64th Report of the CBRC. Colorado Birds 46(4), 255-267.",
+  "documentations": [
+    {
+      "doc_id": "1875",
+      "reporter": "Steven Mlodinow",
+      "date": "12/1/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1875"
+    },
+    {
+      "doc_id": "1885",
+      "reporter": "Steven Mlodinow",
+      "date": "12/1/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1885"
+    },
+    {
+      "doc_id": "1884",
+      "reporter": "Thomas Hall",
+      "date": "12/3/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1884"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:49.680912"
+}

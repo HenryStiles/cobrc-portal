@@ -1,0 +1,26 @@
+{
+  "acc_no": "2013-220",
+  "year": "2013",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Brandon Percival, Bill Maynard",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2594",
+      "reporter": "Brandon Percival",
+      "date": "10/5/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2594"
+    },
+    {
+      "doc_id": "2588",
+      "reporter": "Bill Maynard",
+      "date": "10/7/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2588"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:55.945508"
+}

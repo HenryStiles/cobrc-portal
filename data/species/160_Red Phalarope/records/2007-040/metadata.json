@@ -1,0 +1,40 @@
+{
+  "acc_no": "2007-040",
+  "year": "2007",
+  "location": "Pawnee National Grasslands (western section)",
+  "county": "Weld",
+  "observers": "Gregg Goodrich, Andrew Spencer, Bill Maynard, Doug Faulkner",
+  "comments": "Age: adult; Plumage: alternate; Sex: f;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "731",
+      "reporter": "Gregg Goodrich",
+      "date": "6/2/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=731"
+    },
+    {
+      "doc_id": "756",
+      "reporter": "Andrew Spencer",
+      "date": "6/3/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=756"
+    },
+    {
+      "doc_id": "735",
+      "reporter": "Bill Maynard",
+      "date": "6/5/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=735"
+    },
+    {
+      "doc_id": "748",
+      "reporter": "Doug Faulkner",
+      "date": "6/7/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=748"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:22.099082"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-96-22",
+  "year": "1996",
+  "location": "Walden Reservoir",
+  "county": "Jackson",
+  "observers": "Paul Lehman, Shawneen Finnegan",
+  "comments": "",
+  "citations": "Janos, M.  1996 Report of the CBRC.  J. of the CFO 32(3), 173-187.",
+  "documentations": [
+    {
+      "doc_id": "14077",
+      "reporter": "Paul Lehman, Shawneen Finnegan",
+      "date": "6/14/1996",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14077"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:27.710707"
+}

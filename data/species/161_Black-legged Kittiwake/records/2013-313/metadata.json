@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-313",
+  "year": "2013",
+  "location": "Lower Latham Reservoir",
+  "county": "Weld",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2663",
+      "reporter": "Steven Mlodinow",
+      "date": "11/6/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2663"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:37.557507"
+}

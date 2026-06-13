@@ -1,0 +1,26 @@
+{
+  "acc_no": "2010-159",
+  "year": "2010",
+  "location": "Union Reservoir",
+  "county": "Weld",
+  "observers": "Ted Floyd, Cole Wild",
+  "comments": "Age: juv;",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1531",
+      "reporter": "Ted Floyd",
+      "date": "12/4/2010",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1531"
+    },
+    {
+      "doc_id": "1574",
+      "reporter": "C W",
+      "date": "12/4/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1574"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:30.149644"
+}

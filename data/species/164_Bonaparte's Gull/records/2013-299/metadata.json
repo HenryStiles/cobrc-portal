@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-299",
+  "year": "2013",
+  "location": "Golden ponds nature area,first pond.",
+  "county": "Boulder",
+  "observers": "Clem Dabrowski",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2424",
+      "reporter": "Clem Dabrowski",
+      "date": "4/12/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2424"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:47.427465"
+}

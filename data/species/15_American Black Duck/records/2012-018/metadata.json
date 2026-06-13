@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-018",
+  "year": "2012",
+  "location": "Jackson Reservoir",
+  "county": "Morgan",
+  "observers": "Steve Mlodinow",
+  "comments": "Age: adult; Sex: m;",
+  "citations": "Faulkner, D. The 65th Report of the CBRC. Colorado Birds 47(1), 28-37.",
+  "documentations": [
+    {
+      "doc_id": "1939",
+      "reporter": "Steven Mlodinow",
+      "date": "2/19/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1939"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:43.144036"
+}

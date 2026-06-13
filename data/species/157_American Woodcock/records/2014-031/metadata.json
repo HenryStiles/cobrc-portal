@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-031",
+  "year": "2013",
+  "location": "Fountain Creek Regional Park",
+  "county": "El Paso",
+  "observers": "Ken Pals",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2838",
+      "reporter": "Ken Pals",
+      "date": "1/15/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2838"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:08.393932"
+}

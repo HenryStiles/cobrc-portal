@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-95-39",
+  "year": "1995",
+  "location": "Union Reservoir",
+  "county": "Weld",
+  "observers": "Joe Mammoser",
+  "comments": "",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "14076",
+      "reporter": "Joe Mammoser",
+      "date": "9/24/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14076"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:26.317129"
+}

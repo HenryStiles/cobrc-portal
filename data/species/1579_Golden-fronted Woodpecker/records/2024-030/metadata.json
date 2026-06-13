@@ -1,0 +1,40 @@
+{
+  "acc_no": "2024-030",
+  "year": "2024",
+  "location": "Aroya",
+  "county": "Cheyenne",
+  "observers": "Glenn Walbek, Steve Stachowiak, Brandon K. Percival, Peter  Gent",
+  "comments": "First Colorado record.",
+  "citations": "Gent, P., 2025. 87th Report of the CBRC.  Colorado Birds, 59(1), 7-15.",
+  "documentations": [
+    {
+      "doc_id": "14246",
+      "reporter": "Glenn Walbek",
+      "date": "9/17/2024",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14246"
+    },
+    {
+      "doc_id": "14243",
+      "reporter": "Steve Stachowiak",
+      "date": "9/17/2024",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14243"
+    },
+    {
+      "doc_id": "14253",
+      "reporter": "Brandon K. Percival",
+      "date": "9/17/2024",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14253"
+    },
+    {
+      "doc_id": "14245",
+      "reporter": "Peter  Gent",
+      "date": "9/18/2024",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14245"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:52.223629"
+}

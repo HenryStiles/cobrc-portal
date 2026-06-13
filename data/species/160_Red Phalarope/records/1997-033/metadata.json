@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-033",
+  "year": "1997",
+  "location": "Antero Reservoir",
+  "county": "Park",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "Janos, M.  1997 Report of the CBRC.  J. of the CFO 33(4), 241-252.",
+  "documentations": [
+    {
+      "doc_id": "16220",
+      "reporter": "Tony Leukering",
+      "date": "6/8/1997",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16220"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:02.743164"
+}

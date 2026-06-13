@@ -1,0 +1,26 @@
+{
+  "acc_no": "2026-003",
+  "year": "2026",
+  "location": "Durango",
+  "county": "La Plata",
+  "observers": "Kristine Holasek, Tom Caglioti",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16296",
+      "reporter": "Kristine Holasek",
+      "date": "1/17/2026",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16296"
+    },
+    {
+      "doc_id": "16295",
+      "reporter": "TOM CAGLIOTI",
+      "date": "1/17/2026",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16295"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:48.786138"
+}

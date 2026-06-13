@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-90-22",
+  "year": "1990",
+  "location": "Jim Hamm Nature Area",
+  "county": "Boulder & Weld",
+  "observers": "Mark Janos",
+  "comments": "Old Acc. No. 23-90-22 This bird was seen by many for several days, but this is the only record submitted.",
+  "citations": "Nelson, D.  1990 Report of the CBRC. CFO Journal 26(3), 91-97.",
+  "documentations": [
+    {
+      "doc_id": "13182",
+      "reporter": "Mark Janos",
+      "date": "4/14/1990",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13182"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:31.590870"
+}

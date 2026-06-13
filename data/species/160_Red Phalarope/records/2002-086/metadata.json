@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-086",
+  "year": "2002",
+  "location": "Vega State Park and Reservoir",
+  "county": "Mesa",
+  "observers": "Rich Levad, Mike Henwood",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  The 38th Report of the CBRC. Colorado Birds 38(4), 168-183.",
+  "documentations": [
+    {
+      "doc_id": "16225",
+      "reporter": "Rich Levad, Mike Henwood",
+      "date": "10/12/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16225"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:12.072205"
+}

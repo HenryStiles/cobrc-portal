@@ -1,0 +1,26 @@
+{
+  "acc_no": "2024-032",
+  "year": "2024",
+  "location": "Cottonwood Canyon",
+  "county": "Baca",
+  "observers": "Brian Genge, Josh Bruening",
+  "comments": "First Colorado record.",
+  "citations": "Gent, P., The 88th Report of the CBRC. Colorado Birds 59(3), 192-197.",
+  "documentations": [
+    {
+      "doc_id": "14476",
+      "reporter": "Brian Genge",
+      "date": "11/30/2024",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14476"
+    },
+    {
+      "doc_id": "14452",
+      "reporter": "Josh Bruening",
+      "date": "12/6/2024",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14452"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:15.853328"
+}

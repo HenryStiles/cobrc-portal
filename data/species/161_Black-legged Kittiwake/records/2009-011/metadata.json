@@ -1,0 +1,26 @@
+{
+  "acc_no": "2009-011",
+  "year": "2009",
+  "location": "Jumbo Reservoir State Wildlife Area",
+  "county": "Sedgwick",
+  "observers": "Mark Miller, Cole Wild",
+  "comments": "Age: 1st cycle; Plumage: basic;",
+  "citations": "Semo, L. and Faulkner, D.  The 53rd Report of the CBRC. Colorado Birds 44(1), 31-42.",
+  "documentations": [
+    {
+      "doc_id": "1193",
+      "reporter": "Mark Miller",
+      "date": "3/21/2009",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1193"
+    },
+    {
+      "doc_id": "1198",
+      "reporter": "C W",
+      "date": "3/23/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1198"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:19.186098"
+}

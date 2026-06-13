@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-014",
+  "year": "2005",
+  "location": "Eleven Mile State Park",
+  "county": "Park",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2812",
+      "reporter": "Tony Leukering",
+      "date": "10/29/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2812"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:08.929858"
+}

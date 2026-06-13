@@ -1,0 +1,26 @@
+{
+  "acc_no": "2024-040",
+  "year": "2024",
+  "location": "Pueblo Reservoir",
+  "county": "Pueblo",
+  "observers": "Brandon Percival, Alan Ketcham",
+  "comments": "",
+  "citations": "Gent, P., The 88th Report of the CBRC. Colorado Birds 59(3), 192-197.",
+  "documentations": [
+    {
+      "doc_id": "14255",
+      "reporter": "Brandon Percival",
+      "date": "9/17/2024",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14255"
+    },
+    {
+      "doc_id": "14247",
+      "reporter": "Alan Ketcham",
+      "date": "9/18/2024",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14247"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:07.425221"
+}

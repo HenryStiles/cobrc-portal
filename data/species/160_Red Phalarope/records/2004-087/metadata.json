@@ -1,0 +1,26 @@
+{
+  "acc_no": "2004-087",
+  "year": "2003",
+  "location": "Eleven Mile State Park",
+  "county": "Park",
+  "observers": "Andrew Spencer, Nathan Pieplow",
+  "comments": "Age: adult; Plumage: basic; Sex: m;",
+  "citations": "Semo, L.  The 44th Report of the CBRC. Colorado Birds 41(4), 241-258.",
+  "documentations": [
+    {
+      "doc_id": "514",
+      "reporter": "Andrew Spencer",
+      "date": "10/18/2003",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=514"
+    },
+    {
+      "doc_id": "16229",
+      "reporter": "Nathan Pieplow",
+      "date": "10/18/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16229"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:13.119815"
+}

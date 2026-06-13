@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-92-40",
+  "year": "1992",
+  "location": "Lower Latham Reservoir",
+  "county": "Weld",
+  "observers": "Joe Himmel",
+  "comments": "",
+  "citations": "Prather, B.  1992 Report of the CBRC. CFO Jornal 28(4), 157-168.",
+  "documentations": [
+    {
+      "doc_id": "13487",
+      "reporter": "Joe Himmel",
+      "date": "9/6/1992",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13487"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:32.639704"
+}

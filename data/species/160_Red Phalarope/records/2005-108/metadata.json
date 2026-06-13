@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-108",
+  "year": "2005",
+  "location": "Boulder Reservoir",
+  "county": "Boulder",
+  "observers": "Bill Schmoker",
+  "comments": "Age: juv; Plumage: basic;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "267",
+      "reporter": "Bill Schmoker",
+      "date": "10/12/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=267"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:18.901574"
+}

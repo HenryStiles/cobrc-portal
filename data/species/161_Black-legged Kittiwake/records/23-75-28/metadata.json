@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-75-28",
+  "year": "1975",
+  "location": "Boyd Lake State Park",
+  "county": "Larimer",
+  "observers": "Bruce Webb, Bob Andrews, Steve Larson, Bruce Bosley",
+  "comments": "",
+  "citations": "Reddall, J. 1976. CFO Official Records Committee 1975 Report. C.F.O. Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "16041",
+      "reporter": "Bruce Webb, Bob Andrews, Steve Larson, Bruce Bosley",
+      "date": "3/8/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16041"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:41.517850"
+}

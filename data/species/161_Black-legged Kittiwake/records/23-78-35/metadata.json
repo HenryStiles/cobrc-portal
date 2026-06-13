@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-78-35",
+  "year": "1978",
+  "location": "Totten Reservoir",
+  "county": "Montezuma",
+  "observers": "Robbie Elliott",
+  "comments": "",
+  "citations": "Chase, C.  1977-1980 Pt.2 Report of the CBRC. CFO Journal 15(2), 54-59.",
+  "documentations": [
+    {
+      "doc_id": "16043",
+      "reporter": "Robbie Elliott",
+      "date": "3/21/1978",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16043"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:44.395830"
+}

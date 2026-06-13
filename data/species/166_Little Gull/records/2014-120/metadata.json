@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-120",
+  "year": "2014",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Alec Hopping",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "5102",
+      "reporter": "Alec Hopping",
+      "date": "8/19/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5102"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:59.646797"
+}

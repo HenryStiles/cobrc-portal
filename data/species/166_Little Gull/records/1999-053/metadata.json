@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-053",
+  "year": "1999",
+  "location": "Union Reservoir",
+  "county": "Weld",
+  "observers": "Steve Dinsmore",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "14088",
+      "reporter": "Steve Dinsmore",
+      "date": "10/5/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14088"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:34.917347"
+}

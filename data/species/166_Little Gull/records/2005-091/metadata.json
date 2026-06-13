@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-091",
+  "year": "2005",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Brandon Percival",
+  "comments": "Age: juv.; Plumage: basic;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214. Note that it is incorrectly labelled 2006-091 in this report.",
+  "documentations": [
+    {
+      "doc_id": "169",
+      "reporter": "Brandon K Percival",
+      "date": "9/13/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=169"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:45.477470"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-96-29",
+  "year": "1996",
+  "location": "Douglas Reservoir",
+  "county": "Larimer",
+  "observers": "Bill Lisowsky, Tony Leukering",
+  "comments": "",
+  "citations": "Janos, M.  1996 Report of the CBRC.  J. of the CFO 32(3), 173-187.",
+  "documentations": [
+    {
+      "doc_id": "16060",
+      "reporter": "Bill Lisowsky, Tony Leukering",
+      "date": "11/23/1996",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16060"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:57.605140"
+}

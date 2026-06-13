@@ -1,0 +1,26 @@
+{
+  "acc_no": "2014-085",
+  "year": "2014",
+  "location": "Wahatoay Lake Reservoir",
+  "county": "Huerfano",
+  "observers": "Polly Wren Neldner, Brandon Percival",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "4040",
+      "reporter": "Polly Wren Neldner",
+      "date": "7/31/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4040"
+    },
+    {
+      "doc_id": "4041",
+      "reporter": "Brandon Percival",
+      "date": "7/31/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4041"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:12.376419"
+}

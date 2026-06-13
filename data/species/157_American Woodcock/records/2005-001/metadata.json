@@ -1,0 +1,26 @@
+{
+  "acc_no": "2005-001",
+  "year": "2005",
+  "location": "Sand Creek Greenway",
+  "county": "Adams",
+  "observers": "Randy Lentz, Joey Kellner, Glenn Walbek, Peter Frechtel",
+  "comments": "",
+  "citations": "Semo, L.  The 44th Report of the CBRC. Colorado Birds 41(4), 241-258.",
+  "documentations": [
+    {
+      "doc_id": "13677",
+      "reporter": "Randy Lentz, Glenn Walbek, Peter Frechtel",
+      "date": "12/31/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13677"
+    },
+    {
+      "doc_id": "27",
+      "reporter": "Joey Kellner",
+      "date": "1/2/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=27"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:02.575344"
+}

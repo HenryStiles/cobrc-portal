@@ -1,0 +1,26 @@
+{
+  "acc_no": "2015-125",
+  "year": "2015",
+  "location": "Colorado State University campus",
+  "county": "Larimer",
+  "observers": "John Shenot, Andrew Bankert",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "6365",
+      "reporter": "John Shenot",
+      "date": "11/21/2015",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6365"
+    },
+    {
+      "doc_id": "6368",
+      "reporter": "Andrew Bankert",
+      "date": "11/21/2015",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6368"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:34.241074"
+}

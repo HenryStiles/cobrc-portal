@@ -1,0 +1,33 @@
+{
+  "acc_no": "2014-021",
+  "year": "2014",
+  "location": "Fountain Creek Regional Park",
+  "county": "El Paso",
+  "observers": "Cheryl  Teuton, Bill Maynard, Brandon Percival",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2820",
+      "reporter": "Cheryl  Teuton",
+      "date": "2/9/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2820"
+    },
+    {
+      "doc_id": "2826",
+      "reporter": "Bill Maynard",
+      "date": "2/9/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2826"
+    },
+    {
+      "doc_id": "2821",
+      "reporter": "Brandon Percival",
+      "date": "2/9/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2821"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:27.597927"
+}

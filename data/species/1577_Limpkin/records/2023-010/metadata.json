@@ -1,0 +1,54 @@
+{
+  "acc_no": "2023-010",
+  "year": "2023",
+  "location": "Ramah Reservoir",
+  "county": "El Paso",
+  "observers": "Karen Rau, Steve Stachowiak, Brandon K. Percival, Aaron Driscoll, Todd Deininger, Pamela StClair",
+  "comments": "First Colorado State Record.",
+  "citations": "Gent, P.  85th Report of the CBRC. Colorado Birds 58(1), 7-14.",
+  "documentations": [
+    {
+      "doc_id": "13335",
+      "reporter": "Karen Rau",
+      "date": "6/23/2023",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13335"
+    },
+    {
+      "doc_id": "13358",
+      "reporter": "Pamela StClair",
+      "date": "6/23/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13358"
+    },
+    {
+      "doc_id": "13336",
+      "reporter": "Steve Stachowiak",
+      "date": "6/23/2023",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13336"
+    },
+    {
+      "doc_id": "13338",
+      "reporter": "Brandon K. Percival",
+      "date": "6/24/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13338"
+    },
+    {
+      "doc_id": "13337",
+      "reporter": "Aaron Driscoll",
+      "date": "6/24/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13337"
+    },
+    {
+      "doc_id": "13352",
+      "reporter": "Todd Deininger",
+      "date": "6/24/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13352"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:06.896429"
+}

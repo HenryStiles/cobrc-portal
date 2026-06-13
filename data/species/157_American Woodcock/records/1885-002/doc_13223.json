@@ -1,0 +1,38 @@
+{
+  "doc_id": "13223",
+  "scraped_at": "2026-06-13T14:36:55.227733",
+  "species": "American Woodcock",
+  "acc_no": "1885-002",
+  "reporter_name": "H. Smith",
+  "address": "",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "reporter_email": "",
+  "other_observers": "",
+  "species_name": "American Woodcock",
+  "first_date": "8/9/1885 8:00:00 AM",
+  "last_date": "8/9/1885 8:05:00 AM",
+  "duration": "",
+  "county": "Denver",
+  "specific_location": "Denver",
+  "number_of_birds": "1",
+  "age": "Unknown",
+  "sex": "Unknown",
+  "plumage": "Other/Unknown",
+  "description": "",
+  "photographer": "Photographer: H. Smith, H. Smith",
+  "photos_text": "PDF",
+  "uploads_text": "13223_amwo-14760.pdf\n13223_amwo-1886-14760.pdf",
+  "date_submitted": "3/27/2023 2:20:00 PM",
+  "attachments": [
+    {
+      "filename": "13223_amwo-14760.pdf",
+      "url": "/RecordUploads/13223/13223_amwo-14760.pdf"
+    },
+    {
+      "filename": "13223_amwo-1886-14760.pdf",
+      "url": "/RecordUploads/13223/13223_amwo-1886-14760.pdf"
+    }
+  ]
+}

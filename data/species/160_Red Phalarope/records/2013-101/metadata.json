@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-101",
+  "year": "2012",
+  "location": "Ridgway Reservoir",
+  "county": "Ouray",
+  "observers": "Coen Dexter",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2407",
+      "reporter": "Coen Dexter",
+      "date": "8/20/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2407"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:10.892321"
+}

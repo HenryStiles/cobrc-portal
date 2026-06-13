@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-102",
+  "year": "1997",
+  "location": "Valco Ponds",
+  "county": "Pueblo",
+  "observers": "Brandon K Percival",
+  "comments": "",
+  "citations": "Faulkner, D. The 71st Report of the CBRC, Colorado Birds 49(2), 53-57.",
+  "documentations": [
+    {
+      "doc_id": "2411",
+      "reporter": "Brandon K Percival",
+      "date": "12/15/1997",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2411"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:59.365214"
+}

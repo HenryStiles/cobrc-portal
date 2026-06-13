@@ -1,0 +1,19 @@
+{
+  "acc_no": "2000-049",
+  "year": "2000",
+  "location": "Big Johnson Reservoir",
+  "county": "El Paso",
+  "observers": "Jeff Jones, Larry Semo, Mark Janos, Tony Leukering",
+  "comments": "",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "14091",
+      "reporter": "Jeff Jones, Larry Semo, Mark Janos, Tony Leukering",
+      "date": "9/25/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14091"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:37.842545"
+}

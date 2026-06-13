@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-83-32",
+  "year": "1983",
+  "location": "Jumbo Reservoir State Wildlife Area",
+  "county": "Logan & Sedgwick",
+  "observers": "Bill Prather, Bob Andrews, Barry Knapp",
+  "comments": "",
+  "citations": "Gent, P.  1983 Report of the CBRC. CFO Journal 19(1-2), 28-33.",
+  "documentations": [
+    {
+      "doc_id": "13180",
+      "reporter": "Bill Prather, Bob Andrews, Barry Knapp",
+      "date": "4/28/1983",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13180"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:50.638436"
+}

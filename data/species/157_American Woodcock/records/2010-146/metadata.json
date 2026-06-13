@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-146",
+  "year": "2010",
+  "location": "Brighton",
+  "county": "Adams",
+  "observers": "Robert Espeland",
+  "comments": "",
+  "citations": "Faulkner, D. and Semo, L. The 58th Report of the CBRC. Colorado Birds 45(2), 92-101.",
+  "documentations": [
+    {
+      "doc_id": "1528",
+      "reporter": "Robert Espeland",
+      "date": "11/15/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1528"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:04.037439"
+}

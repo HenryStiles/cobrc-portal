@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-82-70",
+  "year": "1982",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Judy Ward",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16047",
+      "reporter": "Judy Ward",
+      "date": "12/5/1982",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16047"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:46.405812"
+}

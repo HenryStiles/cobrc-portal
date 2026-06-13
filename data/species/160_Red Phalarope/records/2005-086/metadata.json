@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-086",
+  "year": "2005",
+  "location": "Prewitt Reservoir State Wildlife Area",
+  "county": "Washington",
+  "observers": "Bill Schmoker",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "268",
+      "reporter": "Bill Schmoker",
+      "date": "9/4/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=268"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:17.263117"
+}

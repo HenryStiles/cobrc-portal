@@ -1,0 +1,19 @@
+{
+  "acc_no": "21-76-91",
+  "year": "1976",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Jack Reddall, Bob Andrews",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "16206",
+      "reporter": "Jack Reddall, Bob Andrews",
+      "date": "9/11/1976",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16206"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:47.306488"
+}

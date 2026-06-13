@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-95-38",
+  "year": "1995",
+  "location": "Clifton",
+  "county": "Mesa",
+  "observers": "Rich Levad",
+  "comments": "Photo Coen Dexter",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "14075",
+      "reporter": "Rich Levad",
+      "date": "9/12/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14075"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:24.969274"
+}

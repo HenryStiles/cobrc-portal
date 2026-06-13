@@ -1,0 +1,26 @@
+{
+  "acc_no": "2000-065",
+  "year": "2000",
+  "location": "Chatfield State Park (Douglas Portion)",
+  "county": "Douglas",
+  "observers": "Karleen Schofield, Larry Semo",
+  "comments": "",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "2730",
+      "reporter": "Karleen Schofield",
+      "date": "10/27/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2730"
+    },
+    {
+      "doc_id": "2731",
+      "reporter": "Larry Semo",
+      "date": "10/27/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2731"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:03.642748"
+}

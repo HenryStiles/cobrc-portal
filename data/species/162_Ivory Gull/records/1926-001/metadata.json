@@ -1,0 +1,19 @@
+{
+  "acc_no": "1926-001",
+  "year": "1926",
+  "location": "15 miles N of Strasburg",
+  "county": "Adams",
+  "observers": "Ross Bliss",
+  "comments": "First seen 12/30/1925. Found dead a few days later: Specimen DMNH #11700.",
+  "citations": "Bailey, A., The Ivory Gull in Colorado. The Condor, 28, 182-183, 1926.",
+  "documentations": [
+    {
+      "doc_id": "13210",
+      "reporter": "Ross Bliss",
+      "date": "1/2/1926",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13210"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:47.112783"
+}

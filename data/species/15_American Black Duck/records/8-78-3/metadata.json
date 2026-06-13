@@ -1,0 +1,19 @@
+{
+  "acc_no": "8-78-3",
+  "year": "1972",
+  "location": "Pole Mountain Reservoir",
+  "county": "Jackson",
+  "observers": "Michael Szymczak",
+  "comments": "",
+  "citations": "Chase, C.  1977-1980 Pt.2 Report of the CBRC. CFO Journal 15(2), 54-59.",
+  "documentations": [
+    {
+      "doc_id": "13483",
+      "reporter": "Michael Szymczak",
+      "date": "9/4/1972",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13483"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:29.053813"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-110",
+  "year": "2015",
+  "location": "Horseshoe Lake",
+  "county": "Larimer",
+  "observers": "Nicholas Komar",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "6341",
+      "reporter": "Nicholas Komar",
+      "date": "10/3/2015",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6341"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:00.536672"
+}

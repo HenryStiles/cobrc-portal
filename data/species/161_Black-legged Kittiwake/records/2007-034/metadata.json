@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-034",
+  "year": "2007",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Brandon Percival",
+  "comments": "Age: 2nd cycle; Plumage: alternate;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "750",
+      "reporter": "Brandon K Percival",
+      "date": "5/8/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=750"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:16.478240"
+}

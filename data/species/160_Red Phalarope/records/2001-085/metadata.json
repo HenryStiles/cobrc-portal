@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-085",
+  "year": "2001",
+  "location": "Jackson Reservoir",
+  "county": "Morgan",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16222",
+      "reporter": "Tony Leukering",
+      "date": "9/23/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16222"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:06.815135"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "21-72-18",
+  "year": "1972",
+  "location": "Pueblo",
+  "county": "Pueblo",
+  "observers": "Van Truan, Dave Griffiths",
+  "comments": "",
+  "citations": "Reddall, J. 1973b. Reports from the CFO Official Records Committee. Colorado Field Ornithologist 16:19-26.",
+  "documentations": [
+    {
+      "doc_id": "16202",
+      "reporter": "Van Truan, Dave Griffiths",
+      "date": "4/13/1972",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16202"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:42.642726"
+}

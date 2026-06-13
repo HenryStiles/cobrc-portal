@@ -1,0 +1,26 @@
+{
+  "acc_no": "2004-068",
+  "year": "2004",
+  "location": "Parker Regional Park",
+  "county": "Douglas",
+  "observers": "Glenn Walbek, Tony Leukering, Urling & Hugh Kingery",
+  "comments": "",
+  "citations": "Semo, L.  The 42nd Report of the CBRC. Colorado Birds 40(3), 133-156.",
+  "documentations": [
+    {
+      "doc_id": "316",
+      "reporter": "Tony Leukering",
+      "date": "11/15/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=316"
+    },
+    {
+      "doc_id": "14057",
+      "reporter": "Glenn Walbek, Urling & Hugh Kingery",
+      "date": "11/15/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14057"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:41.768127"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "21-75-149",
+  "year": "1975",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Bob Andrews",
+  "comments": "Old Acc. No. 21-75-149 Collected; DMNS #36147",
+  "citations": "Reddall, J. 1976. CFO Official Records Committee 1975 Report. C.F.O. Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "16205",
+      "reporter": "Bob Andrews",
+      "date": "9/16/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16205"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:44.914480"
+}

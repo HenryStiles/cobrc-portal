@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-102",
+  "year": "2016",
+  "location": "Severance area",
+  "county": "Weld",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "7507",
+      "reporter": "Steven Mlodinow",
+      "date": "11/25/2016",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=7507"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:45.092273"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-80-68",
+  "year": "1980",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Bob Andrews, Peter Moulton",
+  "comments": "",
+  "citations": "Chase, C.  1980-1981 Report of the CBRC. CFO Journal 16(3), 46-52.",
+  "documentations": [
+    {
+      "doc_id": "14068",
+      "reporter": "Bob Andrews, Peter Moulton",
+      "date": "9/13/1980",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14068"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:13.404469"
+}

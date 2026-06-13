@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-74-144",
+  "year": "1974",
+  "location": "Berthoud",
+  "county": "Larimer",
+  "observers": "Ann Means, Camille Cummings",
+  "comments": "Old Acc. No. 23-74-144 Three adults.",
+  "citations": "Reddall, J. 1975. Reports from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "16040",
+      "reporter": "Ann Means, Camille Cummings",
+      "date": "10/29/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16040"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:40.326634"
+}

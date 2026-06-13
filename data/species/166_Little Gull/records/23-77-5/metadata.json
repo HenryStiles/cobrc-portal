@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-77-5",
+  "year": "1976",
+  "location": "Union Reservoir",
+  "county": "Weld",
+  "observers": "Craig Williams",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "14066",
+      "reporter": "Craig Williams",
+      "date": "5/15/1976",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14066"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:10.342760"
+}

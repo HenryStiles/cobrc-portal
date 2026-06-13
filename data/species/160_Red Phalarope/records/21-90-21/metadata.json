@@ -1,0 +1,19 @@
+{
+  "acc_no": "21-90-21",
+  "year": "1990",
+  "location": "Prewitt Reservoir State Wildlife Area",
+  "county": "Washington",
+  "observers": "Dan Bridges",
+  "comments": "",
+  "citations": "Nelson, D.  1990 Report of the CBRC. CFO Journal 26(3), 91-97.",
+  "documentations": [
+    {
+      "doc_id": "16214",
+      "reporter": "Dan Bridges",
+      "date": "9/19/1990",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16214"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:56.794990"
+}

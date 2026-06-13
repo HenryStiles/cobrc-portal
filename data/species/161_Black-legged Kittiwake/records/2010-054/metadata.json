@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-054",
+  "year": "2009",
+  "location": "Lagerman Reservoir and the Swede Lakes",
+  "county": "Boulder",
+  "observers": "Laurens Halsey",
+  "comments": "Age: 1st cycle; Plumage: basic;",
+  "citations": "Semo, L. and Faulkner, D. The 57th Report of the CBRC. Colorado Birds 45(1), 30-41.",
+  "documentations": [
+    {
+      "doc_id": "1349",
+      "reporter": "Laurens Halsey",
+      "date": "11/15/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1349"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:23.392416"
+}

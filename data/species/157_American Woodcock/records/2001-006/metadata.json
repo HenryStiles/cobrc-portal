@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-006",
+  "year": "2001",
+  "location": "Lake Henry",
+  "county": "Crowley",
+  "observers": "Brandon Percival",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "13169",
+      "reporter": "Brandon Percival",
+      "date": "2/19/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13169"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:01.705017"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-161",
+  "year": "2006",
+  "location": "Mount Elbert Forebay",
+  "county": "Lake",
+  "observers": "Sherrie York",
+  "comments": "Age: juv; Plumage: basic;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "596",
+      "reporter": "Sherrie York",
+      "date": "11/20/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=596"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:14.812209"
+}

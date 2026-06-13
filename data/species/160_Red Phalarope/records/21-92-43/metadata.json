@@ -1,0 +1,19 @@
+{
+  "acc_no": "21-92-43",
+  "year": "1992",
+  "location": "Cheyenne Wells",
+  "county": "Cheyenne",
+  "observers": "Hugh Kingery",
+  "comments": "",
+  "citations": "Prather, B.  1992 Report of the CBRC. CFO Jornal 28(4), 157-168.",
+  "documentations": [
+    {
+      "doc_id": "16216",
+      "reporter": "Hugh Kingery",
+      "date": "5/28/1992",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16216"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:57.904433"
+}

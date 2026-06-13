@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-141",
+  "year": "2004",
+  "location": "Lagerman Reservoir and the Swede Lakes",
+  "county": "Boulder",
+  "observers": "Bill Schmoker",
+  "comments": "Age: juv; Plumage: basic;",
+  "citations": "Faulkner, D. and Semo, L. The 58th Report of the CBRC. Colorado Birds 45(2), 92-101.",
+  "documentations": [
+    {
+      "doc_id": "78",
+      "reporter": "Bill Schmoker",
+      "date": "11/28/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=78"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:10.721574"
+}

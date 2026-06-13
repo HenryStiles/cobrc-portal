@@ -1,0 +1,19 @@
+{
+  "acc_no": "N-23-45",
+  "year": "1974",
+  "location": "Union Reservoir",
+  "county": "Weld",
+  "observers": "Bruce Webb, Jack Reddall, Jeanne Conry, Bob Andrews, Steve Larson, Harold Holt, Narca DeWoskin",
+  "comments": "",
+  "citations": "Reddall, J. 1975. Reports from CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "14063",
+      "reporter": "Bruce Webb, Jack Reddall, Jeanne Conry, Bob Andrews, Steve Larson, Harold Holt, Narca DeWoskin",
+      "date": "11/2/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14063"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:07.967279"
+}

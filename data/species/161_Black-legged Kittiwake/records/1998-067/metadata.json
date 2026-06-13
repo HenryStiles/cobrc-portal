@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-067",
+  "year": "1988",
+  "location": "Hamilton Reservoir",
+  "county": "Larimer",
+  "observers": "Dave Leatherman",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "16066",
+      "reporter": "Dave Leatherman",
+      "date": "11/27/1988",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16066"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:51.829441"
+}

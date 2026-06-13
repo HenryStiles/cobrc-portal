@@ -1,0 +1,26 @@
+{
+  "acc_no": "2015-139",
+  "year": "2015",
+  "location": "Bobcat Ridge Natural Area",
+  "county": "Larimer",
+  "observers": "Tom Behnfield, Rudi Nuissl",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "5201",
+      "reporter": "Tom Behnfield",
+      "date": "1/17/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5201"
+    },
+    {
+      "doc_id": "8527",
+      "reporter": "Rudi Nuissl",
+      "date": "1/25/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8527"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:32.121089"
+}

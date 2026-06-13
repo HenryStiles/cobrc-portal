@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-074",
+  "year": "2007",
+  "location": "Twin Lakes (Lake County)",
+  "county": "Lake",
+  "observers": "Tim Kalbach",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "805",
+      "reporter": "Tim Kalbach",
+      "date": "10/20/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=805"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:27.154157"
+}

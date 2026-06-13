@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-158",
+  "year": "2010",
+  "location": "Windsor Reservoir",
+  "county": "Weld",
+  "observers": "Cole Wild",
+  "comments": "Age: 1st cycle; Plumage: basic;",
+  "citations": "Faulkner, D. and Semo, L. The 59th Report of the CBRC. Colorado Birds 45(3), 174-180.",
+  "documentations": [
+    {
+      "doc_id": "1573",
+      "reporter": "C W",
+      "date": "12/4/2010",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1573"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:29.591384"
+}

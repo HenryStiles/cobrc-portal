@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-89-19",
+  "year": "1989",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Bob Righter",
+  "comments": "",
+  "citations": "Nelson, D.  1989 Report of the CBRC. CFO Journal 25(4), 119-125.",
+  "documentations": [
+    {
+      "doc_id": "14072",
+      "reporter": "Bob Righter",
+      "date": "8/30/1989",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14072"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:19.988448"
+}

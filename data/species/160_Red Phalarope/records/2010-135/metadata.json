@@ -1,0 +1,26 @@
+{
+  "acc_no": "2010-135",
+  "year": "2010",
+  "location": "Baseline Reservoir",
+  "county": "Boulder",
+  "observers": "Ted Floyd, Cole Wild",
+  "comments": "Age: unknown;",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1504",
+      "reporter": "Ted Floyd",
+      "date": "10/30/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1504"
+    },
+    {
+      "doc_id": "1571",
+      "reporter": "C W",
+      "date": "10/31/2010",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1571"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:04.731572"
+}

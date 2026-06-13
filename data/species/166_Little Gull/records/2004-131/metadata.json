@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-131",
+  "year": "2004",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Bill Schmoker",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "33",
+      "reporter": "Bill Schmoker",
+      "date": "11/19/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=33"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:44.300100"
+}

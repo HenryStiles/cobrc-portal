@@ -1,0 +1,33 @@
+{
+  "acc_no": "2013-243",
+  "year": "2013",
+  "location": "Terry Lake and Clark Reservoir",
+  "county": "Boulder",
+  "observers": "Steven Mlodinow, Peter Gent, Nicholas Komar",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2665",
+      "reporter": "Steven Mlodinow",
+      "date": "10/30/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2665"
+    },
+    {
+      "doc_id": "2615",
+      "reporter": "Peter Gent",
+      "date": "10/31/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2615"
+    },
+    {
+      "doc_id": "2771",
+      "reporter": "Nicholas Komar",
+      "date": "11/3/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2771"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:58.261753"
+}

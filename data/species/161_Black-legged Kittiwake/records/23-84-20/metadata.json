@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-84-20",
+  "year": "1983",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Van Truan",
+  "comments": "",
+  "citations": "Gent, P.  1984 Report of the CBRC. CFO Journal 19(4), 82-87.",
+  "documentations": [
+    {
+      "doc_id": "16048",
+      "reporter": "Van Truan",
+      "date": "12/1/1983",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16048"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:47.395690"
+}

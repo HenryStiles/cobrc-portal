@@ -1,0 +1,19 @@
+{
+  "acc_no": "21-81-54",
+  "year": "1981",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Urling & Hugh Kingery",
+  "comments": "",
+  "citations": "Chase, C.  1981 Report of the CBRC. CFO Journal 17(4), 75-82.",
+  "documentations": [
+    {
+      "doc_id": "16208",
+      "reporter": "Urling & Hugh Kingery",
+      "date": "10/10/1981",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16208"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:52.057906"
+}

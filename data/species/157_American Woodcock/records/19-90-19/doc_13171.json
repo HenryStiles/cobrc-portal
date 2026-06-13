@@ -1,0 +1,38 @@
+{
+  "doc_id": "13171",
+  "scraped_at": "2026-06-13T14:36:58.015151",
+  "species": "American Woodcock",
+  "acc_no": "19-90-19",
+  "reporter_name": "John Prather, Peter Gent",
+  "address": "",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "reporter_email": "",
+  "other_observers": "",
+  "species_name": "American Woodcock",
+  "first_date": "11/28/1990 4:00:00 PM",
+  "last_date": "11/30/1990 2:30:00 PM",
+  "duration": "",
+  "county": "Boulder",
+  "specific_location": "Boulder",
+  "number_of_birds": "1",
+  "age": "Unknown",
+  "sex": "Unknown",
+  "plumage": "Other/Unknown",
+  "description": "",
+  "photographer": "Photographer: John Prather, Peter Gent, John Prather, Peter Gent",
+  "photos_text": "PDF",
+  "uploads_text": "13171_amwo-19-90-19a.pdf\n13171_amwo-19-90-19b.pdf",
+  "date_submitted": "2/28/2023 10:29:00 PM",
+  "attachments": [
+    {
+      "filename": "13171_amwo-19-90-19a.pdf",
+      "url": "/RecordUploads/13171/13171_amwo-19-90-19a.pdf"
+    },
+    {
+      "filename": "13171_amwo-19-90-19b.pdf",
+      "url": "/RecordUploads/13171/13171_amwo-19-90-19b.pdf"
+    }
+  ]
+}

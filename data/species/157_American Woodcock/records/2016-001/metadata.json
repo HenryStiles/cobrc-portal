@@ -1,0 +1,40 @@
+{
+  "acc_no": "2016-001",
+  "year": "2016",
+  "location": "Bobcat Ridge Natural Area",
+  "county": "Larimer",
+  "observers": "Holden Maxfield, Gregg Goodrich, Chris Wood, Mark Amershek",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6382",
+      "reporter": "Holden Maxfield",
+      "date": "1/3/2016",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6382"
+    },
+    {
+      "doc_id": "6386",
+      "reporter": "Gregg Goodrich",
+      "date": "1/10/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6386"
+    },
+    {
+      "doc_id": "6384",
+      "reporter": "Chris Wood",
+      "date": "1/10/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6384"
+    },
+    {
+      "doc_id": "6400",
+      "reporter": "Mark Amershek",
+      "date": "2/7/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6400"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:35.014211"
+}

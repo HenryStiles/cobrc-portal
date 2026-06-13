@@ -1,0 +1,19 @@
+{
+  "acc_no": "21-82-38",
+  "year": "1980",
+  "location": "Chatfield State Park",
+  "county": "Douglas & Jefferson",
+  "observers": "Bob Andrews",
+  "comments": "",
+  "citations": "Gent, P.  1982 Report of the CBRC. CFO Journal 18(2), 51-57.",
+  "documentations": [
+    {
+      "doc_id": "16209",
+      "reporter": "Bob Andrews",
+      "date": "9/20/1980",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16209"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:50.040271"
+}

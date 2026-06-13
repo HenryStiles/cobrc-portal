@@ -1,0 +1,19 @@
+{
+  "acc_no": "2020-034",
+  "year": "2020",
+  "location": "Chatfield State Park",
+  "county": "Jefferson",
+  "observers": "Ric Olson",
+  "comments": "Tony Leukering says that the plumage shows this is a juvenile bird.",
+  "citations": "The 82nd Report of the CBRC, 2022. Colorado Birds, 56(4), 283-294.",
+  "documentations": [
+    {
+      "doc_id": "11917",
+      "reporter": "Ric Olson",
+      "date": "9/11/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11917"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:04.907510"
+}

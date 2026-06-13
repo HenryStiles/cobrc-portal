@@ -1,0 +1,19 @@
+{
+  "acc_no": "1885-002",
+  "year": "1885",
+  "location": "Denver",
+  "county": "Denver",
+  "observers": "H. Smith",
+  "comments": "Collected: DMNH #14760",
+  "citations": "Smith, H., Auk, 3, 284-286, 1886. Bailey, A. and R. Niedrach, Auk, 54, 524-527, 1937.",
+  "documentations": [
+    {
+      "doc_id": "13223",
+      "reporter": "H. Smith",
+      "date": "8/9/1885",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13223"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:55.032162"
+}

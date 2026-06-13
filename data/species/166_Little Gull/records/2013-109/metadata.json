@@ -1,0 +1,26 @@
+{
+  "acc_no": "2013-109",
+  "year": "2013",
+  "location": "Lake Meredith",
+  "county": "Crowley",
+  "observers": "Cheryl Teuton, Michael O'brien",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2417",
+      "reporter": "Cheryl Teuton",
+      "date": "4/7/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2417"
+    },
+    {
+      "doc_id": "2433",
+      "reporter": "Michael Obrien",
+      "date": "4/7/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2433"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:54.989228"
+}

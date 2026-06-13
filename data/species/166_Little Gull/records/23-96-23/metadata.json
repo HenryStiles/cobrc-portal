@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-96-23",
+  "year": "1988",
+  "location": "Union Reservoir",
+  "county": "Weld",
+  "observers": "Dave Leatherman",
+  "comments": "",
+  "citations": "Janos, M.  1996 Report of the CBRC.  J. of the CFO 32(3), 173-187.",
+  "documentations": [
+    {
+      "doc_id": "14078",
+      "reporter": "Dave Leatherman",
+      "date": "10/6/1988",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14078"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:15.204961"
+}

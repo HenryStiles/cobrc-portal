@@ -1,0 +1,19 @@
+{
+  "acc_no": "23-94-35",
+  "year": "1994",
+  "location": "Jumbo Reservoir State Wildlife Area",
+  "county": "Sedgwick",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Prather, B.  1994 Report of the CBRC. CFO Journal 31(1), 23-31.",
+  "documentations": [
+    {
+      "doc_id": "16058",
+      "reporter": "Mark Janos",
+      "date": "11/26/1994",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16058"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:55.937150"
+}
