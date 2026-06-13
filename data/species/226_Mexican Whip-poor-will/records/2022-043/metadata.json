@@ -1,0 +1,19 @@
+{
+  "acc_no": "2022-043",
+  "year": "2022",
+  "location": "Rock Creek Canyon",
+  "county": "El Paso",
+  "observers": "David Suddjian",
+  "comments": "5th state record.",
+  "citations": "Gent, P.  The 84th Report of the CBRC. Colorado Birds 54(4), 194-203.",
+  "documentations": [
+    {
+      "doc_id": "12086",
+      "reporter": "David Suddjian",
+      "date": "6/14/2022",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12086"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:57.088978"
+}

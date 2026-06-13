@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-074",
+  "year": "2016",
+  "location": "Las Animas",
+  "county": "Bent",
+  "observers": "Adam Vesely",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "7475",
+      "reporter": "Adam Vesely",
+      "date": "9/14/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=7475"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:39.063309"
+}

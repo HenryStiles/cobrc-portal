@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-311",
+  "year": "2013",
+  "location": "Loveland",
+  "county": "Larimer",
+  "observers": "Denise Bretting",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2553",
+      "reporter": "Denise Bretting",
+      "date": "8/19/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2553"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:44.180916"
+}

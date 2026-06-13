@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-010",
+  "year": "2004",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "5204",
+      "reporter": "Tony Leukering",
+      "date": "8/27/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5204"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:43.491940"
+}

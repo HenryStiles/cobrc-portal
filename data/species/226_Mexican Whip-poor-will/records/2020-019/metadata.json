@@ -1,0 +1,40 @@
+{
+  "acc_no": "2020-019",
+  "year": "2020",
+  "location": "Oak Creek Grade Road",
+  "county": "Fremont",
+  "observers": "Gerald DeBoer, Peter Gent, Rachel Hopper, Brandon Percival",
+  "comments": "",
+  "citations": "Colorado Birds 56(3), 213-222, 2022",
+  "documentations": [
+    {
+      "doc_id": "11880",
+      "reporter": "Gerald DeBoer",
+      "date": "5/6/2020",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11880"
+    },
+    {
+      "doc_id": "11885",
+      "reporter": "Peter R. Gent",
+      "date": "5/12/2020",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11885"
+    },
+    {
+      "doc_id": "12025",
+      "reporter": "Brandon K. Percival",
+      "date": "5/12/2020",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12025"
+    },
+    {
+      "doc_id": "11948",
+      "reporter": "Rachel Hopper",
+      "date": "7/22/2020",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11948"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:53.662305"
+}

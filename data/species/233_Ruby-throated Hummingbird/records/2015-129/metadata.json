@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-129",
+  "year": "2014",
+  "location": "County Road 84",
+  "county": "Fremont",
+  "observers": "Dale Adams",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "6372",
+      "reporter": "Dale Adams",
+      "date": "9/1/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6372"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:34.342554"
+}

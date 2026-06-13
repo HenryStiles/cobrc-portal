@@ -1,0 +1,26 @@
+{
+  "acc_no": "2013-039",
+  "year": "2011",
+  "location": "Grand Junction",
+  "county": "Mesa",
+  "observers": "Jackson Trappett, Todd Deininger",
+  "comments": "",
+  "citations": "Faulkner, D. The 70th Report of the CBRC. Colorado Birds 48(4), 305-311.",
+  "documentations": [
+    {
+      "doc_id": "2293",
+      "reporter": "Jackson Trappett",
+      "date": "11/19/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2293"
+    },
+    {
+      "doc_id": "5208",
+      "reporter": "Todd Deininger",
+      "date": "11/21/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5208"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:05.728259"
+}

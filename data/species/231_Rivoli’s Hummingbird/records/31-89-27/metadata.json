@@ -1,0 +1,19 @@
+{
+  "acc_no": "31-89-27",
+  "year": "1989",
+  "location": "Haviland Lake Campground",
+  "county": "La Plata",
+  "observers": "Juliet Howard",
+  "comments": "",
+  "citations": "Nelson, D.  1989 Report of the CBRC. CFO Journal 25(4), 119-125.",
+  "documentations": [
+    {
+      "doc_id": "13457",
+      "reporter": "Juliet Howard",
+      "date": "6/20/1989",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13457"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:36.087702"
+}

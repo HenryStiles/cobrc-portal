@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-106",
+  "year": "2016",
+  "location": "Tunnel Drive",
+  "county": "Fremont",
+  "observers": "Dan Belter",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176",
+  "documentations": [
+    {
+      "doc_id": "8525",
+      "reporter": "Dan Belter",
+      "date": "12/30/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8525"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:07.056233"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "31-73-104",
+  "year": "1973",
+  "location": "Fruita",
+  "county": "Mesa",
+  "observers": "Steve Larson",
+  "comments": "",
+  "citations": "Reddall, J. 1974. Reports from the CFO Official Records Committee. Colorado Field Ornithologist 19:11-41.",
+  "documentations": [
+    {
+      "doc_id": "13471",
+      "reporter": "Steve Larson",
+      "date": "8/1/1973",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13471"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:41.052013"
+}

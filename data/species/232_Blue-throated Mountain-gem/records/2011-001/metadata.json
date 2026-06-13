@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-001",
+  "year": "2010",
+  "location": "No Name",
+  "county": "Garfield",
+  "observers": "Tom McConnell",
+  "comments": "",
+  "citations": "Faulkner, D. The 62nd Report of the CBRC. Colorado Birds 46(2), 106-120.",
+  "documentations": [
+    {
+      "doc_id": "1613",
+      "reporter": "Thomas Mcconnell",
+      "date": "6/30/2010",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1613"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:53.180854"
+}

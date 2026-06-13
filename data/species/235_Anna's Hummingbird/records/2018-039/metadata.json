@@ -1,0 +1,19 @@
+{
+  "acc_no": "2018-039",
+  "year": "2018",
+  "location": "Long Pond and surrounding lakes",
+  "county": "Larimer",
+  "observers": "Rachel Hopper",
+  "comments": "",
+  "citations": "Colorado Birds 56(3), 213-222, 2022",
+  "documentations": [
+    {
+      "doc_id": "11674",
+      "reporter": "Rachel Hopper",
+      "date": "4/12/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11674"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:43.716452"
+}

@@ -1,0 +1,33 @@
+{
+  "acc_no": "2004-136",
+  "year": "2004",
+  "location": "Clifton",
+  "county": "Mesa",
+  "observers": "Rachel Hopper, Peter Gent, Roger Linfield",
+  "comments": "Age: adult; Plumage: basic; Sex: f;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "147",
+      "reporter": "Rachel Hopper",
+      "date": "12/7/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=147"
+    },
+    {
+      "doc_id": "16",
+      "reporter": "Peter Gent",
+      "date": "12/9/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16"
+    },
+    {
+      "doc_id": "38",
+      "reporter": "Roger Linfield",
+      "date": "12/9/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=38"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:02.198017"
+}

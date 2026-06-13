@@ -1,0 +1,19 @@
+{
+  "acc_no": "2020-059",
+  "year": "2020",
+  "location": "McBride Creek in Fishers Peak SP.",
+  "county": "Las Animas",
+  "observers": "Kathy Mihm Dunning",
+  "comments": "",
+  "citations": "Colorado Birds 56(3), 213-222, 2022",
+  "documentations": [
+    {
+      "doc_id": "11901",
+      "reporter": "Kathy Mihm Dunning",
+      "date": "5/31/2020",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11901"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:55.033632"
+}

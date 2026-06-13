@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-034",
+  "year": "2013",
+  "location": "Lamar Community College",
+  "county": "Prowers",
+  "observers": "David Dowell",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2841",
+      "reporter": "David Dowell",
+      "date": "10/2/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2841"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:25.590410"
+}

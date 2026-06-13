@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-132",
+  "year": "2008",
+  "location": "Horsetooth Reservoir",
+  "county": "Larimer",
+  "observers": "Andrew Spencer",
+  "comments": "Age: imm.; Plumage: basic; Sex: m;",
+  "citations": "Semo, L.  The 50th Report of the CBRC. Colorado Birds 43(2), 123-135.",
+  "documentations": [
+    {
+      "doc_id": "1127",
+      "reporter": "Andrew Spencer",
+      "date": "11/5/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1127"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:28.271757"
+}

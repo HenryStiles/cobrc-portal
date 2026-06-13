@@ -1,0 +1,19 @@
+{
+  "acc_no": "2003-007",
+  "year": "2003",
+  "location": "Conifer area",
+  "county": "Jefferson",
+  "observers": "Phyllis Watkins , Bill Brockner, Mike Krieger",
+  "comments": "Originally documented as Magnificent Hummingbird; Chair re-circulated in 2012 as Green (Now Mexican) Violetear based on photos provided with original report.",
+  "citations": "Faulkner, D. The 62nd Report of the CBRC. Colorado Birds 46(2), 106-120.",
+  "documentations": [
+    {
+      "doc_id": "13730",
+      "reporter": "Bill Brockner, Mike Krieger, Phyllis Watkins",
+      "date": "9/12/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13730"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:06.831087"
+}

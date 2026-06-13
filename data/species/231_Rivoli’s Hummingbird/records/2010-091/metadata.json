@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-091",
+  "year": "2010",
+  "location": "Laramie River Road",
+  "county": "Larimer",
+  "observers": "Connie Kogler",
+  "comments": "Age: adult; Sex: f;",
+  "citations": "Faulkner, D. and Semo, L. The 59th Report of the CBRC. Colorado Birds 45(3), 174-180.",
+  "documentations": [
+    {
+      "doc_id": "1476",
+      "reporter": "Connie Kogler",
+      "date": "8/6/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1476"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:59.520992"
+}

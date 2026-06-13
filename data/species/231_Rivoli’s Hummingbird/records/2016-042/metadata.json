@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-042",
+  "year": "2016",
+  "location": "Livermore",
+  "county": "Larimer",
+  "observers": "Donald L. Beaver",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "6443",
+      "reporter": "Donald L. Beaver",
+      "date": "6/30/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6443"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:13.524418"
+}

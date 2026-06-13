@@ -1,0 +1,19 @@
+{
+  "acc_no": "2018-014",
+  "year": "2018",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Sue Riffe",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "11749",
+      "reporter": "Sue Riffe",
+      "date": "10/24/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11749"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:02.069246"
+}

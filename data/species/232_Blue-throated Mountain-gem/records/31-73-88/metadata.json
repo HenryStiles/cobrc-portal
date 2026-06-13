@@ -1,0 +1,19 @@
+{
+  "acc_no": "31-73-88",
+  "year": "1973",
+  "location": "Grand Lake Area",
+  "county": "Grand",
+  "observers": "E. Carter",
+  "comments": "",
+  "citations": "Reddall, J. 1974. Reports from the CFO Official Records Committee. Colorado Field Ornithologist 19:11-41.",
+  "documentations": [
+    {
+      "doc_id": "13470",
+      "reporter": "E. Carter",
+      "date": "6/28/1973",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13470"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:39.409770"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-056",
+  "year": "1997",
+  "location": "Roxborough State Park",
+  "county": "Douglas",
+  "observers": "Chris Wood, Larry Norris",
+  "comments": "",
+  "citations": "Janos, M.  1997 Report of the CBRC.  J. of the CFO 33(4), 241-252.",
+  "documentations": [
+    {
+      "doc_id": "13460",
+      "reporter": "Chris Wood, Larry Norris",
+      "date": "10/18/1997",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13460"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:39.622640"
+}

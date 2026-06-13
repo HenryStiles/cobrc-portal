@@ -1,0 +1,19 @@
+{
+  "acc_no": "2021-023",
+  "year": "2021",
+  "location": "Floyd Hill",
+  "county": "Clear Creek",
+  "observers": "JoAnn  Hackos",
+  "comments": "",
+  "citations": "The 83rd Report of the Colorado Bird Records Committee,  Peter R. Gent, Colorado Birds, 57(2), 61-70, 2023.",
+  "documentations": [
+    {
+      "doc_id": "11974",
+      "reporter": "JoAnn  Hackos",
+      "date": "5/18/2021",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11974"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:15.812466"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "31-92-54",
+  "year": "1991",
+  "location": "Durango",
+  "county": "La Plata",
+  "observers": "John Prather",
+  "comments": "",
+  "citations": "Prather, B.  1992 Report of the CBRC. CFO Journal 28(4), 157-168.",
+  "documentations": [
+    {
+      "doc_id": "13475",
+      "reporter": "John Prather",
+      "date": "7/27/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13475"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:46.230508"
+}

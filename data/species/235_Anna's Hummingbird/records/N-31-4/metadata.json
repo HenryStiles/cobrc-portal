@@ -1,0 +1,19 @@
+{
+  "acc_no": "N-31-4",
+  "year": "1966",
+  "location": "Hotchkiss",
+  "county": "Delta",
+  "observers": "Edith & Edgar Blide, Theodora Colborn",
+  "comments": "",
+  "citations": "Reddall, J. 1974. Reports from the CFO Official Records Committee. Colorado Field Ornithologist 19:11-41.",
+  "documentations": [
+    {
+      "doc_id": "13462",
+      "reporter": "Edith & Edgar Blide, Theodora Colborn",
+      "date": "8/28/1966",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13462"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:14.862691"
+}

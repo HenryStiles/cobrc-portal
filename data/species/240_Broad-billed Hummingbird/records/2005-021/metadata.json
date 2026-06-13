@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-021",
+  "year": "2005",
+  "location": "Lamar",
+  "county": "Prowers",
+  "observers": "Jane Stulp",
+  "comments": "",
+  "citations": "Semo, L.  The 44th Report of the CBRC. Colorado Birds 41(4), 241-258.",
+  "documentations": [
+    {
+      "doc_id": "98",
+      "reporter": "Jane Stulp",
+      "date": "4/18/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=98"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:21.871910"
+}

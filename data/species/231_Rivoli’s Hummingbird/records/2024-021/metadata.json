@@ -1,0 +1,19 @@
+{
+  "acc_no": "2024-021",
+  "year": "2024",
+  "location": "Colorado Springs",
+  "county": "El Paso",
+  "observers": "Kara Carragher",
+  "comments": "",
+  "citations": "Gent, P., 2025. 87th Report of the CBRC.  Colorado Birds, 59(1), 7-15.",
+  "documentations": [
+    {
+      "doc_id": "14009",
+      "reporter": "Kara Carragher",
+      "date": "6/11/2024",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14009"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:16.842090"
+}

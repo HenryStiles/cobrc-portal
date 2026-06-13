@@ -1,0 +1,33 @@
+{
+  "acc_no": "2008-090",
+  "year": "2008",
+  "location": "Manitou Springs",
+  "county": "El Paso",
+  "observers": "Bill Maynard, Rachel Hopper, Brandon Percival",
+  "comments": "Age: 1st cycle; Sex: f;",
+  "citations": "Semo, L.  The 51st Report of the CBRC. Colorado Birds 43(3), 193-204.",
+  "documentations": [
+    {
+      "doc_id": "1040",
+      "reporter": "Bill Maynard",
+      "date": "7/6/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1040"
+    },
+    {
+      "doc_id": "1043",
+      "reporter": "Rachel Hopper",
+      "date": "7/7/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1043"
+    },
+    {
+      "doc_id": "1039",
+      "reporter": "Brandon K Percival",
+      "date": "7/8/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1039"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:52.598066"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-046",
+  "year": "2004",
+  "location": "Mule Deer Drive, S of Pueblo",
+  "county": "Pueblo",
+  "observers": "B B Hahn",
+  "comments": "This record is incorrectly labelled 2004-58 in the report.",
+  "citations": "Semo, L.  41st Report of the CBRC,  Colorado Birds 40(1), 26-44.",
+  "documentations": [
+    {
+      "doc_id": "14574",
+      "reporter": "B B Hahn",
+      "date": "9/18/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14574"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:55.222968"
+}

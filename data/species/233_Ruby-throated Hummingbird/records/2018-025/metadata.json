@@ -1,0 +1,19 @@
+{
+  "acc_no": "2018-025",
+  "year": "2018",
+  "location": "Eads",
+  "county": "Kiowa",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "11723",
+      "reporter": "Tony Leukering",
+      "date": "9/9/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11723"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:57.979507"
+}

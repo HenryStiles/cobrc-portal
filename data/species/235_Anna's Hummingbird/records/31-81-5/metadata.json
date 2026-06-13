@@ -1,0 +1,19 @@
+{
+  "acc_no": "31-81-5",
+  "year": "1974",
+  "location": "Beulah",
+  "county": "Pueblo",
+  "observers": "Pat & Ward Stryker",
+  "comments": "",
+  "citations": "Chase, C.  1981 Report of the CBRC. CFO Journal 17(4), 75-82.",
+  "documentations": [
+    {
+      "doc_id": "3937",
+      "reporter": "Pat & Ward Stryker",
+      "date": "9/27/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3937"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:19.106006"
+}

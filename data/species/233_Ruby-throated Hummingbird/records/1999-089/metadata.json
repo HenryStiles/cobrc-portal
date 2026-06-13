@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-089",
+  "year": "1999",
+  "location": "Lamar Community College",
+  "county": "Prowers",
+  "observers": "Peter Gaede, Ric Olson, Mark Janos",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "14568",
+      "reporter": "Peter Gaede, Ric Olson, Mark Janos",
+      "date": "4/30/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14568"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:47.241159"
+}

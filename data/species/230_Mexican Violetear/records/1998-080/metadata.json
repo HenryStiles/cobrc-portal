@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-080",
+  "year": "1998",
+  "location": "Durango",
+  "county": "La Plata",
+  "observers": "Marlene Pixler",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "13228",
+      "reporter": "Marlene Pixler",
+      "date": "7/26/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13228"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:05.866176"
+}

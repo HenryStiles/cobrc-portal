@@ -1,0 +1,26 @@
+{
+  "acc_no": "2012-181",
+  "year": "2012",
+  "location": "Loveland",
+  "county": "Larimer",
+  "observers": "Sean Walters, Nicholas Komar",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2079",
+      "reporter": "Sean Walters",
+      "date": "9/12/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2079"
+    },
+    {
+      "doc_id": "2161",
+      "reporter": "Nicholas Komar",
+      "date": "9/13/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2161"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:43.997718"
+}

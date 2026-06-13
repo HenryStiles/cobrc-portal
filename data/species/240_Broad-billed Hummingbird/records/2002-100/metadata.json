@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-100",
+  "year": "2002",
+  "location": "Clifton",
+  "county": "Mesa",
+  "observers": "Ric Olson, Doug Faulkner, Chris Wood, Glenn Walbek, Duane Nelson, Tony Leukering",
+  "comments": "Originally banded in Jan 2002 in Baton Rouge, LA.",
+  "citations": "Leukering, T. and Semo, L.  The 37th Report of the CBRC. Colorado Birds 38(2), 73-88.",
+  "documentations": [
+    {
+      "doc_id": "13729",
+      "reporter": "Ric Olson, Doug Faulkner, Chris Wood",
+      "date": "11/15/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13729"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:20.315180"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-058",
+  "year": "2004",
+  "location": "Rocky Mountain National Park (Larimer section)",
+  "county": "Larimer",
+  "observers": "Fred Engelman",
+  "comments": "banded. This record is incorrectly labelled 2004-46 in the report.",
+  "citations": "Semo, L.  The 41st Report of the CBRC. Colorado Birds 40(1), 26-44.",
+  "documentations": [
+    {
+      "doc_id": "14573",
+      "reporter": "Fred Engelman",
+      "date": "9/7/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14573"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:54.333324"
+}

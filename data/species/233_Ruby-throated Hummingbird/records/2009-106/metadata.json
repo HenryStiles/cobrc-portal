@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-106",
+  "year": "2009",
+  "location": "Lamar",
+  "county": "Prowers",
+  "observers": "David Leatherman",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Semo, L. and Faulkner, D. The 57th Report of the CBRC. Colorado Birds 45(1), 30-41.",
+  "documentations": [
+    {
+      "doc_id": "1364",
+      "reporter": "David Leatherman",
+      "date": "5/13/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1364"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:59.749043"
+}

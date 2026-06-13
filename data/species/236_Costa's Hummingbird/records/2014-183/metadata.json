@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-183",
+  "year": "2014",
+  "location": "Grand Junction",
+  "county": "Mesa",
+  "observers": "Kathy Mihm Dunning",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "6326",
+      "reporter": "Kathy Mihm Dunning",
+      "date": "11/16/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6326"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:10.465544"
+}

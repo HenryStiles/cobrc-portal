@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-179",
+  "year": "2014",
+  "location": "Holyoke",
+  "county": "Phillips",
+  "observers": "David Dowell",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "5187",
+      "reporter": "David Dowell",
+      "date": "8/30/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5187"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:32.244851"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-114",
+  "year": "2014",
+  "location": "Lake Cheraw",
+  "county": "Otero",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "4091",
+      "reporter": "Steven Mlodinow",
+      "date": "7/29/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4091"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:29.913604"
+}

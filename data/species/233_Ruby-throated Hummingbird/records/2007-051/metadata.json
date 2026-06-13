@@ -1,0 +1,26 @@
+{
+  "acc_no": "2007-051",
+  "year": "2007",
+  "location": "Niwot",
+  "county": "Boulder",
+  "observers": "Bill Schmoker, Walter Szeliga",
+  "comments": "Age: adult; Plumage: basic; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "761",
+      "reporter": "Walter Szeliga",
+      "date": "8/19/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=761"
+    },
+    {
+      "doc_id": "883",
+      "reporter": "Bill Schmoker",
+      "date": "8/19/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=883"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:58.406014"
+}

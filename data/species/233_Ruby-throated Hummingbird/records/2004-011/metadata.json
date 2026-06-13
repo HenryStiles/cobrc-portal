@@ -1,0 +1,26 @@
+{
+  "acc_no": "2004-011",
+  "year": "2003",
+  "location": "Fort Morgan",
+  "county": "Morgan",
+  "observers": "Tony Leukering, Joe Mammoser",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "317",
+      "reporter": "Tony Leukering",
+      "date": "7/30/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=317"
+    },
+    {
+      "doc_id": "2606",
+      "reporter": "Joe Mammoser",
+      "date": "7/31/2003",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2606"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:50.459702"
+}

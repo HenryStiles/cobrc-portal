@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-001",
+  "year": "2013",
+  "location": "Medano-Zapata Ranch",
+  "county": "Alamosa",
+  "observers": "Laurence Pitcher",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2795",
+      "reporter": "Laurence Pitcher",
+      "date": "9/12/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2795"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:19.466755"
+}

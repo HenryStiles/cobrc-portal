@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-087",
+  "year": "1999",
+  "location": "Monument",
+  "county": "El Paso",
+  "observers": "BB Hahn",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "13479",
+      "reporter": "BB Hahn",
+      "date": "7/29/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13479"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:51.039811"
+}

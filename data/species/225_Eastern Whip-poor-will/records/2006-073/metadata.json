@@ -1,0 +1,40 @@
+{
+  "acc_no": "2006-073",
+  "year": "2006",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Brandon Percival, Larry Semo, Cole Wild, Nathan Pieplow",
+  "comments": "Age: adult;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "649",
+      "reporter": "Brandon K Percival",
+      "date": "5/20/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=649"
+    },
+    {
+      "doc_id": "910",
+      "reporter": "Larry Semo",
+      "date": "5/20/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=910"
+    },
+    {
+      "doc_id": "418",
+      "reporter": "Nathan Pieplow",
+      "date": "5/21/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=418"
+    },
+    {
+      "doc_id": "501",
+      "reporter": "C W",
+      "date": "5/21/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=501"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:05.895379"
+}

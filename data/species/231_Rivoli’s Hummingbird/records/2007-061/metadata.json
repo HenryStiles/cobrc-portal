@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-061",
+  "year": "2007",
+  "location": "Crystal",
+  "county": "Gunnison",
+  "observers": "Tom Coles",
+  "comments": "Age: adult; Sex: f;",
+  "citations": "Semo, L. and Faulkner, D.  The 53rd Report of the CBRC. Colorado Birds 44(1), 31-42.",
+  "documentations": [
+    {
+      "doc_id": "1314",
+      "reporter": "Tom Coles",
+      "date": "6/17/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1314"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:50.280728"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2003-064",
+  "year": "2003",
+  "location": "CSU Environmental Learning Center",
+  "county": "Larimer",
+  "observers": "Brenda Wiard",
+  "comments": "Photos by Carol English",
+  "citations": "Leukering, T.  The 40th Report of the CBRC. Colorado Birds 39(4), 168-176.",
+  "documentations": [
+    {
+      "doc_id": "13696",
+      "reporter": "Brenda Wiard",
+      "date": "8/4/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13696"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:00.990244"
+}

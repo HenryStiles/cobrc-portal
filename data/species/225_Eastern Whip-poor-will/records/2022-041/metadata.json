@@ -1,0 +1,19 @@
+{
+  "acc_no": "2022-041",
+  "year": "2022",
+  "location": "Two Buttes State Wildlife Area",
+  "county": "Baca",
+  "observers": "Joey Kellner",
+  "comments": "Tenth state record.",
+  "citations": "Gent, P.  The 84th Report of the CBRC. Colorado Birds 54(4), 194-203.",
+  "documentations": [
+    {
+      "doc_id": "12090",
+      "reporter": "Joey Kellner",
+      "date": "9/16/2022",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12090"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:09.961219"
+}

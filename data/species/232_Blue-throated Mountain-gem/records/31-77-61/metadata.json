@@ -1,0 +1,19 @@
+{
+  "acc_no": "31-77-61",
+  "year": "1977",
+  "location": "Ridgway",
+  "county": "Ouray",
+  "observers": "Urling & Hugh Kingery",
+  "comments": "",
+  "citations": "Chase, C.  1977-1980 Pt.2 Report of the CBRC. CFO Journal 15(2), 54-59.",
+  "documentations": [
+    {
+      "doc_id": "13473",
+      "reporter": "Urling & Hugh Kingery",
+      "date": "7/30/1977",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13473"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:43.556715"
+}

@@ -1,0 +1,26 @@
+{
+  "acc_no": "2014-159",
+  "year": "2014",
+  "location": "Gross Dam Road",
+  "county": "Boulder",
+  "observers": "John Drummond, Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "5159",
+      "reporter": "John Drummond",
+      "date": "10/27/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5159"
+    },
+    {
+      "doc_id": "5165",
+      "reporter": "Steven Mlodinow",
+      "date": "11/1/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5165"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:04.621220"
+}

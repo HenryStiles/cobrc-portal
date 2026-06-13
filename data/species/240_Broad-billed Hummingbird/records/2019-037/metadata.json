@@ -1,0 +1,19 @@
+{
+  "acc_no": "2019-037",
+  "year": "2019",
+  "location": "Palisade",
+  "county": "Mesa",
+  "observers": "Kevin Keirn",
+  "comments": "",
+  "citations": "The 82nd Report of the CBRC, 2022. Colorado Birds, 56(4), 283-294.",
+  "documentations": [
+    {
+      "doc_id": "11841",
+      "reporter": "Kevin Keirn",
+      "date": "10/19/2019",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11841"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:24.713015"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2022-042",
+  "year": "2022",
+  "location": "Castle Rock",
+  "county": "Douglas",
+  "observers": "Ric Olson",
+  "comments": "",
+  "citations": "Gent, P.  The 84th Report of the CBRC. Colorado Birds 54(4), 194-203.",
+  "documentations": [
+    {
+      "doc_id": "12088",
+      "reporter": "Ric Olson",
+      "date": "9/17/2022",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12088"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:47.026967"
+}

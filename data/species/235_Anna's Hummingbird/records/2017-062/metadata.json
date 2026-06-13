@@ -1,0 +1,19 @@
+{
+  "acc_no": "2017-062",
+  "year": "2017",
+  "location": "Mancos area",
+  "county": "Montezuma",
+  "observers": "Leona Ryter",
+  "comments": "",
+  "citations": "Colorado Birds 56(3), 213-222, 2022",
+  "documentations": [
+    {
+      "doc_id": "9629",
+      "reporter": "Leona Ryter",
+      "date": "10/5/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=9629"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:41.604328"
+}

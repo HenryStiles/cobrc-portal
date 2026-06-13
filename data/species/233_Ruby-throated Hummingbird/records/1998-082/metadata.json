@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-082",
+  "year": "1998",
+  "location": "Cebolla Creek near Powderhorn",
+  "county": "Gunnison",
+  "observers": "Ruth & Steve Russell",
+  "comments": "banding operation",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "14567",
+      "reporter": "Ruth & Steve Russell",
+      "date": "10/1/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14567"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:45.960258"
+}

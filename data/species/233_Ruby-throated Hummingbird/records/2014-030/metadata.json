@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-030",
+  "year": "2013",
+  "location": "Lakewood",
+  "county": "Jefferson",
+  "observers": "Mark Chavez",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2600",
+      "reporter": "Mark Chavez",
+      "date": "10/3/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2600"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:26.970180"
+}

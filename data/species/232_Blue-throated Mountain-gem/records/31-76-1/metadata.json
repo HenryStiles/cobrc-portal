@@ -1,0 +1,19 @@
+{
+  "acc_no": "31-76-1",
+  "year": "1975",
+  "location": "Durango",
+  "county": "La Plata",
+  "observers": "Richard Stransky",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "13472",
+      "reporter": "Richard Stransky",
+      "date": "9/7/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13472"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:42.332022"
+}

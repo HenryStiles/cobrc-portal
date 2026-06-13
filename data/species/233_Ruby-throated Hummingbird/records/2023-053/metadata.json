@@ -1,0 +1,19 @@
+{
+  "acc_no": "2023-053",
+  "year": "2023",
+  "location": "Elizabeth",
+  "county": "Elbert",
+  "observers": "Angela Koehler",
+  "comments": "",
+  "citations": "Gent, P., 2025. 87th Report of the CBRC.  Colorado Birds, 59(1), 7-15.",
+  "documentations": [
+    {
+      "doc_id": "13464",
+      "reporter": "Angela Koehler",
+      "date": "9/30/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13464"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:04.522013"
+}

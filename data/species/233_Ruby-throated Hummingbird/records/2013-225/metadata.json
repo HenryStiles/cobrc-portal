@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-225",
+  "year": "2013",
+  "location": "Lamar",
+  "county": "Prowers",
+  "observers": "Jane Stulp",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2593",
+      "reporter": "Jane Stulp",
+      "date": "9/28/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2593"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:23.395924"
+}

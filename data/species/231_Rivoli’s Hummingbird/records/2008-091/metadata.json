@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-091",
+  "year": "2008",
+  "location": "Maysville",
+  "county": "Chaffee",
+  "observers": "Bob Germany",
+  "comments": "Age: 1st cycle; Sex: m;",
+  "citations": "Semo, L.  The 51st Report of the CBRC. Colorado Birds 43(3), 193-204.",
+  "documentations": [
+    {
+      "doc_id": "1041",
+      "reporter": "Bob Germany",
+      "date": "7/8/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1041"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:56.895614"
+}

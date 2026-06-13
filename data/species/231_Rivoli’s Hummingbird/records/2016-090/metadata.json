@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-090",
+  "year": "2016",
+  "location": "Margaret's Pond",
+  "county": "Adams",
+  "observers": "Steve Larson",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "7517",
+      "reporter": "Steve Larson",
+      "date": "8/28/2016",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=7517"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:39:15.205982"
+}

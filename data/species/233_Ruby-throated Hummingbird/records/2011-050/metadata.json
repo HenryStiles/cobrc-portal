@@ -1,0 +1,26 @@
+{
+  "acc_no": "2011-050",
+  "year": "2011",
+  "location": "La Veta",
+  "county": "Huerfano",
+  "observers": "Polly Neldner, Brandon Percival",
+  "comments": "Age: adult; Sex: m;",
+  "citations": "Faulkner, D. The 62nd Report of the CBRC. Colorado Birds 46(2), 106-120.",
+  "documentations": [
+    {
+      "doc_id": "1646",
+      "reporter": "Polly Neldner",
+      "date": "5/12/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1646"
+    },
+    {
+      "doc_id": "1828",
+      "reporter": "Brandon K Percival",
+      "date": "5/13/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1828"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:33.936686"
+}

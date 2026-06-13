@@ -1,0 +1,19 @@
+{
+  "acc_no": "2003-048",
+  "year": "2003",
+  "location": "Chipeta Lakes State Wildlife Area",
+  "county": "Montrose",
+  "observers": "Tracy Wohl",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L. The 39th Report of the CBRC. Colorado Birds 39(3), 131-141.",
+  "documentations": [
+    {
+      "doc_id": "13823",
+      "reporter": "Tracy Wohl",
+      "date": "5/20/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13823"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:27.136887"
+}

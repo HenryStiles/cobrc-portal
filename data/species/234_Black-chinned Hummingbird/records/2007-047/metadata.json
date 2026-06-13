@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-047",
+  "year": "2007",
+  "location": "near Masonville",
+  "county": "Larimer",
+  "observers": "Rachel Hopper",
+  "comments": "Age: adult; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "757",
+      "reporter": "Rachel Hopper",
+      "date": "7/18/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=757"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:44.158260"
+}

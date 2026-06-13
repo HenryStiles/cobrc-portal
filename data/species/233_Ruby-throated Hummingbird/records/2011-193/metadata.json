@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-193",
+  "year": "2011",
+  "location": "Sterling",
+  "county": "Logan",
+  "observers": "Ken Kranik",
+  "comments": "",
+  "citations": "Faulkner, Doug. April 2013. The 66th Report of the Colorado Bird Records Committee: Colorado Birds 47(2):86-93",
+  "documentations": [
+    {
+      "doc_id": "2039",
+      "reporter": "Cbrc Chair",
+      "date": "10/3/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2039"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:41:40.776610"
+}

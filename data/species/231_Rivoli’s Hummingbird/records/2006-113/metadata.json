@@ -1,0 +1,33 @@
+{
+  "acc_no": "2006-113",
+  "year": "2006",
+  "location": "Durango Mountain Resort Ski Area and Sig Creek",
+  "county": "La Plata",
+  "observers": "Jim Beatty, Andrew Spencer, Nathan Pieplow",
+  "comments": "Age: adult; Sex: f;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "549",
+      "reporter": "James Beatty",
+      "date": "7/24/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=549"
+    },
+    {
+      "doc_id": "503",
+      "reporter": "Andrew Spencer",
+      "date": "7/27/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=503"
+    },
+    {
+      "doc_id": "512",
+      "reporter": "Nathan Pieplow",
+      "date": "7/27/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=512"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:48.696992"
+}

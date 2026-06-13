@@ -1,0 +1,26 @@
+{
+  "acc_no": "2005-102",
+  "year": "2005",
+  "location": "Lamar",
+  "county": "Prowers",
+  "observers": "Jane Stulp, Andrew Spencer",
+  "comments": "Age: imm; Plumage: juv/basic I; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "237",
+      "reporter": "Jane Stulp",
+      "date": "10/3/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=237"
+    },
+    {
+      "doc_id": "197",
+      "reporter": "Andrew Spencer",
+      "date": "10/7/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=197"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:40:56.172206"
+}

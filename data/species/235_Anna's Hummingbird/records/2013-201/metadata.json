@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-201",
+  "year": "2013",
+  "location": "Colorado City and Rye",
+  "county": "Pueblo",
+  "observers": "David  Silverman",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2565",
+      "reporter": "David  Silverman",
+      "date": "9/9/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2565"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:36.574777"
+}

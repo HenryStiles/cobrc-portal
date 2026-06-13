@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-078",
+  "year": "2016",
+  "location": "Colorado Springs",
+  "county": "El Paso",
+  "observers": "Bill Maynard",
+  "comments": "",
+  "citations": "Colorado Birds 56(3), 213-222, 2022",
+  "documentations": [
+    {
+      "doc_id": "7478",
+      "reporter": "Bill Maynard",
+      "date": "9/25/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=7478"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:39.976047"
+}

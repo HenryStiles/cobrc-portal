@@ -1,0 +1,19 @@
+{
+  "acc_no": "31-95-56",
+  "year": "1995",
+  "location": "Dinosaur National Monument",
+  "county": "Moffat",
+  "observers": "Hardin Delafield",
+  "comments": "",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "13477",
+      "reporter": "Hardin Delafield",
+      "date": "7/20/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13477"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:48.672986"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "N-31-7",
+  "year": "1972",
+  "location": "Colorado Springs",
+  "county": "El Paso",
+  "observers": "Dominic Bartol",
+  "comments": "One female photographed.  Multiple observers reported seeing the female and an immature together, but no documentation was received for the immature bird.",
+  "citations": "Reddall, J. 1973a. Reports from the CFO Official Records Committee. Colorado Field Ornithologist 15:9-15.",
+  "documentations": [
+    {
+      "doc_id": "13469",
+      "reporter": "Dominic Bartol",
+      "date": "6/29/1972",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13469"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:37.695896"
+}
