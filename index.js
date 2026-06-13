@@ -475,7 +475,7 @@ function renderDocFields(container, doc) {
                 const imgCard = document.createElement('div');
                 imgCard.className = 'gallery-item';
                 imgCard.innerHTML = `
-                    <img src="${fileUrl}" alt="${att.filename}" onerror="this.src='../images/Select.png'">
+                    <img src="${fileUrl}" alt="${att.filename}" onerror="this.src='images/logo_icon_clipped.png'">
                     <div class="gallery-item-caption">${att.filename}</div>
                 `;
                 imgCard.addEventListener('click', () => openLightbox(fileUrl, att.filename));
