@@ -1,0 +1,19 @@
+{
+  "acc_no": "34-75-43",
+  "year": "1975",
+  "location": "Pueblo",
+  "county": "Pueblo",
+  "observers": "Van Truan",
+  "comments": "",
+  "citations": "Reddall, J. 1976. CFO Official Records Committee 1975 Report. C.F.O. Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "14849",
+      "reporter": "Van Truan",
+      "date": "4/20/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14849"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:46.522716"
+}

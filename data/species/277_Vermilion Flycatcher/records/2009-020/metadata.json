@@ -1,0 +1,40 @@
+{
+  "acc_no": "2009-020",
+  "year": "2009",
+  "location": "Walden Ponds/Sawhill Ponds Complex",
+  "county": "Boulder",
+  "observers": "Nathan Pieplow, Walter Szeliga, Bill Kaempfer, Larry Semo",
+  "comments": "Age: adult; Plumage: alternate; Sex: f;",
+  "citations": "Semo, L. and Faulkner, D.  The 54th Report of the CBRC. Colorado Birds 44(2), 89-105.",
+  "documentations": [
+    {
+      "doc_id": "1210",
+      "reporter": "Nathan Pieplow",
+      "date": "4/18/2009",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1210"
+    },
+    {
+      "doc_id": "1211",
+      "reporter": "Walter Szeliga",
+      "date": "4/18/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1211"
+    },
+    {
+      "doc_id": "1212",
+      "reporter": "Bill Kaempfer",
+      "date": "4/19/2009",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1212"
+    },
+    {
+      "doc_id": "1213",
+      "reporter": "Larry Semo",
+      "date": "4/19/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1213"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:51.326542"
+}

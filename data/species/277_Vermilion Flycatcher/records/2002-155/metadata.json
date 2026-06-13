@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-155",
+  "year": "2002",
+  "location": "Higbee Cemetery",
+  "county": "Otero",
+  "observers": "Roger Linfield",
+  "comments": "",
+  "citations": "Semo, L.  The 42nd Report of the CBRC. Colorado Birds 40(3), 133-156.",
+  "documentations": [
+    {
+      "doc_id": "47",
+      "reporter": "Roger Linfield",
+      "date": "9/14/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=47"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:44.325980"
+}

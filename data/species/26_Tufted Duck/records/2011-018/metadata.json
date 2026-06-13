@@ -1,0 +1,47 @@
+{
+  "acc_no": "2011-018",
+  "year": "2011",
+  "location": "Longmont",
+  "county": "Boulder",
+  "observers": "Doug Faulkner, Peter Gent, Bill Maynard, Nathan Pieplow, Bill Schmoker",
+  "comments": "",
+  "citations": "Faulkner, D. The 62nd Report of the CBRC. Colorado Birds 46(2), 106-120.",
+  "documentations": [
+    {
+      "doc_id": "1604",
+      "reporter": "Nathan Pieplow",
+      "date": "1/17/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1604"
+    },
+    {
+      "doc_id": "1605",
+      "reporter": "Bill Maynard",
+      "date": "1/17/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1605"
+    },
+    {
+      "doc_id": "1612",
+      "reporter": "Peter Gent",
+      "date": "1/17/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1612"
+    },
+    {
+      "doc_id": "1615",
+      "reporter": "Doug Faulkner",
+      "date": "1/17/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1615"
+    },
+    {
+      "doc_id": "1622",
+      "reporter": "Bill Schmoker",
+      "date": "1/17/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1622"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:18.956465"
+}

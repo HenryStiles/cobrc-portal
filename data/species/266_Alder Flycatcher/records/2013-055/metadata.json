@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-055",
+  "year": "2012",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Doug Faulkner",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2322",
+      "reporter": "Doug Faulkner",
+      "date": "9/1/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2322"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:54.245030"
+}

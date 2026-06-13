@@ -1,0 +1,19 @@
+{
+  "acc_no": "2017-061",
+  "year": "2017",
+  "location": "Rocky Mountain Arsenal National Wildlife Refuge",
+  "county": "Adams",
+  "observers": "Nick Mrvelj",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "9614",
+      "reporter": "Nick Mrvelj",
+      "date": "9/25/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=9614"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:04.132720"
+}

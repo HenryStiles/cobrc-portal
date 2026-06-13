@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-015",
+  "year": "2004",
+  "location": "Pueblo Reservoir area",
+  "county": "Pueblo",
+  "observers": "Donald Lewis, David Quady",
+  "comments": "",
+  "citations": "Semo, L.  The 41st Report of the CBRC. Colorado Birds 40(1), 26-44.",
+  "documentations": [
+    {
+      "doc_id": "14809",
+      "reporter": "Donald Lewis, David Quady",
+      "date": "4/1/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14809"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:47.431152"
+}

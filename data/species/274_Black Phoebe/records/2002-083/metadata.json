@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-083",
+  "year": "2002",
+  "location": "Navajo State Park",
+  "county": "Archuleta",
+  "observers": "Tony Leukering, Larry Semo",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  The 37th Report of the CBRC. Colorado Birds 38(2), 73-88.",
+  "documentations": [
+    {
+      "doc_id": "14864",
+      "reporter": "Tony Leukering, Larry Semo",
+      "date": "5/24/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14864"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:11.272059"
+}

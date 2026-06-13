@@ -1,0 +1,40 @@
+{
+  "acc_no": "2006-025",
+  "year": "2006",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Bill Maynard, Brandon Percival, Andrew Spencer, Cole Wild",
+  "comments": "Age: adult; Sex: m;",
+  "citations": "Semo, L.  The 48th Report of the CBRC. Colorado Birds 42(4), 270-278.",
+  "documentations": [
+    {
+      "doc_id": "382",
+      "reporter": "Brandon K Percival",
+      "date": "3/18/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=382"
+    },
+    {
+      "doc_id": "458",
+      "reporter": "Bill Maynard",
+      "date": "3/18/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=458"
+    },
+    {
+      "doc_id": "560",
+      "reporter": "Andrew Spencer",
+      "date": "3/19/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=560"
+    },
+    {
+      "doc_id": "403",
+      "reporter": "C W",
+      "date": "3/19/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=403"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:49.408003"
+}

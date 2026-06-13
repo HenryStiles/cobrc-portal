@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-184",
+  "year": "2011",
+  "location": "Fairplay",
+  "county": "Park",
+  "observers": "John Drummond",
+  "comments": "Age: adult;",
+  "citations": "Faulkner, D. The 64th Report of the CBRC. Colorado Birds 46(4), 255-267.",
+  "documentations": [
+    {
+      "doc_id": "1895",
+      "reporter": "John Drummond",
+      "date": "7/19/2010",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1895"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:00.601557"
+}

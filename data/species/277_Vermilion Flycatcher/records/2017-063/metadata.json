@@ -1,0 +1,19 @@
+{
+  "acc_no": "2017-063",
+  "year": "2017",
+  "location": "Near Snyder's Pond",
+  "county": "San Miguel",
+  "observers": "Coen Dexter",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176.",
+  "documentations": [
+    {
+      "doc_id": "9611",
+      "reporter": "Coen Dexter",
+      "date": "10/7/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=9611"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:03.678072"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-038",
+  "year": "2010",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Brian Gibbons",
+  "comments": "Age: adult;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1436",
+      "reporter": "Brian Gibbons",
+      "date": "5/22/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1436"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:46.466632"
+}

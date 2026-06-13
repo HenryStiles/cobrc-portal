@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-082",
+  "year": "2014",
+  "location": "Del Norte West to South Fork",
+  "county": "Rio Grande",
+  "observers": "John Rawinski",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "4004",
+      "reporter": "John Rawinski",
+      "date": "5/8/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4004"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:01.591373"
+}

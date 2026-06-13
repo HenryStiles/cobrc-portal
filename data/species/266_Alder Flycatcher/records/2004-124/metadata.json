@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-124",
+  "year": "2004",
+  "location": "Limon",
+  "county": "Lincoln",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "625",
+      "reporter": "Tony Leukering",
+      "date": "5/20/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=625"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:26.235233"
+}

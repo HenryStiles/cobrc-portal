@@ -1,0 +1,19 @@
+{
+  "acc_no": "34-76-19",
+  "year": "1975",
+  "location": "Pastorius State Wildlife Area",
+  "county": "La Plata",
+  "observers": "Alan Nelson",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "14780",
+      "reporter": "Alan Nelson",
+      "date": "9/20/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14780"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:51.717682"
+}

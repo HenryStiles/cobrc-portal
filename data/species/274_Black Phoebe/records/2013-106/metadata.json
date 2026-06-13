@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-106",
+  "year": "2012",
+  "location": "La Veta",
+  "county": "Huerfano",
+  "observers": "Beverly Jensen",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2415",
+      "reporter": "Beverly Jensen",
+      "date": "9/9/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2415"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:34.821221"
+}

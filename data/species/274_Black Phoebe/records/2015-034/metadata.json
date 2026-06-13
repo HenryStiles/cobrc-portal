@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-034",
+  "year": "2015",
+  "location": "Walsenburg",
+  "county": "Huerfano",
+  "observers": "Brandon K. Percival",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "6238",
+      "reporter": "Brandon K. Percival",
+      "date": "4/9/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6238"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:41.454247"
+}

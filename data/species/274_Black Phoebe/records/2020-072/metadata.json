@@ -1,0 +1,19 @@
+{
+  "acc_no": "2020-072",
+  "year": "2020",
+  "location": "CSU Environmental Learning Center",
+  "county": "Larimer",
+  "observers": "Robert Beauchamp",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176",
+  "documentations": [
+    {
+      "doc_id": "11868",
+      "reporter": "Robert Beauchamp",
+      "date": "4/20/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11868"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:44.512165"
+}

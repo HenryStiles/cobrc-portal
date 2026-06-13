@@ -1,0 +1,19 @@
+{
+  "acc_no": "34-85-25",
+  "year": "1985",
+  "location": "Ridgway",
+  "county": "Ouray",
+  "observers": "James Guadagno, Mark Janos",
+  "comments": "",
+  "citations": "Gent, P.  1985 Report of the CBRC. CFO Journal 20(3-4), 44-50.",
+  "documentations": [
+    {
+      "doc_id": "14851",
+      "reporter": "James Guadagno, Mark Janos",
+      "date": "5/20/1985",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14851"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:48.637738"
+}

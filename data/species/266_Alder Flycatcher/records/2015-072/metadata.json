@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-072",
+  "year": "2015",
+  "location": "Sand Draw State Wildlife Area",
+  "county": "Sedgwick",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6282",
+      "reporter": "Steven Mlodinow",
+      "date": "5/24/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6282"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:41.703928"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2021-008",
+  "year": "2021",
+  "location": "Del Norte",
+  "county": "Rio Grande",
+  "observers": "Donna Stumpp",
+  "comments": "",
+  "citations": "Accepted by the Chairman and not published.",
+  "documentations": [
+    {
+      "doc_id": "11983",
+      "reporter": "Donna Stumpp",
+      "date": "6/21/2021",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11983"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:46.451311"
+}

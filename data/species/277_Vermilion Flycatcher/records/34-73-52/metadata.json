@@ -1,0 +1,19 @@
+{
+  "acc_no": "34-73-52",
+  "year": "1973",
+  "location": "Horse Creek Reservoir",
+  "county": "Weld",
+  "observers": "Harold Holt",
+  "comments": "",
+  "citations": "Reddall, J. 1974. Reports from the CFO Official Records Committee. Colorado Field Ornithologist 19:11-41.",
+  "documentations": [
+    {
+      "doc_id": "14778",
+      "reporter": "Harold Holt",
+      "date": "4/29/1973",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14778"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:50.682935"
+}

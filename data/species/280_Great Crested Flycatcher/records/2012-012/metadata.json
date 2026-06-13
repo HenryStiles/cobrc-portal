@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-012",
+  "year": "2011",
+  "location": "Pueblo",
+  "county": "Pueblo",
+  "observers": "Brandon K Percival",
+  "comments": "",
+  "citations": "Faulkner, D. The 65th Report of the CBRC. Colorado Birds 47(1), 28-37.",
+  "documentations": [
+    {
+      "doc_id": "1933",
+      "reporter": "Brandon K Percival",
+      "date": "9/8/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1933"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:36.606181"
+}

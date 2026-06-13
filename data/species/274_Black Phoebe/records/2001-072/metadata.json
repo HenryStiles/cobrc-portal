@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-072",
+  "year": "2001",
+  "location": "Grand Junction",
+  "county": "Mesa",
+  "observers": "Larry Arnold",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  2001 pt.1 Report of the CBRC. Colorado Birds 37(3), 138-155.",
+  "documentations": [
+    {
+      "doc_id": "14863",
+      "reporter": "Larry Arnold",
+      "date": "8/21/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14863"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:09.473440"
+}

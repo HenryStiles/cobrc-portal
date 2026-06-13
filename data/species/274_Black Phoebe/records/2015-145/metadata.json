@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-145",
+  "year": "2015",
+  "location": "Waterton Canyon",
+  "county": "Jefferson",
+  "observers": "Scott Somershoe",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "7493",
+      "reporter": "Scott Somershoe",
+      "date": "7/14/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=7493"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:42.433844"
+}

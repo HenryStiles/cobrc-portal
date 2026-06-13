@@ -1,0 +1,19 @@
+{
+  "acc_no": "34-96-47",
+  "year": "1996",
+  "location": "Antonito area",
+  "county": "Conejos & Costilla",
+  "observers": "Urling & Hugh Kingery",
+  "comments": "",
+  "citations": "Janos, M.  1996 Report of the CBRC.  J. of the CFO 32(3), 173-187.",
+  "documentations": [
+    {
+      "doc_id": "14860",
+      "reporter": "Urling & Hugh Kingery",
+      "date": "7/19/1996",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14860"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:00.625408"
+}

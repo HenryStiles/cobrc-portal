@@ -1,0 +1,19 @@
+{
+  "acc_no": "34-94-46",
+  "year": "1994",
+  "location": "1 ml W of Uravan",
+  "county": "Montrose",
+  "observers": "Karleen Schofield",
+  "comments": "",
+  "citations": "Prather, B.  1994 Report of the CBRC. CFO Journal 31(1), 23-31.",
+  "documentations": [
+    {
+      "doc_id": "14857",
+      "reporter": "Karleen Schofield",
+      "date": "6/21/1994",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14857"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:56.953769"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-114",
+  "year": "2016",
+  "location": "Saint Vrain State Park",
+  "county": "Weld",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "6463",
+      "reporter": "Steven Mlodinow",
+      "date": "8/14/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6463"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:54.944933"
+}

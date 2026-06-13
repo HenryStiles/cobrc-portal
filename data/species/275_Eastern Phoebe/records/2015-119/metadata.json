@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-119",
+  "year": "2015",
+  "location": "Nucla",
+  "county": "Montrose",
+  "observers": "Coen Dexter",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "6359",
+      "reporter": "Coen Dexter",
+      "date": "10/13/2015",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6359"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:01.132539"
+}

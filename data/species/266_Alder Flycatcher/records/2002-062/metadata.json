@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-062",
+  "year": "2002",
+  "location": "Box Springs",
+  "county": "Crowley",
+  "observers": "Larry Semo, Tony Leukering",
+  "comments": "",
+  "citations": "Semo, L.  The 44th Report of the CBRC. Colorado Birds 41(4), 241-258.",
+  "documentations": [
+    {
+      "doc_id": "322",
+      "reporter": "Tony Leukering",
+      "date": "8/25/2002",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=322"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:22.334296"
+}

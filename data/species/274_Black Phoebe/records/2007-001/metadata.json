@@ -1,0 +1,33 @@
+{
+  "acc_no": "2007-001",
+  "year": "2006",
+  "location": "Valco Ponds",
+  "county": "Pueblo",
+  "observers": "Brandon Percival, Bill Maynard",
+  "comments": "Age: adults; Plumage: basic;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "639",
+      "reporter": "Brandon K Percival",
+      "date": "12/1/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=639"
+    },
+    {
+      "doc_id": "626",
+      "reporter": "Bill Maynard",
+      "date": "1/1/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=626"
+    },
+    {
+      "doc_id": "686",
+      "reporter": "Brandon K Percival",
+      "date": "1/3/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=686"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:18.599777"
+}

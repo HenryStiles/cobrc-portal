@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-013",
+  "year": "2008",
+  "location": "Valco Ponds",
+  "county": "Pueblo",
+  "observers": "Brandon Percival",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "Semo, L.  The 50th Report of the CBRC. Colorado Birds 43(2), 123-135.",
+  "documentations": [
+    {
+      "doc_id": "895",
+      "reporter": "Brandon K Percival",
+      "date": "2/4/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=895"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:21.560783"
+}

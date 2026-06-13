@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-073",
+  "year": "2005",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Charles Bell",
+  "comments": "",
+  "citations": "Semo, L.  The 44th Report of the CBRC. Colorado Birds 41(4), 241-258.",
+  "documentations": [
+    {
+      "doc_id": "139",
+      "reporter": "Charles Bell",
+      "date": "6/26/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=139"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:28.197112"
+}

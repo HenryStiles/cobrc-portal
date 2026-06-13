@@ -1,0 +1,26 @@
+{
+  "acc_no": "2013-034",
+  "year": "2012",
+  "location": "At the top end of a very small open water stream that runs through a former dairy on Willow Road above the Arkansas River (south of it).",
+  "county": "Fremont",
+  "observers": "Bill Maynard, Brandon K Percival",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2289",
+      "reporter": "Bill Maynard",
+      "date": "12/16/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2289"
+    },
+    {
+      "doc_id": "2357",
+      "reporter": "Brandon K Percival",
+      "date": "12/16/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2357"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:14.459899"
+}

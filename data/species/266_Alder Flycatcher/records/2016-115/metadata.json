@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-115",
+  "year": "2016",
+  "location": "Yuma CR 51 Shelterbelt",
+  "county": "Yuma",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "7508",
+      "reporter": "Steven Mlodinow",
+      "date": "8/21/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=7508"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:56.592532"
+}

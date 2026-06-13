@@ -1,0 +1,19 @@
+{
+  "acc_no": "34-95-60",
+  "year": "1995",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "16484",
+      "reporter": "Tony Leukering",
+      "date": "5/28/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16484"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:13.123999"
+}

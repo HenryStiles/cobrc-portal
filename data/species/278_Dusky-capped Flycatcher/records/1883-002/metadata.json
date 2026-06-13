@@ -1,0 +1,19 @@
+{
+  "acc_no": "1883-002",
+  "year": "1883",
+  "location": "Fort Lyon Area",
+  "county": "Bent",
+  "observers": "T. Thorne",
+  "comments": "Collected: Specimen Museum of Comparative Zoology #225639",
+  "citations": "Thorne, T., The Olivaceous Flycatcher and Phoebe in Colorado. Auk 6, 276-277, 1889.",
+  "documentations": [
+    {
+      "doc_id": "13237",
+      "reporter": "T. Thorne",
+      "date": "5/11/1883",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13237"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:52.228043"
+}

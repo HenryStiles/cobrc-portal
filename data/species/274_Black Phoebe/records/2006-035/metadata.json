@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-035",
+  "year": "2006",
+  "location": "Carrizo Canyon Picnic Area",
+  "county": "Baca",
+  "observers": "Brian Gibbons",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "486",
+      "reporter": "Brian Gibbons",
+      "date": "4/17/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=486"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:16.918534"
+}

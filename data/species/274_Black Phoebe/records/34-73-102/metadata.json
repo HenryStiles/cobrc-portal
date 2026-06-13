@@ -1,0 +1,19 @@
+{
+  "acc_no": "34-73-102",
+  "year": "1973",
+  "location": "Burnt Mill Road area",
+  "county": "Pueblo",
+  "observers": "David Griffiths, Van Truan",
+  "comments": "First CO breeding record: Likely same pair as reported in 1972.",
+  "citations": "Reddall, J. 1974. Reports from the CFO Official Records Committee. Colorado Field Ornithologist 19:11-41.",
+  "documentations": [
+    {
+      "doc_id": "14847",
+      "reporter": "David Griffiths, Van Truan",
+      "date": "4/21/1973",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14847"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:44.230250"
+}

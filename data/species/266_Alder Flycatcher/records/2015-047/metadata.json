@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-047",
+  "year": "2015",
+  "location": "Wray Area",
+  "county": "Yuma",
+  "observers": "Sue Riffe",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176",
+  "documentations": [
+    {
+      "doc_id": "6254",
+      "reporter": "Sue Riffe",
+      "date": "5/2/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6254"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:34.971433"
+}

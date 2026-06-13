@@ -1,0 +1,19 @@
+{
+  "acc_no": "2017-085",
+  "year": "2017",
+  "location": "Flagler Reservoir State Wildlife Area",
+  "county": "Kit Carson",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "8584",
+      "reporter": "Steven Mlodinow",
+      "date": "5/28/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8584"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:51:01.894631"
+}

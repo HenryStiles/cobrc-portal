@@ -1,0 +1,19 @@
+{
+  "acc_no": "34-91-48",
+  "year": "1991",
+  "location": "Fountain Creek Regional Park",
+  "county": "El Paso",
+  "observers": "Toni Brevillier",
+  "comments": "",
+  "citations": "Nelson, D.  1991 Report of the CBRC. CFO Journal 27(2), 49-56.",
+  "documentations": [
+    {
+      "doc_id": "14854",
+      "reporter": "Toni Brevillier",
+      "date": "3/31/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14854"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:52.901568"
+}

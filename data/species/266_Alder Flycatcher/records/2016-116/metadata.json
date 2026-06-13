@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-116",
+  "year": "2016",
+  "location": "Flagler Reservoir State Wildlife Area",
+  "county": "Kit Carson",
+  "observers": "David Dowell",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "8538",
+      "reporter": "David Dowell",
+      "date": "9/10/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8538"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:58.285008"
+}

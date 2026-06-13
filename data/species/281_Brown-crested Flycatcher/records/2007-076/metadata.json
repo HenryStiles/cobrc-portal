@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-076",
+  "year": "2007",
+  "location": "Crow Valley Campground",
+  "county": "Weld",
+  "observers": "David Leatherman",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "839",
+      "reporter": "David Leatherman",
+      "date": "10/29/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=839"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:13.301118"
+}

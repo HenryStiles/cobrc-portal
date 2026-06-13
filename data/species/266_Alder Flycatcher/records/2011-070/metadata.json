@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-070",
+  "year": "2011",
+  "location": "Prewitt Reservoir State Wildlife Area",
+  "county": "Washington",
+  "observers": "Steve Mlodinow",
+  "comments": "Age: adult;",
+  "citations": "Faulkner, D. The 62nd Report of the CBRC. Colorado Birds 46(2), 106-120.",
+  "documentations": [
+    {
+      "doc_id": "1692",
+      "reporter": "Steven Mlodinow",
+      "date": "5/29/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1692"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:49.264390"
+}

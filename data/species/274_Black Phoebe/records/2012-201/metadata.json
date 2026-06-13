@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-201",
+  "year": "2012",
+  "location": "Rio Grande State Wildlife Area",
+  "county": "Rio Grande",
+  "observers": "Brian Underwood",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2204",
+      "reporter": "Brian Underwood",
+      "date": "7/19/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2204"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:31.681512"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2025-001",
+  "year": "2025",
+  "location": "Lyons",
+  "county": "Boulder",
+  "observers": "Sheila Webber",
+  "comments": "",
+  "citations": "The 89th Report of the CBRC, Peter R. Gent, Colorado Birds 60(1), 323-332, 2026.",
+  "documentations": [
+    {
+      "doc_id": "14745",
+      "reporter": "Sheila Webber",
+      "date": "4/2/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14745"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:06.457388"
+}

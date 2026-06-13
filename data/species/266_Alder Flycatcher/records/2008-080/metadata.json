@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-080",
+  "year": "2008",
+  "location": "Tamarack Ranch State Wildlife Area",
+  "county": "Logan",
+  "observers": "Steve Larson",
+  "comments": "Age: adult;",
+  "citations": "Semo, L.  The 51st Report of the CBRC. Colorado Birds 43(3), 193-204.",
+  "documentations": [
+    {
+      "doc_id": "1058",
+      "reporter": "Steve Larson",
+      "date": "5/28/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1058"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:40.617927"
+}

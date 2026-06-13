@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-201",
+  "year": "2002",
+  "location": "Lone Dome State Wildlife Area",
+  "county": "Dolores",
+  "observers": "Andrew Spencer",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "Semo, L. and Faulkner, D. The 56th Report of the CBRC. Colorado Birds 44(4), 240-254.",
+  "documentations": [
+    {
+      "doc_id": "555",
+      "reporter": "Andrew Spencer",
+      "date": "4/27/2002",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=555"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:10.480069"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-250",
+  "year": "2007",
+  "location": "Connected Lakes",
+  "county": "Mesa",
+  "observers": "Peter Derven",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2655",
+      "reporter": "Peter Derven",
+      "date": "5/26/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2655"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:18.306885"
+}

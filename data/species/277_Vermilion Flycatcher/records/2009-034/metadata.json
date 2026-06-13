@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-034",
+  "year": "2009",
+  "location": "Florence",
+  "county": "Fremont",
+  "observers": "Brandon Percival",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Semo, L. and Faulkner, D.  The 54th Report of the CBRC. Colorado Birds 44(2), 89-105.",
+  "documentations": [
+    {
+      "doc_id": "1270",
+      "reporter": "Brandon K Percival",
+      "date": "4/19/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1270"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:53.874832"
+}

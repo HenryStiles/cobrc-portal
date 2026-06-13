@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-044",
+  "year": "2014",
+  "location": "Alamosa",
+  "county": "Alamosa",
+  "observers": "John Rawinski",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176.",
+  "documentations": [
+    {
+      "doc_id": "3945",
+      "reporter": "John Rawinski",
+      "date": "4/14/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3945"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:39.321999"
+}

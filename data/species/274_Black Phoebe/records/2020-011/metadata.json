@@ -1,0 +1,19 @@
+{
+  "acc_no": "2020-011",
+  "year": "2020",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Joe Mammoser",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176.",
+  "documentations": [
+    {
+      "doc_id": "11869",
+      "reporter": "Joe Mammoser",
+      "date": "4/15/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11869"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:43.629041"
+}

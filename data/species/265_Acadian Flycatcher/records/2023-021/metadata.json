@@ -1,0 +1,26 @@
+{
+  "acc_no": "2023-021",
+  "year": "2023",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Brandon K. Percival, Peter  Gent",
+  "comments": "Second state record.",
+  "citations": "Gent, P.  85th Report of the CBRC. Colorado Birds 58(1), 7-14.",
+  "documentations": [
+    {
+      "doc_id": "13306",
+      "reporter": "Brandon K. Percival",
+      "date": "5/22/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13306"
+    },
+    {
+      "doc_id": "13307",
+      "reporter": "Peter  Gent",
+      "date": "5/22/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13307"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:20.676082"
+}

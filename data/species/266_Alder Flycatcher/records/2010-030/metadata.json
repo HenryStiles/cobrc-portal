@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-030",
+  "year": "2010",
+  "location": "Hereford",
+  "county": "Weld",
+  "observers": "David Leatherman",
+  "comments": "Age: adult;",
+  "citations": "Semo, L. and Faulkner, D. The 56th Report of the CBRC. Colorado Birds 44(4), 240-254.",
+  "documentations": [
+    {
+      "doc_id": "1442",
+      "reporter": "David Leatherman",
+      "date": "5/19/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1442"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:44.828213"
+}

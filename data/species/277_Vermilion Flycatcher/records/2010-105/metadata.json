@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-105",
+  "year": "2010",
+  "location": "Karval State Wildlife Area",
+  "county": "Lincoln",
+  "observers": "Lisa Edwards",
+  "comments": "Age: adult; Plumage: alternate; Sex: m, f;",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1499",
+      "reporter": "Lisa Edwards",
+      "date": "5/31/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1499"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:56.312448"
+}

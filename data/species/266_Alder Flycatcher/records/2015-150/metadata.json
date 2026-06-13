@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-150",
+  "year": "2015",
+  "location": "Julesburg",
+  "county": "Sedgwick",
+  "observers": "David Dowell",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "7510",
+      "reporter": "David Dowell",
+      "date": "5/25/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=7510"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:42.810924"
+}

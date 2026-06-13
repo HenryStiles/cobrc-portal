@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-303",
+  "year": "2013",
+  "location": "Durango",
+  "county": "La Plata",
+  "observers": "Todd Myers",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2449",
+      "reporter": "Todd Myers",
+      "date": "4/27/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2449"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:38.226891"
+}

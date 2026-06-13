@@ -1,0 +1,19 @@
+{
+  "acc_no": "2023-038",
+  "year": "2023",
+  "location": "Lyons Area",
+  "county": "Boulder",
+  "observers": "Carl Bendorf",
+  "comments": "",
+  "citations": "Gent, P.  The 86th Report of the CBRC.  Colorado Birds 58(3), 125-132.",
+  "documentations": [
+    {
+      "doc_id": "13525",
+      "reporter": "Carl Bendorf",
+      "date": "11/15/2023",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13525"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:17.491740"
+}

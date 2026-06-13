@@ -1,0 +1,19 @@
+{
+  "acc_no": "34-77-18",
+  "year": "1977",
+  "location": "La Junta",
+  "county": "Otero",
+  "observers": "Babette Tully",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "14781",
+      "reporter": "Babette Tully",
+      "date": "3/23/1977",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14781"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:52.769353"
+}

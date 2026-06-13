@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-034",
+  "year": "2008",
+  "location": "CRs 28 & D",
+  "county": "Prowers",
+  "observers": "Brandon Percival",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Semo, L.  The 50th Report of the CBRC. Colorado Birds 43(2), 123-135.",
+  "documentations": [
+    {
+      "doc_id": "954",
+      "reporter": "Brandon K Percival",
+      "date": "4/27/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=954"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:59.329112"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-053",
+  "year": "1987",
+  "location": "Boulder Creek & 75th Street",
+  "county": "Boulder",
+  "observers": "Bill Kaempfer",
+  "comments": "Age: adult; Plumage: basic; Sex: f;",
+  "citations": "Semo, L. and Faulkner, D. The 57th Report of the CBRC. Colorado Birds 45(1), 30-41.",
+  "documentations": [
+    {
+      "doc_id": "1214",
+      "reporter": "Bill Kaempfer",
+      "date": "12/12/1987",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1214"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:59.539942"
+}

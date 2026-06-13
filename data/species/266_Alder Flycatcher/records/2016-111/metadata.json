@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-111",
+  "year": "2016",
+  "location": "Sand Draw State Wildlife Area",
+  "county": "Sedgwick",
+  "observers": "David Dowell",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "7513",
+      "reporter": "David Dowell",
+      "date": "5/28/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=7513"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:50.461200"
+}

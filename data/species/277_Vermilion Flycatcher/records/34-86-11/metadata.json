@@ -1,0 +1,19 @@
+{
+  "acc_no": "34-86-11",
+  "year": "1986",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Greg Hughes",
+  "comments": "Specimen DMNH #39534",
+  "citations": "Bunn, R.  1986 Report of the CBRC. CFO Journal 22(3), 85-90.",
+  "documentations": [
+    {
+      "doc_id": "14785",
+      "reporter": "Greg Hughes",
+      "date": "3/26/1986",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14785"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:56.885388"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-094",
+  "year": "1998",
+  "location": "Big Gypsum Valley",
+  "county": "San Miguel",
+  "observers": "Kim Potter",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "15855",
+      "reporter": "Kim Potter",
+      "date": "7/6/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15855"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:07.082146"
+}

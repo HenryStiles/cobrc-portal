@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-062",
+  "year": "2005",
+  "location": "Dixon Reservoir/Pine Ridge Natural Area",
+  "county": "Larimer",
+  "observers": "Rachel Hopper",
+  "comments": "Age: adult;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "394",
+      "reporter": "Rachel Hopper",
+      "date": "6/4/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=394"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:27.218510"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-009",
+  "year": "2004",
+  "location": "Sands Lake State Wildlife Area",
+  "county": "Chaffee",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "5203",
+      "reporter": "Tony Leukering",
+      "date": "9/11/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5203"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:25.116408"
+}

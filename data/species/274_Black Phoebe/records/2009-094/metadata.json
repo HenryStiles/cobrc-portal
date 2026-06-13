@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-094",
+  "year": "2009",
+  "location": "Valco Ponds",
+  "county": "Pueblo",
+  "observers": "Brandon Percival",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1347",
+      "reporter": "Brandon K Percival",
+      "date": "12/1/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1347"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:25.871423"
+}

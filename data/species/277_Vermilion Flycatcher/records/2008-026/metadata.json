@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-026",
+  "year": "2008",
+  "location": "Highline Lake State Park",
+  "county": "Mesa",
+  "observers": "Jason Beason",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Semo, L.  The 50th Report of the CBRC. Colorado Birds 43(2), 123-135.",
+  "documentations": [
+    {
+      "doc_id": "1026",
+      "reporter": "Jason Beason",
+      "date": "4/1/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1026"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:57.603798"
+}

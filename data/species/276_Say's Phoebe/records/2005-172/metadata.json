@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-172",
+  "year": "2005",
+  "location": "Intersection of 28th St and Mackenzie Dr.",
+  "county": "Larimer",
+  "observers": "Nicholas Komar",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "239",
+      "reporter": "Nicholas Komar",
+      "date": "11/27/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=239"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:53.896746"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-016",
+  "year": "2009",
+  "location": "Walden Ponds/Sawhill Ponds Complex",
+  "county": "Boulder",
+  "observers": "Maggie Boswell",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "Semo, L. and Faulkner, D.  The 52nd Report of the CBRC. Colorado Birds 43(4), 268-281.",
+  "documentations": [
+    {
+      "doc_id": "1217",
+      "reporter": "Maggie Boswell",
+      "date": "4/8/2009",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1217"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:25.223683"
+}

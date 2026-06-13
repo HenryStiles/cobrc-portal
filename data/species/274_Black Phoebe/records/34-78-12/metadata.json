@@ -1,0 +1,19 @@
+{
+  "acc_no": "34-78-12",
+  "year": "1977",
+  "location": "Durango",
+  "county": "La Plata",
+  "observers": "Elva Fox",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "14850",
+      "reporter": "Elva Fox",
+      "date": "8/9/1977",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14850"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:47.506716"
+}

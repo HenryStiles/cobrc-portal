@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-058",
+  "year": "1997",
+  "location": "Hwy 149 NE of Lake City",
+  "county": "Gunnison",
+  "observers": "Kim Potter",
+  "comments": "",
+  "citations": "Janos, M.  1997 Report of the CBRC.  J. of the CFO 33(4), 241-252.",
+  "documentations": [
+    {
+      "doc_id": "14861",
+      "reporter": "Kim Potter",
+      "date": "5/24/1997",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14861"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:01.596057"
+}

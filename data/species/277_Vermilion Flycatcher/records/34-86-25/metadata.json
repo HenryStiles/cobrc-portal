@@ -1,0 +1,19 @@
+{
+  "acc_no": "34-86-25",
+  "year": "1985",
+  "location": "Hudson",
+  "county": "Weld",
+  "observers": "Jerry Cairo",
+  "comments": "",
+  "citations": "Bunn, R.  1986 Report of the CBRC. CFO Journal 22(3), 85-90.",
+  "documentations": [
+    {
+      "doc_id": "14786",
+      "reporter": "Jerry Cairo",
+      "date": "9/25/1985",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14786"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:55.950870"
+}

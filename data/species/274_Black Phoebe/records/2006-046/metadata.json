@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-046",
+  "year": "2006",
+  "location": "Mesa",
+  "county": "Mesa",
+  "observers": "Robert Bradley",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "571",
+      "reporter": "Robert Bradley",
+      "date": "5/10/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=571"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:17.855152"
+}

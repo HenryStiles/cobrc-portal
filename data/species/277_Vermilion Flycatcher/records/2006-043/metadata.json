@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-043",
+  "year": "2006",
+  "location": "Chatfield State Park (Douglas Portion)",
+  "county": "Douglas",
+  "observers": "Joey Kellner",
+  "comments": "Age: adult; Sex: f;",
+  "citations": "Semo, L.  The 48th Report of the CBRC. Colorado Birds 42(4), 270-278.",
+  "documentations": [
+    {
+      "doc_id": "594",
+      "reporter": "Joey Kellner",
+      "date": "4/28/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=594"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:55.831149"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-059",
+  "year": "2007",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Bill Maynard",
+  "comments": "Age: adult;",
+  "citations": "Semo, L. and Faulkner, D. The 56th Report of the CBRC. Colorado Birds 44(4), 240-254.",
+  "documentations": [
+    {
+      "doc_id": "1235",
+      "reporter": "Bill Maynard",
+      "date": "5/23/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1235"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:33.794658"
+}

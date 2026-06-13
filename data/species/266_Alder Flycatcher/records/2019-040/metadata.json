@@ -1,0 +1,19 @@
+{
+  "acc_no": "2019-040",
+  "year": "2019",
+  "location": "Tamarack Ranch State Wildlife Area",
+  "county": "Logan",
+  "observers": "Jack Bushong",
+  "comments": "",
+  "citations": "The 82nd Report of the CBRC, 2022. Colorado Birds, 56(4), 283-294.",
+  "documentations": [
+    {
+      "doc_id": "11853",
+      "reporter": "Jack Bushong",
+      "date": "5/29/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11853"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:51:08.062526"
+}

@@ -1,0 +1,26 @@
+{
+  "acc_no": "2010-024",
+  "year": "2010",
+  "location": "Gunbarrel and Niwot area",
+  "county": "Boulder",
+  "observers": "Michael Blatchley, Walter Szeliga",
+  "comments": "Age: adult; Plumage: basic;",
+  "citations": "Semo, L. and Faulkner, D. The 56th Report of the CBRC. Colorado Birds 44(4), 240-254.",
+  "documentations": [
+    {
+      "doc_id": "1411",
+      "reporter": "Michael Blatchley",
+      "date": "5/9/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1411"
+    },
+    {
+      "doc_id": "1425",
+      "reporter": "Walter Szeliga",
+      "date": "5/9/2010",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1425"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:27.499985"
+}

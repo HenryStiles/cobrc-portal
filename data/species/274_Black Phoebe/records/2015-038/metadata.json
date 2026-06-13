@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-038",
+  "year": "2015",
+  "location": "Boulder Creek & 75th Street",
+  "county": "Boulder",
+  "observers": "Ted Floyd",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "6232",
+      "reporter": "Ted Floyd",
+      "date": "4/3/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6232"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:40.141375"
+}

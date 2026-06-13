@@ -1,0 +1,33 @@
+{
+  "acc_no": "2009-032",
+  "year": "2009",
+  "location": "Fort Lyon Area",
+  "county": "Bent",
+  "observers": "Bill Maynard, Brandon Percival, Joey Kellner",
+  "comments": "Age: adult;",
+  "citations": "Semo, L. and Faulkner, D.  The 52nd Report of the CBRC. Colorado Birds 43(4), 268-281.",
+  "documentations": [
+    {
+      "doc_id": "1231",
+      "reporter": "Brandon K Percival",
+      "date": "5/12/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1231"
+    },
+    {
+      "doc_id": "1242",
+      "reporter": "Joey Kellner",
+      "date": "5/12/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1242"
+    },
+    {
+      "doc_id": "1236",
+      "reporter": "Bill Maynard",
+      "date": "5/14/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1236"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:14.475720"
+}

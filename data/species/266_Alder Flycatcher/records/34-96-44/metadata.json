@@ -1,0 +1,19 @@
+{
+  "acc_no": "34-96-44",
+  "year": "1996",
+  "location": "Waterton Canyon",
+  "county": "Jefferson",
+  "observers": "Dick Schottler",
+  "comments": "",
+  "citations": "Janos, M.  1996 Report of the CBRC.  J. of the CFO 32(3), 173-187.",
+  "documentations": [
+    {
+      "doc_id": "16486",
+      "reporter": "Dick Schottler",
+      "date": "6/25/1996",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16486"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:18.245814"
+}

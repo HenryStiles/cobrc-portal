@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-052",
+  "year": "2007",
+  "location": "Chico Basin Ranch",
+  "county": "Pueblo",
+  "observers": "Bill Maynard",
+  "comments": "Age: juv;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "763",
+      "reporter": "Bill Maynard",
+      "date": "8/22/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=763"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:37.418128"
+}

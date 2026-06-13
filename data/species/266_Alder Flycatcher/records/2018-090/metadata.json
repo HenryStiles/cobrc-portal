@@ -1,0 +1,19 @@
+{
+  "acc_no": "2018-090",
+  "year": "2018",
+  "location": "Wild Horse",
+  "county": "Cheyenne",
+  "observers": "Dean E  Shoup",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "11684",
+      "reporter": "Dean E  Shoup",
+      "date": "5/20/2018",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11684"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:51:06.862672"
+}

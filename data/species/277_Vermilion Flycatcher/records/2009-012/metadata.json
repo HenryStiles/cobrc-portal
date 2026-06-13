@@ -1,0 +1,40 @@
+{
+  "acc_no": "2009-012",
+  "year": "2009",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Bill Schmoker, Cole Wild, Doug Faulkner, Larry Semo",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Semo, L. and Faulkner, D.  The 54th Report of the CBRC. Colorado Birds 44(2), 89-105.",
+  "documentations": [
+    {
+      "doc_id": "1195",
+      "reporter": "Bill Schmoker",
+      "date": "3/25/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1195"
+    },
+    {
+      "doc_id": "1196",
+      "reporter": "Doug Faulkner",
+      "date": "3/25/2009",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1196"
+    },
+    {
+      "doc_id": "1202",
+      "reporter": "C W",
+      "date": "3/25/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1202"
+    },
+    {
+      "doc_id": "1215",
+      "reporter": "Larry Semo",
+      "date": "3/25/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1215"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:01.274358"
+}

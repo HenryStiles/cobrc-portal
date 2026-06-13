@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-027",
+  "year": "2005",
+  "location": "Two Buttes State Wildlife Area",
+  "county": "Baca",
+  "observers": "Brandon K. Percival",
+  "comments": "Age: adult; Sex: f;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "343",
+      "reporter": "Brandon K Percival",
+      "date": "4/22/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=343"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:48.542521"
+}

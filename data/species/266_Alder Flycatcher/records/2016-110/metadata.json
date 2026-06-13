@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-110",
+  "year": "2016",
+  "location": "Beecher Island area",
+  "county": "Yuma",
+  "observers": "Dean E  Shoup",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "6430",
+      "reporter": "Dean E  Shoup",
+      "date": "5/25/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6430"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:50:48.230730"
+}
