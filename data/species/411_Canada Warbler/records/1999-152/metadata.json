@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-152",
+  "year": "1999",
+  "location": "Adams Lodge",
+  "county": "Rio Blanco",
+  "observers": "Dona Hilkey",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "14655",
+      "reporter": "Dona Hilkey",
+      "date": "5/27/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14655"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:47.144073"
+}

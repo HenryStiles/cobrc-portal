@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-73-57",
+  "year": "1973",
+  "location": "Estes Park",
+  "county": "Larimer",
+  "observers": "Lois Matthews",
+  "comments": "",
+  "citations": "Reddall, J. 1974. Reports from the CFO Official Records Committee. Colorado Field Ornithologist 19:11-41.",
+  "documentations": [
+    {
+      "doc_id": "15876",
+      "reporter": "Lois Matthews",
+      "date": "5/20/1973",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15876"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:35.822859"
+}

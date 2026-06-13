@@ -1,0 +1,33 @@
+{
+  "acc_no": "2010-008",
+  "year": "2010",
+  "location": "Pueblo City Park",
+  "county": "Pueblo",
+  "observers": "Brandon Percival, Bill Maynard",
+  "comments": "Age: 1st cycle; Plumage: basic; Sex: f;",
+  "citations": "Semo, L. and Faulkner, D. The 57th Report of the CBRC. Colorado Birds 45(1), 30-41.",
+  "documentations": [
+    {
+      "doc_id": "1379",
+      "reporter": "Brandon K Percival",
+      "date": "1/18/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1379"
+    },
+    {
+      "doc_id": "1381",
+      "reporter": "Brandon K Percival",
+      "date": "1/25/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1381"
+    },
+    {
+      "doc_id": "1382",
+      "reporter": "Bill Maynard",
+      "date": "1/25/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1382"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:15.338429"
+}

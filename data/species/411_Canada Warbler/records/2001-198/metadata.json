@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-198",
+  "year": "2001",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Andrew Spencer",
+  "comments": "Age: imm.; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "523",
+      "reporter": "Andrew Spencer",
+      "date": "9/3/2001",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=523"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:49.379213"
+}

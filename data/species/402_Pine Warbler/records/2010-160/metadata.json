@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-160",
+  "year": "2010",
+  "location": "Fountain Creek Regional Park",
+  "county": "El Paso",
+  "observers": "Bill Maynard",
+  "comments": "Age: adult; Sex: m;",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1532",
+      "reporter": "Bill Maynard",
+      "date": "12/4/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1532"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:27.290060"
+}

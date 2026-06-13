@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-121",
+  "year": "1998",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Bill Miller",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "16362",
+      "reporter": "Bill Miller",
+      "date": "5/26/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16362"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:19.446107"
+}

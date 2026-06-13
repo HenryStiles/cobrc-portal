@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-82-25",
+  "year": "1982",
+  "location": "Chatfield State Park",
+  "county": "Douglas",
+  "observers": "Drew Grainger",
+  "comments": "",
+  "citations": "Gent, P.  1982 Report of the CBRC. CFO Journal 18(2), 51-57.",
+  "documentations": [
+    {
+      "doc_id": "14501",
+      "reporter": "Drew Grainger",
+      "date": "5/21/1982",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14501"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:35.381442"
+}

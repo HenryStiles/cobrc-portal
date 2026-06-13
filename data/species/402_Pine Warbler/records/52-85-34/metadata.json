@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-85-34",
+  "year": "1985",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Duane Nelson, David Martin",
+  "comments": "",
+  "citations": "Gent, P.  1985 Report of the CBRC. CFO Journal 20(3-4), 44-50.",
+  "documentations": [
+    {
+      "doc_id": "16015",
+      "reporter": "Duane Nelson, David Martin",
+      "date": "8/31/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16015"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:53.346751"
+}

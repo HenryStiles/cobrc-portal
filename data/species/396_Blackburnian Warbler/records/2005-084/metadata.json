@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-084",
+  "year": "2005",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Glenn Walbek",
+  "comments": "",
+  "citations": "Semo, L.  The 44th Report of the CBRC. Colorado Birds 41(4), 241-258.",
+  "documentations": [
+    {
+      "doc_id": "203",
+      "reporter": "Glenn Walbek",
+      "date": "9/3/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=203"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:50.277446"
+}

@@ -1,0 +1,26 @@
+{
+  "acc_no": "2000-130",
+  "year": "2000",
+  "location": "Two Buttes State Wildlife Area",
+  "county": "Baca",
+  "observers": "Dave Leatherman, Tony Leukering",
+  "comments": "",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "3929",
+      "reporter": "David Leatherman",
+      "date": "6/6/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3929"
+    },
+    {
+      "doc_id": "3930",
+      "reporter": "Tony Leukering",
+      "date": "6/8/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3930"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:09.824204"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-083",
+  "year": "2007",
+  "location": "Karval Area Ranches",
+  "county": "Lincoln",
+  "observers": "Andrew Spencer",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "804",
+      "reporter": "Andrew Spencer",
+      "date": "5/6/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=804"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:57.223255"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-94-82",
+  "year": "1994",
+  "location": "South Republican SWA",
+  "county": "Yuma",
+  "observers": "William Schreier",
+  "comments": "",
+  "citations": "Prather, B.  1994 Report of the CBRC. CFO Journal 31(1), 23-31.",
+  "documentations": [
+    {
+      "doc_id": "14645",
+      "reporter": "William Schreier",
+      "date": "9/3/1994",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14645"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:38.738576"
+}

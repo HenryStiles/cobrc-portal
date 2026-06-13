@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-074",
+  "year": "2004",
+  "location": "Pueblo City Park",
+  "county": "Pueblo",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "Semo, L.  47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "74",
+      "reporter": "Tony Leukering",
+      "date": "4/20/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=74"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:39.502205"
+}

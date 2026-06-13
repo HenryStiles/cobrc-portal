@@ -1,0 +1,26 @@
+{
+  "acc_no": "2003-118",
+  "year": "2003",
+  "location": "Chico Basin Ranch",
+  "county": "Pueblo",
+  "observers": "Bill Schmoker, Tony Leukering",
+  "comments": "",
+  "citations": "Semo, L.  The 42nd Report of the CBRC. Colorado Birds 40(3), 133-156.",
+  "documentations": [
+    {
+      "doc_id": "4",
+      "reporter": "Bill Schmoker",
+      "date": "5/10/2003",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4"
+    },
+    {
+      "doc_id": "318",
+      "reporter": "Tony Leukering",
+      "date": "5/10/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=318"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:30.930874"
+}

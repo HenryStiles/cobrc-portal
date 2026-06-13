@@ -1,0 +1,26 @@
+{
+  "acc_no": "2006-074",
+  "year": "2006",
+  "location": "Pawnee National Grasslands (western section)",
+  "county": "Weld",
+  "observers": "Cole Wild, Rachel Hopper",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "437",
+      "reporter": "C W",
+      "date": "5/20/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=437"
+    },
+    {
+      "doc_id": "504",
+      "reporter": "Rachel Hopper",
+      "date": "5/21/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=504"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:53.693086"
+}

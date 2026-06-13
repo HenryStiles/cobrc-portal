@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-127",
+  "year": "1997",
+  "location": "Lake Henry",
+  "county": "Crowley",
+  "observers": "Brandon Percival",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "15912",
+      "reporter": "Brandon Percival",
+      "date": "5/16/1997",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15912"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:21.626037"
+}

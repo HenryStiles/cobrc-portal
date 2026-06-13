@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-91-64",
+  "year": "1991",
+  "location": "Pueblo",
+  "county": "Pueblo",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Nelson, D.  1991 Report of the CBRC. CFO Journal 27(2), 49-56.",
+  "documentations": [
+    {
+      "doc_id": "13512",
+      "reporter": "Mark Janos",
+      "date": "4/30/1991",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13512"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:22.043886"
+}

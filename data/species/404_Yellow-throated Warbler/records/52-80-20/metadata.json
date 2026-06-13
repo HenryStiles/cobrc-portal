@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-80-20",
+  "year": "1979",
+  "location": "Elizabeth",
+  "county": "Park",
+  "observers": "Henry Stevenson",
+  "comments": "",
+  "citations": "Chase, C.  1977-1980 Pt.2 Report of the CBRC. CFO Journal 15(2), 54-59.",
+  "documentations": [
+    {
+      "doc_id": "14500",
+      "reporter": "Henry Stevenson",
+      "date": "5/11/1979",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14500"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:34.300366"
+}

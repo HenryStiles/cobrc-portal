@@ -1,0 +1,19 @@
+{
+  "acc_no": "1899-003",
+  "year": "1899",
+  "location": "Limon",
+  "county": "Lincoln",
+  "observers": "Charles Aiken",
+  "comments": "Collected: Specimen Colorado College #4131",
+  "citations": "Aiken, C., Seven New Birds for Colorado. Auk, 17, 298, 1900.",
+  "documentations": [
+    {
+      "doc_id": "13214",
+      "reporter": "Charles Aiken",
+      "date": "5/23/1899",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13214"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:17.168443"
+}

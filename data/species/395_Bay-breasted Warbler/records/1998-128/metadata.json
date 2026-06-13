@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-128",
+  "year": "1998",
+  "location": "Crow Valley Campground",
+  "county": "Weld",
+  "observers": "Stephen Dinsmore",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "15913",
+      "reporter": "Stephen Dinsmore",
+      "date": "9/5/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15913"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:23.655615"
+}

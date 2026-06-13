@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-73-112",
+  "year": "1973",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Roger Boyd",
+  "comments": "Banded at banding station.",
+  "citations": "Reddall, J. 1974. Reports from the CFO Official Records Committee. Colorado Field Ornithologist 19:11-41.",
+  "documentations": [
+    {
+      "doc_id": "14633",
+      "reporter": "Roger Boyd",
+      "date": "5/26/1973",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14633"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:25.352532"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-180",
+  "year": "2012",
+  "location": "Navajo State Park",
+  "county": "Archuleta",
+  "observers": "James Beatty",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2159",
+      "reporter": "James Beatty",
+      "date": "10/2/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2159"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:53.822452"
+}

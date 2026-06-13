@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-76-66",
+  "year": "1976",
+  "location": "Colorado Springs",
+  "county": "El Paso",
+  "observers": "C. Campbell, Charles Campbell",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "14639",
+      "reporter": "Charles Campbell",
+      "date": "5/26/1976",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14639"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:31.043151"
+}

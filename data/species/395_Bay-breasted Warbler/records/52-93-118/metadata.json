@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-93-118",
+  "year": "1988",
+  "location": "Fort Lyon Area",
+  "county": "Bent",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Prather, B.  1993 Report of the CBRC. CFO Journal 30(1), 20-30.",
+  "documentations": [
+    {
+      "doc_id": "15907",
+      "reporter": "Mark Janos",
+      "date": "5/21/1988",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15907"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:57.998258"
+}

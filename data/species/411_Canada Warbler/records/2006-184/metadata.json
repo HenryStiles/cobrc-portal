@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-184",
+  "year": "2006",
+  "location": "De Weese Reservoir",
+  "county": "Custer",
+  "observers": "Rich Miller",
+  "comments": "Age: adult; Plumage: basic; Sex: f;",
+  "citations": "Semo, L. and Faulkner, D.  The 53rd Report of the CBRC. Colorado Birds 44(1), 31-42.",
+  "documentations": [
+    {
+      "doc_id": "1316",
+      "reporter": "Rich Miller",
+      "date": "9/24/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1316"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:57.474176"
+}

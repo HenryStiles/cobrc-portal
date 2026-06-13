@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-163",
+  "year": "2008",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Joe Bartell",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2654",
+      "reporter": "Joe Bartell",
+      "date": "9/25/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2654"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:55.341636"
+}

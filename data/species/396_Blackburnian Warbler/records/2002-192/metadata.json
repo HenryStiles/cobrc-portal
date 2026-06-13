@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-192",
+  "year": "2002",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Jason Beason",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16370",
+      "reporter": "Jason Beason",
+      "date": "9/20/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16370"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:49.232240"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-85-51",
+  "year": "1985",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Dan Bridges",
+  "comments": "",
+  "citations": "Gent, P.  1985 Report of the CBRC. CFO Journal 20(3-4), 44-50.",
+  "documentations": [
+    {
+      "doc_id": "16016",
+      "reporter": "Dan Bridges",
+      "date": "10/20/1985",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16016"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:54.214393"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2019-046",
+  "year": "2019",
+  "location": "Chatfield State Park",
+  "county": "Jefferson",
+  "observers": "Michael Lester",
+  "comments": "",
+  "citations": "The 82nd Report of the CBRC, 2022. Colorado Birds, 56(4), 283-294.",
+  "documentations": [
+    {
+      "doc_id": "11826",
+      "reporter": "Michael Lester",
+      "date": "9/8/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11826"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:17.295776"
+}

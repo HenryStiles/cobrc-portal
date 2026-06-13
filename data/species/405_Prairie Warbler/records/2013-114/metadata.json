@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-114",
+  "year": "2004",
+  "location": "Lake DeWeese",
+  "county": "Custer",
+  "observers": "Brandon K Percival",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2426",
+      "reporter": "Brandon K Percival",
+      "date": "9/21/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2426"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:17.185257"
+}

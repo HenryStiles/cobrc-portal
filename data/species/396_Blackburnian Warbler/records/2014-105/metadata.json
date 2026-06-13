@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-105",
+  "year": "2006",
+  "location": "Neenoshe Reservoir",
+  "county": "Kiowa",
+  "observers": "Glenn Walbek",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "4083",
+      "reporter": "Walbek, Glenn",
+      "date": "5/10/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4083"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:51.829496"
+}

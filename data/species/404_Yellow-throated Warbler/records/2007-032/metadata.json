@@ -1,0 +1,26 @@
+{
+  "acc_no": "2007-032",
+  "year": "2007",
+  "location": "Chico Basin Ranch",
+  "county": "Pueblo",
+  "observers": "Bill Maynard, Brandon K Percival",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "715",
+      "reporter": "Bill Maynard",
+      "date": "5/5/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=715"
+    },
+    {
+      "doc_id": "740",
+      "reporter": "Brandon K Percival",
+      "date": "5/5/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=740"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:37.146008"
+}

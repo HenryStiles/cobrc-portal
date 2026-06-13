@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-86-51",
+  "year": "1986",
+  "location": "Riverside Reservoir",
+  "county": "Weld",
+  "observers": "Dan Bridges",
+  "comments": "",
+  "citations": "Bunn, R.  1986 Report of the CBRC. CFO Journal 22(3), 85-90.",
+  "documentations": [
+    {
+      "doc_id": "16017",
+      "reporter": "Dan Bridges",
+      "date": "9/7/1986",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16017"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:55.303747"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-181",
+  "year": "2014",
+  "location": "Cherry Creek State Park",
+  "county": "Arapahoe",
+  "observers": "Steve Stachowiak",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "5186",
+      "reporter": "Steve Stachowiak",
+      "date": "5/24/2014",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5186"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:04.612905"
+}

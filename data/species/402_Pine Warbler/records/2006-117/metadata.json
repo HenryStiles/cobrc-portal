@@ -1,0 +1,26 @@
+{
+  "acc_no": "2006-117",
+  "year": "2006",
+  "location": "Prewitt Reservoir State Wildlife Area",
+  "county": "Washington",
+  "observers": "Andrew Spencer, Nathan Pieplow",
+  "comments": "",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "530",
+      "reporter": "Andrew Spencer",
+      "date": "8/27/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=530"
+    },
+    {
+      "doc_id": "535",
+      "reporter": "Nathan Pieplow",
+      "date": "8/27/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=535"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:08.127068"
+}

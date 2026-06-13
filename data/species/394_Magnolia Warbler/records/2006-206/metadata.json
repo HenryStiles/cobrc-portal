@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-206",
+  "year": "2006",
+  "location": "Barr Lake State Park",
+  "county": "Adams",
+  "observers": "Nicholas Komar",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "576",
+      "reporter": "Nicholas Komar",
+      "date": "9/22/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=576"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:49.090757"
+}

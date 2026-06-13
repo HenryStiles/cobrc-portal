@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-74-152",
+  "year": "1974",
+  "location": "CU Campus",
+  "county": "Boulder",
+  "observers": "Bruce & Cathy Bosley",
+  "comments": "Adult female or immature.",
+  "citations": "Reddall, J. 1975. Reports from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "16338",
+      "reporter": "Bruce & Cathy Bosley",
+      "date": "10/29/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16338"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:55.580647"
+}

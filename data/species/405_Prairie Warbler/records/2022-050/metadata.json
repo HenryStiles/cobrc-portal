@@ -1,0 +1,19 @@
+{
+  "acc_no": "2022-050",
+  "year": "2022",
+  "location": "Audubon Nature Center",
+  "county": "Jefferson",
+  "observers": "Michael Lester",
+  "comments": "",
+  "citations": "Gent, P.  The 86th Report of the CBRC.  Colorado Birds 58(3), 125-132.",
+  "documentations": [
+    {
+      "doc_id": "12065",
+      "reporter": "Michael Lester",
+      "date": "5/16/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12065"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:19.498573"
+}

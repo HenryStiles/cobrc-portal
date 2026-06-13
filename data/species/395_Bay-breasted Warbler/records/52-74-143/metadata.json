@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-74-143",
+  "year": "1974",
+  "location": "Evergreen area",
+  "county": "Jefferson",
+  "observers": "William Brockner",
+  "comments": "",
+  "citations": "Reddall, J. 1975. Reports from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "15889",
+      "reporter": "William Brockner",
+      "date": "6/15/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15889"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:45.857877"
+}

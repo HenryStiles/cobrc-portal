@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-181",
+  "year": "2009",
+  "location": "Lamar",
+  "county": "Prowers",
+  "observers": "Jane Stulp",
+  "comments": "Age: adult; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1472",
+      "reporter": "Jane Stulp",
+      "date": "10/19/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1472"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:14.247115"
+}

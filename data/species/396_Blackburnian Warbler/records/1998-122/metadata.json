@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-122",
+  "year": "1998",
+  "location": "Crow Valley Campground",
+  "county": "Weld",
+  "observers": "Chris Wood",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "16363",
+      "reporter": "Chris Wood",
+      "date": "5/26/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16363"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:20.634653"
+}

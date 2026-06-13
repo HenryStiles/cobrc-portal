@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-130",
+  "year": "2004",
+  "location": "Flagler Reservoir State Wildlife Area",
+  "county": "Kit Carson",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "286",
+      "reporter": "Tony Leukering",
+      "date": "11/5/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=286"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:41.803226"
+}

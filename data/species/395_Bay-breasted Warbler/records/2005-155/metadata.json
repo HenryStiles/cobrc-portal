@@ -1,0 +1,26 @@
+{
+  "acc_no": "2005-155",
+  "year": "2005",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Bill Schmoker, Brian Gibbons, Rachel Hopper",
+  "comments": "Age: adult; Plumage: alternate; Sex: f;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "127",
+      "reporter": "Brian Gibbons",
+      "date": "5/15/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=127"
+    },
+    {
+      "doc_id": "393",
+      "reporter": "Rachel Hopper",
+      "date": "5/15/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=393"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:32.171869"
+}

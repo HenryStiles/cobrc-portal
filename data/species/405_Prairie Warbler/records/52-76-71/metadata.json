@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-76-71",
+  "year": "1976",
+  "location": "South Republican SWA",
+  "county": "Yuma",
+  "observers": "Peter Moulton, Judd Sundine",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "14813",
+      "reporter": "Peter Moulton, Judd Sundine",
+      "date": "5/15/1976",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14813"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:52.329986"
+}

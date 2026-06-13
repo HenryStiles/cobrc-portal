@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-258",
+  "year": "2013",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "David Leatherman",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2700",
+      "reporter": "David Leatherman",
+      "date": "11/9/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2700"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:44.970620"
+}

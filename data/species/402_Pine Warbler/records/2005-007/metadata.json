@@ -1,0 +1,33 @@
+{
+  "acc_no": "2005-007",
+  "year": "2005",
+  "location": "Denver West Buisness Park",
+  "county": "Jefferson",
+  "observers": "Tony Leukering, Bill Schmoker, Brandon Percival",
+  "comments": "",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "64",
+      "reporter": "Tony Leukering",
+      "date": "2/5/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=64"
+    },
+    {
+      "doc_id": "81",
+      "reporter": "Brandon K Percival",
+      "date": "2/12/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=81"
+    },
+    {
+      "doc_id": "272",
+      "reporter": "Bill Schmoker",
+      "date": "2/12/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=272"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:59.688785"
+}

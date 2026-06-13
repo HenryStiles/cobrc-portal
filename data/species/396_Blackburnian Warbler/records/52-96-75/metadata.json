@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-96-75",
+  "year": "1996",
+  "location": "Lake Henry",
+  "county": "Crowley",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Janos, M.  1996 Report of the CBRC.  J. of the CFO 32(3), 173-187.",
+  "documentations": [
+    {
+      "doc_id": "16357",
+      "reporter": "Mark Janos",
+      "date": "5/4/1996",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16357"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:14.395529"
+}

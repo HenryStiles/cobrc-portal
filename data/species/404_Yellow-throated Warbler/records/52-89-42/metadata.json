@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-89-42",
+  "year": "1989",
+  "location": "Loveland",
+  "county": "Larimer",
+  "observers": "Ann Means",
+  "comments": "",
+  "citations": "Nelson, D.  1989 Report of the CBRC. CFO Journal 25(4), 119-125.",
+  "documentations": [
+    {
+      "doc_id": "14506",
+      "reporter": "Ann Means",
+      "date": "5/5/1989",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14506"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:41.514228"
+}

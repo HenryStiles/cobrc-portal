@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-093",
+  "year": "2004",
+  "location": "Jumbo Reservoir State Wildlife Area",
+  "county": "Sedgwick",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "330",
+      "reporter": "Tony Leukering",
+      "date": "9/4/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=330"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:54.746303"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-019",
+  "year": "2005",
+  "location": "Lyons Area",
+  "county": "Boulder",
+  "observers": "Joe Harrison",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "14840",
+      "reporter": "Joe Harrison",
+      "date": "10/21/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14840"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:19.647213"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-163",
+  "year": "2002",
+  "location": "Lamar",
+  "county": "Prowers",
+  "observers": "Brian Gibbons",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  The 38th Report of the CBRC. Colorado Birds 38(4), 168-183.",
+  "documentations": [
+    {
+      "doc_id": "16037",
+      "reporter": "Brian Gibbons",
+      "date": "4/19/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16037"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:35.912374"
+}

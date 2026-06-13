@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-052",
+  "year": "2016",
+  "location": "Ken Caryl Valley",
+  "county": "Jefferson",
+  "observers": "David Suddjian",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6424",
+      "reporter": "David Suddjian",
+      "date": "5/16/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6424"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:10.798758"
+}

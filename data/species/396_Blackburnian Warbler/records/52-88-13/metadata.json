@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-88-13",
+  "year": "1987",
+  "location": "Riverside Reservoir",
+  "county": "Weld",
+  "observers": "Jerry Cairo",
+  "comments": "",
+  "citations": "Gent, P. and Nelson, D.  1988 Report of the CBRC. CFO Journal 26(4), 137-142.",
+  "documentations": [
+    {
+      "doc_id": "16345",
+      "reporter": "Jerry Cairo",
+      "date": "9/6/1987",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16345"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:02.949910"
+}

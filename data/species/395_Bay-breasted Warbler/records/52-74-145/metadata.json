@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-74-145",
+  "year": "1974",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Jack Reddall, Steve Larson",
+  "comments": "",
+  "citations": "Reddall, J. 1975. Reports from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "15892",
+      "reporter": "Jack Reddall, Steve Larson",
+      "date": "11/2/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15892"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:49.138174"
+}

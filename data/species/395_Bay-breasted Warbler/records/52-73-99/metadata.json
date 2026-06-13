@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-73-99",
+  "year": "1973",
+  "location": "Loveland",
+  "county": "Larimer",
+  "observers": "Doris Robertson",
+  "comments": "",
+  "citations": "Reddall, J. 1974. Reports from the CFO Official Records Committee. Colorado Field Ornithologist 19:11-41.",
+  "documentations": [
+    {
+      "doc_id": "15878",
+      "reporter": "Doris Robertson",
+      "date": "6/3/1973",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15878"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:38.002164"
+}

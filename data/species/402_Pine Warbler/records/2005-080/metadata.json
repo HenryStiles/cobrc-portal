@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-080",
+  "year": "2005",
+  "location": "South Republican SWA",
+  "county": "Yuma",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "279",
+      "reporter": "Tony Leukering",
+      "date": "8/6/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=279"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:02.222207"
+}

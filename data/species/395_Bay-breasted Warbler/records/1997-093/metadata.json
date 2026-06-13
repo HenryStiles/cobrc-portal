@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-093",
+  "year": "1990",
+  "location": "Queens Reservoirs (Neeskah Reservoir area)",
+  "county": "Kiowa",
+  "observers": "Virginia Dionigi",
+  "comments": "",
+  "citations": "Janos, M.  1997 Report of the CBRC.  J. of the CFO 33(4), 241-252.",
+  "documentations": [
+    {
+      "doc_id": "15903",
+      "reporter": "Virginia Dionigi",
+      "date": "5/11/1990",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15903"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:59.630969"
+}

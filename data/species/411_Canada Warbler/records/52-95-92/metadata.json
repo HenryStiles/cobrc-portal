@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-95-92",
+  "year": "1995",
+  "location": "Turkey Creek, Fort Carson",
+  "county": "El Paso",
+  "observers": "Bill Maynard",
+  "comments": "",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "14648",
+      "reporter": "Bill Maynard",
+      "date": "8/28/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14648"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:42.217269"
+}

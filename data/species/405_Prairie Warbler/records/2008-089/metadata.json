@@ -1,0 +1,26 @@
+{
+  "acc_no": "2008-089",
+  "year": "2008",
+  "location": "Castlewood Canyon State Park",
+  "county": "Douglas",
+  "observers": "Glenn Walbek, Scott Shaum",
+  "comments": "Age: adult; Plumage: alternate; Sex: f;",
+  "citations": "Semo, L.  The 51st Report of the CBRC. Colorado Birds 43(3), 193-204.",
+  "documentations": [
+    {
+      "doc_id": "1028",
+      "reporter": "Glenn Walbek",
+      "date": "6/17/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1028"
+    },
+    {
+      "doc_id": "1047",
+      "reporter": "Scott Shaum",
+      "date": "6/20/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1047"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:22.651048"
+}

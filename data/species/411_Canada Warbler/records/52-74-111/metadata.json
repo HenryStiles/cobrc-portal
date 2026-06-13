@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-74-111",
+  "year": "1974",
+  "location": "Audubon Nature Center",
+  "county": "Jefferson",
+  "observers": "Bruce Webb",
+  "comments": "",
+  "citations": "Reddall, J. 1975. Reports from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "14636",
+      "reporter": "Bruce Webb",
+      "date": "9/28/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14636"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:28.571689"
+}

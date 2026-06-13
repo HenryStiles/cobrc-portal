@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-040",
+  "year": "2008",
+  "location": "Crow Valley Campground",
+  "county": "Weld",
+  "observers": "Rachel Hopper",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Semo, L.  The 51st Report of the CBRC. Colorado Birds 43(3), 193-204.",
+  "documentations": [
+    {
+      "doc_id": "984",
+      "reporter": "Rachel Hopper",
+      "date": "5/1/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=984"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:13.114051"
+}

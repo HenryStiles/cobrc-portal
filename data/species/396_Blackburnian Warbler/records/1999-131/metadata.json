@@ -1,0 +1,19 @@
+{
+  "acc_no": "1999-131",
+  "year": "1999",
+  "location": "Lake Henry",
+  "county": "Crowley",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Colorado Birds 35(1):23-39",
+  "documentations": [
+    {
+      "doc_id": "16365",
+      "reporter": "Mark Janos",
+      "date": "5/15/1999",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16365"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:38.766900"
+}

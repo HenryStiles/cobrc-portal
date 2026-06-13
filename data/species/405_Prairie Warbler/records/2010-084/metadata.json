@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-084",
+  "year": "2010",
+  "location": "Crow Valley Campground",
+  "county": "Weld",
+  "observers": "Nick Komar",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Semo, L. and Faulkner, D. The 57th Report of the CBRC. Colorado Birds 45(1), 30-41.",
+  "documentations": [
+    {
+      "doc_id": "1455",
+      "reporter": "Nicholas Komar",
+      "date": "6/8/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1455"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:24.885791"
+}

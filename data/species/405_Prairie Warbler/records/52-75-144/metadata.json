@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-75-144",
+  "year": "1975",
+  "location": "Andrew Orr Ranch",
+  "county": "Weld",
+  "observers": "Allen Tubbs",
+  "comments": "",
+  "citations": "Reddall, J. 1976. CFO Official Records Committee 1975 Report. C.F.O. Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "14812",
+      "reporter": "Allen Tubbs",
+      "date": "6/2/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14812"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:51.450419"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-89-48",
+  "year": "1989",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Mary Alice Root",
+  "comments": "",
+  "citations": "Nelson, D.  1989 Report of the CBRC. CFO Journal 25(4), 119-125.",
+  "documentations": [
+    {
+      "doc_id": "14641",
+      "reporter": "Mary Alice Root",
+      "date": "9/3/1989",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14641"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:36.135296"
+}

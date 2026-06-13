@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-007",
+  "year": "2016",
+  "location": "Fort Collins City Park/Grandview Cemetery",
+  "county": "Larimer",
+  "observers": "Chris Wood",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6385",
+      "reporter": "Chris Wood",
+      "date": "1/10/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6385"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:51.211895"
+}

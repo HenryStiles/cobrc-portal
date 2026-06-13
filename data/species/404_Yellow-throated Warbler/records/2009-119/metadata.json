@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-119",
+  "year": "2009",
+  "location": "Estes Park",
+  "county": "Larimer",
+  "observers": "Rachel Hopper",
+  "comments": "Age: adult; Sex: m;",
+  "citations": "Faulkner, D. The 64th Report of the CBRC. Colorado Birds 46(4), 255-267.",
+  "documentations": [
+    {
+      "doc_id": "1336",
+      "reporter": "Rachel Hopper",
+      "date": "10/23/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1336"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:40.488050"
+}

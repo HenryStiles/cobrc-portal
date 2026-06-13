@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-74-157",
+  "year": "1974",
+  "location": "Lakewood",
+  "county": "Jefferson",
+  "observers": "John Cooper",
+  "comments": "",
+  "citations": "Reddall, J. 1975. Reports from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "15890",
+      "reporter": "John Cooper",
+      "date": "9/28/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15890"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:46.981753"
+}

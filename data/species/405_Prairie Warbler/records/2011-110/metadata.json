@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-110",
+  "year": "2011",
+  "location": "Fountain Creek Regional Park",
+  "county": "El Paso",
+  "observers": "David Elwonger",
+  "comments": "Age: immature; Sex: m;",
+  "citations": "Faulkner, D. The 63rd Report of the CBRC. Colorado Birds 46(3), 188-197.",
+  "documentations": [
+    {
+      "doc_id": "1755",
+      "reporter": "David Elwonger",
+      "date": "8/20/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1755"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:29.377610"
+}

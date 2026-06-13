@@ -1,0 +1,19 @@
+{
+  "acc_no": "2000-128",
+  "year": "2000",
+  "location": "Belmar Historic Park",
+  "county": "Jefferson",
+  "observers": "Karleen Schofield",
+  "comments": "",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "3927",
+      "reporter": "Karleen Schofield",
+      "date": "9/2/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3927"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:43.468208"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-061",
+  "year": "2006",
+  "location": "Nucla",
+  "county": "Montrose",
+  "observers": "Tony Leukering",
+  "comments": "",
+  "citations": "Semo, L. and Faulkner, D. The 57th Report of the CBRC. Colorado Birds 45(1), 30-41.",
+  "documentations": [
+    {
+      "doc_id": "917",
+      "reporter": "Tony Leukering",
+      "date": "9/9/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=917"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:56.340948"
+}

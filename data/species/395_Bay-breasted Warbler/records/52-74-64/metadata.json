@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-74-64",
+  "year": "1974",
+  "location": "Crow Valley Campground",
+  "county": "Weld",
+  "observers": "Narca DeWoskin, Steve Larson",
+  "comments": "",
+  "citations": "Reddall, J. 1975. Reports from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "15886",
+      "reporter": "Narca DeWoskin, Steve Larson",
+      "date": "5/17/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15886"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:42.069959"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-76-2",
+  "year": "1975",
+  "location": "Boulder Creek (downtown section)",
+  "county": "Boulder",
+  "observers": "Jack Reddall",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "14638",
+      "reporter": "Jack Reddall",
+      "date": "10/15/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14638"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:29.651539"
+}

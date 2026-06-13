@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-205",
+  "year": "2006",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Bill Maynard",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "472",
+      "reporter": "Bill Maynard",
+      "date": "5/20/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=472"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:17.394222"
+}

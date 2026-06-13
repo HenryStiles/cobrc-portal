@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-75-93",
+  "year": "1975",
+  "location": "CU Campus",
+  "county": "Boulder",
+  "observers": "Bruce Bosley, Steve Larson",
+  "comments": "Old Acc. No. 52-75-93 Pair.",
+  "citations": "Reddall, J. 1976. CFO Official Records Committee 1975 Report. C.F.O. Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "16339",
+      "reporter": "Bruce Bosley, Steve Larson",
+      "date": "6/1/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16339"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:58.989256"
+}

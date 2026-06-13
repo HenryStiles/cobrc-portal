@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-043",
+  "year": "2009",
+  "location": "Colorado City and Rye",
+  "county": "Pueblo",
+  "observers": "David Silverman",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Semo, L. and Faulkner, D.  The 53rd Report of the CBRC. Colorado Birds 44(1), 31-42.",
+  "documentations": [
+    {
+      "doc_id": "1237",
+      "reporter": "David Silverman",
+      "date": "5/22/2009",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1237"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:36.826791"
+}

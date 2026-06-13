@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-051",
+  "year": "2015",
+  "location": "Huck Finn Pond",
+  "county": "La Plata",
+  "observers": "Kristi Dranginis",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6260",
+      "reporter": "Kristi Dranginis",
+      "date": "5/6/2015",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6260"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:50.577946"
+}

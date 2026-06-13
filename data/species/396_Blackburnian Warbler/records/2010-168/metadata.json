@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-168",
+  "year": "2010",
+  "location": "Last Chance",
+  "county": "Washington",
+  "observers": "Joey Kellner, Glenn Walbek",
+  "comments": "Age: 1st year; Sex: m;",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "1602",
+      "reporter": "Joey Kellner",
+      "date": "9/17/2010",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1602"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:49:03.426401"
+}

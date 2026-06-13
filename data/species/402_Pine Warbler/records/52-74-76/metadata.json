@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-74-76",
+  "year": "1974",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Paul Gertler",
+  "comments": "",
+  "citations": "Reddall, J. 1975. Reports from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "16009",
+      "reporter": "Paul Gertler",
+      "date": "5/11/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16009"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:48.661643"
+}

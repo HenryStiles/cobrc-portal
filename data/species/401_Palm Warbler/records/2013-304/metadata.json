@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-304",
+  "year": "2013",
+  "location": "Colorado Springs",
+  "county": "El Paso",
+  "observers": "Dawn Rush",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2453",
+      "reporter": "Dawn Rush",
+      "date": "5/7/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2453"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:56.974069"
+}

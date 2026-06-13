@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-80-35",
+  "year": "1980",
+  "location": "Bear Creek Canyon Park",
+  "county": "El Paso",
+  "observers": "Elinor Wills",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16013",
+      "reporter": "Elinor Wills",
+      "date": "3/9/1980",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16013"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:52.324295"
+}

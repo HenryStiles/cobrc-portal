@@ -1,0 +1,19 @@
+{
+  "acc_no": "2019-059",
+  "year": "2019",
+  "location": "Chico Basin Ranch",
+  "county": "Pueblo",
+  "observers": "Brandon K. Percival",
+  "comments": "",
+  "citations": "The 82nd Report of the CBRC, 2022. Colorado Birds, 56(4), 283-294.",
+  "documentations": [
+    {
+      "doc_id": "11806",
+      "reporter": "Brandon K. Percival",
+      "date": "5/20/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11806"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:30.356605"
+}

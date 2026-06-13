@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-76-98",
+  "year": "1976",
+  "location": "Cameron Pass and upper Poudre Canyon",
+  "county": "Larimer",
+  "observers": "Theodore Bodner",
+  "comments": "",
+  "citations": "Andrews, R.  1976-1977 Report of the CBRC. Western Birds, 10, 57-70.",
+  "documentations": [
+    {
+      "doc_id": "16011",
+      "reporter": "Theodore Bodner",
+      "date": "7/11/1976",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16011"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:50.446300"
+}

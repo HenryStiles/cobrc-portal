@@ -1,0 +1,19 @@
+{
+  "acc_no": "2000-125",
+  "year": "2000",
+  "location": "CSU Environmental Learning Center",
+  "county": "Larimer",
+  "observers": "Joe Mammoser",
+  "comments": "",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "3924",
+      "reporter": "Joe Mammoser",
+      "date": "5/9/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3924"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:41.451983"
+}

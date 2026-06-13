@@ -1,0 +1,19 @@
+{
+  "acc_no": "2019-048",
+  "year": "2019",
+  "location": "Varsity Pond",
+  "county": "Boulder",
+  "observers": "Steven Larson",
+  "comments": "",
+  "citations": "The 82nd Report of the CBRC, 2022. Colorado Birds, 56(4), 283-294.",
+  "documentations": [
+    {
+      "doc_id": "11811",
+      "reporter": "Steven Larson",
+      "date": "5/24/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11811"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:41.193510"
+}

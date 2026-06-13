@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-090",
+  "year": "1997",
+  "location": "Valco Ponds",
+  "county": "Pueblo",
+  "observers": "Mark Janos, Ric Olson",
+  "comments": "",
+  "citations": "Janos, M.  1997 Report of the CBRC.  J. of the CFO 33(4), 241-252.",
+  "documentations": [
+    {
+      "doc_id": "16032",
+      "reporter": "Mark Janos, Ric Olson",
+      "date": "12/7/1997",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16032"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:01.900197"
+}

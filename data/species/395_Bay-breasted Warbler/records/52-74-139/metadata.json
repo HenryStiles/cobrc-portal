@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-74-139",
+  "year": "1974",
+  "location": "Prewitt Reservoir State Wildlife Area",
+  "county": "Washington",
+  "observers": "Bob Andrews",
+  "comments": "",
+  "citations": "Reddall, J. 1975. Reports from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "15891",
+      "reporter": "Bob Andrews",
+      "date": "10/27/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15891"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:47.925781"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-053",
+  "year": "2001",
+  "location": "Crow Valley Campground",
+  "county": "Weld",
+  "observers": "Joe Mammoser",
+  "comments": "found by Joe Himmel",
+  "citations": "Leukering, T. and Semo, L.  The 38th Report of the CBRC. Colorado Birds 38(4), 168-183.",
+  "documentations": [
+    {
+      "doc_id": "14836",
+      "reporter": "Joe Mammoser",
+      "date": "9/1/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14836"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:13.578509"
+}

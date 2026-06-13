@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-80-56",
+  "year": "1980",
+  "location": "Ridgway",
+  "county": "Ouray",
+  "observers": "James Guadagno",
+  "comments": "",
+  "citations": "Chase, C.  1977-1980 Pt.2 Report of the CBRC. CFO Journal 15(2), 54-59.",
+  "documentations": [
+    {
+      "doc_id": "13511",
+      "reporter": "James Guadagno",
+      "date": "5/16/1980",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13511"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:19.836551"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-89-51",
+  "year": "1989",
+  "location": "South Republican SWA",
+  "county": "Yuma",
+  "observers": "David Silverman",
+  "comments": "",
+  "citations": "Nelson, D.  1989 Report of the CBRC. CFO Journal 25(4), 119-125.",
+  "documentations": [
+    {
+      "doc_id": "14644",
+      "reporter": "David Silverman",
+      "date": "9/2/1989",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14644"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:34.897916"
+}

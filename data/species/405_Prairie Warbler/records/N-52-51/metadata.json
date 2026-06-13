@@ -1,0 +1,19 @@
+{
+  "acc_no": "N-52-51",
+  "year": "1975",
+  "location": "Waterton Canyon",
+  "county": "Jefferson",
+  "observers": "Paul Julian, Allen Stokes, Hugh Kingery",
+  "comments": "",
+  "citations": "Reddall, J. 1976. CFO Official Records Committee 1975 Report. C.F.O. Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "14810",
+      "reporter": "Paul Julian, Allen Stokes, Hugh Kingery",
+      "date": "5/10/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14810"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:47.309303"
+}

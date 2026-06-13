@@ -1,0 +1,26 @@
+{
+  "acc_no": "52-89-40",
+  "year": "1989",
+  "location": "Chatfield State Park",
+  "county": "Jefferson & Douglas",
+  "observers": "Steve Stachowiak, Duane Nelson",
+  "comments": "",
+  "citations": "Nelson, D.  1989 Report of the CBRC. CFO Journal 25(4), 119-125.",
+  "documentations": [
+    {
+      "doc_id": "2180",
+      "reporter": "Steve Stachowiak",
+      "date": "11/4/1989",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2180"
+    },
+    {
+      "doc_id": "16347",
+      "reporter": "Duane Nelson",
+      "date": "11/5/1989",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16347"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:07.064542"
+}

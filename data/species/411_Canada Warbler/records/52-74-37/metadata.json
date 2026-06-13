@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-74-37",
+  "year": "1974",
+  "location": "Security-Widefield",
+  "county": "El Paso",
+  "observers": "David Laliberte",
+  "comments": "",
+  "citations": "Reddall, J. 1975. Reports from the CFO Official Records Committee. C.F.O. Journal 23:17-34.",
+  "documentations": [
+    {
+      "doc_id": "14635",
+      "reporter": "David Laliberte",
+      "date": "5/12/1974",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14635"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:26.639445"
+}

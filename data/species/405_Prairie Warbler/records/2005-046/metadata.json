@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-046",
+  "year": "2005",
+  "location": "Golden",
+  "county": "Jefferson",
+  "observers": "Inga Brennan",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "305",
+      "reporter": "Inga Brennan",
+      "date": "5/14/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=305"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:19.047491"
+}

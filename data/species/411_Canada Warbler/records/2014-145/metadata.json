@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-145",
+  "year": "2014",
+  "location": "Clear Springs Ranch (formerly Hanna Ranch)",
+  "county": "El Paso",
+  "observers": "Steven Brown",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "5137",
+      "reporter": "Steven Brown",
+      "date": "9/22/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5137"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:11.109138"
+}

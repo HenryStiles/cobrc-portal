@@ -1,0 +1,19 @@
+{
+  "acc_no": "2021-042",
+  "year": "2021",
+  "location": "Wild Horse",
+  "county": "Cheyenne",
+  "observers": "Luke Pheneger",
+  "comments": "",
+  "citations": "Gent, P.  The 86th Report of the CBRC.  Colorado Birds 58(3), 125-132.",
+  "documentations": [
+    {
+      "doc_id": "13668",
+      "reporter": "Luke Pheneger",
+      "date": "9/18/2021",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13668"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:57.000827"
+}

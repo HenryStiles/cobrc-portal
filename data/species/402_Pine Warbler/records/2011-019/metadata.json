@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-019",
+  "year": "2011",
+  "location": "Canon City Riverwalk",
+  "county": "Fremont",
+  "observers": "John Drummond",
+  "comments": "Age: immature; Sex: m;",
+  "citations": "Faulkner, D. The 62nd Report of the CBRC. Colorado Birds 46(2), 106-120.",
+  "documentations": [
+    {
+      "doc_id": "1617",
+      "reporter": "John Drummond",
+      "date": "2/17/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1617"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:29.919660"
+}

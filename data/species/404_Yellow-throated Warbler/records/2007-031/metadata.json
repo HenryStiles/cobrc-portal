@@ -1,0 +1,26 @@
+{
+  "acc_no": "2007-031",
+  "year": "2007",
+  "location": "Lamar",
+  "county": "Prowers",
+  "observers": "Brandon K Percival, Andrew Spencer",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "739",
+      "reporter": "Brandon K Percival",
+      "date": "5/3/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=739"
+    },
+    {
+      "doc_id": "810",
+      "reporter": "Andrew Spencer",
+      "date": "5/4/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=810"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:34.859765"
+}

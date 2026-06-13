@@ -1,0 +1,33 @@
+{
+  "acc_no": "2012-138",
+  "year": "2012",
+  "location": "Last Chance",
+  "county": "Washington",
+  "observers": "Steven Mlodinow, Kathy Mihm Dunning, Bill Maynard",
+  "comments": "",
+  "citations": "Faulkner, Doug. July 2013. The 67th Report of the Colorado Bird Records Committee: Colorado Birds 47(3):178-186",
+  "documentations": [
+    {
+      "doc_id": "2185",
+      "reporter": "Steven Mlodinow",
+      "date": "10/8/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2185"
+    },
+    {
+      "doc_id": "2120",
+      "reporter": "Kathy Mihm Dunning",
+      "date": "10/9/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2120"
+    },
+    {
+      "doc_id": "2123",
+      "reporter": "Bill Maynard",
+      "date": "10/9/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2123"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:33.300899"
+}

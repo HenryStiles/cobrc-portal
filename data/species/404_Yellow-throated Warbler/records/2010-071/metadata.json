@@ -1,0 +1,26 @@
+{
+  "acc_no": "2010-071",
+  "year": "2010",
+  "location": "Crow Valley Campground",
+  "county": "Weld",
+  "observers": "Joe Roller, Bruce Cyganowski",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Semo, L. and Faulkner, D. The 57th Report of the CBRC. Colorado Birds 45(1), 30-41.",
+  "documentations": [
+    {
+      "doc_id": "1461",
+      "reporter": "Joe Roller",
+      "date": "4/8/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1461"
+    },
+    {
+      "doc_id": "4068",
+      "reporter": "Cyganowski, Bruce",
+      "date": "4/10/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4068"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:41.527524"
+}

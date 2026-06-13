@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-148",
+  "year": "2006",
+  "location": "Silverthorne",
+  "county": "Summit",
+  "observers": "Andrew Spencer",
+  "comments": "",
+  "citations": "Semo, L. and Faulkner, D.  The 52nd Report of the CBRC. Colorado Birds 43(4), 268-281.",
+  "documentations": [
+    {
+      "doc_id": "583",
+      "reporter": "Andrew Spencer",
+      "date": "10/29/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=583"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:53.838424"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-75-134",
+  "year": "1975",
+  "location": "Crow Valley Campground",
+  "county": "Weld",
+  "observers": "Van Remsen",
+  "comments": "",
+  "citations": "Reddall, J. 1976. CFO Official Records Committee 1975 Report. C.F.O. Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "16010",
+      "reporter": "Van Remsen",
+      "date": "9/12/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16010"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:49.580161"
+}

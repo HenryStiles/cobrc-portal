@@ -1,0 +1,19 @@
+{
+  "acc_no": "2021-006",
+  "year": "2021",
+  "location": "Rocky Mountain National Park (Larimer section)",
+  "county": "Larimer",
+  "observers": "Carl Bendorf",
+  "comments": "",
+  "citations": "Accepted by the Chairman and not published.",
+  "documentations": [
+    {
+      "doc_id": "11988",
+      "reporter": "Carl Bendorf",
+      "date": "8/6/2021",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11988"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:46.620868"
+}

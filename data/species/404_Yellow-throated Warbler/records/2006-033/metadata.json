@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-033",
+  "year": "2006",
+  "location": "Palmer Lake",
+  "county": "El Paso",
+  "observers": "Bill Maynard",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "473",
+      "reporter": "Bill Maynard",
+      "date": "4/16/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=473"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:33.979148"
+}

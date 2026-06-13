@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-101",
+  "year": "2016",
+  "location": "Broomfield",
+  "county": "Broomfield",
+  "observers": "Matt Hofeditz",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "7506",
+      "reporter": "Matt Hofeditz",
+      "date": "11/18/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=7506"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:57.597826"
+}

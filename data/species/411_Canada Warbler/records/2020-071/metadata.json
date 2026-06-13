@@ -1,0 +1,26 @@
+{
+  "acc_no": "2020-071",
+  "year": "2020",
+  "location": "Queens Reservoirs (Neeskah Reservoir area)",
+  "county": "Kiowa",
+  "observers": "John Malenich, David Dowell",
+  "comments": "",
+  "citations": "The 82nd Report of the CBRC, 2022. Colorado Birds, 56(4), 283-294.",
+  "documentations": [
+    {
+      "doc_id": "11967",
+      "reporter": "David Dowell",
+      "date": "5/3/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11967"
+    },
+    {
+      "doc_id": "11893",
+      "reporter": "John Malenich",
+      "date": "5/3/2020",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11893"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:32.518598"
+}

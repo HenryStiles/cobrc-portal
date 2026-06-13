@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-071",
+  "year": "2007",
+  "location": "Lamar",
+  "county": "Prowers",
+  "observers": "Brandon Percival",
+  "comments": "Age: 1st cycle; Plumage: basic; Sex: ?;",
+  "citations": "Semo, L.  The 50th Report of the CBRC. Colorado Birds 43(2), 123-135.",
+  "documentations": [
+    {
+      "doc_id": "789",
+      "reporter": "Brandon K Percival",
+      "date": "10/14/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=789"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:08.975205"
+}

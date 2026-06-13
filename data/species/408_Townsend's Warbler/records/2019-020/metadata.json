@@ -1,0 +1,19 @@
+{
+  "acc_no": "2019-020",
+  "year": "2019",
+  "location": "Golden",
+  "county": "Jefferson",
+  "observers": "Ellie Brown",
+  "comments": "",
+  "citations": "Accepted by the Chairman and not published.",
+  "documentations": [
+    {
+      "doc_id": "11846",
+      "reporter": "Ellie Brown",
+      "date": "10/23/2019",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11846"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:01.611089"
+}

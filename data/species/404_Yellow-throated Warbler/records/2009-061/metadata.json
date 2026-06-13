@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-061",
+  "year": "2009",
+  "location": "San Luis",
+  "county": "Costilla",
+  "observers": "Erik Enbody",
+  "comments": "Age: adult; Plumage: basic; Sex: ?;",
+  "citations": "Semo, L. and Faulkner, D.  The 53rd Report of the CBRC. Colorado Birds 44(1), 31-42.",
+  "documentations": [
+    {
+      "doc_id": "1300",
+      "reporter": "Erik Enbody",
+      "date": "9/10/2009",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1300"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:39.904385"
+}

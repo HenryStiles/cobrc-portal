@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-84-36",
+  "year": "1984",
+  "location": "CU Campus",
+  "county": "Boulder",
+  "observers": "Doug Ward",
+  "comments": "",
+  "citations": "Gent, P.  1984 Report of the CBRC. CFO Journal 19(4), 82-87.",
+  "documentations": [
+    {
+      "doc_id": "16343",
+      "reporter": "Doug Ward",
+      "date": "5/14/1984",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16343"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:01.613981"
+}

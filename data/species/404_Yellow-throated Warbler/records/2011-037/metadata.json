@@ -1,0 +1,26 @@
+{
+  "acc_no": "2011-037",
+  "year": "2011",
+  "location": "Boulder Creek & 75th Street",
+  "county": "Boulder",
+  "observers": "Bill Kaempfer",
+  "comments": "Age: adult; Sex: m;",
+  "citations": "Faulkner, D. The 62nd Report of the CBRC. Colorado Birds 46(2), 106-120.",
+  "documentations": [
+    {
+      "doc_id": "1636",
+      "reporter": "Bill Kaempfer",
+      "date": "4/22/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1636"
+    },
+    {
+      "doc_id": "1637",
+      "reporter": "Bill Kaempfer",
+      "date": "4/22/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1637"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:42.979863"
+}

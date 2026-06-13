@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-075",
+  "year": "2001",
+  "location": "Crow Valley Campground",
+  "county": "Weld",
+  "observers": "David Leatherman, Ric Olson",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "14657",
+      "reporter": "David Leatherman, Ric Olson",
+      "date": "8/31/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14657"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:48.137575"
+}

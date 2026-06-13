@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-95-82",
+  "year": "1995",
+  "location": "Valco Ponds",
+  "county": "Pueblo",
+  "observers": "Brandon Percival, David Smith, Mark Janos",
+  "comments": "",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "14823",
+      "reporter": "Brandon Percival, David Smith, Mark Janos",
+      "date": "11/3/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14823"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:00.615630"
+}

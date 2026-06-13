@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-73-127",
+  "year": "1973",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "David Laliberte",
+  "comments": "",
+  "citations": "Reddall, J. 1974. Reports from the CFO Official Records Committee. Colorado Field Ornithologist 19:11-41.",
+  "documentations": [
+    {
+      "doc_id": "15877",
+      "reporter": "David Laliberte",
+      "date": "5/23/1973",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15877"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:36.882307"
+}

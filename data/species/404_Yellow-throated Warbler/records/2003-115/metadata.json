@@ -1,0 +1,33 @@
+{
+  "acc_no": "2003-115",
+  "year": "2003",
+  "location": "Canon City",
+  "county": "Fremont",
+  "observers": "Tony Leukering, Bill Schmoker, Roger Linfield",
+  "comments": "Age:  ; Plumage: basic;",
+  "citations": "Leukering, T. and Semo, L.  The 39th Report of the CBRC. Colorado Birds 39(3), 131-141.",
+  "documentations": [
+    {
+      "doc_id": "6227",
+      "reporter": "Tony Leukering",
+      "date": "12/14/2003",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6227"
+    },
+    {
+      "doc_id": "14521",
+      "reporter": "Bill Schmoker",
+      "date": "12/29/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14521"
+    },
+    {
+      "doc_id": "59",
+      "reporter": "Roger Linfield",
+      "date": "1/1/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=59"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:59.981538"
+}

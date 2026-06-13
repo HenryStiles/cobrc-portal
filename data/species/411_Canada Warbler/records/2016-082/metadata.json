@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-082",
+  "year": "2016",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Laura Koitsch",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "7485",
+      "reporter": "Laura Koitsch",
+      "date": "9/8/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=7485"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:12.833066"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-192",
+  "year": "2014",
+  "location": "Wild Horse",
+  "county": "Cheyenne",
+  "observers": "Dean Shoup",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "3951",
+      "reporter": "Dean Shoup",
+      "date": "5/4/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3951"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:01.789501"
+}

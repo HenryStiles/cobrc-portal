@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-095",
+  "year": "2011",
+  "location": "Lamar Community College",
+  "county": "Prowers",
+  "observers": "Dorothy Russell",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2397",
+      "reporter": "Dorothy Russell",
+      "date": "10/7/2011",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2397"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:06.417410"
+}

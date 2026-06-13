@@ -1,0 +1,19 @@
+{
+  "acc_no": "2017-023",
+  "year": "2017",
+  "location": "Flagler Reservoir State Wildlife Area",
+  "county": "Kit Carson",
+  "observers": "Cheryl Teuton",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "8564",
+      "reporter": "Cheryl Teuton",
+      "date": "5/7/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8564"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:12.728705"
+}

@@ -1,0 +1,26 @@
+{
+  "acc_no": "2014-119",
+  "year": "2014",
+  "location": "Belmar Historic Park",
+  "county": "Jefferson",
+  "observers": "Teuton, Cheryl , Norm Lewis",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "4103",
+      "reporter": "Teuton, Cheryl",
+      "date": "5/15/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4103"
+    },
+    {
+      "doc_id": "4045",
+      "reporter": "Norm Lewis",
+      "date": "5/15/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4045"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:30.551364"
+}

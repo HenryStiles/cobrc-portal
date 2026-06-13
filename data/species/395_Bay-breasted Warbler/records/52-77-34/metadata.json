@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-77-34",
+  "year": "1977",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Karen Nickey",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "15898",
+      "reporter": "Karen Nickey",
+      "date": "5/14/1977",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=15898"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:52.757322"
+}

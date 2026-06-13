@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-75-58",
+  "year": "1975",
+  "location": "Bluebell Canyon",
+  "county": "Boulder",
+  "observers": "Bayard Cobb",
+  "comments": "",
+  "citations": "Reddall, J. 1976. CFO Official Records Committee 1975 Report. C.F.O. Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "14811",
+      "reporter": "Bayard Cobb",
+      "date": "5/30/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14811"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:50.466405"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-129",
+  "year": "2006",
+  "location": "Flagler",
+  "county": "Kit Carson",
+  "observers": "Brandon Percival",
+  "comments": "Age: imm.; Plumage: basic; Sex: m;",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "662",
+      "reporter": "Brandon K Percival",
+      "date": "9/17/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=662"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:35.153875"
+}

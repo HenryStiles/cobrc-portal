@@ -1,0 +1,19 @@
+{
+  "acc_no": "2009-125",
+  "year": "2009",
+  "location": "Canon City",
+  "county": "Fremont",
+  "observers": "Brandon K Percival",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1326",
+      "reporter": "Brandon K Percival",
+      "date": "10/25/2009",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1326"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:18.369750"
+}

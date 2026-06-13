@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-085",
+  "year": "1997",
+  "location": "Beebe Draw",
+  "county": "Weld",
+  "observers": "Ric Olson",
+  "comments": "",
+  "citations": "Janos, M.  1997 Report of the CBRC.  J. of the CFO 33(4), 241-252.",
+  "documentations": [
+    {
+      "doc_id": "16359",
+      "reporter": "Ric Olson",
+      "date": "5/16/1997",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16359"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:16.235282"
+}

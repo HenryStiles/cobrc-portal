@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-142",
+  "year": "2005",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Rachel Hopper",
+  "comments": "",
+  "citations": "Semo, L.  The 47th Report of the CBRC. Colorado Birds 42(3), 200-214.",
+  "documentations": [
+    {
+      "doc_id": "404",
+      "reporter": "Rachel Hopper",
+      "date": "12/17/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=404"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:05.394145"
+}

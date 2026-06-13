@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-069",
+  "year": "2011",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Bill Maynard",
+  "comments": "Age: adult; Plumage: alternate; Sex: m;",
+  "citations": "Faulkner, D. The 62nd Report of the CBRC. Colorado Birds 46(2), 106-120.",
+  "documentations": [
+    {
+      "doc_id": "1673",
+      "reporter": "Bill Maynard",
+      "date": "5/28/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1673"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:40.328382"
+}

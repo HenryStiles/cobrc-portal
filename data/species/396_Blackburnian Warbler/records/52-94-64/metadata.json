@@ -1,0 +1,19 @@
+{
+  "acc_no": "52-94-64",
+  "year": "1994",
+  "location": "Fountain Creek Regional Park",
+  "county": "El Paso",
+  "observers": "Brandon Percival, Mark Janos",
+  "comments": "",
+  "citations": "Prather, B.  1994 Report of the CBRC. CFO Journal 31(1), 23-31.",
+  "documentations": [
+    {
+      "doc_id": "16353",
+      "reporter": "Brandon Percival, Mark Janos",
+      "date": "5/15/1994",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16353"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:48:10.317574"
+}

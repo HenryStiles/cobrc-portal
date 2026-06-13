@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-088",
+  "year": "1997",
+  "location": "Lake Henry",
+  "county": "Crowley",
+  "observers": "Drew Smith",
+  "comments": "",
+  "citations": "Janos, M.  1997 Report of the CBRC.  J. of the CFO 33(4), 241-252.",
+  "documentations": [
+    {
+      "doc_id": "14512",
+      "reporter": "Drew Smith",
+      "date": "5/22/1997",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14512"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:48.724623"
+}

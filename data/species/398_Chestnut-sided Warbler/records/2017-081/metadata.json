@@ -1,0 +1,19 @@
+{
+  "acc_no": "2017-081",
+  "year": "2017",
+  "location": "Pueblo",
+  "county": "Pueblo",
+  "observers": "Brandon K. Percival",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "11755",
+      "reporter": "Brandon K. Percival",
+      "date": "12/16/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11755"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:55.475471"
+}

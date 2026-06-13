@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-040",
+  "year": "2001",
+  "location": "Lake Holbrook",
+  "county": "Otero",
+  "observers": "Ric Olson, Peter Gent",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  2001 pt.1 Report of the CBRC. Colorado Birds 37(3), 138-155.",
+  "documentations": [
+    {
+      "doc_id": "14834",
+      "reporter": "Ric Olson, Peter Gent",
+      "date": "5/6/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14834"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:11.164923"
+}

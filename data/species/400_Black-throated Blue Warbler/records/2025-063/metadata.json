@@ -1,0 +1,19 @@
+{
+  "acc_no": "2025-063",
+  "year": "2025",
+  "location": "Cortez",
+  "county": "Montezuma",
+  "observers": "Coen Dexter, Coen Dexter",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16372",
+      "reporter": "Coen Dexter",
+      "date": "12/26/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16372"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:22.620090"
+}

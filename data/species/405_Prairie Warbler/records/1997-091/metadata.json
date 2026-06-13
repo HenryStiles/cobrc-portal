@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-091",
+  "year": "1997",
+  "location": "South Republican SWA",
+  "county": "Yuma",
+  "observers": "David Quesenberry, Urling & Hugh Kingery",
+  "comments": "",
+  "citations": "Janos, M.  1997 Report of the CBRC.  J. of the CFO 33(4), 241-252.",
+  "documentations": [
+    {
+      "doc_id": "14826",
+      "reporter": "David Quesenberry, Urling & Hugh Kingery",
+      "date": "6/1/1997",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14826"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:45:02.096158"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-133",
+  "year": "2005",
+  "location": "Pueblo City Park",
+  "county": "Pueblo",
+  "observers": "Brandon K. Percival",
+  "comments": "Age: adult; Plumage: basic; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "339",
+      "reporter": "Brandon K Percival",
+      "date": "12/3/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=339"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:47:04.732715"
+}

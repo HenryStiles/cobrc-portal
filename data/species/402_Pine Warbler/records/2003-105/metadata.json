@@ -1,0 +1,33 @@
+{
+  "acc_no": "2003-105",
+  "year": "2003",
+  "location": "Greeley",
+  "county": "Weld",
+  "observers": "Rachel Hopper, Roger Linfield, Tony Leukering",
+  "comments": "",
+  "citations": "Semo, L.  The 42nd Report of the CBRC. Colorado Birds 40(3), 133-156.",
+  "documentations": [
+    {
+      "doc_id": "56",
+      "reporter": "Roger Linfield",
+      "date": "12/21/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=56"
+    },
+    {
+      "doc_id": "16038",
+      "reporter": "Rachel Hopper",
+      "date": "12/21/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16038"
+    },
+    {
+      "doc_id": "278",
+      "reporter": "Tony Leukering",
+      "date": "12/31/2003",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=278"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:46:37.745131"
+}
