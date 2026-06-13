@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-005",
+  "year": "2001",
+  "location": "Durango",
+  "county": "La Plata",
+  "observers": "Rachel Kolokoff, Peter Gent",
+  "comments": "",
+  "citations": "Leukering, T. and Semo, L.  2001 pt.1 Report of the CBRC. Colorado Birds 37(3), 138-155.",
+  "documentations": [
+    {
+      "doc_id": "13201",
+      "reporter": "Rachel Kolokoff, Peter Gent",
+      "date": "1/18/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13201"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:01.995113"
+}

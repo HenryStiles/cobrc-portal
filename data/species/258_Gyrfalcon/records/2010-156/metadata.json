@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-156",
+  "year": "2010",
+  "location": "Ponds along US 285",
+  "county": "Park",
+  "observers": "Joey Kellner",
+  "comments": "Age: juv.; Plumage: basic;",
+  "citations": "Faulkner, D. and Semo, L. The 59th Report of the CBRC. Colorado Birds 45(3), 174-180.",
+  "documentations": [
+    {
+      "doc_id": "1543",
+      "reporter": "Joey Kellner",
+      "date": "11/28/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1543"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:48.396848"
+}

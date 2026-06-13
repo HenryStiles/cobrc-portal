@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-020",
+  "year": "2005",
+  "location": "Ridgway",
+  "county": "Ouray",
+  "observers": "Andrew Boyce",
+  "comments": "Age: adult;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "97",
+      "reporter": "Andrew Boyce",
+      "date": "4/16/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=97"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:32:53.555748"
+}

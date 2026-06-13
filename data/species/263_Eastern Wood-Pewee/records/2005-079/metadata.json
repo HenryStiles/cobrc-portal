@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-079",
+  "year": "2005",
+  "location": "Boulder",
+  "county": "Boulder",
+  "observers": "Roger Linfield",
+  "comments": "",
+  "citations": "Semo, L.  The 44th Report of the CBRC. Colorado Birds 41(4), 241-258.",
+  "documentations": [
+    {
+      "doc_id": "225",
+      "reporter": "Roger Linfield",
+      "date": "7/31/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=225"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:37.989107"
+}

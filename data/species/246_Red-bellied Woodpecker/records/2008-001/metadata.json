@@ -1,0 +1,26 @@
+{
+  "acc_no": "2008-001",
+  "year": "2008",
+  "location": "Sylvan Dale Guest Ranch",
+  "county": "Larimer",
+  "observers": "Nicholas Komar, Tony Leukering",
+  "comments": "",
+  "citations": "Semo, L.  The 50th Report of the CBRC. Colorado Birds 43(2), 123-135.",
+  "documentations": [
+    {
+      "doc_id": "866",
+      "reporter": "Nicholas Komar",
+      "date": "1/1/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=866"
+    },
+    {
+      "doc_id": "1855",
+      "reporter": "Tony Leukering",
+      "date": "1/1/2008",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1855"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:00.928816"
+}

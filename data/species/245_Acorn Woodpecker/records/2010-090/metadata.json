@@ -1,0 +1,19 @@
+{
+  "acc_no": "2010-090",
+  "year": "2010",
+  "location": "Colorado Springs",
+  "county": "El Paso",
+  "observers": "Bill Maynard",
+  "comments": "Age: adult; Sex: f;",
+  "citations": "Faulkner, D. and Semo, L. The 59th Report of the CBRC. Colorado Birds 45(3), 174-180.",
+  "documentations": [
+    {
+      "doc_id": "1457",
+      "reporter": "Bill Maynard",
+      "date": "7/20/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1457"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:25.334143"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-026",
+  "year": "2006",
+  "location": "near Elbert",
+  "county": "El Paso",
+  "observers": "Kerry Pilot",
+  "comments": "Age: adult; Plumage: basic; Sex: male;",
+  "citations": "Semo, L. and Faulkner, D.  The 53rd Report of the CBRC. Colorado Birds 44(1), 31-42.",
+  "documentations": [
+    {
+      "doc_id": "385",
+      "reporter": "Kerry Pilot",
+      "date": "3/23/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=385"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:37.371140"
+}

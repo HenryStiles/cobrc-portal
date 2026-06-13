@@ -1,0 +1,19 @@
+{
+  "acc_no": "34-73-98",
+  "year": "1973",
+  "location": "Lyons Area",
+  "county": "Boulder",
+  "observers": "Allegra Collister",
+  "comments": "Banded at bird banding station.",
+  "citations": "Reddall, J. 1974. Reports from the CFO Official Records Committee. Colorado Field Ornithologist 19:11-41.",
+  "documentations": [
+    {
+      "doc_id": "14261",
+      "reporter": "Allegra Collister",
+      "date": "6/3/1973",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14261"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:18.390621"
+}

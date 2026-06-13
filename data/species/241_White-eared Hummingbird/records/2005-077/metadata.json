@@ -1,0 +1,26 @@
+{
+  "acc_no": "2005-077",
+  "year": "2005",
+  "location": "Durango",
+  "county": "La Plata",
+  "observers": "Larry Semo, Doug Faulkner",
+  "comments": "",
+  "citations": "Semo, L.  The 42nd Report of the CBRC. Colorado Birds 40(3), 133-156.",
+  "documentations": [
+    {
+      "doc_id": "166",
+      "reporter": "Doug Faulkner",
+      "date": "7/30/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=166"
+    },
+    {
+      "doc_id": "182",
+      "reporter": "Larry Semo",
+      "date": "7/30/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=182"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:10.196287"
+}

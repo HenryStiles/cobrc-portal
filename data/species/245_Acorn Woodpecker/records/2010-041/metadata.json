@@ -1,0 +1,26 @@
+{
+  "acc_no": "2010-041",
+  "year": "2010",
+  "location": "Niwot",
+  "county": "Boulder",
+  "observers": "Dave Fletcher, Bill Schmoker",
+  "comments": "Age: adult; Plumage: basic; Sex: m;",
+  "citations": "Semo, L. and Faulkner, D. The 56th Report of the CBRC. Colorado Birds 44(4), 240-254.",
+  "documentations": [
+    {
+      "doc_id": "1430",
+      "reporter": "Dave Fletcher",
+      "date": "5/25/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1430"
+    },
+    {
+      "doc_id": "1431",
+      "reporter": "Bill Schmoker",
+      "date": "5/26/2010",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1431"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:06.277704"
+}

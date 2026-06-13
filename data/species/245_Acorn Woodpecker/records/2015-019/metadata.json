@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-019",
+  "year": "2015",
+  "location": "Colorado Springs",
+  "county": "El Paso",
+  "observers": "Alec Hopping",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "5216",
+      "reporter": "Alec Hopping",
+      "date": "2/15/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=5216"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:53.152176"
+}

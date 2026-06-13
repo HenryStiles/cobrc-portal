@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-059",
+  "year": "2014",
+  "location": "Veltus Park",
+  "county": "Garfield",
+  "observers": "Rob Norville",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176.",
+  "documentations": [
+    {
+      "doc_id": "3986",
+      "reporter": "Rob Norville",
+      "date": "5/28/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3986"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:02.777850"
+}

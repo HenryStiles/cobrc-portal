@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-104",
+  "year": "2006",
+  "location": "Yellow Jacket Canyon",
+  "county": "Montezuma",
+  "observers": "Andrew Spencer",
+  "comments": "Age: adult;",
+  "citations": "Semo, L.  The 48th Report of the CBRC. Colorado Birds 42(4), 270-278.",
+  "documentations": [
+    {
+      "doc_id": "467",
+      "reporter": "Andrew Spencer",
+      "date": "7/4/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=467"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:38.289218"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2001-107",
+  "year": "2001",
+  "location": "Pagosa Springs",
+  "county": "Archuleta",
+  "observers": "Steve Dinsmore",
+  "comments": "First found by Gordon Brown",
+  "citations": "Leukering, T. and Semo, L.  2001 pt.1 Report of the CBRC. Colorado Birds 37(3), 138-155.",
+  "documentations": [
+    {
+      "doc_id": "13202",
+      "reporter": "Steve Dinsmore",
+      "date": "6/10/2001",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13202"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:02.947213"
+}

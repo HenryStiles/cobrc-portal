@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-022",
+  "year": "1997",
+  "location": "East of Center",
+  "county": "Saguache",
+  "observers": "John Rawinski",
+  "comments": "rehabilitated",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "13379",
+      "reporter": "John Rawinski",
+      "date": "12/13/1997",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13379"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:43.185101"
+}

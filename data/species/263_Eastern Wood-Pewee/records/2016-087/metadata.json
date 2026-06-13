@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-087",
+  "year": "2016",
+  "location": "Tamarack Ranch State Wildlife Area",
+  "county": "Logan",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "8532",
+      "reporter": "Steven Mlodinow",
+      "date": "6/3/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8532"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:04.565213"
+}

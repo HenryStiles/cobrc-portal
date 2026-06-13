@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-161",
+  "year": "2013",
+  "location": "Shelterbelt, just E of HWY 385",
+  "county": "Yuma",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Faulkner, D. The 71st Report of the CBRC, Colorado Birds 49(2), 53-57.",
+  "documentations": [
+    {
+      "doc_id": "2481",
+      "reporter": "Steven Mlodinow",
+      "date": "5/25/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2481"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:06.584004"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-165",
+  "year": "2008",
+  "location": "Bear Creek Lake Park",
+  "county": "Jefferson",
+  "observers": "Mike Henwood",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "1159",
+      "reporter": "Mike Henwood",
+      "date": "11/24/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1159"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:13.432942"
+}

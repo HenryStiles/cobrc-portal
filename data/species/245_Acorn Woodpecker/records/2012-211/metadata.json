@@ -1,0 +1,75 @@
+{
+  "acc_no": "2012-211",
+  "year": "2012",
+  "location": "Colorado Springs",
+  "county": "El Paso",
+  "observers": "Marty Wolf, Bill Maynard, Nick Moore, Nicholas Komar, John Drummond, Tony Leukering, Kathy Mihm Dunning, Peter Burke, Scott Pendleton",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2223",
+      "reporter": "Marty Wolf",
+      "date": "12/15/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2223"
+    },
+    {
+      "doc_id": "2222",
+      "reporter": "Bill Maynard",
+      "date": "12/19/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2222"
+    },
+    {
+      "doc_id": "2252",
+      "reporter": "Nick Moore",
+      "date": "12/23/2012",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2252"
+    },
+    {
+      "doc_id": "2262",
+      "reporter": "Nicholas Komar",
+      "date": "1/13/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2262"
+    },
+    {
+      "doc_id": "2282",
+      "reporter": "John Drummond",
+      "date": "1/15/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2282"
+    },
+    {
+      "doc_id": "2310",
+      "reporter": "Tony Leukering",
+      "date": "1/30/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2310"
+    },
+    {
+      "doc_id": "2440",
+      "reporter": "Kathy Mihm Dunning",
+      "date": "2/14/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2440"
+    },
+    {
+      "doc_id": "2389",
+      "reporter": "Peter Burke",
+      "date": "3/8/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2389"
+    },
+    {
+      "doc_id": "2439",
+      "reporter": "Scott Pendleton",
+      "date": "4/19/2013",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2439"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:41.235616"
+}

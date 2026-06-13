@@ -1,0 +1,19 @@
+{
+  "acc_no": "33-95-57",
+  "year": "1995",
+  "location": "Loveland",
+  "county": "Larimer",
+  "observers": "Christian Hagen",
+  "comments": "Old Acc. No. 33-95-57 Photo by Dave Leatherman",
+  "citations": "Janos, M.  1995 Report of the CBRC. CFO Journal 31(3), 139-153.",
+  "documentations": [
+    {
+      "doc_id": "13198",
+      "reporter": "Christian Hagen",
+      "date": "9/27/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13198"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:57.665139"
+}

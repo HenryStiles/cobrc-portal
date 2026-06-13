@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-081",
+  "year": "2016",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds, 55 (4), 172-176",
+  "documentations": [
+    {
+      "doc_id": "7483",
+      "reporter": "Steven Mlodinow",
+      "date": "5/18/2016",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=7483"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:03.821976"
+}

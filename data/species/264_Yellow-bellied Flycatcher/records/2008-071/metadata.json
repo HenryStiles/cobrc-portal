@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-071",
+  "year": "2008",
+  "location": "Two Buttes State Wildlife Area",
+  "county": "Baca",
+  "observers": "Andrew Spencer",
+  "comments": "",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "980",
+      "reporter": "Andrew Spencer",
+      "date": "5/20/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=980"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:01.297388"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2022-014",
+  "year": "2022",
+  "location": "Salida",
+  "county": "Chaffee",
+  "observers": "Kat Dunlavey",
+  "comments": "",
+  "citations": "Gent, P.  The 84th Report of the CBRC. Colorado Birds 54(4), 194-203.",
+  "documentations": [
+    {
+      "doc_id": "12082",
+      "reporter": "Kat Dunlavey",
+      "date": "9/12/2022",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=12082"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:05.351781"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "33-94-43",
+  "year": "1994",
+  "location": "Lake Dorothey State Wildlife Area",
+  "county": "Las Animas",
+  "observers": "Mark Yaeger, Mark Janos, Peter Gent",
+  "comments": "",
+  "citations": "Prather, B.  1994 Report of the CBRC. CFO Journal 31(1), 23-31.",
+  "documentations": [
+    {
+      "doc_id": "13196",
+      "reporter": "Mark Yaeger, Mark Janos, Peter Gent",
+      "date": "7/20/1994",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13196"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:55.744239"
+}

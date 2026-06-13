@@ -1,0 +1,26 @@
+{
+  "acc_no": "2006-009",
+  "year": "2006",
+  "location": "Lakeside Cemetery, Canon City",
+  "county": "Fremont",
+  "observers": "Brandon Percival, Bill Maynard",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "329",
+      "reporter": "Brandon K Percival",
+      "date": "1/20/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=329"
+    },
+    {
+      "doc_id": "366",
+      "reporter": "Brandon K Percival",
+      "date": "2/12/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=366"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:58.298239"
+}

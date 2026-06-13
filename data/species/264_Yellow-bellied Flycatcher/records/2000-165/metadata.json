@@ -1,0 +1,19 @@
+{
+  "acc_no": "2000-165",
+  "year": "2000",
+  "location": "Pueblo",
+  "county": "Pueblo",
+  "observers": "Mark Janos",
+  "comments": "Accepted provisionally at first, but now 1st state record.",
+  "citations": "Colorado Birds 36(2):82-113",
+  "documentations": [
+    {
+      "doc_id": "13318",
+      "reporter": "Mark Janos",
+      "date": "5/28/2000",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13318"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:55.220826"
+}

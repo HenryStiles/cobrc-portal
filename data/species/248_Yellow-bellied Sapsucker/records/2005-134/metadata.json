@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-134",
+  "year": "2005",
+  "location": "Pueblo City Park",
+  "county": "Pueblo",
+  "observers": "Brandon Percival",
+  "comments": "Age: ad; Plumage: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "242",
+      "reporter": "Brandon K Percival",
+      "date": "12/3/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=242"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:09.372382"
+}

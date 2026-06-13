@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-010",
+  "year": "2007",
+  "location": "Canon City",
+  "county": "Fremont",
+  "observers": "Brandon Percival",
+  "comments": "Age: adult; Sex: female;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "658",
+      "reporter": "Brandon K Percival",
+      "date": "2/18/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=658"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:14.794214"
+}

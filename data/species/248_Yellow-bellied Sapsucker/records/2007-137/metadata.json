@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-137",
+  "year": "2007",
+  "location": "Canon City",
+  "county": "Fremont",
+  "observers": "Bill Maynard",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "629",
+      "reporter": "Bill Maynard",
+      "date": "1/3/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=629"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:12.541547"
+}

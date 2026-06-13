@@ -1,0 +1,19 @@
+{
+  "acc_no": "2021-025",
+  "year": "2021",
+  "location": "East County Road 1",
+  "county": "Rio Grande",
+  "observers": "Cary Aloia",
+  "comments": "",
+  "citations": "The 83rd Report of the Colorado Bird Records Committee,  Peter R. Gent, Colorado Birds, 57(2), 61-70, 2023.",
+  "documentations": [
+    {
+      "doc_id": "11951",
+      "reporter": "Cary Aloia",
+      "date": "3/7/2021",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=11951"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:22.228540"
+}

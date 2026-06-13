@@ -1,0 +1,19 @@
+{
+  "acc_no": "1997-021",
+  "year": "1997",
+  "location": "Trinidad",
+  "county": "Las Animas",
+  "observers": "Gail Evans",
+  "comments": "Bird hit by school bus: captured and rehabilitated.",
+  "citations": "Janos, M.  1997 Report of the CBRC.  J. of the CFO 33(4), 241-252.",
+  "documentations": [
+    {
+      "doc_id": "13160",
+      "reporter": "Gail Evans",
+      "date": "9/29/1997",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13160"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:09.962219"
+}

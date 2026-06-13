@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-018",
+  "year": "2016",
+  "location": "Genessee Mountain Park",
+  "county": "Jefferson",
+  "observers": "Kathanne Lynch",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "6399",
+      "reporter": "Kathanne Lynch",
+      "date": "1/27/2016",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6399"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:59.853493"
+}

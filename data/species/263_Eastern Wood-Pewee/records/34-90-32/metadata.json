@@ -1,0 +1,19 @@
+{
+  "acc_no": "34-90-32",
+  "year": "1990",
+  "location": "Jumbo Reservoir State Wildlife Area",
+  "county": "Logan & Sedgwick",
+  "observers": "Mark Janos",
+  "comments": "",
+  "citations": "Nelson, D.  1990 Report of the CBRC. CFO Journal 26(3), 91-97.",
+  "documentations": [
+    {
+      "doc_id": "14269",
+      "reporter": "Mark Janos",
+      "date": "8/18/1990",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14269"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:25.766569"
+}

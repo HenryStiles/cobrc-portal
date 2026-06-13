@@ -1,0 +1,19 @@
+{
+  "acc_no": "2025-044",
+  "year": "2025",
+  "location": "Colorado City and Rye",
+  "county": "Pueblo",
+  "observers": "Sarah Goos",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16152",
+      "reporter": "Sarah Goos",
+      "date": "10/27/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16152"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:34.369534"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2017-052",
+  "year": "2017",
+  "location": "1st Creek @ Denver Open Space",
+  "county": "Denver",
+  "observers": "John Breitsch",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "8594",
+      "reporter": "John Breitsch",
+      "date": "8/25/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8594"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:20.627100"
+}

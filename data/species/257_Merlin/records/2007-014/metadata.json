@@ -1,0 +1,19 @@
+{
+  "acc_no": "2007-014",
+  "year": "2007",
+  "location": "Garden of the Gods",
+  "county": "El Paso",
+  "observers": "Bill Maynard",
+  "comments": "Age: adult; Plumage: alternate;",
+  "citations": "Semo, L.  The 50th Report of the CBRC. Colorado Birds 43(2), 123-135.",
+  "documentations": [
+    {
+      "doc_id": "677",
+      "reporter": "Bill Maynard",
+      "date": "3/25/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=677"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:53.766165"
+}

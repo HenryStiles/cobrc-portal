@@ -1,0 +1,19 @@
+{
+  "acc_no": "2013-083",
+  "year": "2013",
+  "location": "Grand Junction",
+  "county": "Mesa",
+  "observers": "Larry Arnold",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "2370",
+      "reporter": "Larry Arnold",
+      "date": "2/6/2013",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2370"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:15.362461"
+}

@@ -1,0 +1,26 @@
+{
+  "acc_no": "2011-053",
+  "year": "2011",
+  "location": "Fountain Creek Regional Park",
+  "county": "El Paso",
+  "observers": "Bill Maynard, Brandon Percival",
+  "comments": "Age: adult; Sex: m;",
+  "citations": "Faulkner, D. The 62nd Report of the CBRC. Colorado Birds 46(2), 106-120.",
+  "documentations": [
+    {
+      "doc_id": "1649",
+      "reporter": "Bill Maynard",
+      "date": "5/15/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1649"
+    },
+    {
+      "doc_id": "1829",
+      "reporter": "Brandon K Percival",
+      "date": "5/16/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1829"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:15.377241"
+}

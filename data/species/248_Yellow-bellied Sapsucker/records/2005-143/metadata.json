@@ -1,0 +1,19 @@
+{
+  "acc_no": "2005-143",
+  "year": "2005",
+  "location": "Canon City",
+  "county": "Fremont",
+  "observers": "Brandon Percival",
+  "comments": "Age: juv;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "297",
+      "reporter": "Brandon K Percival",
+      "date": "12/18/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=297"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:10.595962"
+}

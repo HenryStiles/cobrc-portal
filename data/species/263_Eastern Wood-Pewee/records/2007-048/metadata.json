@@ -1,0 +1,26 @@
+{
+  "acc_no": "2007-048",
+  "year": "2007",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Bill Maynard",
+  "comments": "Age: adult; Sex: m;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "758",
+      "reporter": "Bill Maynard",
+      "date": "8/13/2007",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=758"
+    },
+    {
+      "doc_id": "759",
+      "reporter": "Bill Maynard",
+      "date": "8/16/2007",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=759"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:39.961084"
+}

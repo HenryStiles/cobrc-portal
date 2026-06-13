@@ -1,0 +1,19 @@
+{
+  "acc_no": "2023-003",
+  "year": "2023",
+  "location": "Fawn Lake Road (Hermosa area), Durango, CO",
+  "county": "La Plata",
+  "observers": "Chris MacDonald",
+  "comments": "",
+  "citations": "Gent, P.  85th Report of the CBRC. Colorado Birds 58(1), 7-14.",
+  "documentations": [
+    {
+      "doc_id": "13103",
+      "reporter": "Chris MacDonald",
+      "date": "1/30/2023",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13103"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:01.753110"
+}

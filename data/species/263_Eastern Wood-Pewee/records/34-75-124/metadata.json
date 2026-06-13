@@ -1,0 +1,19 @@
+{
+  "acc_no": "34-75-124",
+  "year": "1975",
+  "location": "Prewitt Reservoir State Wildlife Area",
+  "county": "Washington",
+  "observers": "Winston Brockner",
+  "comments": "",
+  "citations": "Reddall, J. 1976. CFO Official Records Committee 1975 Report. C.F.O. Journal 27:5-19.",
+  "documentations": [
+    {
+      "doc_id": "14264",
+      "reporter": "Winston Brockner",
+      "date": "7/17/1975",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14264"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:20.132994"
+}

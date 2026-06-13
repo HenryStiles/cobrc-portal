@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-501",
+  "year": "2004",
+  "location": "La Veta",
+  "county": "Huerfano",
+  "observers": "Polly Wren Neldner",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "2787",
+      "reporter": "Polly Wren Neldner",
+      "date": "12/5/2004",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2787"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:36.086004"
+}

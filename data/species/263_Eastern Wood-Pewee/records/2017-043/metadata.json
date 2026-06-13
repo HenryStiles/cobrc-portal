@@ -1,0 +1,19 @@
+{
+  "acc_no": "2017-043",
+  "year": "2017",
+  "location": "Tamarack Ranch State Wildlife Area",
+  "county": "Logan",
+  "observers": "Cheryl Teuton",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "8575",
+      "reporter": "Cheryl Teuton",
+      "date": "6/10/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8575"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:08.191347"
+}

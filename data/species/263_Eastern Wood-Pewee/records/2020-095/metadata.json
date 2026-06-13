@@ -1,0 +1,19 @@
+{
+  "acc_no": "2020-095",
+  "year": "2020",
+  "location": "Flagler Reservoir SWA",
+  "county": "Kit Carson",
+  "observers": "Luke Pheneger",
+  "comments": "",
+  "citations": "Gent, P., 2025. 87th Report of the CBRC.  Colorado Birds, 59(1), 7-15.",
+  "documentations": [
+    {
+      "doc_id": "13742",
+      "reporter": "Luke Pheneger",
+      "date": "9/7/2020",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13742"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:14.793015"
+}

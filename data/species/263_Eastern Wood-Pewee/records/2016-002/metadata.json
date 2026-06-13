@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-002",
+  "year": "2015",
+  "location": "Sandy Bluffs State Trust Land",
+  "county": "Yuma",
+  "observers": "David Dowell",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6381",
+      "reporter": "David Dowell",
+      "date": "9/7/2015",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6381"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:00.838684"
+}

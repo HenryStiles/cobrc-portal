@@ -1,0 +1,19 @@
+{
+  "acc_no": "2011-198",
+  "year": "2011",
+  "location": "Crow Valley Campground",
+  "county": "Weld",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Colorado Birds 49(4):221-238",
+  "documentations": [
+    {
+      "doc_id": "1801",
+      "reporter": "Steven Mlodinow",
+      "date": "10/1/2011",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1801"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:35:05.156894"
+}

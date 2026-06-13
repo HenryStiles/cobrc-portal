@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-074",
+  "year": "2008",
+  "location": "Colorado City and Rye",
+  "county": "Pueblo",
+  "observers": "David Silverman",
+  "comments": "Age: adult; Sex: m;",
+  "citations": "Semo, L.  The 51st Report of the CBRC. Colorado Birds 43(3), 193-204.",
+  "documentations": [
+    {
+      "doc_id": "1007",
+      "reporter": "David Silverman",
+      "date": "5/25/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=1007"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:42.095334"
+}

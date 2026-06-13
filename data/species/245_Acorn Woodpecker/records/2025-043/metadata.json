@@ -1,0 +1,19 @@
+{
+  "acc_no": "2025-043",
+  "year": "2025",
+  "location": "Denver",
+  "county": "Denver",
+  "observers": "Patrick O'Driscoll",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "16151",
+      "reporter": "Patrick O'Driscoll",
+      "date": "10/23/2025",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=16151"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:58.174739"
+}

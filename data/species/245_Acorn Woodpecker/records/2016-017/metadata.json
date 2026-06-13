@@ -1,0 +1,19 @@
+{
+  "acc_no": "2016-017",
+  "year": "2014",
+  "location": "Pueblo Mountain Park",
+  "county": "Pueblo",
+  "observers": "Kathy Mihm Dunning",
+  "comments": "",
+  "citations": "Colorado Birds 53(4):152-163",
+  "documentations": [
+    {
+      "doc_id": "6403",
+      "reporter": "Kathy Mihm Dunning",
+      "date": "7/20/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6403"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:51.279354"
+}

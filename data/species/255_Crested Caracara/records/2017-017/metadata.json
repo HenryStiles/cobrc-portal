@@ -1,0 +1,19 @@
+{
+  "acc_no": "2017-017",
+  "year": "2017",
+  "location": "Greeley",
+  "county": "Weld",
+  "observers": "Shawn Mason",
+  "comments": "",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "8559",
+      "reporter": "Shawn Mason",
+      "date": "4/15/2017",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=8559"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:17.744966"
+}

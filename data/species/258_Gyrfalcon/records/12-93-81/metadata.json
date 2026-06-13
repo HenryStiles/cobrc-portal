@@ -1,0 +1,19 @@
+{
+  "acc_no": "12-93-81",
+  "year": "1993",
+  "location": "11 miles w of New Raymer",
+  "county": "Weld",
+  "observers": "David Bolton",
+  "comments": "",
+  "citations": "Prather, B.  1993 Report of the CBRC. CFO Journal 30(1), 20-30.",
+  "documentations": [
+    {
+      "doc_id": "13375",
+      "reporter": "David Bolton",
+      "date": "3/16/1993",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13375"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:38.348372"
+}

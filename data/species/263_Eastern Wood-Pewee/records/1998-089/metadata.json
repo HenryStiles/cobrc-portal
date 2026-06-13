@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-089",
+  "year": "1998",
+  "location": "Walden Ponds/Sawhill Ponds Complex",
+  "county": "Boulder",
+  "observers": "Bill Tweit, Peter Gent",
+  "comments": "video provided",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "14277",
+      "reporter": "Bill Tweit, Peter Gent",
+      "date": "7/30/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14277"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:34.722688"
+}

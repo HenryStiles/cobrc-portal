@@ -1,0 +1,19 @@
+{
+  "acc_no": "2004-035",
+  "year": "2004",
+  "location": "Aguilar",
+  "county": "Las Animas",
+  "observers": "Susan Gifford",
+  "comments": "",
+  "citations": "Semo, L.  The 41st Report of the CBRC. Colorado Birds 40(1), 26-44.",
+  "documentations": [
+    {
+      "doc_id": "13675",
+      "reporter": "Susan Gifford",
+      "date": "5/16/2004",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13675"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:03.823227"
+}

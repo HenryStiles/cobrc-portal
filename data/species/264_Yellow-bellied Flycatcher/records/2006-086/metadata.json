@@ -1,0 +1,33 @@
+{
+  "acc_no": "2006-086",
+  "year": "2006",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Brian Gibbons, Bill Maynard, Brandon Percival",
+  "comments": "",
+  "citations": "Faulkner, D. The 61st Report of the CBRC. Colorado Birds 46(1), 50-62.",
+  "documentations": [
+    {
+      "doc_id": "424",
+      "reporter": "Bill Maynard",
+      "date": "5/24/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=424"
+    },
+    {
+      "doc_id": "441",
+      "reporter": "Brian Gibbons",
+      "date": "5/24/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=441"
+    },
+    {
+      "doc_id": "579",
+      "reporter": "Brandon K Percival",
+      "date": "5/24/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=579"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:58.673077"
+}

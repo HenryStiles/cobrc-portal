@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-038",
+  "year": "1998",
+  "location": "Hamilton Reservoir",
+  "county": "Larimer",
+  "observers": "Ron Ryder, Stephen Dinsmore, Scott Rashid, Peter Gent",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "13380",
+      "reporter": "Ron Ryder, Stephen Dinsmore, Scott Rashid, Peter Gent",
+      "date": "1/18/1998",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13380"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:44.258706"
+}

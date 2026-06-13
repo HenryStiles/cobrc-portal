@@ -1,0 +1,19 @@
+{
+  "acc_no": "34-92-55",
+  "year": "1992",
+  "location": "Colorado City and Rye",
+  "county": "Pueblo",
+  "observers": "David Silverman",
+  "comments": "",
+  "citations": "Prather, B.  1992 Report of the CBRC. CFO Journal 28(4), 157-168.",
+  "documentations": [
+    {
+      "doc_id": "14271",
+      "reporter": "David Silverman",
+      "date": "7/26/1992",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14271"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:26.891121"
+}

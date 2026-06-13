@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-040",
+  "year": "2014",
+  "location": "Pueblo West",
+  "county": "Pueblo",
+  "observers": "Brandon Percival",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "3848",
+      "reporter": "Brandon Percival",
+      "date": "3/19/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=3848"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:54.903646"
+}

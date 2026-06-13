@@ -1,0 +1,47 @@
+{
+  "acc_no": "2005-069",
+  "year": "2005",
+  "location": "Durango",
+  "county": "La Plata",
+  "observers": "James Beatty, Joey Kellner, Bill Schmoker, Cole Wild, Peter Gent",
+  "comments": "",
+  "citations": "Semo, L.  The 42nd Report of the CBRC. Colorado Birds 40(3), 133-156.",
+  "documentations": [
+    {
+      "doc_id": "205",
+      "reporter": "James Beatty",
+      "date": "6/19/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=205"
+    },
+    {
+      "doc_id": "141",
+      "reporter": "Joey Kellner",
+      "date": "7/12/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=141"
+    },
+    {
+      "doc_id": "156",
+      "reporter": "C W",
+      "date": "7/20/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=156"
+    },
+    {
+      "doc_id": "291",
+      "reporter": "Bill Schmoker",
+      "date": "7/20/2005",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=291"
+    },
+    {
+      "doc_id": "157",
+      "reporter": "Peter Gent",
+      "date": "7/24/2005",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=157"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:33:05.927332"
+}

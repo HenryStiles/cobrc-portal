@@ -1,0 +1,33 @@
+{
+  "acc_no": "2006-155",
+  "year": "2006",
+  "location": "Walden Reservoir",
+  "county": "Jackson",
+  "observers": "Andrew Spencer, Nick Komar",
+  "comments": "Age: juv.; Plumage: basic;",
+  "citations": "Semo, L.  The 51st Report of the CBRC. Colorado Birds 43(3), 193-204.",
+  "documentations": [
+    {
+      "doc_id": "588",
+      "reporter": "Andrew Spencer",
+      "date": "11/5/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=588"
+    },
+    {
+      "doc_id": "590",
+      "reporter": "Nicholas Komar",
+      "date": "11/5/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=590"
+    },
+    {
+      "doc_id": "618",
+      "reporter": "Nicholas Komar",
+      "date": "12/24/2006",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=618"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:47.391701"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "12-94-20",
+  "year": "1994",
+  "location": "Jim Hamm Nature Area",
+  "county": "Boulder",
+  "observers": "Mark Nikas",
+  "comments": "",
+  "citations": "Prather, B.  1994 Report of the CBRC. CFO Journal 31(1), 23-31.",
+  "documentations": [
+    {
+      "doc_id": "14666",
+      "reporter": "Mark Nikas",
+      "date": "2/9/1994",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14666"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:36:39.709525"
+}

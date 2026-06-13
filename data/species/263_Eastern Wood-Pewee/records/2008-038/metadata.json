@@ -1,0 +1,19 @@
+{
+  "acc_no": "2008-038",
+  "year": "2008",
+  "location": "Lamar Community College",
+  "county": "Prowers",
+  "observers": "Andrew Spencer",
+  "comments": "Age: adult; Sex: m;",
+  "citations": "Semo, L.  The 50th Report of the CBRC. Colorado Birds 43(2), 123-135.",
+  "documentations": [
+    {
+      "doc_id": "981",
+      "reporter": "Andrew Spencer",
+      "date": "5/1/2008",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=981"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:41.573015"
+}

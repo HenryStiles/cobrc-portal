@@ -1,0 +1,19 @@
+{
+  "acc_no": "2014-073",
+  "year": "2014",
+  "location": "Stony Pass Road",
+  "county": "Jefferson",
+  "observers": "Joe Roller",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "4020",
+      "reporter": "Joe Roller",
+      "date": "6/8/2014",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4020"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:50.405000"
+}

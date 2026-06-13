@@ -1,0 +1,19 @@
+{
+  "acc_no": "2003-120",
+  "year": "2003",
+  "location": "Chico Basin Ranch",
+  "county": "El Paso",
+  "observers": "Bill Schmoker",
+  "comments": "singing",
+  "citations": "Leukering, T. and Semo, L.  The 39th Report of the CBRC. Colorado Birds 39(3), 131-141.",
+  "documentations": [
+    {
+      "doc_id": "2617",
+      "reporter": "William Schmoker",
+      "date": "8/30/2003",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2617"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:42:36.932200"
+}

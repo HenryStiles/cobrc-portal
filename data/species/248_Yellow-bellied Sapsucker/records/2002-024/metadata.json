@@ -1,0 +1,19 @@
+{
+  "acc_no": "2002-024",
+  "year": "2002",
+  "location": "Pueblo City Park",
+  "county": "Pueblo",
+  "observers": "Ric Olson",
+  "comments": "First found in 2001",
+  "citations": "Leukering, T. and Semo, L.  The 38th Report of the CBRC. Colorado Birds 38(4), 168-183.",
+  "documentations": [
+    {
+      "doc_id": "14537",
+      "reporter": "Ric Olson",
+      "date": "3/2/2002",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=14537"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:04.192079"
+}

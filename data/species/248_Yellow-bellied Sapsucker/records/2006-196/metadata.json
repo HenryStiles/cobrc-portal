@@ -1,0 +1,19 @@
+{
+  "acc_no": "2006-196",
+  "year": "1992",
+  "location": "Fort Collins City Park/Grandview Cemetery",
+  "county": "Larimer",
+  "observers": "David Leatherman",
+  "comments": "",
+  "citations": "CBRC Report #42",
+  "documentations": [
+    {
+      "doc_id": "2633",
+      "reporter": "David Leatherman",
+      "date": "12/24/1992",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2633"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:38:00.582340"
+}

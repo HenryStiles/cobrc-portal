@@ -1,0 +1,19 @@
+{
+  "acc_no": "1998-085",
+  "year": "1995",
+  "location": "Durango",
+  "county": "La Plata",
+  "observers": "Hugh Kingery",
+  "comments": "",
+  "citations": "Colorado Birds 34(3):168-184",
+  "documentations": [
+    {
+      "doc_id": "13197",
+      "reporter": "Hugh Kingery",
+      "date": "6/25/1995",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=13197"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:56.795342"
+}

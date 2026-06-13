@@ -1,0 +1,33 @@
+{
+  "acc_no": "2014-111",
+  "year": "2014",
+  "location": "Spring Creek Trail",
+  "county": "Larimer",
+  "observers": "Chris Knight, Steven Summers, John Shenot",
+  "comments": "",
+  "citations": "Colorado Birds 53(3):100-113",
+  "documentations": [
+    {
+      "doc_id": "4088",
+      "reporter": "Chris Knight",
+      "date": "7/2/2014",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4088"
+    },
+    {
+      "doc_id": "4100",
+      "reporter": "Steven Summers",
+      "date": "7/3/2014",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4100"
+    },
+    {
+      "doc_id": "4092",
+      "reporter": "John Shenot",
+      "date": "7/6/2014",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=4092"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:43:41.192944"
+}

@@ -1,0 +1,19 @@
+{
+  "acc_no": "2015-109",
+  "year": "2015",
+  "location": "Fort Collins",
+  "county": "Larimer",
+  "observers": "Nicholas Komar",
+  "comments": "",
+  "citations": "Colorado Birds 54(3):109-118",
+  "documentations": [
+    {
+      "doc_id": "6342",
+      "reporter": "Nicholas Komar",
+      "date": "10/3/2015",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=6342"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:44:02.588434"
+}

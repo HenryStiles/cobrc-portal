@@ -1,0 +1,26 @@
+{
+  "acc_no": "2006-044",
+  "year": "2006",
+  "location": "Crow Valley Campground",
+  "county": "Weld",
+  "observers": "Rachel Hopper, Larry Semo",
+  "comments": "Age: adult; Plumage: basic; Sex: f;",
+  "citations": "",
+  "documentations": [
+    {
+      "doc_id": "480",
+      "reporter": "Rachel Hopper",
+      "date": "5/1/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=480"
+    },
+    {
+      "doc_id": "801",
+      "reporter": "Larry Semo",
+      "date": "5/6/2006",
+      "has_photos": true,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=801"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:34:58.790158"
+}

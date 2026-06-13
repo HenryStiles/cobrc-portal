@@ -1,0 +1,19 @@
+{
+  "acc_no": "2012-133",
+  "year": "2012",
+  "location": "Flagler",
+  "county": "Kit Carson",
+  "observers": "Steven Mlodinow",
+  "comments": "",
+  "citations": "Faulkner, Doug. October 2013. The 68th Report of the Colorado Bird Records Committee: Colorado Birds 47(4):252-263",
+  "documentations": [
+    {
+      "doc_id": "2111",
+      "reporter": "Steven Mlodinow",
+      "date": "9/27/2012",
+      "has_photos": false,
+      "doc_url": "https://cobrc.org/Reports/PrintDoc.aspx?DocID=2111"
+    }
+  ],
+  "scraped_at": "2026-06-13T14:37:05.430834"
+}
